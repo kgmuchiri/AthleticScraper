@@ -66,10 +66,6 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir):
             if len(cols) < 11:
                 continue
             data.append({
-                "Gender": gender,
-                "Age Category": age_category,
-                "Type": type_slug,
-                "Discipline": discipline_slug,
                 "Rank": cols[0].text.strip(),
                 "Mark": cols[1].text.strip(),
                 "Wind": cols[2].text.strip(),
@@ -79,7 +75,11 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir):
                 "Position": cols[6].text.strip(),
                 "Venue": cols[8].text.strip(),
                 "Date": cols[9].text.strip(),
-                "Result Score": cols[10].text.strip()
+                "Result Score": cols[10].text.strip(),
+                "Type": type_slug,
+                "Discipline": discipline_slug,
+                "Gender": gender,
+                "Age Category": age_category
             })
 
         page += 1
@@ -93,7 +93,7 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir):
         pd.DataFrame(data).to_csv(filepath, index=False)
         print(f"✅ Saved {filepath}")
 
-# Run Scrape ------------------------------------------------------------------------------------
+# Run Scrape ----------------------------------------------------------------------------------
 
 for (gender, age_category), discipline_list in discipline_mappings.items():
     output_dir = os.path.join("output", gender)
