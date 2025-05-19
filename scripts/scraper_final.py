@@ -8,15 +8,20 @@ import threading
 from urllib3.exceptions import InsecureRequestWarning
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib3
+from datetime import date
+
 
 # Setup ------------------------------------
 
 # Disable SSL warnings
 urllib3.disable_warnings(InsecureRequestWarning)
-lock = threading.Lock()  # for safe logging and printing
+lock = threading.Lock()
+
+today = str(date.today())
+print(today)   # '2017-12-26'
 
 # Load discipline/type mappings from JSON
-with open("options.json", "r") as f:
+with open("../options.json", "r") as f:
     options_data = json.load(f)
 
 discipline_mappings = {}
@@ -33,7 +38,7 @@ for entry in options_data:
 # Base URL
 BASE_URL = (
     "https://worldathletics.org/records/all-time-toplists/{type_slug}/{discipline_slug}/all/{gender}/{age_category}"
-    "?regionType=world&page={page}&bestResultsOnly=false&firstDay=1900-01-01&lastDay=2025-05-13&maxResultsByCountry=all&ageCategory={age_category}"
+    "?regionType=world&page={page}&bestResultsOnly=false&firstDay=1900-01-01&lastDay={today}&maxResultsByCountry=all&ageCategory={age_category}"
 )
 
 # Scraper Function -------------------
@@ -119,7 +124,7 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, m
 def get_scrape_jobs():
     jobs = []
     for (gender, age_category), discipline_list in discipline_mappings.items():
-        output_dir = os.path.join("output", gender)
+        output_dir = os.path.join("../output", gender)
         for discipline_slug, type_slug in discipline_list:
             jobs.append((gender, age_category, discipline_slug, type_slug, output_dir))
     return jobs
