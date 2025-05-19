@@ -40,7 +40,7 @@ This dataset contains structured performance records from international athletic
 | `Position`            | The athlete's position in the heat/final (if different from rank).          |
 | `Venue`               | Full name of the event venue.                                               |
 | `Date`                | Date of the event (`YYYY-MM-DD`).                                           |
-| `Result Score`        | (Optional) Scoring index from the event, if available.                      |
+| `Result Score`        | Scoring index from the event, if available. Created by WAA, max of 1400                   |
 | `Discipline`          | Original discipline string, including implement or hurdle specs (e.g., `110m-hurdles-990cm`). |
 | `Type`                | General classification of the event (e.g., `sprints`, `hurdles`, `throws`). |
 | `Gender`              | Athlete's gender (`male` or `female`).                                      |
