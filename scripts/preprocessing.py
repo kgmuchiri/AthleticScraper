@@ -1,9 +1,9 @@
 import os
 import re
 import pandas as pd
-from collections import defaultdicts
-root_dir = "../output"
-output_dir = "../combined"
+from collections import defaultdict
+root_dir = "output"
+output_dir = "combined"
 os.makedirs(output_dir, exist_ok=True)
 
 

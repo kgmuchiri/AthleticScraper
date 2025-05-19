@@ -54,8 +54,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 53,2:12:31,,Sándor URBANIK,1964-12-15,HUN,,Sesto San Giovanni (ITA),1994-05-01,1111,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7951.0,ITA,29.0,1994
 54,2:12:32,,Marco GIUNGI,1974-10-30,ITA,2,Livorno (ITA),2003-02-23,1111,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7952.0,ITA,28.0,2003
 55,2:12:33,,Guanyu SU,1994-06-24,CHN,1,Taicang (CHN),2012-03-31,1111,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7953.0,CHN,17.0,2012
-56,2:12:36,,Jesús Ángel GARCÍA,1969-10-17,ESP,4,Badalona (ESP),2003-01-19,1110,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7956.0,ESP,33.0,2003
 56,2:12:36,,Zhendong WANG,1991-01-11,CHN,2,Beijing (CHN),2010-09-19,1110,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7956.0,CHN,19.0,2010
+56,2:12:36,,Jesús Ángel GARCÍA,1969-10-17,ESP,4,Badalona (ESP),2003-01-19,1110,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7956.0,ESP,33.0,2003
 58,2:12:38,,Maksym KOVALENKO,1989-01-09,UKR,2,Yevpatoriya (UKR),2010-03-13,1110,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7958.0,UKR,21.0,2010
 58,2:12:38,,Yingchao GAO,1998-01-18,CHN,1,Huangshan (CHN),2017-03-05,1110,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7958.0,CHN,19.0,2017
 60,2:12:41,,Qi ZHAO,1993-01-14,CHN,1,Erdos (CHN),2012-09-15,1110,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7961.0,CHN,19.0,2012
@@ -80,8 +80,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 79,2:13:50,,Jinhong CHA,1997-05-27,CHN,1,Beijing (CHN),2015-03-21,1096,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8030.0,CHN,17.0,2015
 80,2:13:51,,Jared TALLENT,1984-10-17,AUS,2,Hobart (AUS),2006-08-27,1096,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8031.0,AUS,21.0,2006
 81,2:13:53,,Andriy YURIN,1984-01-20,UKR,1,Mukachevo (UKR),2003-10-18,1095,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8033.0,UKR,19.0,2003
-82,2:13:54,,Mario AVELLANEDA,1974-11-12,ESP,5,Badalona (ESP),2003-01-19,1095,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8034.0,ESP,28.0,2003
 82,2:13:54,,Diego CAFAGNA,1975-07-09,ITA,4,Livorno (ITA),2003-02-23,1095,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8034.0,ITA,27.0,2003
+82,2:13:54,,Mario AVELLANEDA,1974-11-12,ESP,5,Badalona (ESP),2003-01-19,1095,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8034.0,ESP,28.0,2003
 84,2:14:02,,Érick Bernabé BARRONDO,1991-06-14,GUA,,Dublin (IRL),2018-12-07,1093,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8042.0,IRL,27.0,2018
 85,2:14:07,,Rongjin ZHANG,1996-04-24,CHN,1,Changbaishan (CHN),2015-09-07,1092,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8047.0,CHN,19.0,2015
 86,2:14:11,,Brendan BOYCE,1986-10-08,IRL,1,Dublin (IRL),2018-12-07,1092,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8051.0,IRL,32.0,2018
@@ -109,6 +109,6 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 108,2:14:54,,Dedong YANG,1996-11-23,CHN,2,Changbaishan (CHN),2015-09-07,1083,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8094.0,CHN,18.0,2015
 109,2:14:55,,João VIEIRA,1976-02-20,POR,1,Cucujaes (POR),2007-02-04,1083,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8095.0,POR,30.0,2007
 110,2:14:56,,Yafei CHU,1988-05-09,CHN,8,Xi'an (CHN),2006-10-23,1083,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8096.0,CHN,18.0,2006
-111,2:14:58,,Oleksandr ROMANENKO,1981-06-26,UKR,4,Yevpatoriya (UKR),2007-03-16,1082,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8098.0,UKR,25.0,2007
 111,2:14:58,,Jorge RUIZ,1989-05-17,COL,1,"Valley Cottage, NY (USA)",2014-09-14,1082,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8098.0,USA,25.0,2014
+111,2:14:58,,Oleksandr ROMANENKO,1981-06-26,UKR,4,Yevpatoriya (UKR),2007-03-16,1082,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8098.0,UKR,25.0,2007
 113,2:15:00,,Chris ERICKSON,1981-12-01,AUS,3,Hobart (AUS),2006-08-27,1082,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8100.0,AUS,24.0,2006

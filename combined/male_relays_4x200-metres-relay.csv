@@ -45,8 +45,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 44,1:20.66,,France,,FRA,3,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1194,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.66,BAH,,2014
 45,1:20.67,,Texas A&M,,INT,1h,"Philadelphia, PA (USA)",2014-04-25,1193,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.67,USA,,2014
 46,1:20.69,,Pure Athletics,,USA,1f1,"Gainesville, FL (USA)",2014-04-05,1193,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.69,USA,,2014
-47,1:20.72,,Gainesville All-Stars,,INT,1,"Gainesville, FL (USA)",2002-03-29,1191,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.72,USA,,2002
 47,1:20.72,,Texas A&M,,INT,2f1,"Philadelphia, PA (USA)",2011-04-30,1191,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.72,USA,,2011
+47,1:20.72,,Gainesville All-Stars,,INT,1,"Gainesville, FL (USA)",2002-03-29,1191,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.72,USA,,2002
 49,1:20.74,,Altis,,USA,1,"Torrance, CA (USA)",2017-04-15,1191,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.74,USA,,2017
 49,1:20.74,,Arkansas,,INT,1,"Baton Rouge, LA (USA)",2017-04-29,1191,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.74,USA,,2017
 51,1:20.75,,Texas A&M,,INT,1f1,"Philadelphia, PA (USA)",2013-04-27,1190,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.75,USA,,2013
@@ -57,8 +57,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 56,1:20.79,,Central Arizona,,JAM,1,"Walnut, CA (USA)",1988-04-24,1189,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.78999999999999,USA,,1988
 56,1:20.79,,Star Athletics,,USA,2f1,"Gainesville, FL (USA)",2016-04-02,1189,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.78999999999999,USA,,2016
 56,1:20.79,,Pure Athletics,,INT,1,"Gainesville, FL (USA)",2018-03-31,1189,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.78999999999999,USA,,2018
-59,1:20.80,,Star Athletics,,USA,2f1,"Gainesville, FL (USA)",2017-04-01,1188,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.8,USA,,2017
 59,1:20.80,,Texas,,USA,1f2,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1188,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.8,USA,,2022
+59,1:20.80,,Star Athletics,,USA,2f1,"Gainesville, FL (USA)",2017-04-01,1188,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.8,USA,,2017
 61,1:20.81,,Sprint Capital,,USA,1f1,"Raleigh, NC (USA)",2000-04-01,1188,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.81,USA,,2000
 62,1:20.82,,Louisiana State,,INT,1f2,"Austin, TX (USA)",2017-04-01,1188,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.82,USA,,2017
 63,1:20.83,,Shandong,,CHN,1,Xi'an (CHN),2021-09-23,1187,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.83,CHN,,2021
@@ -68,9 +68,9 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 67,1:20.88,,PURE Athletics B,,INT,3f1,"Gainesville, FL (USA)",2019-03-30,1185,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.88,USA,,2019
 68,1:20.90,,Tennessee,,INT,1,"Knoxville, TN (USA)",2001-04-14,1185,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.9,USA,,2001
 69,1:20.92,,Star Athletics,,INT,1f1,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1184,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.92,USA,,2022
-70,1:20.94,,Florida,,USA,1,"Philadelphia, PA (USA)",2005-04-30,1183,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.94,USA,,2005
-70,1:20.94,,United States,,USA,1,"Philadelphia, PA (USA)",2016-04-30,1183,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.94,USA,,2016
 70,1:20.94,,Houston,,INT,1f2,"Austin, TX (USA)",2019-03-30,1183,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.94,USA,,2019
+70,1:20.94,,United States,,USA,1,"Philadelphia, PA (USA)",2016-04-30,1183,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.94,USA,,2016
+70,1:20.94,,Florida,,USA,1,"Philadelphia, PA (USA)",2005-04-30,1183,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.94,USA,,2005
 73,1:20.95,,Fujian,,CHN,1,Fuzhou (CHN),2022-10-22,1183,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.95,CHN,,2022
 74,1:20.97,,UTech,,INT,1f1,"Philadelphia, PA (USA)",2015-04-25,1182,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.97,USA,,2015
 74,1:20.97,,Jamaica,,JAM,1,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1182,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,80.97,BAH,,2015
@@ -103,9 +103,9 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 102,1:21.26,,Germany,,GER,3f1,"International Stadium, Yokohama (JPN)",2019-05-12,1171,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.26,JPN,,2019
 103,1:21.29,,England,,GBR,1,Birmingham (GBR),1989-06-23,1170,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.28999999999999,GBR,,1989
 104,1:21.30,,France,,FRA,,Talence (FRA),1987-09-27,1170,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.3,FRA,,1987
-105,1:21.31,,Louisiana State,,INT,1f1,"Philadelphia, PA (USA)",2006-04-29,1169,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.31,USA,,2006
 105,1:21.31,,Star Athletics,,INT,1,"PVAMU Track Stadium, Prairie View, TX (USA)",2021-03-27,1169,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.31,USA,,2021
 105,1:21.31,,Jiangsu,,CHN,4,Xi'an (CHN),2021-09-23,1169,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.31,CHN,,2021
+105,1:21.31,,Louisiana State,,INT,1f1,"Philadelphia, PA (USA)",2006-04-29,1169,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.31,USA,,2006
 108,1:21.32,,Ukraine,,UKR,1,Portsmouth (GBR),1993-06-05,1169,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.32,GBR,,1993
 109,1:21.33,,Sichuan,,CHN,1,"Shangyu Stadium, Shaoxing (CHN)",2023-09-17,1169,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.33,CHN,,2023
 110,1:21.34,,GW Exp,,USA,2f1,"Gainesville, FL (USA)",2011-04-02,1168,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.34,USA,,2011
@@ -123,25 +123,25 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 121,1:21.45,,France,,FRA,2h1,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1164,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.45,BAH,,2014
 121,1:21.45,,Jamaica,,JAM,2,"Philadelphia, PA (USA)",2015-04-25,1164,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.45,USA,,2015
 124,1:21.46,,Germany,,GER,3h1,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1164,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.46000000000001,BAH,,2015
-125,1:21.47,,LSU,,INT,2f2,"Austin, TX (USA)",2019-03-30,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,USA,,2019
-125,1:21.47,,United States,,USA,1h2,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,BAH,,2017
-125,1:21.47,,Louisiana State,,INT,3f1,"Philadelphia, PA (USA)",2014-04-26,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,USA,,2014
 125,1:21.47,,Baylor,,INT,1f2,"Des Moines, IA (USA)",2011-04-29,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,USA,,2011
+125,1:21.47,,Louisiana State,,INT,3f1,"Philadelphia, PA (USA)",2014-04-26,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,USA,,2014
+125,1:21.47,,United States,,USA,1h2,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,BAH,,2017
+125,1:21.47,,LSU,,INT,2f2,"Austin, TX (USA)",2019-03-30,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.47,USA,,2019
 129,1:21.48,,Louisiana State,,INT,2f2,"Austin, TX (USA)",2018-03-31,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.48,USA,,2018
 130,1:21.49,,UTSA,,INT,3f2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-04-01,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.49,USA,,2023
-130,1:21.49,,Mississippi State,,INT,1f1,"Philadelphia, PA (USA)",2010-04-24,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.49,USA,,2010
 130,1:21.49,,France,,FRA,2,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.49,BAH,,2015
+130,1:21.49,,Mississippi State,,INT,1f1,"Philadelphia, PA (USA)",2010-04-24,1163,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.49,USA,,2010
 133,1:21.50,,TCU,,INT,1h1,"Philadelphia, PA (USA)",2002-04-26,1162,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.5,USA,,2002
 134,1:21.51,,St. Augustine's,,INT,2f1,"Philadelphia, PA (USA)",2013-04-27,1162,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.51,USA,,2013
-135,1:21.52,,Florida,,USA,2,"Philadelphia, PA (USA)",2009-04-25,1162,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.52,USA,,2009
 135,1:21.52,,Tennessee,,USA,1h3,"Philadelphia, PA (USA)",2008-04-25,1162,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.52,USA,,2008
-137,1:21.53,,Florida,,USA,2f1,"Philadelphia, PA (USA)",2010-04-24,1161,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.53,USA,,2010
+135,1:21.52,,Florida,,USA,2,"Philadelphia, PA (USA)",2009-04-25,1162,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.52,USA,,2009
 137,1:21.53,,South Carolina,,USA,1f1,"Knoxville, TN (USA)",2000-04-15,1161,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.53,USA,,2000
+137,1:21.53,,Florida,,USA,2f1,"Philadelphia, PA (USA)",2010-04-24,1161,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.53,USA,,2010
 139,1:21.54,,Fujian,,CHN,1h2,Xi'an (CHN),2021-09-21,1161,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.53999999999999,CHN,,2021
 140,1:21.55,,GC Foster College,,JAM,2,"Philadelphia, PA (USA)",2017-04-29,1160,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.55,USA,,2017
 140,1:21.55,,Houston,,INT,1f2,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1160,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.55,USA,,2024
-142,1:21.57,,Florida,,USA,2f1,"Knoxville, TN (USA)",2000-04-15,1160,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.57,USA,,2000
 142,1:21.57,,Zenith Velocity AC,,INT,1f1,"Gainesville, FL (USA)",2012-04-07,1160,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.57,USA,,2012
+142,1:21.57,,Florida,,USA,2f1,"Knoxville, TN (USA)",2000-04-15,1160,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.57,USA,,2000
 144,1:21.58,,Mississippi State,,INT,1,"Philadelphia, PA (USA)",2002-04-26,1159,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.58,USA,,2002
 145,1:21.60,,South Carolina,,INT,3,"Philadelphia, PA (USA)",2009-04-25,1159,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.6,USA,,2009
 146,1:21.61,,UTech,,INT,1h3,"Philadelphia, PA (USA)",2014-04-25,1158,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.61,USA,,2014
@@ -156,87 +156,87 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 155,1:21.66,,Shandong,,CHN,1h1,Chongqing (CHN),2021-06-25,1156,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.66,CHN,,2021
 156,1:21.68,,Florida,,USA,1f1,"Gainesville, FL (USA)",2009-04-03,1156,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.68,USA,,2009
 157,1:21.69,,Fujian,,CHN,3,"Shangyu Stadium, Shaoxing (CHN)",2023-09-17,1155,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.69,CHN,,2023
-158,1:21.70,,PR of China,,CHN,3h2,"International Stadium, Yokohama (JPN)",2019-05-12,1155,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.7,JPN,,2019
 158,1:21.70,,Austin All-Stars,,INT,1f1,"Austin, TX (USA)",2000-04-08,1155,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.7,USA,,2000
+158,1:21.70,,PR of China,,CHN,3h2,"International Stadium, Yokohama (JPN)",2019-05-12,1155,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.7,JPN,,2019
 160,1:21.71,,UTech,,JAM,1f1,"Philadelphia, PA (USA)",2012-04-28,1154,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.71000000000001,USA,,2012
 161,1:21.72,,Baylor,,USA,2f2,"Austin, TX (USA)",2012-03-31,1154,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.72,USA,,2012
-162,1:21.73,,Florida State,,INT,1,"Philadelphia, PA (USA)",2007-04-28,1154,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.73,USA,,2007
 162,1:21.73,,Hungary,,HUN,,Paris (FRA),1982-07-09,1154,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.73,FRA,,1982
+162,1:21.73,,Florida State,,INT,1,"Philadelphia, PA (USA)",2007-04-28,1154,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.73,USA,,2007
 164,1:21.74,,Sichuan,,CHN,1h1,Xi'an (CHN),2021-09-21,1153,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.74,CHN,,2021
 165,1:21.75,,Tennessee,,USA,1f1,"Knoxville, TN (USA)",2005-04-15,1153,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.75,USA,,2005
 166,1:21.76,,Texas A&M,,INT,1h2,"Philadelphia, PA (USA)",2013-04-26,1153,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.76,USA,,2013
-167,1:21.81,,UTSA,,INT,2f2,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1151,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.81,USA,,2024
 167,1:21.81,,Louisiana State,,INT,1h2,"Philadelphia, PA (USA)",2011-04-29,1151,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.81,USA,,2011
+167,1:21.81,,UTSA,,INT,2f2,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1151,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.81,USA,,2024
 167,1:21.81,,East Texas A&M,,INT,1f1,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1151,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.81,USA,,2025
-170,1:21.82,,Guangdong,,CHN,2h2,Xi'an (CHN),2021-09-21,1150,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.82,CHN,,2021
 170,1:21.82,,Canada,,CAN,1f2,"Gainesville, FL (USA)",2012-04-07,1150,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.82,USA,,2012
+170,1:21.82,,Guangdong,,CHN,2h2,Xi'an (CHN),2021-09-21,1150,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.82,CHN,,2021
 170,1:21.82,,Waseda University,,JPN,1,"Keio Univ. Hiyoshi Athletics Field, Yokohama (JPN)",2023-08-13,1150,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.82,JPN,,2023
 173,1:21.85,,Germany,,GER,2,"Olympiastadion, Berlin (GER)",2001-08-31,1149,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.85,GER,,2001
-174,1:21.87,,South Carolina,,USA,1f3,"Gainesville, FL (USA)",2019-03-30,1149,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.87,USA,,2019
 174,1:21.87,,Mid. Tennessee State,,INT,2,"Philadelphia, PA (USA)",2001-04-28,1149,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.87,USA,,2001
 174,1:21.87,,Pure Athletics,,INT,4f1,"Gainesville, FL (USA)",2017-04-01,1149,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.87,USA,,2017
-177,1:21.88,,Total Sports,,INT,1,"Lawrence, KS (USA)",2008-04-19,1148,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.88,USA,,2008
-177,1:21.88,,Barbados,,BAR,4,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1148,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.88,BAH,,2014
+174,1:21.87,,South Carolina,,USA,1f3,"Gainesville, FL (USA)",2019-03-30,1149,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.87,USA,,2019
 177,1:21.88,,Barbados,,BAR,2h2,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1148,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.88,BAH,,2014
+177,1:21.88,,Barbados,,BAR,4,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1148,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.88,BAH,,2014
+177,1:21.88,,Total Sports,,INT,1,"Lawrence, KS (USA)",2008-04-19,1148,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.88,USA,,2008
 180,1:21.90,,Louisiana State,,INT,1h4,"Philadelphia, PA (USA)",2014-04-25,1147,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.9,USA,,2014
 181,1:21.91,,St. Augustine's,,INT,4f1,"Philadelphia, PA (USA)",2014-04-26,1147,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.91,USA,,2014
 181,1:21.91,,GC Foster College,,JAM,1h3,"Philadelphia, PA (USA)",2017-04-28,1147,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.91,USA,,2017
 183,1:21.92,,Zenith Velocity AC,,INT,2f1,"Gainesville, FL (USA)",2015-04-04,1147,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.92,USA,,2015
 184,1:21.93,,South Carolina,,INT,3f1,"Gainesville, FL (USA)",2016-04-02,1146,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.93,USA,,2016
 185,1:21.95,,Houston,,USA,1f1,"Austin, TX (USA)",2006-04-08,1146,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.95,USA,,2006
-186,1:21.97,,Baylor,,USA,3f2,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1145,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.97,USA,,2022
-186,1:21.97,,Fujian,,CHN,1f2,"Shangyu Stadium, Shaoxing (CHN)",2021-06-13,1145,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.97,CHN,,2021
 186,1:21.97,,Saint Kitts and Nevis,,SKN,3h1,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1145,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.97,BAH,,2014
-189,1:21.98,,Arkansas,,INT,3f2,"Austin, TX (USA)",2016-04-02,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.98,USA,,2016
+186,1:21.97,,Fujian,,CHN,1f2,"Shangyu Stadium, Shaoxing (CHN)",2021-06-13,1145,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.97,CHN,,2021
+186,1:21.97,,Baylor,,USA,3f2,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1145,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.97,USA,,2022
 189,1:21.98,,Shandong,,CHN,1,Chongqing (CHN),2021-06-25,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.98,CHN,,2021
 189,1:21.98,,Hobson's Choice,,INT,2f1,"Lawrence, KS (USA)",2008-04-19,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.98,USA,,2008
-192,1:21.99,,Star Athletics B,,INT,2,"PVAMU Track Stadium, Prairie View, TX (USA)",2021-03-27,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.99,USA,,2021
+189,1:21.98,,Arkansas,,INT,3f2,"Austin, TX (USA)",2016-04-02,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.98,USA,,2016
 192,1:21.99,,Arkansas,,USA,1,"Fayetteville, AR (USA)",2017-03-25,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.99,USA,,2017
-194,1:22.00,,Arkansas,,INT,3f2,"Austin, TX (USA)",2018-03-31,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.0,USA,,2018
+192,1:21.99,,Star Athletics B,,INT,2,"PVAMU Track Stadium, Prairie View, TX (USA)",2021-03-27,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,81.99,USA,,2021
 194,1:22.00,,Florida,,USA,3f1,"Philadelphia, PA (USA)",2011-04-30,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.0,USA,,2011
-196,1:22.01,,Jamaica,,JAM,2h1,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.01,BAH,,2017
+194,1:22.00,,Arkansas,,INT,3f2,"Austin, TX (USA)",2018-03-31,1144,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.0,USA,,2018
 196,1:22.01,,Baylor,,USA,1f3,"Des Moines, IA (USA)",2009-04-24,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.01,USA,,2009
+196,1:22.01,,Jamaica,,JAM,2h1,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.01,BAH,,2017
 196,1:22.01,,South Carolina,,INT,3,"Philadelphia, PA (USA)",2017-04-29,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.01,USA,,2017
 196,1:22.01,,Sichuan D,,CHN,1,"Sichuan Xipu Training Base, Chengdu (CHN)",2020-07-24,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.01,CHN,,2020
 200,1:22.02,,Baylor,,USA,1f2,"Austin, TX (USA)",2008-04-05,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.02,USA,,2008
-201,1:22.03,,Team U.S.A.,,USA,3f1,"Lawrence, KS (USA)",2008-04-19,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.03,USA,,2008
 201,1:22.03,,Texas A&M,,INT,1h4,"Philadelphia, PA (USA)",2009-04-24,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.03,USA,,2009
+201,1:22.03,,Team U.S.A.,,USA,3f1,"Lawrence, KS (USA)",2008-04-19,1143,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.03,USA,,2008
 203,1:22.04,,Texas A&M,,INT,1h3,"Philadelphia, PA (USA)",2011-04-29,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.03999999999999,USA,,2011
 203,1:22.04,,Houston,,INT,1,"Philadelphia, PA (USA)",2019-04-26,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.03999999999999,USA,,2019
 205,1:22.05,,Hurdle Mechanic,,USA,3f1,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.05,USA,,2022
+206,1:22.06,,Maryland Elite Athletic Club,,INT,2f1,"Raleigh, NC (USA)",2000-04-01,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,USA,,2000
+206,1:22.06,,South Africa,,RSA,1,Port Elizabeth (RSA),2002-03-01,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,RSA,,2002
+206,1:22.06,,Florida,,USA,1f1,"Gainesville, FL (USA)",2008-04-04,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,USA,,2008
 206,1:22.06,,Texas A&M,,INT,1f2,"Austin, TX (USA)",2009-04-04,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,USA,,2009
 206,1:22.06,,Cuba,,CUB,1,La Habana (CUB),2014-02-15,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,CUB,,2014
-206,1:22.06,,Maryland Elite Athletic Club,,INT,2f1,"Raleigh, NC (USA)",2000-04-01,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,USA,,2000
-206,1:22.06,,Florida,,USA,1f1,"Gainesville, FL (USA)",2008-04-04,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,USA,,2008
-206,1:22.06,,South Africa,,RSA,1,Port Elizabeth (RSA),2002-03-01,1142,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.06,RSA,,2002
 211,1:22.07,,Jiangsu,,CHN,2,Chongqing (CHN),2021-06-25,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.07,CHN,,2021
 211,1:22.07,,Sichuan,,CHN,2,Fuzhou (CHN),2022-10-22,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.07,CHN,,2022
-213,1:22.08,,Zenith Velocity AC,,INT,2f1,"Gainesville, FL (USA)",2014-04-05,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,USA,,2014
 213,1:22.08,,South Florida,,INT,1f4,"Franklin Field, Philadelphia, PA (USA)",2024-04-26,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,USA,,2024
 213,1:22.08,,Nigeria,,NGR,4h2,"International Stadium, Yokohama (JPN)",2019-05-12,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,JPN,,2019
-213,1:22.08,,Florida,,USA,1f1,"Gainesville, FL (USA)",2005-03-25,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,USA,,2005
 213,1:22.08,,South Africa,,RSA,,Port Elizabeth (RSA),2002-03-01,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,RSA,,2002
+213,1:22.08,,Florida,,USA,1f1,"Gainesville, FL (USA)",2005-03-25,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,USA,,2005
+213,1:22.08,,Zenith Velocity AC,,INT,2f1,"Gainesville, FL (USA)",2014-04-05,1141,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.08,USA,,2014
 218,1:22.09,,Florida State,,INT,1,"Tallahassee, FL (USA)",2008-03-28,1140,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.09,USA,,2008
 219,1:22.11,,Great Britain & NI,,GBR,1,Glasgow (GBR) (i),1991-03-03,1195,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.11,GBR,,1991
-220,1:22.12,,Arkansas,,USA,1,"Fayetteville, AR (USA)",2018-04-28,1139,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.12,USA,,2018
 220,1:22.12,,Waseda University,,JPN,1,Yokohama (JPN),2014-09-14,1139,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.12,JPN,,2014
+220,1:22.12,,Arkansas,,USA,1,"Fayetteville, AR (USA)",2018-04-28,1139,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.12,USA,,2018
 222,1:22.13,,Reebok Enclave,,USA,2f2,"Philadelphia, PA (USA)",2000-04-29,1139,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.13,USA,,2000
 223,1:22.14,,South Plains,,INT,1f2,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1139,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.14,USA,,2025
 224,1:22.15,,Canada,,CAN,2,"Philadelphia, PA (USA)",2004-04-24,1138,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.15,USA,,2004
 225,1:22.16,,Star Athletics,,INT,1,"Prairie View, TX (USA)",2021-04-03,1138,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.16,USA,,2021
 225,1:22.16,,RED,,USA,1,"Prairie View, TX (USA)",2018-03-24,1138,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.16,USA,,2018
-227,1:22.17,,USC,,INT,1f2,"Gainesville, FL (USA)",2014-04-05,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.17,USA,,2014
 227,1:22.17,,Jamaica,,JAM,1,"Philadelphia, PA (USA)",2002-04-27,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.17,USA,,2002
 227,1:22.17,,Zenith Velocity AC,,INT,1f1,"Gainesville, FL (USA)",2013-04-06,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.17,USA,,2013
-230,1:22.18,,Beijing,,CHN,4,"Shangyu Stadium, Shaoxing (CHN)",2023-09-17,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.18,CHN,,2023
+227,1:22.17,,USC,,INT,1f2,"Gainesville, FL (USA)",2014-04-05,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.17,USA,,2014
 230,1:22.18,,Bahamas,,BAH,4h1,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.18,BAH,,2014
+230,1:22.18,,Beijing,,CHN,4,"Shangyu Stadium, Shaoxing (CHN)",2023-09-17,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.18,CHN,,2023
 232,1:22.19,,Fujian,,CHN,1,Fuzhou (CHN),2021-05-23,1137,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.19,CHN,,2021
 233,1:22.20,,Jiangsu,,CHN,1,Chengdu (CHN),2021-05-16,1136,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.2,CHN,,2021
 234,1:22.21,,South Carolina,,INT,3f1,"Philadelphia, PA (USA)",2010-04-24,1136,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.21000000000001,USA,,2010
 235,1:22.22,,Star Athletics,,INT,2f1,"Gainesville, FL (USA)",2013-04-06,1136,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.22,USA,,2013
+236,1:22.23,,Texas A&M,,USA,2f4,"Franklin Field, Philadelphia, PA (USA)",2025-04-25,1135,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.23,USA,,2025
 236,1:22.23,,USATF High Performance C,,USA,1f2,"Gainesville, FL (USA)",2019-03-30,1135,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.23,USA,,2019
 236,1:22.23,,St. Augustine's,,INT,2f2,"Gainesville, FL (USA)",2014-04-05,1135,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.23,USA,,2014
-236,1:22.23,,Texas A&M,,USA,2f4,"Franklin Field, Philadelphia, PA (USA)",2025-04-25,1135,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.23,USA,,2025
 239,1:22.25,,Duncanville High School,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",2024-05-05,1135,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.25,USA,,2024
 240,1:22.26,,Elite Athetes international,,INT,3f1,"Gainesville, FL (USA)",2015-04-04,1134,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.26,USA,,2015
 241,1:22.28,,GW Exp,,USA,1f1,"Raleigh, NC (USA)",2012-03-31,1133,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.28,USA,,2012
@@ -251,34 +251,34 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 250,1:22.34,,Shandong,,CHN,2f2,"Shangyu Stadium, Shaoxing (CHN)",2021-06-13,1131,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.34,CHN,,2021
 251,1:22.35,,St. Augustine's,,INT,4,"Philadelphia, PA (USA)",2009-04-25,1131,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.35,USA,,2009
 251,1:22.35,,Kenya,,KEN,5,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1131,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.35,BAH,,2014
-253,1:22.36,,Saint Kitts and Nevis,,SKN,2h2,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.36,BAH,,2015
 253,1:22.36,,Tennessee,,USA,1h2,"Philadelphia, PA (USA)",2007-04-27,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.36,USA,,2007
-255,1:22.37,,Sichuan,,CHN,1f1,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.37,CHN,,2024
+253,1:22.36,,Saint Kitts and Nevis,,SKN,2h2,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.36,BAH,,2015
 255,1:22.37,,Fujian,,CHN,1h2,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.37,CHN,,2023
-257,1:22.38,,South Carolina,,INT,1,"Philadelphia, PA (USA)",2016-04-30,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.38,USA,,2016
+255,1:22.37,,Sichuan,,CHN,1f1,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.37,CHN,,2024
 257,1:22.38,,Poland,,POL,3h2,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.38,BAH,,2015
+257,1:22.38,,South Carolina,,INT,1,"Philadelphia, PA (USA)",2016-04-30,1130,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.38,USA,,2016
 259,1:22.39,,Beijing,,CHN,1f3,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.39,CHN,,2024
 259,1:22.39,,Florida,,USA,1h2,"Philadelphia, PA (USA)",2010-04-23,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.39,USA,,2010
-261,1:22.40,,Shandong,,CHN,3h2,Xi'an (CHN),2021-09-21,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.4,CHN,,2021
 261,1:22.40,,South Carolina,,INT,3,"Philadelphia, PA (USA)",2001-04-28,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.4,USA,,2001
 261,1:22.40,,Bahamas,,BAH,2h1,"International Stadium, Yokohama (JPN)",2019-05-12,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.4,JPN,,2019
-264,1:22.41,,Houston University,,USA,3f4,"Franklin Field, Philadelphia, PA (USA)",2025-04-25,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.41,USA,,2025
+261,1:22.40,,Shandong,,CHN,3h2,Xi'an (CHN),2021-09-21,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.4,CHN,,2021
 264,1:22.41,,Japan,,JPN,1,Tokorozawa (JPN),2013-09-22,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.41,JPN,,2013
+264,1:22.41,,Houston University,,USA,3f4,"Franklin Field, Philadelphia, PA (USA)",2025-04-25,1129,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.41,USA,,2025
 266,1:22.42,,Sparta Praha,,TCH,1,Praha (TCH),1988-05-28,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.42,TCH,,1988
 266,1:22.42,,St. Augustine's,,INT,3f1,"Gainesville, FL (USA)",2013-04-06,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.42,USA,,2013
 266,1:22.42,,Houston University,,INT,2f4,"Franklin Field, Philadelphia, PA (USA)",2024-04-26,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.42,USA,,2024
 269,1:22.43,,Phanos,,NED,2,"Sportcomplex Nenijto, Rotterdam (NED)",2021-09-04,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.43,NED,,2021
-269,1:22.43,,Mississippi State,,INT,5,"Philadelphia, PA (USA)",2009-04-25,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.43,USA,,2009
 269,1:22.43,,Germany,,GER,1f1,"Stadion Śląski, Chorzów (POL)",2021-05-02,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.43,POL,,2021
+269,1:22.43,,Mississippi State,,INT,5,"Philadelphia, PA (USA)",2009-04-25,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.43,USA,,2009
+272,1:22.44,,UTEP,,INT,1,"Des Moines, IA (USA)",2001-04-27,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.44,USA,,2001
 272,1:22.44,,Louisiana State,,INT,3f2,"Austin, TX (USA)",2012-03-31,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.44,USA,,2012
 272,1:22.44,,GC Foster College C,,JAM,4f4,"Franklin Field, Philadelphia, PA (USA)",2025-04-25,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.44,USA,,2025
-272,1:22.44,,UTEP,,INT,1,"Des Moines, IA (USA)",2001-04-27,1128,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.44,USA,,2001
-275,1:22.45,,Mississippi State,,INT,1,"Starkville, MS (USA)",2018-03-23,1127,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.45,USA,,2018
 275,1:22.45,,Mississippi State,,INT,1,"Mississippi State, MS (USA)",2018-03-23,1127,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.45,USA,,2018
+275,1:22.45,,Mississippi State,,INT,1,"Starkville, MS (USA)",2018-03-23,1127,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.45,USA,,2018
 277,1:22.47,,Sichuan,,CHN,2h2,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1126,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.47,CHN,,2023
+278,1:22.48,,Unattached,,INT,1,"Starkville, MS (USA)",2011-04-01,1126,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.48,USA,,2011
 278,1:22.48,,South Carolina,,INT,1f2,"Gainesville, FL (USA)",2017-04-01,1126,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.48,USA,,2017
 278,1:22.48,,Liaoning,,CHN,6,Xi'an (CHN),2021-09-23,1126,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.48,CHN,,2021
-278,1:22.48,,Unattached,,INT,1,"Starkville, MS (USA)",2011-04-01,1126,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.48,USA,,2011
 281,1:22.50,,Georgia,,USA,1f3,"Des Moines, IA (USA)",2014-04-25,1125,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.5,USA,,2014
 281,1:22.50,,Florida,,USA,2h2,"Philadelphia, PA (USA)",2011-04-29,1125,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.5,USA,,2011
 283,1:22.51,,Chuo University,,JPN,2,Itami (JPN),2014-10-05,1125,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.51,JPN,,2014
@@ -290,29 +290,29 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 288,1:22.56,,Kenya,,KEN,3h1,"International Stadium, Yokohama (JPN)",2019-05-12,1123,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.56,JPN,,2019
 290,1:22.57,,Florida,,INT,2f1,"Gainesville, FL (USA)",2004-03-26,1123,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.57,USA,,2004
 290,1:22.57,,UNA - Nike G.W.,,INT,1f1,"Raleigh, NC (USA)",2005-03-26,1123,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.57,USA,,2005
-290,1:22.57,,Mississippi State,,INT,1f3,"Gainesville, FL (USA)",2016-04-02,1123,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.57,USA,,2016
 290,1:22.57,,Star Athletics,,USA,3f1,"Gainesville, FL (USA)",2014-04-05,1123,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.57,USA,,2014
+290,1:22.57,,Mississippi State,,INT,1f3,"Gainesville, FL (USA)",2016-04-02,1123,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.57,USA,,2016
 294,1:22.58,,United States Red,,USA,2,"Prairie View, TX (USA)",2019-03-23,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.58,USA,,2019
 294,1:22.58,,Mississippi State,,USA,1h1,"Philadelphia, PA (USA)",2011-04-29,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.58,USA,,2011
 296,1:22.59,,Sichuan,,CHN,1,"Universiade Center, Shenzhen (CHN)",2021-02-06,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.59,CHN,,2021
-297,1:22.60,,Canada B,,CAN,5f1,"Gainesville, FL (USA)",2017-04-01,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2017
-297,1:22.60,,Arizona Speedsters,,INT,2,"Austin, TX (USA)",2017-04-01,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2017
-297,1:22.60,,Louisiana State,,INT,1f2,"Austin, TX (USA)",2015-03-28,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2015
 297,1:22.60,,World Express AC,,INT,2f1,"Gainesville, FL (USA)",2010-04-03,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2010
+297,1:22.60,,Louisiana State,,INT,1f2,"Austin, TX (USA)",2015-03-28,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2015
+297,1:22.60,,Arizona Speedsters,,INT,2,"Austin, TX (USA)",2017-04-01,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2017
+297,1:22.60,,Canada B,,CAN,5f1,"Gainesville, FL (USA)",2017-04-01,1122,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.6,USA,,2017
 301,1:22.61,,UTech,,JAM,1h2,"Philadelphia, PA (USA)",2012-04-27,1121,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.61,USA,,2012
 302,1:22.62,,Nebraska,,INT,2f1,"Des Moines, IA (USA)",2007-04-27,1121,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.62,USA,,2007
 303,1:22.63,,Arkansas,,INT,2h3,"Philadelphia, PA (USA)",2011-04-29,1121,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.63,USA,,2011
 304,1:22.65,,Germany,,GER,3,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.65,BAH,,2015
-305,1:22.66,,United States,,USA,4f2,"Austin, TX (USA)",2018-03-31,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.66,USA,,2018
 305,1:22.66,,Arkansas,,INT,1f3,"Des Moines, IA (USA)",2015-04-24,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.66,USA,,2015
-305,1:22.66,,Pittsburgh,,USA,5f1,"Philadelphia, PA (USA)",2014-04-26,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.66,USA,,2014
+305,1:22.66,,United States,,USA,4f2,"Austin, TX (USA)",2018-03-31,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.66,USA,,2018
 305,1:22.66,,Thailand,,THA,3,"Philadelphia, PA (USA)",2000-04-29,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.66,USA,,2000
+305,1:22.66,,Pittsburgh,,USA,5f1,"Philadelphia, PA (USA)",2014-04-26,1120,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.66,USA,,2014
 309,1:22.67,,Japan,,JPN,5f1,"International Stadium, Yokohama (JPN)",2019-05-12,1119,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.67,JPN,,2019
 309,1:22.67,,Hubei,,CHN,2h1,Chongqing (CHN),2021-06-25,1119,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.67,CHN,,2021
 311,1:22.68,,South Carolina State,,USA,1f1,"Orangeburg, SC (USA)",2013-03-23,1119,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.68,USA,,2013
 311,1:22.68,,Guangdong,,CHN,5,"Shangyu Stadium, Shaoxing (CHN)",2023-09-17,1119,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.68,CHN,,2023
-313,1:22.69,,United States B,,USA,5f2,"Austin, TX (USA)",2018-03-31,1118,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.69,USA,,2018
 313,1:22.69,,South Carolina,,INT,3f1,"Gainesville, FL (USA)",2010-04-03,1118,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.69,USA,,2010
+313,1:22.69,,United States B,,USA,5f2,"Austin, TX (USA)",2018-03-31,1118,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.69,USA,,2018
 315,1:22.70,,Canada,,CAN,1f4,"Baton Rouge, LA (USA)",2012-03-24,1118,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.7,USA,,2012
 316,1:22.71,,United States,,USA,2,Glasgow (GBR) (i),1991-03-03,1172,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.71000000000001,GBR,,1991
 317,1:22.72,,Oregon,,USA,2f2,"Gainesville, FL (USA)",2017-04-01,1117,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.72,USA,,2017
@@ -320,59 +320,59 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 319,1:22.73,,USA White,,USA,3,"Philadelphia, PA (USA)",2004-04-24,1117,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.73,USA,,2004
 320,1:22.74,,World Express AC,,INT,2f1,"Gainesville, FL (USA)",2012-04-07,1117,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.74,USA,,2012
 321,1:22.76,,South Carolina,,USA,3f1,"Gainesville, FL (USA)",2012-04-07,1116,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.76,USA,,2012
-322,1:22.77,,South Carolina,,INT,1h1,"Philadelphia, PA (USA)",2017-04-28,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.77,USA,,2017
 322,1:22.77,,Waseda University,,JPN,1,Tokorozawa (JPN),2015-09-20,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.77,JPN,,2015
+322,1:22.77,,South Carolina,,INT,1h1,"Philadelphia, PA (USA)",2017-04-28,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.77,USA,,2017
 324,1:22.78,,UTech,,INT,1h1,"Philadelphia, PA (USA)",2015-04-24,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.78,USA,,2015
-325,1:22.79,,Hebei,,CHN,2f3,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.78999999999999,CHN,,2024
-325,1:22.79,,Guangdong,,CHN,1h1,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.78999999999999,CHN,,2023
 325,1:22.79,,Trinidad and Tobago,,TTO,3h1,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.78999999999999,BAH,,2017
-328,1:22.80,,South Carolina,,INT,1f2,"Gainesville, FL (USA)",2015-04-04,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.8,USA,,2015
+325,1:22.79,,Guangdong,,CHN,1h1,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.78999999999999,CHN,,2023
+325,1:22.79,,Hebei,,CHN,2f3,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1115,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.78999999999999,CHN,,2024
 328,1:22.80,,Florida,,USA,1h2,"Philadelphia, PA (USA)",2008-04-25,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.8,USA,,2008
-330,1:22.81,,Henan,,CHN,4h2,Xi'an (CHN),2021-09-21,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,CHN,,2021
+328,1:22.80,,South Carolina,,INT,1f2,"Gainesville, FL (USA)",2015-04-04,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.8,USA,,2015
 330,1:22.81,,Henan,,CHN,7,Xi'an (CHN),2021-09-23,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,CHN,,2021
-330,1:22.81,,PR of China,,CHN,6f1,"International Stadium, Yokohama (JPN)",2019-05-12,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,JPN,,2019
-330,1:22.81,,Kentucky,,INT,6,"Philadelphia, PA (USA)",2009-04-25,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,USA,,2009
+330,1:22.81,,Henan,,CHN,4h2,Xi'an (CHN),2021-09-21,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,CHN,,2021
 330,1:22.81,,Mid. Tennessee State,,INT,2,"Philadelphia, PA (USA)",2007-04-28,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,USA,,2007
+330,1:22.81,,Kentucky,,INT,6,"Philadelphia, PA (USA)",2009-04-25,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,USA,,2009
+330,1:22.81,,PR of China,,CHN,6f1,"International Stadium, Yokohama (JPN)",2019-05-12,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.81,JPN,,2019
 335,1:22.82,,Jiangsu,,CHN,1f1,Shenyang (CHN),2019-07-09,1114,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.82,CHN,,2019
 336,1:22.83,,South Carolina,,USA,1f3,"Gainesville, FL (USA)",2011-04-02,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.83,USA,,2011
-336,1:22.83,,Sichuan,,CHN,2f1,"Shangyu Stadium, Shaoxing (CHN)",2021-06-13,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.83,CHN,,2021
 336,1:22.83,,Guangdong,,CHN,1f2,Shenyang (CHN),2019-07-09,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.83,CHN,,2019
+336,1:22.83,,Sichuan,,CHN,2f1,"Shangyu Stadium, Shaoxing (CHN)",2021-06-13,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.83,CHN,,2021
+339,1:22.85,,Poland,,POL,4,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.85,BAH,,2015
+339,1:22.85,,Beijing,,CHN,3h2,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.85,CHN,,2023
 339,1:22.85,,South Carolina,,USA,4f1,"Philadelphia, PA (USA)",2011-04-30,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.85,USA,,2011
 339,1:22.85,,Texas A&M,,INT,2f1,"Philadelphia, PA (USA)",2012-04-28,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.85,USA,,2012
-339,1:22.85,,Beijing,,CHN,3h2,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.85,CHN,,2023
-339,1:22.85,,Poland,,POL,4,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1113,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.85,BAH,,2015
 343,1:22.86,,Barbados,,BAR,4h2,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1112,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.86,BAH,,2015
 343,1:22.86,,Bahamas,,BAH,1h3,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1112,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.86,BAH,,2015
-345,1:22.87,,Louisiana State,,INT,3f2,"Austin, TX (USA)",2014-03-29,1112,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.87,USA,,2014
 345,1:22.87,,UTEP,,INT,1f3,"Des Moines, IA (USA)",2004-04-23,1112,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.87,USA,,2004
+345,1:22.87,,Louisiana State,,INT,3f2,"Austin, TX (USA)",2014-03-29,1112,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.87,USA,,2014
 347,1:22.88,,Tennessee,,USA,1f1,"Knoxville, TN (USA)",2007-04-13,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.88,USA,,2007
 348,1:22.89,,Great Britain & NI,,GBR,1,Glasgow (GBR) (i),1990-02-23,1165,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.89,GBR,,1990
 348,1:22.89,,Fujian,,CHN,1,Taizhou (CHN),2023-05-27,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.89,CHN,,2023
+350,1:22.90,,Purdue,,USA,1f4,"Drake Stadium, Des Moines, IA (USA)",2023-04-28,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,USA,,2023
+350,1:22.90,,Purdue,,INT,1f4,"Gainesville, FL (USA)",2019-03-30,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,USA,,2019
 350,1:22.90,,Guangdong,,CHN,3f3,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,CHN,,2024
 350,1:22.90,,Mississippi State,,INT,1f1,"Tuscaloosa, AL (USA)",2002-03-24,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,USA,,2002
 350,1:22.90,,St. Augustine's,,INT,1f1,"Raleigh, NC (USA)",2013-03-30,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,USA,,2013
-350,1:22.90,,Purdue,,INT,1f4,"Gainesville, FL (USA)",2019-03-30,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,USA,,2019
-350,1:22.90,,Purdue,,USA,1f4,"Drake Stadium, Des Moines, IA (USA)",2023-04-28,1111,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.9,USA,,2023
+355,1:22.91,,Florida State,,INT,1f1,"Lake Buena Vista, FL (USA)",2007-03-24,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.91,USA,,2007
+355,1:22.91,,Bahamas,,BAH,5,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.91,BAH,,2015
 355,1:22.91,,PR of China,,CHN,5,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.91,BAH,,2017
 355,1:22.91,,Fujian,,CHN,3h1,Chongqing (CHN),2021-06-25,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.91,CHN,,2021
-355,1:22.91,,Bahamas,,BAH,5,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.91,BAH,,2015
-355,1:22.91,,Florida State,,INT,1f1,"Lake Buena Vista, FL (USA)",2007-03-24,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.91,USA,,2007
-359,1:22.92,,Chuo University,,JPN,1,Itami (JPN),2016-10-16,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.92,JPN,,2016
 359,1:22.92,,Saint Kitts and Nevis,,SKN,6,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.92,BAH,,2015
 359,1:22.92,,Tennessee,,USA,1f2,"Gainesville, FL (USA)",2016-04-02,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.92,USA,,2016
+359,1:22.92,,Chuo University,,JPN,1,Itami (JPN),2016-10-16,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.92,JPN,,2016
 362,1:22.93,,Auburn,,INT,4f2,"Austin, TX (USA)",2014-03-29,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.93,USA,,2014
 362,1:22.93,,SLA Team,,SRI,1,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",2024-03-18,1110,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.93,SRI,,2024
 364,1:22.94,,Japan,,JPN,,Kobe (JPN),2000-07-02,1109,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.94,JPN,,2000
 365,1:22.95,,Mississippi State,,INT,1f1,"Austin, TX (USA)",2004-04-02,1109,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.95,USA,,2004
-366,1:22.96,,Liaoning,,CHN,4h2,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1109,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.96000000000001,CHN,,2023
 366,1:22.96,,Fujian,,CHN,3,Chongqing (CHN),2021-06-25,1109,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.96000000000001,CHN,,2021
+366,1:22.96,,Liaoning,,CHN,4h2,"Shangyu Stadium, Shaoxing (CHN)",2023-09-15,1109,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.96000000000001,CHN,,2023
 366,1:22.96,,AV Lyra-Lierse (AVLL),,BEL,1f1,"Putbosstadion, Oordegem (BEL)",2024-09-15,1109,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.96000000000001,BEL,,2024
-369,1:22.97,,Waseda University,,JPN,1,Nishinomiya (JPN),2010-06-27,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.97,JPN,,2010
-369,1:22.97,,UMES,,INT,5f1,"Philadelphia, PA (USA)",2010-04-24,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.97,USA,,2010
 369,1:22.97,,Mississippi State,,INT,1h3,"Philadelphia, PA (USA)",2010-04-23,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.97,USA,,2010
+369,1:22.97,,UMES,,INT,5f1,"Philadelphia, PA (USA)",2010-04-24,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.97,USA,,2010
+369,1:22.97,,Waseda University,,JPN,1,Nishinomiya (JPN),2010-06-27,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.97,JPN,,2010
 372,1:22.98,,UTech,,JAM,1h2,"Philadelphia, PA (USA)",2006-04-28,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.98,USA,,2006
-372,1:22.98,,Jiangsu,,CHN,1f2,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.98,CHN,,2024
 372,1:22.98,,Baylor,,USA,2f2,"Austin, TX (USA)",2009-04-04,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.98,USA,,2009
+372,1:22.98,,Jiangsu,,CHN,1f2,"Shangyu Stadium, Shaoxing (CHN)",2024-09-21,1108,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.98,CHN,,2024
 375,1:22.99,,St. Augustine's,,INT,1h4,"Philadelphia, PA (USA)",2013-04-26,1107,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,82.99,USA,,2013
 376,1:23.00,,Florida State,,INT,1h6,"Philadelphia, PA (USA)",2007-04-27,1107,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,83.0,USA,,2007
 376,1:23.00,,L.I.U. Brooklyn,,INT,3,"Philadelphia, PA (USA)",2016-04-30,1107,4x200-metres-relay,relays,male,senior,4x200-metres-relay,track,83.0,USA,,2016

@@ -2,8 +2,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 1,1:26:52.3h,,Olimpiada IVANOVA,1970-08-29,RUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1193,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5212.3,AUS,31.0,2001
 2,1:27:49.3h,,Yelena NIKOLAYEVA,1966-02-01,RUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1176,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5269.3,AUS,35.0,2001
 3,1:29:07.5h,,Mary Luz ANDIA,2000-11-09,PER,1,"COTP Stadium, São Paulo (BRA)",2023-07-29,1153,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5347.5,BRA,22.0,2023
-4,1:29:32.4h,,Hongjuan SONG,1984-07-04,CHN,1,Changsha (CHN),2003-10-23,1145,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5372.4,CHN,19.0,2003
 1,1:29:32.4h,,Hongjuan SONG,1984-07-04,CHN,1,Changsha (CHN),2003-10-23,1145,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5372.4,CHN,19.0,2003
+4,1:29:32.4h,,Hongjuan SONG,1984-07-04,CHN,1,Changsha (CHN),2003-10-23,1145,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5372.4,CHN,19.0,2003
 5,1:29:36.4h,,Susana FEITOR,1975-01-28,POR,1,Lisboa (POR),2001-07-21,1144,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5376.4,POR,26.0,2001
 6,1:30:38.3h,,Viviane LYRA,1993-07-29,BRA,1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1126,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5438.3,BRA,30.0,2024
 7,1:30:48.3h,,Rossella GIORDANO,1972-12-01,ITA,1,Almada (POR),2000-08-04,1123,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5448.3,POR,27.0,2000
@@ -55,8 +55,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 52,1:33:58.1h,,Sofia AVOILA,1976-07-30,POR,2,Lisboa (POR),2001-07-21,1069,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5638.1,POR,24.0,2001
 53,1:34:04.4h,,Sandra Viviana GALVIS,1986-06-28,COL,2,Santiago de Chile (CHI),2014-03-13,1067,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5644.4,CHI,27.0,2014
 54,1:34:11.95,,Snezhana YURCHENKO,1984-08-01,BLR,2,Brest (BLR),2006-07-08,1065,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5651.95,BLR,21.0,2006
-55,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
 3,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
+55,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
 56,1:34:17.0h,,Olga SURANOVA,1986-12-07,RUS,2,Khanty-Mansiysk (RUS),2006-07-28,1063,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5657.0,RUS,19.0,2006
 57,1:34:21.56,,Xue Hui WANG,1990-02-14,CHN,8,Wuhan (CHN),2007-11-01,1062,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5661.56,CHN,17.0,2007
 4,1:34:21.56,,Xue Hui WANG,1990-02-14,CHN,8,Wuhan (CHN),2007-11-01,1062,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5661.56,CHN,17.0,2007
@@ -87,8 +87,8 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 81,1:35:23.7h,,Kristina SALTANOVIČ,1975-02-20,LTU,1,Kaunas (LTU),2000-08-03,1045,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5723.7,LTU,25.0,2000
 82,1:35:26.52,,Mary Luz ANDIA,2000-11-09,PER,2,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1044,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5726.52,COL,21.0,2021
 83,1:35:27.73,,Mary Luz ANDIA,2000-11-09,PER,2,Guayaquil (ECU),2021-10-17,1044,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5727.73,ECU,20.0,2021
-84,1:35:29.6h,,Mayra Karen QUISPE,2000-07-28,BOL,5,"COTP Stadium, São Paulo (BRA)",2023-07-29,1043,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,23.0,2023
 84,1:35:29.6h,,Erica SENA,1985-05-03,BRA,1,São Paulo (BRA),2011-08-05,1043,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,26.0,2011
+84,1:35:29.6h,,Mayra Karen QUISPE,2000-07-28,BOL,5,"COTP Stadium, São Paulo (BRA)",2023-07-29,1043,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,23.0,2023
 86,1:35:29.76,,Viviane LYRA,1993-07-29,BRA,2,Bragança Paulista (BRA),2021-04-25,1043,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.76,BRA,27.0,2021
 87,1:35:33.0h,,Anabelly ORJUELA,1988-07-24,COL,5,Lima (PER),2019-05-25,1042,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5733.0,PER,30.0,2019
 88,1:35:33.4h,,Alessandra PICAGEVICZ,1984-02-20,BRA,1,Itajaí (BRA),2004-05-15,1042,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5733.4,BRA,20.0,2004
@@ -150,12 +150,12 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 141,1:37:00.15,,PRIYANKA,1996-03-10,IND,2,Pune (IND),2019-08-22,1018,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.15,IND,23.0,2019
 142,1:37:00.2h,,Hana BURZALOVÁ,2000-11-03,SVK,2,"Tréningový štadión VŠC DUKLA, Banská Bystrica (SVK)",2023-10-14,1018,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.2,SVK,22.0,2023
 143,1:37:00.82,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2024-06-23,1018,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.82,CRC,24.0,2024
-144,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
 9,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
+144,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
 145,1:37:04.0h,,Nadia Lizeth GONZALEZ MANJARREZ,1997-03-21,MEX,1,Toluca (MEX),2018-04-24,1017,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5824.0,MEX,21.0,2018
 146,1:37:08.0h,,Florida MINIYANOVA,1992-07-01,KAZ,1,Shimkent (KAZ),2015-03-28,1016,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5828.0,KAZ,22.0,2015
-147,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.65,PER,19.0,2017
 10,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5832.65,PER,19.0,2017
+147,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.65,PER,19.0,2017
 148,1:37:12.84,,Teresa VAILL,1962-11-20,USA,1,"Eugene, OR (USA)",2009-06-28,1014,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.84,USA,46.0,2009
 149,1:37:13.2h,,Claire WOODS,1981-07-06,AUS,2,Melbourne (AUS),2002-08-04,1014,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5833.2,AUS,21.0,2002
 150,1:37:13.93,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2023-05-07,1014,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5833.93,CRC,23.0,2023

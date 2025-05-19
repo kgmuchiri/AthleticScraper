@@ -3,8 +3,8 @@ import pandas as pd
 import os
 
 
-df = pd.read_csv('../all_disciplines_combined.csv')
-df2 = pd.read_csv('../all_disciplines_combined.csv')
+df = pd.read_csv('datasets/all_disciplines_combined.csv')
+df2 = pd.read_csv('datasets/all_disciplines_combined.csv')
 
 df=df.drop("source_file",axis=1)
 df2=df2.drop("source_file",axis=1)
@@ -14,8 +14,8 @@ df2=df2.drop("age_at_event",axis=1)
 df = df[df["Type"] != "relays"]
 df2 = df2[df2["Type"] == "relays"]
 
-df.to_csv("../datasets/individual_events.csv", index=False)
-df2.to_csv("../datasets/relay_events.csv", index=False)
+df.to_csv("datasets/individual_events.csv", index=False)
+df2.to_csv("datasets/relay_events.csv", index=False)
 
 
 # Make sure output directory exists

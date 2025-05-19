@@ -18,10 +18,11 @@ urllib3.disable_warnings(InsecureRequestWarning)
 lock = threading.Lock()
 
 today = str(date.today())
-print(today)   # '2017-12-26'
+print(today)
+
 
 # Load discipline/type mappings from JSON
-with open("../options.json", "r") as f:
+with open("options.json", "r") as f:
     options_data = json.load(f)
 
 discipline_mappings = {}
@@ -43,9 +44,10 @@ BASE_URL = (
 
 # Scraper Function -------------------
 
-def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, max_retries=5):
+def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, today, max_retries=5):
     page = 1
     data = []
+    today = str(date.today())
 
     while True:
         url = BASE_URL.format(
@@ -53,7 +55,8 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, m
             discipline_slug=discipline_slug,
             gender=gender,
             age_category=age_category,
-            page=page
+            page=page,
+            today=today
         )
 
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -124,9 +127,9 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, m
 def get_scrape_jobs():
     jobs = []
     for (gender, age_category), discipline_list in discipline_mappings.items():
-        output_dir = os.path.join("../output", gender)
+        output_dir = os.path.join("output", gender)
         for discipline_slug, type_slug in discipline_list:
-            jobs.append((gender, age_category, discipline_slug, type_slug, output_dir))
+            jobs.append((gender, age_category, discipline_slug, type_slug, output_dir,today))
     return jobs
 
 def run_multithreaded_scrape(max_workers=10):
