@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,7.52,1.4,Galina CHISTYAKOVA,1962-07-26,URS,1,Leningrad (URS),1988-06-11,1333,long-jump,jumps,female,senior,long-jump,field,7.52,URS,25.0,1988
 2,7.49,1.7,Jackie JOYNER-KERSEE,1962-03-03,USA,1,Sestriere (ITA),1994-07-31,1327,long-jump,jumps,female,senior,long-jump,field,7.49,ITA,32.0,1994
 2,7.49,1.3,Jackie JOYNER-KERSEE,1962-03-03,USA,1,"New York, NY (USA)",1994-05-22,1327,long-jump,jumps,female,senior,long-jump,field,7.49,USA,32.0,1994

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12.71,+0.8,Kerrica HILL,06 MAR 2005,JAM,1,"National Stadium, Kingston (JAM)",09 APR 2022,,100m-hurdles-762cm,hurdles,female,u18
 2,12.86,+2.0,Laura FRLIČKOVÁ,15 JAN 2007,SVK,1h5,Banská Bystrica (SVK),18 JUL 2024,,100m-hurdles-762cm,hurdles,female,u18
 3,12.89,+1.5,Ackera NUGENT,29 APR 2002,JAM,1,Kingston (JAM),02 FEB 2019,,100m-hurdles-762cm,hurdles,female,u18

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,21:05,,Xizhen YANG,11 MAR 2006,CHN,1,Taicang (CHN),08 APR 2023,1141,5-kilometres-race-walk,race-walks,female,u18
 2,21:06,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,5,Saransk (RUS),10 JUN 2006,1139,5-kilometres-race-walk,race-walks,female,u18
 3,21:10,,Tatyana KALMYKOVA,10 JAN 1990,RUS,1,Cheboksary (RUS),16 JUN 2007,1135,5-kilometres-race-walk,race-walks,female,u18

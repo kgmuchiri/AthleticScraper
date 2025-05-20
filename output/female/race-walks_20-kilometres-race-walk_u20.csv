@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:25:29,,Glenda MOREJÓN,30 MAY 2000,ECU,1,La Coruña (ESP),08 JUN 2019,1218,20-kilometres-race-walk,race-walks,female,u20
 2,1:25:30,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,2,"Adler, Sochi (RUS)",23 FEB 2008,1217,20-kilometres-race-walk,race-walks,female,u20
 3,1:26:36,,Tatyana KALMYKOVA,10 JAN 1990,RUS,1,Saransk (RUS),08 JUN 2008,1197,20-kilometres-race-walk,race-walks,female,u20

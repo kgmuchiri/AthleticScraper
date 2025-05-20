@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,87.82,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,hammer-throw-5kg,throws,male,u18
 2,87.16,,Bence HALÁSZ,04 AUG 1997,HUN,1,Baku (AZE),31 MAY 2014,,hammer-throw-5kg,throws,male,u18
 3,86.78,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Viimsi (EST),20 MAY 2018,,hammer-throw-5kg,throws,male,u18

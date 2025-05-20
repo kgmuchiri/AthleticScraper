@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,40:59.93,,Elvira CHEPAREVA,2000-01-10,RUS,1,"Kalininets Stadium, Yekaterinburg (RUS)",2024-08-15,1231,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2459.93,RUS,24.0,2024
 2,41:11.48,,Reykhan KAGRAMANOVA,1997-06-01,RUS,2,"Kalininets Stadium, Yekaterinburg (RUS)",2024-08-15,1223,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2471.48,RUS,27.0,2024
 3,41:22.5h,,Elvira CHEPAREVA,2000-01-10,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1217,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2482.5,RUS,23.0,2023

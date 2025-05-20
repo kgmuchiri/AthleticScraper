@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,8002,,Niklas KAUL,11 FEB 1998,GER,1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,decathlon-boys,combined-events,male,u18
 2,7864,,Cedric DUBLER,13 JAN 1995,AUS,1f,Townsville (AUS),30 SEP 2012,,decathlon-boys,combined-events,male,u18
 3,7824,,Amadeus GRÄBER,03 FEB 2005,GER,1,"Leichtathletikstadion Robert-Koch-Straße, Halle (GER)",27 AUG 2022,,decathlon-boys,combined-events,male,u18

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,10.75,+1.6,Sha'Carri RICHARDSON,25 MAR 2000,USA,1,"Austin, TX (USA)",08 JUN 2019,1255,100-metres,sprints,female,u20
 2,10.83,+0.6,Tamari DAVIS,15 FEB 2003,USA,2,"Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",30 JUL 2022,1237,100-metres,sprints,female,u20
 3,10.87,+0.1,Tamari DAVIS,15 FEB 2003,USA,1h3,"Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",30 JUL 2022,1228,100-metres,sprints,female,u20

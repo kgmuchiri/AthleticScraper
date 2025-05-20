@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.92,,Irina PRIVALOVA,22 NOV 1968,RUS,1,Madrid (ESP) (i),11 FEB 1993,1248,60-metres,sprints,female,senior
 1,6.92,,Irina PRIVALOVA,22 NOV 1968,RUS,1,Madrid (ESP) (i),09 FEB 1995,1248,60-metres,sprints,female,senior
 3,6.93,,Irina PRIVALOVA,22 NOV 1968,RUS,1,Liévin (FRA) (i),13 FEB 1994,1244,60-metres,sprints,female,senior

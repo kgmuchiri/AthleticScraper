@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,73.43,,Silja KOSONEN,16 DEC 2002,FIN,1,"Kaarlen kenttä, Vaasa (FIN)",28 JUN 2021,1149,hammer-throw,throws,female,u20
 2,73.24,,Wenxiu ZHANG,22 MAR 1986,CHN,1,Changsha (CHN),24 JUN 2005,1146,hammer-throw,throws,female,u20
 3,72.44,,Silja KOSONEN,16 DEC 2002,FIN,1,"Nikulan raviradan heittopaikka, Kaustinen (FIN)",06 MAR 2021,1133,hammer-throw,throws,female,u20

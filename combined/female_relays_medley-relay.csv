@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2:03.42,,Jamaica U18,,JAM,1,Lille (FRA),2011-07-10,,medley-relay,relays,female,u18,medley-relay,track,123.42,FRA,,2011
 2,2:03.83,,United States U18,,USA,1,Debrecen (HUN),2001-07-15,,medley-relay,relays,female,u18,medley-relay,track,123.83,HUN,,2001
 3,2:03.87,,United States U18,,USA,1f1,Sherbrooke (CAN),2003-07-13,,medley-relay,relays,female,u18,medley-relay,track,123.87,CAN,,2003

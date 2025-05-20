@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,78.16,,Nova KIENAST,24 JUL 2007,GER,1,"Mesa Community College, Mesa, AZ (USA)",13 DEC 2024,,hammer-throw-3kg,throws,female,u18
 2,76.04,,Réka GYURÁTZ,31 MAY 1996,HUN,1,Zalaegerszeg (HUN),23 JUN 2013,,hammer-throw-3kg,throws,female,u18
 3,75.80,,Valeriya IVANENKO,16 AUG 2001,UKR,1,Lutsk (UKR),22 SEP 2018,,hammer-throw-3kg,throws,female,u18

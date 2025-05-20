@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,7.14,+1.1,Heike DAUTE,16 DEC 1964,GDR,1,Bratislava (TCH),04 JUN 1983,1249,long-jump,jumps,female,u20
 2,7.08,+1.0,Heike DAUTE,16 DEC 1964,GDR,1,Leipzig (GER),27 JUL 1983,1236,long-jump,jumps,female,u20
 3,7.03,+1.3,Darya KLISHINA,15 JAN 1991,RUS,1,"Meteor, Zhukovskiy (RUS)",26 JUN 2010,1224,long-jump,jumps,female,u20

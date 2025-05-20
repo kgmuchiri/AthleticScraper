@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:18.63,,Jamaica,,JAM,1,"T. Robinson Stadium, Nassau (BAH)",24 MAY 2014,1272,4x200-metres-relay,relays,male,senior
 2,1:18.68,,Santa Monica Track Club,,USA,1,"Walnut, CA (USA)",17 APR 1994,1270,4x200-metres-relay,relays,male,senior
 3,1:19.10,,World All-Stars,,INT,2,"Walnut, CA (USA)",17 APR 1994,1253,4x200-metres-relay,relays,male,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2:20:43,,Massimo STANO,27 FEB 1992,ITA,1,"Lázeňský Park, Poděbrady (CZE)",18 MAY 2025,1265,35-kilometres-race-walk,race-walks,male,senior
 2,2:21:31,,Vladimir KANAYKIN,21 MAR 1985,RUS,1,"Adler, Sochi (RUS)",19 FEB 2006,1257,35-kilometres-race-walk,race-walks,male,senior
 3,2:21:40,,Evan DUNFEE,28 SEP 1990,CAN,1,Dudince (SVK),22 MAR 2025,1255,35-kilometres-race-walk,race-walks,male,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,28:46,,Agnes Jebet NGETICH,2001-01-23,KEN,1,Valencia (ESP),2024-01-14,1317,10-kilometres,road-running,female,senior,10-kilometres,track,1726.0,ESP,22.0,2024
 2,28:57,,Emmaculate Anyango ACHOL,2000-04-02,KEN,2,Valencia (ESP),2024-01-14,1306,10-kilometres,road-running,female,senior,10-kilometres,track,1737.0,ESP,23.0,2024
 3,29:14,,Yalemzerf YEHUALAW,1999-08-03,ETH,1,Castellón (ESP),2022-02-27,1290,10-kilometres,road-running,female,senior,10-kilometres,track,1754.0,ESP,22.0,2022

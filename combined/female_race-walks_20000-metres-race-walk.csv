@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,1:26:52.3h,,Olimpiada IVANOVA,1970-08-29,RUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1193,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5212.3,AUS,31.0,2001
 2,1:27:49.3h,,Yelena NIKOLAYEVA,1966-02-01,RUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1176,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5269.3,AUS,35.0,2001
 3,1:29:07.5h,,Mary Luz ANDIA,2000-11-09,PER,1,"COTP Stadium, São Paulo (BRA)",2023-07-29,1153,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5347.5,BRA,22.0,2023

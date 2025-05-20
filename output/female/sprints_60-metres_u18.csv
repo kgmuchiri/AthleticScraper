@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,7.13,,Lisa RAYE,19 JAN 2008,TTO,1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1175,60-metres,sprints,female,u18
 2,7.17,,Melanie DOGGETT,,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1161,60-metres,sprints,female,u18
 3,7.18,,Shawnti JACKSON,02 MAY 2005,USA,3,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1158,60-metres,sprints,female,u18

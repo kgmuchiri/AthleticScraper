@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.65,,Marcellus MOORE,30 JUN 2002,USA,2f2,"Lexington, KY (USA) (i)",16 FEB 2019,1125,60-metres,sprints,male,u18
 2,6.66,,Christian BLUM,10 MAR 1987,GER,1,Stuttgart (GER) (i),04 FEB 1996,1119,60-metres,sprints,male,u18
 2,6.66,,Rodney BURNES,,USA,1,"Flagstaff, AZ (USA) (i)",03 FEB 2007,1119,60-metres,sprints,male,u18

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:17:25.6h,,Bernardo SEGURA,11 FEB 1970,MEX,1,Fana (NOR),07 MAY 1994,1247,20000-metres-race-walk,race-walks,male,senior
 2,1:18:03.3h,,Lingtang BO,12 AUG 1970,CHN,1,Beijing (CHN),07 APR 1994,1233,20000-metres-race-walk,race-walks,male,senior
 3,1:18:35.2h,,Stefan JOHANSSON,11 APR 1967,SWE,1,Fana (NOR),15 MAY 1992,1222,20000-metres-race-walk,race-walks,male,senior

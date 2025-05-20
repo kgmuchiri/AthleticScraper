@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,38.51,,South Africa U20,,RSA,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",22 AUG 2021,1187,4x100-metres-relay,relays,male,u20
 2,38.61,,Jamaica U20,,JAM,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",22 AUG 2021,1179,4x100-metres-relay,relays,male,u20
 3,38.62,,United States U20,,USA,1,San José (CRC),20 JUL 2019,1178,4x100-metres-relay,relays,male,u20

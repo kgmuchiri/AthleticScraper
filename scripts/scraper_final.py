@@ -93,20 +93,20 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, t
                 continue
             data.append({
                 
-                "Rank": cols[0].text.strip(),
-                "Mark": cols[1].text.strip(),
-                "Wind":cols[2].text.strip(),
-                "Competitor": cols[3].text.strip(),
-                "DOB": cols[4].text.strip(),
-                "Nationality": cols[5].text.strip(),
-                "Position": cols[6].text.strip(),
-                "Venue": cols[8].text.strip(),
-                "Date": cols[9].text.strip(),
-                "Result Score": cols[10].text.strip(),
-                "Discipline": discipline_slug,
-                "Type": type_slug,
-                "Gender": gender,
-                "Age Category": age_category
+                "rank": cols[0].text.strip(),
+                "mark": cols[1].text.strip(),
+                "wind":cols[2].text.strip(),
+                "competitor": cols[3].text.strip(),
+                "dob": cols[4].text.strip(),
+                "nationality": cols[5].text.strip(),
+                "position": cols[6].text.strip(),
+                "venue": cols[8].text.strip(),
+                "date": cols[9].text.strip(),
+                "result_score": cols[10].text.strip(),
+                "discipline": discipline_slug,
+                "type": type_slug,
+                "sex": gender,
+                "age_cat": age_category
                 
             })
 

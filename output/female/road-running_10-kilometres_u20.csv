@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,30:23,,Asmarech ANLEY,2005,ETH,2,Lille (FRA),16 NOV 2024,1226,10-kilometres,road-running,female,u20
 2,30:34,,Senayet GETACHEW,01 OCT 2005,ETH,5,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",29 APR 2023,1216,10-kilometres,road-running,female,u20
 3,30:38,,Yenawa NBRET,18 MAY 2007,ETH,7,Brasov (ROU),22 SEP 2024,1213,10-kilometres,road-running,female,u20

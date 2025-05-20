@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,37:25.21,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,"Juntendo University Stadium, Inzai (JPN)",14 NOV 2020,1241,10000-metres-race-walk,race-walks,male,senior
 2,37:25.90,,Koki IKEDA,03 MAY 1998,JPN,2,"Juntendo University Stadium, Inzai (JPN)",14 NOV 2020,1241,10000-metres-race-walk,race-walks,male,senior
 3,37:33.03,,Massimo STANO,27 FEB 1992,ITA,1f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1235,10000-metres-race-walk,race-walks,male,senior

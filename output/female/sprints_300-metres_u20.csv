@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,35.83,,JaMeesia FORD,26 JAN 2005,USA,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",08 DEC 2023,1229,300-metres,sprints,female,u20
 2,36.12,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f1,"Bloomington, IN (USA) (i)",08 DEC 2017,1212,300-metres,sprints,female,u20
 3,36.25,,Fatimat YUSUF,02 MAY 1971,NGR,1,Siderno (ITA),23 SEP 1990,1162,300-metres,sprints,female,u20

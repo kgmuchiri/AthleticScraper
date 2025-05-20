@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,70.10,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski Stadion, Kraljevo (SRB)",14 AUG 2021,,javelin-throw-500g,throws,female,u18
 2,68.76,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",07 MAR 2020,,javelin-throw-500g,throws,female,u18
 3,68.62,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Military Academy Stadium, Beograd (SRB)",27 JUN 2020,,javelin-throw-500g,throws,female,u18

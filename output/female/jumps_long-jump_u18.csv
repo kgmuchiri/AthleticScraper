@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.91,+1.0,Heike DAUTE,16 DEC 1964,GDR,1,Jena (GDR),09 AUG 1981,1198,long-jump,jumps,female,u18
 2,6.82,,Natalya SHEVCHENKO,28 DEC 1966,URS,1,Novokuznetsk (RUS),17 JUL 1983,1178,long-jump,jumps,female,u18
 3,6.68,,Natalya SHEVCHENKO,28 DEC 1966,URS,1,Vilnius (LTU),10 JUL 1983,1147,long-jump,jumps,female,u18

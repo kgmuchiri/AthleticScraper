@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:02:52,,Letesenbet GIDEY,20 MAR 1998,ETH,1,Valencia (ESP),24 OCT 2021,1281,half-marathon,road-running,female,senior
 2,1:03:04,,Agnes Jebet NGETICH,23 JAN 2001,KEN,1,Valencia (ESP),27 OCT 2024,1277,half-marathon,road-running,female,senior
 3,1:03:21,,Fotyen TESFAY,17 FEB 1998,ETH,2,Valencia (ESP),27 OCT 2024,1270,half-marathon,road-running,female,senior
@@ -1387,7 +1387,7 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 1377,1:09:03,,Debash DESTA,11 MAY 2005,ETH,11,Ras Al Khaimah (UAE),01 FEB 2025,1149,half-marathon,road-running,female,senior
 1377,1:09:03,,Nancy SANG,1994,KEN,5,Barcelona (ESP),16 FEB 2025,1149,half-marathon,road-running,female,senior
 1377,1:09:03,,Emily VENTERS,06 JUN 1999,USA,5,"Atlanta, GA (USA)",02 MAR 2025,1149,half-marathon,road-running,female,senior
-1377,1:09:03,,Regina WAMBUI,,KEN,8,Lisboa (POR),09 MAR 2025,1149,half-marathon,road-running,female,senior
+1377,1:09:03,,Regina WAMBUI,12 NOV 2001,KEN,8,Lisboa (POR),09 MAR 2025,1149,half-marathon,road-running,female,senior
 1377,1:09:03,,Karoline Bjerkeli GRØVDAL,14 JUN 1990,NOR,7,"New York, NY (USA)",16 MAR 2025,1149,half-marathon,road-running,female,senior
 1391,1:09:04,,Yoshiko ICHIKAWA,18 APR 1976,JPN,5,Tokyo (JPN),10 JAN 2000,1149,half-marathon,road-running,female,senior
 1391,1:09:04,,Elana MEYER,10 OCT 1966,RSA,1,Sendai (JPN),12 MAR 2000,1149,half-marathon,road-running,female,senior

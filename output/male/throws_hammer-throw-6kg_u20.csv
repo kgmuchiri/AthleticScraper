@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,85.57,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
 2,84.73,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
 3,84.71,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20

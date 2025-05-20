@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,15.74,,Yulimar ROJAS,21 OCT 1995,VEN,1,"Štark Arena, Beograd (SRB) (i)",20 MAR 2022,1297,triple-jump,jumps,female,senior
 2,15.67,+0.7,Yulimar ROJAS,21 OCT 1995,VEN,1,"National Stadium, Tokyo (JPN)",01 AUG 2021,1290,triple-jump,jumps,female,senior
 3,15.52,+0.6,Yulimar ROJAS,21 OCT 1995,VEN,,"Stade Olympique de la Pontaise, Lausanne (SUI)",26 AUG 2021,1274,triple-jump,jumps,female,senior

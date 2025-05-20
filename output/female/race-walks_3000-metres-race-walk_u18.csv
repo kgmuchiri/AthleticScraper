@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12:05.6h,,Lyudmila YEFIMKINA,22 AUG 1981,RUS,1,Insar (UZB) (i),01 MAR 1998,1150,3000-metres-race-walk,race-walks,female,u18
 2,12:11.70,,Miao YU,02 APR 1989,CHN,2,Zhengzhou (CHN),27 AUG 2005,1137,3000-metres-race-walk,race-walks,female,u18
 3,12:18.86,,Kate VEALE,05 JAN 1994,IRL,1,Tullamore (IRL),23 JUL 2011,1123,3000-metres-race-walk,race-walks,female,u18

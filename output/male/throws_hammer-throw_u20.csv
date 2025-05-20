@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,78.33,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,Seinäjoki (FIN),05 AUG 1999,1177,hammer-throw,throws,male,u20
 2,78.14,,Roland STEUK,05 MAR 1959,GDR,1,Leipzig (GER),30 JUN 1978,1174,hammer-throw,throws,male,u20
 3,78.00,,Sergey DOROZHON,17 FEB 1964,URS,1,Moskva (URS),06 AUG 1983,1172,hammer-throw,throws,male,u20

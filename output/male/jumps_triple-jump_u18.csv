@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,17.41,+1.0,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,La Habana (CUB),08 JUN 2018,1208,triple-jump,jumps,male,u18
 2,17.32,+0.5,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,La Habana (CUB),17 FEB 2018,1199,triple-jump,jumps,male,u18
 3,17.30,+0.6,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,"Kasarani, Nairobi (KEN)",14 JUL 2017,1197,triple-jump,jumps,male,u18

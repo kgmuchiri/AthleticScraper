@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,64.83,,Ziyi YAN,22 MAY 2008,CHN,1f1,"Sichuan Xipu Training Base, Chengdu (CHN)",28 MAR 2025,1168,javelin-throw,throws,female,u20
 2,64.41,,Ziyi YAN,22 MAY 2008,CHN,1,"Sports Center, Quzhou (CHN)",14 SEP 2024,1160,javelin-throw,throws,female,u20
 3,64.28,,Ziyi YAN,22 MAY 2008,CHN,1,"HOC Stadium, Hangzhou (CHN)",14 APR 2024,1157,javelin-throw,throws,female,u20

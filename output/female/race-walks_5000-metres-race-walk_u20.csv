@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,20:28.05,,Tatyana KALMYKOVA,10 JAN 1990,RUS,1,Ostrava (CZE),12 JUL 2007,1186,5000-metres-race-walk,race-walks,female,u20
 2,20:31.4h,,Irina STANKINA,25 MAR 1977,RUS,1,"Adler, Sochi (RUS)",10 FEB 1996,1182,5000-metres-race-walk,race-walks,female,u20
 3,20:37.7h,,Bingjie JIN,03 JUN 1971,CHN,1,Hefei (CHN),03 MAR 1990,1174,5000-metres-race-walk,race-walks,female,u20

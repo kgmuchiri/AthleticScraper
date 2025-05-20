@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,13.12,+1.6,Xiang LIU,13 JUL 1983,CHN,1f2,"Stade Olympique de la Pontaise, Lausanne (SUI)",02 JUL 2002,1231,110-metres-hurdles,hurdles,male,u20
 2,13.18,+0.4,Ja'Kobe THARP,30 SEP 2005,USA,1,"Percy Beard Track, Gainesville, FL (USA)",11 MAY 2024,1219,110-metres-hurdles,hurdles,male,u20
 2,13.18,+0.2,Ja'Kobe THARP,30 SEP 2005,USA,1sf1,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1219,110-metres-hurdles,hurdles,male,u20

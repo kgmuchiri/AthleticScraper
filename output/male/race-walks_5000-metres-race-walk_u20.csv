@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,18:47.2h,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,2,Saransk (RUS) (i),29 DEC 2019,1155,5000-metres-race-walk,race-walks,male,u20
 2,18:50.7h,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",27 DEC 2020,1150,5000-metres-race-walk,race-walks,male,u20
 3,19:00.4h,,Sergey SHIROBOKOV,11 FEB 1999,ANA,1,Saransk (RUS) (i),30 DEC 2016,1135,5000-metres-race-walk,race-walks,male,u20

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.34,,Christian COLEMAN,06 MAR 1996,USA,1,"Albuquerque, NM (USA) (i)",18 FEB 2018,1304,60-metres,sprints,male,senior
 2,6.37,,Christian COLEMAN,06 MAR 1996,USA,1,"Clemson, SC (USA) (i)",19 JAN 2018,1286,60-metres,sprints,male,senior
 2,6.37,,Christian COLEMAN,06 MAR 1996,USA,1,"Arena Birmingham, Birmingham (GBR) (i)",03 MAR 2018,1286,60-metres,sprints,male,senior

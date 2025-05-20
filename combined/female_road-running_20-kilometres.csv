@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,1:01:25,,Joyciline JEPKOSGEI,1993-12-28,KEN,,Praha (CZE),2017-04-01,1237,20-kilometres,road-running,female,senior,20-kilometres,track,3685.0,CZE,23.0,2017
 2,1:01:40,,Peres JEPCHIRCHIR,1993-09-27,KEN,,Ras Al Khaimah (UAE),2017-02-10,1231,20-kilometres,road-running,female,senior,20-kilometres,track,3700.0,UAE,23.0,2017
 3,1:01:54,,Florence KIPLAGAT,1987-02-27,KEN,,Barcelona (ESP),2015-02-15,1225,20-kilometres,road-running,female,senior,20-kilometres,track,3714.0,ESP,27.0,2015

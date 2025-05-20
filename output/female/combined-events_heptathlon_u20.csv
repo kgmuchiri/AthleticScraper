@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6542,,Carolina KLÜFT,02 FEB 1983,SWE,1,"Olympiastadion, München (GER)",10 AUG 2002,1182,heptathlon,combined-events,female,u20
 2,6470,,Carolina KLÜFT,02 FEB 1983,SWE,1,"National Stadium, Kingston (JAM)",20 JUL 2002,1167,heptathlon,combined-events,female,u20
 3,6465,,Sibylle THIELE,06 MAR 1965,GDR,1,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1166,heptathlon,combined-events,female,u20

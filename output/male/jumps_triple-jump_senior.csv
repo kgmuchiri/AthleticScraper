@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,18.29,+1.3,Jonathan EDWARDS,10 MAY 1966,GBR,1,"Ullevi Stadium, Göteborg (SWE)",07 AUG 1995,1303,triple-jump,jumps,male,senior
 2,18.21,+0.2,Christian TAYLOR,18 JUN 1990,USA,1,"National Stadium, Beijing (CHN)",27 AUG 2015,1294,triple-jump,jumps,male,senior
 3,18.18,-0.3,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,ESP,1,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1292,triple-jump,jumps,male,senior

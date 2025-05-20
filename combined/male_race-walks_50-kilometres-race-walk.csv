@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,3:32:33,,Yohann DINIZ,1978-01-01,FRA,1,"Letzigrund, Zürich (SUI)",2014-08-15,1269,50-kilometres-race-walk,race-walks,male,senior,50-kilometres-race-walk,track,12753.0,SUI,36.0,2014
 2,3:33:12,,Yohann DINIZ,1978-01-01,FRA,1,"Olympic Stadium, London (GBR)",2017-08-13,1265,50-kilometres-race-walk,race-walks,male,senior,50-kilometres-race-walk,track,12792.0,GBR,39.0,2017
 3,3:34:14,,Denis NIZHEGORODOV,1980-07-26,RUS,1,Cheboksary (RUS),2008-05-11,1258,50-kilometres-race-walk,race-walks,male,senior,50-kilometres-race-walk,track,12854.0,RUS,27.0,2008

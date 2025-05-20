@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12.72,+1.0,Sasha ZHOYA,25 JUN 2002,FRA,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",21 AUG 2021,,110m-hurdles-990cm,hurdles,male,u20
 2,12.93,-0.4,Sasha ZHOYA,25 JUN 2002,FRA,1sf2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,110m-hurdles-990cm,hurdles,male,u20
 3,12.99,+0.5,Wilhem BELOCIAN,22 JUN 1995,FRA,1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,110m-hurdles-990cm,hurdles,male,u20

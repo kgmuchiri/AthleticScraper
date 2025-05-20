@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,65.31,,Mykyta NESTERENKO,15 APR 1991,UKR,3,Tallinn (EST),03 JUN 2008,1158,discus-throw,throws,male,u20
 2,63.64,,Werner HARTMANN,20 APR 1959,FRG,1,Strasbourg (FRA),25 JUN 1978,1127,discus-throw,throws,male,u20
 3,63.52,,Mykolas ALEKNA,28 SEP 2002,LTU,2,"Palangos Stadionas, Palanga (LTU)",25 JUN 2021,1125,discus-throw,throws,male,u20

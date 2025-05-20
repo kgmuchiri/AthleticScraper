@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,56:42,,Jacob KIPLIMO,2000-11-14,UGA,1,Barcelona (ESP),2025-02-16,1323,half-marathon,road-running,male,senior,half-marathon,track,3402.0,ESP,24.0,2025
 2,57:30,,Yomif KEJELCHA,1997-08-01,ETH,1,Valencia (ESP),2024-10-27,1289,half-marathon,road-running,male,senior,half-marathon,track,3450.0,ESP,27.0,2024
 3,57:31,,Jacob KIPLIMO,2000-11-14,UGA,1,Lisboa (POR),2021-11-21,1288,half-marathon,road-running,male,senior,half-marathon,track,3451.0,POR,21.0,2021

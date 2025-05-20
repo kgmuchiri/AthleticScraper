@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,3:24.04,,United States U20,,USA,1,San José (CRC),21 JUL 2019,1189,4x400-metres-relay,relays,female,u20
 2,3:27.60,,United States U20,,USA,1,"Stadio Zecchini, Grosseto (ITA)",18 JUL 2004,1159,4x400-metres-relay,relays,female,u20
 3,3:28.06,,United States U20,,USA,1,"Pascual Guerrero Stadium, Cali (COL)",06 AUG 2022,1155,4x400-metres-relay,relays,female,u20

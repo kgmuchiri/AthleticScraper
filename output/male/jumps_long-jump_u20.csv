@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,8.38,-0.5,Mattia FURLANI,07 FEB 2005,ITA,2,"Stadio Olimpico, Roma (ITA)",08 JUN 2024,1224,long-jump,jumps,male,u20
 2,8.36,+1.4,Mattia FURLANI,07 FEB 2005,ITA,1,"Centro Sportivo Fontanassa, Savona (ITA)",15 MAY 2024,1216,long-jump,jumps,male,u20
 3,8.35,+1.1,Sergey MORGUNOV,09 FEB 1993,RUS,1,Cheboksary (RUS),20 JUN 2012,1214,long-jump,jumps,male,u20

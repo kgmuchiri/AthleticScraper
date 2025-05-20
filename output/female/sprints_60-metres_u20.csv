@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,7.02,+2.0,Tina CLAYTON,17 AUG 2004,JAM,1f2,"National Stadium, Kingston (JAM)",25 FEB 2023,1213,60-metres,sprints,female,u20
 2,7.07,,Ewa SWOBODA,26 JUL 1997,POL,1,Toruń (POL) (i),12 FEB 2016,1195,60-metres,sprints,female,u20
 2,7.07,,Kaila JACKSON,30 JUN 2004,USA,2h2,"Convention Center, Albuquerque, NM (USA) (i)",10 MAR 2023,1195,60-metres,sprints,female,u20

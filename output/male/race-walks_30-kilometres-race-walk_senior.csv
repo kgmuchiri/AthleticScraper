@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2:03:06,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Cherkassy (URS),27 APR 1980,1227,30-kilometres-race-walk,race-walks,male,senior
 2,2:05:06,,Nathan DEAKES,17 AUG 1977,AUS,1,Hobart (AUS),27 AUG 2006,1202,30-kilometres-race-walk,race-walks,male,senior
 3,2:05:17,,Vitaliy POPOVICH,22 OCT 1962,URS,,Sochi (URS),19 FEB 1989,1200,30-kilometres-race-walk,race-walks,male,senior
@@ -99,16 +99,19 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 98,2:14:32,,Xiaozhen JIANG,,CHN,2,Huangshan (CHN),16 MAR 2010,1088,30-kilometres-race-walk,race-walks,male,senior
 99,2:14:34,,Quentin REW,16 JUL 1984,NZL,2,Richmond (CAN),10 AUG 2014,1087,30-kilometres-race-walk,race-walks,male,senior
 100,2:14:37,,Peng LI,10 NOV 1994,CHN,1,Taicang (CHN),02 MAR 2013,1087,30-kilometres-race-walk,race-walks,male,senior
-101,2:14:40,,Alfio CORSARO,31 OCT 1979,ITA,5,Livorno (ITA),23 FEB 2003,1086,30-kilometres-race-walk,race-walks,male,senior
-102,2:14:41,,Oleksiy SHELEST,27 MAR 1973,UKR,3,Yevpatoriya (UKR),16 MAR 2007,1086,30-kilometres-race-walk,race-walks,male,senior
-103,2:14:44,,Kevin EASTLER,14 OCT 1977,USA,1,"Chula Vista, CA (USA)",11 JAN 2004,1085,30-kilometres-race-walk,race-walks,male,senior
-104,2:14:46,,Diego CAFAGNA,09 JUL 1975,ITA,4,Ascoli (ITA),10 OCT 2004,1085,30-kilometres-race-walk,race-walks,male,senior
-104,2:14:46,,Marco DE LUCA,12 MAY 1981,ITA,1,Melfi (ITA),07 OCT 2007,1085,30-kilometres-race-walk,race-walks,male,senior
-106,2:14:51,,Shiyi PENG,16 SEP 1998,CHN,3,Huangshan (CHN),05 MAR 2017,1084,30-kilometres-race-walk,race-walks,male,senior
-107,2:14:53,,Tao YANG,12 DEC 1989,CHN,4,Zhengzhou (CHN),16 MAR 2008,1083,30-kilometres-race-walk,race-walks,male,senior
-108,2:14:54,,Dedong YANG,23 NOV 1996,CHN,2,Changbaishan (CHN),07 SEP 2015,1083,30-kilometres-race-walk,race-walks,male,senior
-109,2:14:55,,João VIEIRA,20 FEB 1976,POR,1,Cucujaes (POR),04 FEB 2007,1083,30-kilometres-race-walk,race-walks,male,senior
-110,2:14:56,,Yafei CHU,09 MAY 1988,CHN,8,Xi'an (CHN),23 OCT 2006,1083,30-kilometres-race-walk,race-walks,male,senior
-111,2:14:58,,Oleksandr ROMANENKO,26 JUN 1981,UKR,4,Yevpatoriya (UKR),16 MAR 2007,1082,30-kilometres-race-walk,race-walks,male,senior
-111,2:14:58,,Jorge RUIZ,17 MAY 1989,COL,1,"Valley Cottage, NY (USA)",14 SEP 2014,1082,30-kilometres-race-walk,race-walks,male,senior
-113,2:15:00,,Chris ERICKSON,01 DEC 1981,AUS,3,Hobart (AUS),27 AUG 2006,1082,30-kilometres-race-walk,race-walks,male,senior
+101,2:14:32,,Xiaozhen JIANG,,CHN,2,Huangshan (CHN),16 MAR 2010,1088,30-kilometres-race-walk,race-walks,male,senior
+102,2:14:34,,Quentin REW,16 JUL 1984,NZL,2,Richmond (CAN),10 AUG 2014,1087,30-kilometres-race-walk,race-walks,male,senior
+103,2:14:37,,Peng LI,10 NOV 1994,CHN,1,Taicang (CHN),02 MAR 2013,1087,30-kilometres-race-walk,race-walks,male,senior
+104,2:14:40,,Alfio CORSARO,31 OCT 1979,ITA,5,Livorno (ITA),23 FEB 2003,1086,30-kilometres-race-walk,race-walks,male,senior
+105,2:14:41,,Oleksiy SHELEST,27 MAR 1973,UKR,3,Yevpatoriya (UKR),16 MAR 2007,1086,30-kilometres-race-walk,race-walks,male,senior
+106,2:14:44,,Kevin EASTLER,14 OCT 1977,USA,1,"Chula Vista, CA (USA)",11 JAN 2004,1085,30-kilometres-race-walk,race-walks,male,senior
+107,2:14:46,,Diego CAFAGNA,09 JUL 1975,ITA,4,Ascoli (ITA),10 OCT 2004,1085,30-kilometres-race-walk,race-walks,male,senior
+107,2:14:46,,Marco DE LUCA,12 MAY 1981,ITA,1,Melfi (ITA),07 OCT 2007,1085,30-kilometres-race-walk,race-walks,male,senior
+109,2:14:51,,Shiyi PENG,16 SEP 1998,CHN,3,Huangshan (CHN),05 MAR 2017,1084,30-kilometres-race-walk,race-walks,male,senior
+110,2:14:53,,Tao YANG,12 DEC 1989,CHN,4,Zhengzhou (CHN),16 MAR 2008,1083,30-kilometres-race-walk,race-walks,male,senior
+111,2:14:54,,Dedong YANG,23 NOV 1996,CHN,2,Changbaishan (CHN),07 SEP 2015,1083,30-kilometres-race-walk,race-walks,male,senior
+112,2:14:55,,João VIEIRA,20 FEB 1976,POR,1,Cucujaes (POR),04 FEB 2007,1083,30-kilometres-race-walk,race-walks,male,senior
+113,2:14:56,,Yafei CHU,09 MAY 1988,CHN,8,Xi'an (CHN),23 OCT 2006,1083,30-kilometres-race-walk,race-walks,male,senior
+114,2:14:58,,Oleksandr ROMANENKO,26 JUN 1981,UKR,4,Yevpatoriya (UKR),16 MAR 2007,1082,30-kilometres-race-walk,race-walks,male,senior
+114,2:14:58,,Jorge RUIZ,17 MAY 1989,COL,1,"Valley Cottage, NY (USA)",14 SEP 2014,1082,30-kilometres-race-walk,race-walks,male,senior
+116,2:15:00,,Chris ERICKSON,01 DEC 1981,AUS,3,Hobart (AUS),27 AUG 2006,1082,30-kilometres-race-walk,race-walks,male,senior

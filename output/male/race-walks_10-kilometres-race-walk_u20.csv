@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,37:44,,Zhen WANG,24 AUG 1991,CHN,1,Beijing (CHN),18 SEP 2010,1227,10-kilometres-race-walk,race-walks,male,u20
 2,38:23,,Ding CHEN,05 AUG 1992,CHN,7,Beijing (CHN),18 SEP 2010,1198,10-kilometres-race-walk,race-walks,male,u20
 3,38:28,,Stanislav YEMELYANOV,23 OCT 1990,RUS,2,Saransk (RUS),19 SEP 2009,1195,10-kilometres-race-walk,race-walks,male,u20

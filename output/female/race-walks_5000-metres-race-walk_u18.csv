@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,20:28.05,,Tatyana KALMYKOVA,10 JAN 1990,RUS,1,Ostrava (CZE),12 JUL 2007,1186,5000-metres-race-walk,race-walks,female,u18
 2,21:05.41,,Irina STANKINA,25 MAR 1977,RUS,1,"Estadio Universitario, Lisboa (POR)",23 JUL 1994,1140,5000-metres-race-walk,race-walks,female,u18
 3,21:06.3h,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,1,Saransk (RUS),10 JUN 2006,1139,5000-metres-race-walk,race-walks,female,u18

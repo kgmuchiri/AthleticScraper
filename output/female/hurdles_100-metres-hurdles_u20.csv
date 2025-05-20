@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12.71,+1.3,Britany ANDERSON,03 JAN 2001,JAM,1f1,Joensuu (FIN),24 JUL 2019,1189,100-metres-hurdles,hurdles,female,u20
 2,12.74,+1.7,Dior HALL,02 JAN 1996,USA,3,"Eugene, OR (USA)",13 JUN 2015,1185,100-metres-hurdles,hurdles,female,u20
 3,12.75,+1.7,Chanel BRISSETT,10 AUG 1999,USA,1,"Palo Alto, CA (USA)",13 MAY 2018,1184,100-metres-hurdles,hurdles,female,u20

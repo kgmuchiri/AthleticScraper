@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,49.22,,Christine MBOMA,22 MAY 2003,NAM,1,"Independence Stadium, Windhoek (NAM)",17 APR 2021,1237,400-metres,sprints,female,u20
 2,49.24,,Christine MBOMA,22 MAY 2003,NAM,1f1,"National Heroes Stadium, Lusaka (ZAM)",11 APR 2021,1236,400-metres,sprints,female,u20
 3,49.42,,Grit BREUER,16 FEB 1972,GER,2,"National Stadium, Tokyo (JPN)",27 AUG 1991,1229,400-metres,sprints,female,u20

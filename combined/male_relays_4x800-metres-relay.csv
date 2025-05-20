@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,7:02.43,,Kenya,,KEN,1,"Boudewijnstadion, Bruxelles (BEL)",2006-08-25,1244,4x800-metres-relay,relays,male,senior,4x800-metres-relay,track,422.43,BEL,,2006
 2,7:02.82,,United States,,USA,2,"Boudewijnstadion, Bruxelles (BEL)",2006-08-25,1241,4x800-metres-relay,relays,male,senior,4x800-metres-relay,track,422.82,BEL,,2006
 3,7:03.89,,Great Britain & NI,,GBR,1,London (GBR),1982-08-30,1233,4x800-metres-relay,relays,male,senior,4x800-metres-relay,track,423.89,GBR,,1982

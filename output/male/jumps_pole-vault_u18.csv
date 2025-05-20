@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,5.60,,Matvei VOLKOV,13 MAR 2004,BLR,6,"Atlas Arena, Łódź (POL) (i)",12 FEB 2021,1157,pole-vault,jumps,male,u18
 2,5.56,,Sasha ZHOYA,25 JUN 2002,AUS,1,Sydney (AUS),01 APR 2019,1146,pole-vault,jumps,male,u18
 3,5.55,,Emmanouil KARALIS,20 OCT 1999,GRE,7,"Mestský Stadion, Ostrava (CZE)",20 MAY 2016,1143,pole-vault,jumps,male,u18

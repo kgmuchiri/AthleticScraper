@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,21.14,,Konrad BUKOWIECKI,17 MAR 1997,POL,2,"Bislett Stadion, Oslo (NOR)",09 JUN 2016,1189,shot-put,throws,male,u20
 2,21.05,,Terry ALBRITTON,14 JAN 1955,USA,1,"New York, NY (USA) (i)",22 FEB 1974,1184,shot-put,throws,male,u20
 3,21.02,,Konrad BUKOWIECKI,17 MAR 1997,POL,1,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",18 JUN 2016,1182,shot-put,throws,male,u20

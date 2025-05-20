@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,54.15,,Sydney MCLAUGHLIN,07 AUG 1999,USA,3,"Hayward Field, Eugene, OR (USA)",10 JUL 2016,1199,400-metres-hurdles,hurdles,female,u18
 2,54.46,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f5,"Greensboro, NC (USA)",19 JUN 2016,1190,400-metres-hurdles,hurdles,female,u18
 3,54.54,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"Clovis, CA (USA)",25 JUN 2016,1187,400-metres-hurdles,hurdles,female,u18

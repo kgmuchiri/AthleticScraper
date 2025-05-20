@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2:37:11,,Klavdiya AFANASYEVA,1996-01-15,RUS,1.0,Saransk (RUS),2023-05-20,1263,35-kilometres-race-walk,race-walks,female,senior,35-kilometres-race-walk,track,9431.0,RUS,27.0,2023
 2,2:37:15,,María PÉREZ,1996-04-29,ESP,1.0,Poděbrady (CZE),2023-05-21,1262,35-kilometres-race-walk,race-walks,female,senior,35-kilometres-race-walk,track,9435.0,CZE,27.0,2023
 3,2:37:44,,Kimberly GARCÍA LEÓN,1993-10-19,PER,1.0,Dudince (SVK),2023-03-25,1258,35-kilometres-race-walk,race-walks,female,senior,35-kilometres-race-walk,track,9464.0,SVK,29.0,2023

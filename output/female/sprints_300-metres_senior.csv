@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,34.41,,Shaunae MILLER-UIBO,15 APR 1994,BAH,1f1,"Mestský Stadion, Ostrava (CZE)",20 JUN 2019,1269,300-metres,sprints,female,senior
 2,34.60,,Beatrice MASILINGI,10 APR 2003,NAM,1,"Pilditch Stadium, Pretoria (RSA)",18 FEB 2023,1258,300-metres,sprints,female,senior
 3,35.16,,Marileidy PAULINO,25 OCT 1996,DOM,1,"Pista Basilio Rodriguez, Carolina (PUR)",17 MAR 2023,1225,300-metres,sprints,female,senior

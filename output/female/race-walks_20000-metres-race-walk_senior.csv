@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:26:52.3h,,Olimpiada IVANOVA,29 AUG 1970,RUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",06 SEP 2001,1193,20000-metres-race-walk,race-walks,female,senior
 2,1:27:49.3h,,Yelena NIKOLAYEVA,01 FEB 1966,RUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",06 SEP 2001,1176,20000-metres-race-walk,race-walks,female,senior
 3,1:29:07.5h,,Mary Luz ANDIA,09 NOV 2000,PER,1,"COTP Stadium, São Paulo (BRA)",29 JUL 2023,1153,20000-metres-race-walk,race-walks,female,senior

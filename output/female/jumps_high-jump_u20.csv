@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2.04,,Yaroslava MAHUCHIKH,19 SEP 2001,UKR,2,"Khalifa International Stadium, Doha (QAT)",30 SEP 2019,1259,high-jump,jumps,female,u20
 2,2.02,,Yaroslava MAHUCHIKH,19 SEP 2001,UKR,1,"Messehalle, Karlsruhe (GER) (i)",31 JAN 2020,1239,high-jump,jumps,female,u20
 3,2.01,,Olga TURCHAK,05 MAR 1967,URS,2,Moskva (URS),07 JUL 1986,1229,high-jump,jumps,female,u20

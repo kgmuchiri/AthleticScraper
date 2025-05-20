@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2.45,,Javier SOTOMAYOR,1967-10-13,CUB,1,Salamanca (ESP),1993-07-27,1314,high-jump,jumps,male,senior,high-jump,field,2.45,ESP,25.0,1993
 2,2.44,,Javier SOTOMAYOR,1967-10-13,CUB,1,San Juan (PUR),1989-07-29,1305,high-jump,jumps,male,senior,high-jump,field,2.44,PUR,21.0,1989
 3,2.43,,Javier SOTOMAYOR,1967-10-13,CUB,1,Salamanca (ESP),1988-09-08,1296,high-jump,jumps,male,senior,high-jump,field,2.43,ESP,20.0,1988

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,16:27.02,,Nike/Bowerman Track Club,,USA,1,"Jesuit High School Track, Portland, OR (USA)",2020-07-31,1260,4x1500-metres-relay,relays,female,senior,4x1500-metres-relay,track,987.02,USA,,2020
 2,16:33.58,,Kenya,,KEN,1,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1247,4x1500-metres-relay,relays,female,senior,4x1500-metres-relay,track,993.58,BAH,,2014
 3,16:55.33,,United States,,USA,2,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1204,4x1500-metres-relay,relays,female,senior,4x1500-metres-relay,track,1015.33,BAH,,2014

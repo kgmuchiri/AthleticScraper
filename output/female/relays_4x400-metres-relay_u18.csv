@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,3:34.14,,Italy U20,,ITA,1h1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1104,4x400-metres-relay,relays,female,u18
 2,3:34.43,,Jamaica U17,,JAM,1,Nassau (BAH),10 APR 2023,1101,4x400-metres-relay,relays,female,u18
 3,3:35.47,,Italy U20,,ITA,5f1,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1093,4x400-metres-relay,relays,female,u18

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,5.99,,Obadele THOMPSON,30 MAR 1976,BAR,1,"Colorado Springs, CO (USA) (i)",22 FEB 1997,1268,55-metres,sprints,male,senior
 2,6.00,,Lee MCRAE,23 JAN 1966,USA,1,"Oklahoma City, OK (USA) (i)",14 MAR 1986,1262,55-metres,sprints,male,senior
 3,6.02,,Leonard MYLES-MILLS,05 SEP 1973,GHA,2,"Colorado Springs, CO (USA) (i)",22 FEB 1997,1249,55-metres,sprints,male,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,5.96,,Irina PRIVALOVA,22 NOV 1968,RUS,,Madrid (ESP) (i),09 FEB 1995,1245,50-metres,sprints,female,senior
 2,6.00,,Merlene OTTEY,10 MAY 1960,JAM,1,Moskva (RUS) (i),04 FEB 1994,1229,50-metres,sprints,female,senior
 3,6.02,,Gail DEVERS,19 NOV 1966,USA,,Liévin (FRA) (i),21 FEB 1999,1221,50-metres,sprints,female,senior

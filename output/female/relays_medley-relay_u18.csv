@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2:03.42,,Jamaica U18,,JAM,1,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
 2,2:03.83,,United States U18,,USA,1,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
 3,2:03.87,,United States U18,,USA,1f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18

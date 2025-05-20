@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,20.54,,Astrid KUMBERNUSS,05 FEB 1970,GDR,1,Orimattila (FIN),01 JUL 1989,1241,shot-put,throws,female,u20
 2,20.51,,Heidi KRIEGER,20 JUL 1965,GDR,2,Budapest (HUN) (i),08 FEB 1984,1239,shot-put,throws,female,u20
 3,20.32,,Heidi KRIEGER,20 JUL 1965,GDR,2,Bucureşti (ROU) (i),18 FEB 1984,1228,shot-put,throws,female,u20

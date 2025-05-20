@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:27.05,,Team International,,INT,1f2,"Mike A. Myers Stadium, Austin, TX (USA)",30 MAR 2024,1241,4x200-metres-relay,relays,female,senior
 2,1:27.46,,United States Blue,,USA,1,"Philadelphia, PA (USA)",29 APR 2000,1233,4x200-metres-relay,relays,female,senior
 3,1:28.05,,Texas,,INT,1f3,"Mike A. Myers Stadium, Austin, TX (USA)",01 APR 2023,1221,4x200-metres-relay,relays,female,senior

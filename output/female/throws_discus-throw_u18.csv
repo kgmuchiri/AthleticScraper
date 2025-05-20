@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,65.86,,Ilke WYLUDDA,28 MAR 1969,GDR,1,Neubrandenburg (GDR),01 AUG 1986,1179,discus-throw,throws,female,u18
 2,64.42,,Ilke WYLUDDA,28 MAR 1969,GDR,1,Cottbus (GER),22 JUN 1986,1153,discus-throw,throws,female,u18
 3,64.02,,Ilke WYLUDDA,28 MAR 1969,GDR,1,"Olympic Stadium, Athina (GRE)",20 JUL 1986,1146,discus-throw,throws,female,u18

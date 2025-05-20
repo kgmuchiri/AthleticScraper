@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,7291,,Jackie JOYNER-KERSEE,03 MAR 1962,USA,1,"Olympic Stadium, Seoul (KOR)",24 SEP 1988,1331,heptathlon,combined-events,female,senior
 2,7215,,Jackie JOYNER-KERSEE,03 MAR 1962,USA,1,"Indianapolis, IN (USA)",16 JUL 1988,1315,heptathlon,combined-events,female,senior
 3,7158,,Jackie JOYNER,03 MAR 1962,USA,1,"Houston, TX (USA)",02 AUG 1986,1304,heptathlon,combined-events,female,senior

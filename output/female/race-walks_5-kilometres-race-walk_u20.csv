@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,20:33,,Claudia IOVAN,25 FEB 1978,ROU,1,Bucureşti (ROU),08 AUG 1997,1180,5-kilometres-race-walk,race-walks,female,u20
 2,21:05,,Xizhen YANG,11 MAR 2006,CHN,1,Taicang (CHN),08 APR 2023,1141,5-kilometres-race-walk,race-walks,female,u20
 3,21:06,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,5,Saransk (RUS),10 JUN 2006,1139,5-kilometres-race-walk,race-walks,female,u20

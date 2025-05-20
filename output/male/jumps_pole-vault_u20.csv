@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.05,,Armand DUPLANTIS,10 NOV 1999,SWE,1,"Olympiastadion, Berlin (GER)",12 AUG 2018,1281,pole-vault,jumps,male,u20
 2,5.93,,Armand DUPLANTIS,10 NOV 1999,SWE,1,"Baton Rouge, LA (USA)",05 MAY 2018,1247,pole-vault,jumps,male,u20
 3,5.92,,Armand DUPLANTIS,10 NOV 1999,SWE,3,"Austin, TX (USA)",31 MAR 2018,1245,pole-vault,jumps,male,u20

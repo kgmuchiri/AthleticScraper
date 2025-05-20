@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,1:17:25.6h,,Bernardo SEGURA,1970-02-11,MEX,1,Fana (NOR),1994-05-07,1247,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4645.6,NOR,24,1994
 2,1:18:03.3h,,Lingtang BO,1970-08-12,CHN,1,Beijing (CHN),1994-04-07,1233,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4683.3,CHN,23,1994
 3,1:18:35.2h,,Stefan JOHANSSON,1967-04-11,SWE,1,Fana (NOR),1992-05-15,1222,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4715.2,NOR,25,1992

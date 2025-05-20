@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2:37:11,,Klavdiya AFANASYEVA,15 JAN 1996,RUS,1,Saransk (RUS),20 MAY 2023,1263,35-kilometres-race-walk,race-walks,female,senior
 2,2:37:15,,María PÉREZ,29 APR 1996,ESP,1,Poděbrady (CZE),21 MAY 2023,1262,35-kilometres-race-walk,race-walks,female,senior
 3,2:37:44,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,1,Dudince (SVK),25 MAR 2023,1258,35-kilometres-race-walk,race-walks,female,senior

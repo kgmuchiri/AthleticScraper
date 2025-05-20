@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,10.06,+2.0,Christian MILLER,16 MAY 2006,USA,1,"Hayward Field, Eugene, OR (USA)",08 JUL 2023,1186,100-metres,sprints,male,u18
 1,10.06,+1.4,Puripol BOONSON,13 JAN 2006,THA,2sf2,"HOC Stadium, Hangzhou (CHN)",30 SEP 2023,1186,100-metres,sprints,male,u18
 3,10.07,0.0,Gary CARD,04 JUN 2007,JAM,1,"National Stadium, Kingston (JAM)",28 JUN 2024,1182,100-metres,sprints,male,u18

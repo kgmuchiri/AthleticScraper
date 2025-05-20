@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:29:32.4h,,Hongjuan SONG,04 JUL 1984,CHN,1,Changsha (CHN),23 OCT 2003,1145,20000-metres-race-walk,race-walks,female,u20
 2,1:32:19.71,,Jingjing NIE,01 MAR 1988,CHN,5,Wuhan (CHN),01 NOV 2007,1097,20000-metres-race-walk,race-walks,female,u20
 3,1:34:12.31,,Xue CHAI,21 JAN 1988,CHN,7,Wuhan (CHN),01 NOV 2007,1065,20000-metres-race-walk,race-walks,female,u20

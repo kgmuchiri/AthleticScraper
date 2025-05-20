@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,43.87,,Steve LEWIS,16 MAY 1969,USA,1,"Olympic Stadium, Seoul (KOR)",28 SEP 1988,1260,400-metres,sprints,male,u20
 2,44.11,,Steve LEWIS,16 MAY 1969,USA,1sf2,"Indianapolis, IN (USA)",18 JUL 1988,1242,400-metres,sprints,male,u20
 3,44.20,,Quincy WILSON,08 JAN 2008,USA,1,"Percy Beard Track, Gainesville, FL (USA)",19 JUL 2024,1236,400-metres,sprints,male,u20

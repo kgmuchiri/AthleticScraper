@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12.87,+1.6,Sasha ZHOYA,25 JUN 2002,AUS,1sf3,Angers (FRA),06 JUL 2019,,110m-hurdles-914cm,hurdles,male,u18
 2,12.96,+1.3,Jaheel HYDE,02 FEB 1997,JAM,1f1,"Olympic Stadium, Nanjing (CHN)",23 AUG 2014,,110m-hurdles-914cm,hurdles,male,u18
 2,12.96,+0.9,Sasha ZHOYA,25 JUN 2002,AUS,1,Angers (FRA),06 JUL 2019,,110m-hurdles-914cm,hurdles,male,u18

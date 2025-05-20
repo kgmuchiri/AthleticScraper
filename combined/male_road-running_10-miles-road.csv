@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,44:04,,Benard Kibet KOECH,1999-11-25,KEN,1,Kosa (JPN),2022-12-04,1257,10-miles-road,road-running,male,senior,10-miles-road,track,2644.0,JPN,23.0,2022
 2,44:24,,Haile GEBRSELASSIE,1973-04-18,ETH,1,Tilburg (NED),2005-09-04,1238,10-miles-road,road-running,male,senior,10-miles-road,track,2664.0,NED,32.0,2005
 3,44:51,,Martin Irungu MATHATHI,1985-12-25,KEN,1,Kosa (JPN),2004-12-12,1212,10-miles-road,road-running,male,senior,10-miles-road,track,2691.0,JPN,18.0,2004

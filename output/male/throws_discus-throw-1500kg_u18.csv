@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,77.50,,Mykyta NESTERENKO,15 APR 1991,UKR,1,"Koncha-Zaspa, Kyiv (UKR)",19 MAY 2008,,discus-throw-1500kg,throws,male,u18
 2,75.36,,Mykyta NESTERENKO,15 APR 1991,UKR,1,Halle (GER),25 MAY 2008,,discus-throw-1500kg,throws,male,u18
 3,74.32,,Mykyta NESTERENKO,15 APR 1991,UKR,1,Antalya (TUR),30 MAR 2008,,discus-throw-1500kg,throws,male,u18

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,48.84,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Pretoria (RSA),17 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
 2,49.01,,William WYNNE,30 JAN 1990,USA,1,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
 3,49.10,,Njabulo MBATHA,24 APR 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",23 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18

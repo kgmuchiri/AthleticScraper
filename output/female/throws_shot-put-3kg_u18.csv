@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,20.52,,Corrie DE BRUIN,26 OCT 1976,NED,1,Assen (NED),13 JUN 1993,,shot-put-3kg,throws,female,u18
 2,20.14,,Emel DERELİ,25 FEB 1996,TUR,1,Donetsk (UKR),11 JUL 2013,,shot-put-3kg,throws,female,u18
 3,19.99,,Emel DERELİ,25 FEB 1996,TUR,1,Eskisehir (TUR),08 JUN 2013,,shot-put-3kg,throws,female,u18

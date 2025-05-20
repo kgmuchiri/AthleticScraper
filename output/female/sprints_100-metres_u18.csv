@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,10.98,+2.0,Candace HILL,11 FEB 1999,USA,1,"Shoreline, WA (USA)",20 JUN 2015,1204,100-metres,sprints,female,u18
 2,11.02,+0.8,Briana WILLIAMS,21 MAR 2002,JAM,1,"Albuquerque, NM (USA)",08 JUN 2019,1195,100-metres,sprints,female,u18
 3,11.07,+0.9,Candace HILL,11 FEB 1999,USA,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1185,100-metres,sprints,female,u18

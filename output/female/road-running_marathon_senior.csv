@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2:09:56,,Ruth CHEPNGETICH,08 AUG 1994,KEN,1,"Chicago, IL (USA)",13 OCT 2024,1312,marathon,road-running,female,senior
 2,2:11:53,,Tigst ASSEFA,03 DEC 1996,ETH,1,Berlin (GER),24 SEP 2023,1292,marathon,road-running,female,senior
 3,2:13:44,,Sifan HASSAN,01 JAN 1993,NED,1,"Chicago, IL (USA)",08 OCT 2023,1274,marathon,road-running,female,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,18:21,,Robert KORZENIOWSKI,30 JUL 1968,POL,,Bad Salzdefürth (GER),15 SEP 1990,1194,5-kilometres-race-walk,race-walks,male,senior
 2,18:24,,Valdas KAZLAUSKAS,23 FEB 1958,LTU,,Bad Salzdefürth (GER),15 SEP 1990,1189,5-kilometres-race-walk,race-walks,male,senior
 3,18:33,,Erik TYSSE,04 DEC 1980,NOR,1,Bergen (NOR),23 AUG 2006,1176,5-kilometres-race-walk,race-walks,male,senior

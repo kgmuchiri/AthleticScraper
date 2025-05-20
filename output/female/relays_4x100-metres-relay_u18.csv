@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,42.94,,Jamaica U20,,JAM,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",22 AUG 2021,1180,4x100-metres-relay,relays,female,u18
 2,44.05,,German Democratic Republic U20,,GDR,1,"Georgios Karaiskakis Stadium, Athina (GRE)",24 AUG 1975,1133,4x100-metres-relay,relays,female,u18
 3,44.25,,Edwin Allen High U16,,JAM,1,Kingston (JAM),30 MAR 2019,1125,4x100-metres-relay,relays,female,u18

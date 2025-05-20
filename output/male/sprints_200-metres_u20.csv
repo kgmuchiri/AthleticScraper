@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,19.49,+1.4,Erriyon KNIGHTON,29 JAN 2004,USA,1f1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",30 APR 2022,1302,200-metres,sprints,male,u20
 2,19.69,-0.3,Erriyon KNIGHTON,29 JAN 2004,USA,2,"Hayward Field, Eugene, OR (USA)",26 JUN 2022,1270,200-metres,sprints,male,u20
 3,19.72,-0.1,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1264,200-metres,sprints,male,u20

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2.33,,Javier SOTOMAYOR,13 OCT 1967,CUB,1,La Habana (CUB),19 MAY 1984,1206,high-jump,jumps,male,u18
 2,2.31,,Javier SOTOMAYOR,13 OCT 1967,CUB,1,La Habana (CUB),13 MAY 1984,1188,high-jump,jumps,male,u18
 3,2.29,,Tim FORSYTH,17 AUG 1973,AUS,2,"Deveti Septemvri Stadium, Plovdiv (BUL)",12 AUG 1990,1170,high-jump,jumps,male,u18

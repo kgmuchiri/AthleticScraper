@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,19.84,+0.3,Erriyon KNIGHTON,29 JAN 2004,USA,3,"Hayward Field, Eugene, OR (USA)",27 JUN 2021,1245,200-metres,sprints,male,u18
 2,19.88,+1.1,Erriyon KNIGHTON,29 JAN 2004,USA,1sf2,"Hayward Field, Eugene, OR (USA)",26 JUN 2021,1239,200-metres,sprints,male,u18
 3,19.93,-0.5,Erriyon KNIGHTON,29 JAN 2004,USA,4,"National Stadium, Tokyo (JPN)",04 AUG 2021,1234,200-metres,sprints,male,u18

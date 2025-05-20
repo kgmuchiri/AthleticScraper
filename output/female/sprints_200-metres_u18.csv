@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,22.33,,Adaejah HODGE,21 MAR 2006,IVB,1f2,"The Track at New Balance, Boston, MA (USA) (i)",12 MAR 2023,1242,200-metres,sprints,female,u18
 2,22.42,+1.7,Amy HUNT,15 MAY 2002,GBR,1f1,Mannheim (GER),30 JUN 2019,1194,200-metres,sprints,female,u18
 3,22.43,-0.7,Candace HILL,11 FEB 1999,USA,1,"Pascual Guerrero Stadium, Cali (COL)",19 JUL 2015,1197,200-metres,sprints,female,u18

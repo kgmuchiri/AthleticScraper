@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,40:42,,Jacob KIPLIMO,14 NOV 2000,UGA,1,Nijmegen (NED),17 NOV 2024,1272,15-kilometres,road-running,male,senior
 2,41:05,,Joshua CHEPTEGEI,12 SEP 1996,UGA,1,Nijmegen (NED),18 NOV 2018,1248,15-kilometres,road-running,male,senior
 2,41:05,,Jacob KIPLIMO,14 NOV 2000,UGA,1,Nijmegen (NED),19 NOV 2023,1248,15-kilometres,road-running,male,senior

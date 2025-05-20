@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,59:16,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,1,Rotterdam (NED),11 SEP 2005,1216,half-marathon,road-running,male,u20
 2,59:21,,Stephen KIPROP,08 SEP 1999,KEN,4,Valencia (ESP),28 OCT 2018,1213,half-marathon,road-running,male,u20
 3,59:22,,Amedework WALELEGN,11 MAR 1999,ETH,2,New Delhi (IND),21 OCT 2018,1212,half-marathon,road-running,male,u20

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,14:22.22,,Kenya,,KEN,1,"T. Robinson Stadium, Nassau (BAH)",25 MAY 2014,1311,4x1500-metres-relay,relays,male,senior
 2,14:34.97,,Nike/Bowerman Track Club B,,USA,1,"Jesuit High School Track, Portland, OR (USA)",31 JUL 2020,1264,4x1500-metres-relay,relays,male,senior
 3,14:36.23,,Kenya,,KEN,1,"Boudewijnstadion, Bruxelles (BEL)",04 SEP 2009,1259,4x1500-metres-relay,relays,male,senior

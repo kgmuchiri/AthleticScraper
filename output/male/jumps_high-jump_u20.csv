@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2.37,,Dragutin TOPIĆ,12 MAR 1971,YUG,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",12 AUG 1990,1242,high-jump,jumps,male,u20
 1,2.37,,Steve SMITH,29 MAR 1973,GBR,1,"Olympic Stadium, Seoul (KOR)",20 SEP 1992,1242,high-jump,jumps,male,u20
 3,2.36,,Javier SOTOMAYOR,13 OCT 1967,CUB,1,Santiago de Cuba (CUB),23 FEB 1986,1233,high-jump,jumps,male,u20

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,13:54,,Beatrice CHEBET,05 MAR 2000,KEN,1,Barcelona (ESP),31 DEC 2024,1295,5-kilometres,road-running,female,senior
 2,14:13,,Beatrice CHEBET,05 MAR 2000,KEN,1,Barcelona (ESP),31 DEC 2023,1256,5-kilometres,road-running,female,senior
 2,14:13,,Agnes Jebet NGETICH,23 JAN 2001,KEN,,Valencia (ESP),14 JAN 2024,1256,5-kilometres,road-running,female,senior
@@ -77,14 +77,14 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 72,14:48,,Agnes Jebet NGETICH,23 JAN 2001,KEN,1,Kumamoto (JPN),01 DEC 2024,1186,5-kilometres,road-running,female,senior
 72,14:48,,Yenenesh SHIMKET,09 FEB 2007,ETH,5,Lille (FRA),16 MAR 2025,1186,5-kilometres,road-running,female,senior
 72,14:48,,Medina EISA,03 JAN 2005,ETH,1,Herzogenaurach (GER),26 APR 2025,1186,5-kilometres,road-running,female,senior
-79,14:49,,Gladys CHEPKURUI,17 AUG 1994,KEN,1,Wien (AUT),03 OCT 2021,1184,5-kilometres,road-running,female,senior
 79,14:49,,Senbere TEFERI,03 MAY 1995,ETH,1,"Boston, MA (USA)",16 APR 2022,1184,5-kilometres,road-running,female,senior
 79,14:49,,Birtukan MOLLA,24 MAY 2005,ETH,4,"Meijijingu Gaien area, Tokyo (JPN)",03 MAY 2025,1184,5-kilometres,road-running,female,senior
-82,14:50,,Molly HUDDLE,31 AUG 1984,USA,1,"Boston, MA (USA)",18 APR 2015,1182,5-kilometres,road-running,female,senior
-82,14:50,,Joy CHEPTOYEK,15 MAY 2002,UGA,6f1,Riga (LAT),01 OCT 2023,1182,5-kilometres,road-running,female,senior
-82,14:50,,Hawi ABERA,17 DEC 2006,ETH,2,Lille (FRA),16 NOV 2024,1182,5-kilometres,road-running,female,senior
-82,14:50,,Lilian Kasait RENGERUK,03 MAY 1997,KEN,3,Al Khobar (KSA),14 DEC 2024,1182,5-kilometres,road-running,female,senior
-82,14:50,,Fotyen TESFAY,17 FEB 1998,ETH,2,Herzogenaurach (GER),26 APR 2025,1182,5-kilometres,road-running,female,senior
+81,14:50,,Molly HUDDLE,31 AUG 1984,USA,1,"Boston, MA (USA)",18 APR 2015,1182,5-kilometres,road-running,female,senior
+81,14:50,,Gladys CHEPKURUI,17 AUG 1994,KEN,1,Wien (AUT),03 OCT 2021,1182,5-kilometres,road-running,female,senior
+81,14:50,,Joy CHEPTOYEK,15 MAY 2002,UGA,6f1,Riga (LAT),01 OCT 2023,1182,5-kilometres,road-running,female,senior
+81,14:50,,Hawi ABERA,17 DEC 2006,ETH,2,Lille (FRA),16 NOV 2024,1182,5-kilometres,road-running,female,senior
+81,14:50,,Lilian Kasait RENGERUK,03 MAY 1997,KEN,3,Al Khobar (KSA),14 DEC 2024,1182,5-kilometres,road-running,female,senior
+81,14:50,,Fotyen TESFAY,17 FEB 1998,ETH,2,Herzogenaurach (GER),26 APR 2025,1182,5-kilometres,road-running,female,senior
 87,14:51,,Lilian Kasait RENGERUK,03 MAY 1997,KEN,7,"Sechseläutenplatz, Zürich (SUI)",08 SEP 2021,1181,5-kilometres,road-running,female,senior
 88,14:51,,Paula RADCLIFFE,17 DEC 1973,GBR,1,London (GBR),14 SEP 2003,1181,5-kilometres,road-running,female,senior
 88,14:51,,Tirunesh DIBABA,01 OCT 1985,ETH,1,"Carlsbad, CA (USA)",03 APR 2005,1181,5-kilometres,road-running,female,senior
@@ -412,7 +412,6 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 399,15:25,,Lanni MARCHANT,11 APR 1984,CAN,1,"Anaheim, CA (USA)",13 JUN 2015,1115,5-kilometres,road-running,female,senior
 399,15:25,,Laura WEIGHTMAN,01 JUL 1991,GBR,1,Barrowford (GBR),10 MAR 2018,1115,5-kilometres,road-running,female,senior
 399,15:25,,Maureen KOSTER,03 JUL 1992,NED,1,Nijmegen (NED),19 JUL 2020,1115,5-kilometres,road-running,female,senior
-399,15:25,,Charlotte ARTER,18 JUN 1991,GBR,2,Wien (AUT),03 OCT 2021,1115,5-kilometres,road-running,female,senior
 399,15:25,,Keira D'AMATO,21 OCT 1984,USA,6,"Boston, MA (USA)",16 APR 2022,1115,5-kilometres,road-running,female,senior
 399,15:25,,Klara LUKAN,08 SEP 2000,SLO,10f1,Riga (LAT),01 OCT 2023,1115,5-kilometres,road-running,female,senior
 399,15:25,,Rachel SMITH,18 JUL 1991,USA,4,"Boston, MA (USA)",13 APR 2024,1115,5-kilometres,road-running,female,senior
@@ -422,22 +421,23 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 399,15:25,,Georgie GRGEC,18 NOV 1993,NZL,3f1,Leicester (GBR),15 MAR 2025,1115,5-kilometres,road-running,female,senior
 399,15:25,,Isobel BATT-DOYLE,14 SEP 1995,AUS,1,Ballarat (AUS),26 APR 2025,1115,5-kilometres,road-running,female,senior
 399,15:25,,Katie CAMARENA,09 SEP 1997,USA,6,"Indianapolis, IN (USA)",03 MAY 2025,1115,5-kilometres,road-running,female,senior
-424,15:26,,Yimenashu TAYE,1979,ETH,6,"Carlsbad, CA (USA)",26 MAR 2000,1113,5-kilometres,road-running,female,senior
-424,15:26,,Tegla LOROUPE,09 MAY 1973,KEN,6,London (GBR),01 SEP 2002,1113,5-kilometres,road-running,female,senior
-424,15:26,,Émilie MONDOR,29 APR 1981,CAN,4,London (GBR),14 SEP 2003,1113,5-kilometres,road-running,female,senior
-424,15:26,,Joanne PAVEY,20 SEP 1973,GBR,2,London (GBR),03 SEP 2006,1113,5-kilometres,road-running,female,senior
-424,15:26,,Shalane FLANAGAN,08 JUL 1981,USA,1,"Providence, RI (USA)",16 SEP 2007,1113,5-kilometres,road-running,female,senior
-424,15:26,,Aheza KIROS,16 OCT 1985,ETH,2,"Carlsbad, CA (USA)",11 APR 2010,1113,5-kilometres,road-running,female,senior
-424,15:26,,Kimberley SMITH,19 NOV 1981,NZL,3,"Boston, MA (USA)",15 APR 2012,1113,5-kilometres,road-running,female,senior
-424,15:26,,Gelete BURKA,23 JAN 1986,ETH,1,"Carlsbad, CA (USA)",07 APR 2013,1113,5-kilometres,road-running,female,senior
-424,15:26,,Emily CHEBET,18 FEB 1986,KEN,1,"Albany, NY (USA)",01 JUN 2013,1113,5-kilometres,road-running,female,senior
-424,15:26,,Hirut ALEMAYEHU,12 DEC 1993,ETH,4,Rennes (FRA),13 OCT 2013,1113,5-kilometres,road-running,female,senior
-424,15:26,,Alina REH,23 MAY 1997,GER,9,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",29 APR 2023,1113,5-kilometres,road-running,female,senior
-424,15:26,,Verity OCKENDEN,31 AUG 1991,GBR,1,Newcastle upon Tyne (GBR),08 SEP 2023,1113,5-kilometres,road-running,female,senior
-424,15:26,,Purity Kajuju GITONGA,12 MAY 1996,KEN,1,Arezzo (ITA),26 MAY 2024,1113,5-kilometres,road-running,female,senior
-424,15:26,,Gesa Felicitas KRAUSE,03 AUG 1992,GER,11,Lille (FRA),16 MAR 2025,1113,5-kilometres,road-running,female,senior
-424,15:26,,Dominique SCOTT,24 JUN 1992,RSA,8,"Boston, MA (USA)",19 APR 2025,1113,5-kilometres,road-running,female,senior
-424,15:26,,Laura GALVÁN,05 OCT 1991,MEX,9,"Boston, MA (USA)",19 APR 2025,1113,5-kilometres,road-running,female,senior
+423,15:26,,Yimenashu TAYE,1979,ETH,6,"Carlsbad, CA (USA)",26 MAR 2000,1113,5-kilometres,road-running,female,senior
+423,15:26,,Tegla LOROUPE,09 MAY 1973,KEN,6,London (GBR),01 SEP 2002,1113,5-kilometres,road-running,female,senior
+423,15:26,,Émilie MONDOR,29 APR 1981,CAN,4,London (GBR),14 SEP 2003,1113,5-kilometres,road-running,female,senior
+423,15:26,,Joanne PAVEY,20 SEP 1973,GBR,2,London (GBR),03 SEP 2006,1113,5-kilometres,road-running,female,senior
+423,15:26,,Shalane FLANAGAN,08 JUL 1981,USA,1,"Providence, RI (USA)",16 SEP 2007,1113,5-kilometres,road-running,female,senior
+423,15:26,,Aheza KIROS,16 OCT 1985,ETH,2,"Carlsbad, CA (USA)",11 APR 2010,1113,5-kilometres,road-running,female,senior
+423,15:26,,Kimberley SMITH,19 NOV 1981,NZL,3,"Boston, MA (USA)",15 APR 2012,1113,5-kilometres,road-running,female,senior
+423,15:26,,Gelete BURKA,23 JAN 1986,ETH,1,"Carlsbad, CA (USA)",07 APR 2013,1113,5-kilometres,road-running,female,senior
+423,15:26,,Emily CHEBET,18 FEB 1986,KEN,1,"Albany, NY (USA)",01 JUN 2013,1113,5-kilometres,road-running,female,senior
+423,15:26,,Hirut ALEMAYEHU,12 DEC 1993,ETH,4,Rennes (FRA),13 OCT 2013,1113,5-kilometres,road-running,female,senior
+423,15:26,,Charlotte ARTER,18 JUN 1991,GBR,2,Wien (AUT),03 OCT 2021,1113,5-kilometres,road-running,female,senior
+423,15:26,,Alina REH,23 MAY 1997,GER,9,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",29 APR 2023,1113,5-kilometres,road-running,female,senior
+423,15:26,,Verity OCKENDEN,31 AUG 1991,GBR,1,Newcastle upon Tyne (GBR),08 SEP 2023,1113,5-kilometres,road-running,female,senior
+423,15:26,,Purity Kajuju GITONGA,12 MAY 1996,KEN,1,Arezzo (ITA),26 MAY 2024,1113,5-kilometres,road-running,female,senior
+423,15:26,,Gesa Felicitas KRAUSE,03 AUG 1992,GER,11,Lille (FRA),16 MAR 2025,1113,5-kilometres,road-running,female,senior
+423,15:26,,Dominique SCOTT,24 JUN 1992,RSA,8,"Boston, MA (USA)",19 APR 2025,1113,5-kilometres,road-running,female,senior
+423,15:26,,Laura GALVÁN,05 OCT 1991,MEX,9,"Boston, MA (USA)",19 APR 2025,1113,5-kilometres,road-running,female,senior
 440,15:27,,Amy YODER BEGLEY,11 JAN 1978,USA,1,"Providence, RI (USA)",20 SEP 2009,1112,5-kilometres,road-running,female,senior
 441,15:27,,Annette SERGENT-PALLUY,17 NOV 1962,FRA,2,"Carlsbad, CA (USA)",29 MAR 1992,1111,5-kilometres,road-running,female,senior
 441,15:27,,Olga APPELL,02 AUG 1963,USA,3,"Carlsbad, CA (USA)",02 APR 1995,1111,5-kilometres,road-running,female,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,39:27.10,,Emiliano BARBA,23 MAR 2007,MEX,2,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1151,10000-metres-race-walk,race-walks,male,u18
 2,39:36.39,,Isaac BEACROFT,18 JUL 2007,AUS,4,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1145,10000-metres-race-walk,race-walks,male,u18
 3,39:47.20,,Ding CHEN,05 AUG 1992,CHN,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",11 JUL 2008,1137,10000-metres-race-walk,race-walks,male,u18

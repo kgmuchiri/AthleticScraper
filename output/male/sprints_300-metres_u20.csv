@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,31.61,,Clarence MUNYAI,20 FEB 1998,RSA,3,"Mestský Stadion, Ostrava (CZE)",28 JUN 2017,1198,300-metres,sprints,male,u20
 2,32.10,,Sinesipho DAMBILE,02 MAR 2002,RSA,1,Pretoria (RSA),07 FEB 2020,1152,300-metres,sprints,male,u20
 3,32.42,,Darren CLARK,06 SEP 1965,AUS,1,Gateshead (GBR),06 JUL 1984,1123,300-metres,sprints,male,u20

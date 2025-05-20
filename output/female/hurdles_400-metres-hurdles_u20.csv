@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,52.75,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"Knoxville, TN (USA)",13 MAY 2018,1244,400-metres-hurdles,hurdles,female,u20
 2,53.60,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f3,"Fayetteville, AR (USA)",27 APR 2018,1217,400-metres-hurdles,hurdles,female,u20
 3,53.82,,Sydney MCLAUGHLIN,07 AUG 1999,USA,6,"Sacramento, CA (USA)",25 JUN 2017,1210,400-metres-hurdles,hurdles,female,u20

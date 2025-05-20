@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,26:46,,Rhonex KIPRUTO,12 OCT 1999,KEN,1,Praha (CZE),08 SEP 2018,1249,10-kilometres,road-running,male,u20
 2,26:56,,Tadese WORKU,20 JAN 2002,ETH,2,Herzogenaurach (GER),12 SEP 2021,1233,10-kilometres,road-running,male,u20
 3,27:08,,Rhonex KIPRUTO,12 OCT 1999,KEN,1,"New York, NY (USA)",29 APR 2018,1213,10-kilometres,road-running,male,u20

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,50.01,,Li JING,14 FEB 1980,CHN,1,Shanghai (CHN),18 OCT 1997,1205,400-metres,sprints,female,u18
 2,50.42,,Beatrice MASILINGI,10 APR 2003,NAM,1f2,"Bestmed Tuks Stadium, Pretoria (RSA)",12 DEC 2020,1189,400-metres,sprints,female,u18
 3,50.44,,Beatrice MASILINGI,10 APR 2003,NAM,1,"Bestmed Tuks Stadium, Pretoria (RSA)",09 DEC 2020,1188,400-metres,sprints,female,u18

@@ -97,7 +97,7 @@ for gender in os.listdir(root_dir):
 for (gender, type_slug, discipline_key), file_list in files_by_gender_and_discipline.items():
     df = pd.concat([pd.read_csv(f) for f in file_list], ignore_index=True)
 
-    df["normalized_discpline"] = discipline_key
+    df["normalized_discipline"] = discipline_key
 
     # Add track_field classification
     if type_slug in field_types:
@@ -109,38 +109,38 @@ for (gender, type_slug, discipline_key), file_list in files_by_gender_and_discip
     else:
         df["track_field"] = "unknown"
 
-    if "Mark" not in df.columns:
+    if "mark" not in df.columns:
         print(f"⚠️ Skipping {discipline_key} — missing 'Mark'")
         continue
 
-    df["Parsed Mark"] = df["Mark"].apply(parse_mark)
+    df["Parsed Mark"] = df["mark"].apply(parse_mark)
 
     # Sort
     sort_ascending = type_slug in ascending_types
 
     # Apply numeric mark parsing (before sorting/ranking)
-    df["mark_numeric"] = df["Mark"].apply(parse_mark_to_number)
+    df["mark_numeric"] = df["mark"].apply(parse_mark_to_number)
 
     # Use it for sorting instead of Parsed Mark
     df = df.sort_values("mark_numeric", ascending=sort_ascending).reset_index(drop=True)
 
-    df["venue_country_code"] = df["Venue"].apply(extract_country_code_from_venue)
+    df["venue_country"] = df["venue"].apply(extract_country_code_from_venue)
     
 
 
     # Remove the helper column
     df.drop(columns=["Parsed Mark"], inplace=True)
 
-    for col in ["DOB", "Date"]:
+    for col in ["dob", "date"]:
         if col in df.columns:
             df[col] = pd.to_datetime(df[col], format="%d %b %Y", errors="coerce")
 
     # Compute age in full years (always rounded down)
-    if "DOB" in df.columns and "Date" in df.columns:
-        df["age_at_event"] = (df["Date"] - df["DOB"]).dt.days // 365
+    if "dob" in df.columns and "date" in df.columns:
+        df["age_at_event"] = (df["date"] - df["dob"]).dt.days // 365
 
-    if "Date" in df.columns:
-        df["season"] = df["Date"].dt.year
+    if "date" in df.columns:
+        df["season"] = df["date"].dt.year
 
 
     output_path = os.path.join(output_dir, f"{gender}_{type_slug}_{discipline_key}.csv")

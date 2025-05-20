@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,7:50.17,,Soviet Union,,URS,1,Moskva (URS),1984-08-05,1260,4x800-metres-relay,relays,female,senior,4x800-metres-relay,track,470.17,URS,,1984
 2,7:51.62,,Soviet Union B,,URS,2,Moskva (URS),1984-08-05,1254,4x800-metres-relay,relays,female,senior,4x800-metres-relay,track,471.62,URS,,1984
 3,7:52.24,,Soviet Union,,URS,1,Leningrad (URS),1985-08-04,1252,4x800-metres-relay,relays,female,senior,4x800-metres-relay,track,472.24,URS,,1985

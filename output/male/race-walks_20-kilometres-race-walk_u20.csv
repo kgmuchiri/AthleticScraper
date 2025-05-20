@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:17:25,,Sergey SHIROBOKOV,11 FEB 1999,RUS,1,Cheboksary (RUS),09 JUN 2018,1247,20-kilometres-race-walk,race-walks,male,u20
 2,1:18:06,,Viktor BURAYEV,23 AUG 1982,RUS,1,"Adler, Sochi (RUS)",04 MAR 2001,1232,20-kilometres-race-walk,race-walks,male,u20
 3,1:18:07,,Gaobo LI,23 JUL 1989,CHN,4,Cixi City (CHN),23 APR 2005,1232,20-kilometres-race-walk,race-walks,male,u20

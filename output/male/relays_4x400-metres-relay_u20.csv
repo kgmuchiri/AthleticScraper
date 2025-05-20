@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2:59.30,,United States U20,,USA,1,San José (CRC),21 JUL 2019,1208,4x400-metres-relay,relays,male,u20
 2,3:00.33,,United States U20,,USA,1,Trujillo (PER),23 JUL 2017,1192,4x400-metres-relay,relays,male,u20
 3,3:00.99,,Jamaica U20,,JAM,2,San José (CRC),21 JUL 2019,1182,4x400-metres-relay,relays,male,u20

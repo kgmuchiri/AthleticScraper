@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,23.00,,Jacko GILL,20 DEC 1994,NZL,1,Auckland (NZL),18 AUG 2013,,shot-put-6kg,throws,male,u20
 2,22.96,,Konrad BUKOWIECKI,17 MAR 1997,POL,1,Spala (POL) (i),29 DEC 2016,,shot-put-6kg,throws,male,u20
 3,22.94,,Konrad BUKOWIECKI,17 MAR 1997,POL,1,Bojanowo (POL),01 MAY 2016,,shot-put-6kg,throws,male,u20

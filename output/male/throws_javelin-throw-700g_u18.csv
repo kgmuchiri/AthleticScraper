@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,89.34,,Braian TOLEDO,08 SEP 1993,ARG,1,Mar del Plata (ARG),06 MAR 2010,,javelin-throw-700g,throws,male,u18
 2,85.64,,Braian TOLEDO,08 SEP 1993,ARG,1,Santa Fé (ARG),19 SEP 2010,,javelin-throw-700g,throws,male,u18
 3,85.32,,Braian TOLEDO,08 SEP 1993,ARG,1,Santiago de Chile (CHI),10 OCT 2010,,javelin-throw-700g,throws,male,u18

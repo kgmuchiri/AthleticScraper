@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,42.58,,Jamaica U20,,JAM,1,"National Stadium, Kingston (JAM)",17 APR 2022,1196,4x100-metres-relay,relays,female,u20
 2,42.59,,Jamaica U20,,JAM,1,"Pascual Guerrero Stadium, Cali (COL)",05 AUG 2022,1195,4x100-metres-relay,relays,female,u20
 3,42.88,,United States U20,,USA,1,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",05 AUG 2023,1183,4x100-metres-relay,relays,female,u20

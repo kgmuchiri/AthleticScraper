@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,2.10,,Yaroslava MAHUCHIKH,19 SEP 2001,UKR,1,"Stade Charléty, Paris (FRA)",07 JUL 2024,1319,high-jump,jumps,female,senior
 2,2.09,,Stefka KOSTADINOVA,25 MAR 1965,BUL,1,"Stadio Olimpico, Roma (ITA)",30 AUG 1987,1309,high-jump,jumps,female,senior
 3,2.08,,Stefka KOSTADINOVA,25 MAR 1965,BUL,1,Sofia (BUL),31 MAY 1986,1299,high-jump,jumps,female,senior

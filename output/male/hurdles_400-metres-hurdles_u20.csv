@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,47.34,,Roshawn CLARKE,01 JUL 2004,JAM,2sf3,"Nemzeti Atlétikai Központ, Budapest (HUN)",21 AUG 2023,1266,400-metres-hurdles,hurdles,male,u20
 2,47.85,,Sean BURRELL,23 FEB 2002,USA,1,"Hayward Field, Eugene, OR (USA)",11 JUN 2021,1239,400-metres-hurdles,hurdles,male,u20
 2,47.85,,Roshawn CLARKE,01 JUL 2004,JAM,1,"National Stadium, Kingston (JAM)",07 JUL 2023,1239,400-metres-hurdles,hurdles,male,u20

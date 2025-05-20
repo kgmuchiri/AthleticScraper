@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,4.51,,Amanda MOLL,31 JAN 2005,USA,1f1,"Mike A. Myers Stadium, Austin, TX (USA)",25 MAR 2022,1117,pole-vault,jumps,female,u18
 2,4.50,,Lisa GUNNARSSON,20 AUG 1999,SWE,1,Pezenas (FRA),28 MAY 2016,1114,pole-vault,jumps,female,u18
 2,4.50,,Lisa GUNNARSSON,20 AUG 1999,SWE,1,Angers (FRA),25 JUN 2016,1114,pole-vault,jumps,female,u18

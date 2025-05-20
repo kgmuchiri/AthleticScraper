@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,49:53,,Taylor ROE,2000-10-13,USA,1.0,"Washington, DC (USA)",2025-04-06,1209,10-miles-road,road-running,female,senior,10-miles-road,track,2993.0,USA,24.0,2025
 2,50:32,,Evaline CHIRCHIR,1998-02-02,KEN,1.0,Amsterdam (NED),2019-09-22,1190,10-miles-road,road-running,female,senior,10-miles-road,track,3032.0,NED,21.0,2019
 3,50:35,,Irine Chepet CHEPTAI,1992-02-04,KEN,2.0,Amsterdam (NED),2019-09-22,1189,10-miles-road,road-running,female,senior,10-miles-road,track,3035.0,NED,27.0,2019

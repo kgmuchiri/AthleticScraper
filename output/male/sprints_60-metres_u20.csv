@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.51,,Mark LEWIS-FRANCIS,04 SEP 1982,GBR,3,"Atlantic Pavillion, Lisboa (POR) (i)",11 MAR 2001,1204,60-metres,sprints,male,u20
 1,6.51,,Okon Israel SUNDAY,11 NOV 2006,NGR,1h5,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",28 FEB 2025,1204,60-metres,sprints,male,u20
 3,6.52,,D'Angelo CHERRY,01 AUG 1990,USA,2,"Boston, MA (USA) (i)",01 MAR 2009,1198,60-metres,sprints,male,u20

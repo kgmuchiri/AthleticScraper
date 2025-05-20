@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,41:45.84,,Elvira KHASANOVA,10 JAN 2000,RUS,1,Cheboksary (RUS),03 AUG 2019,1202,10000-metres-race-walk,race-walks,female,u20
 2,42:43.0h,,Svetlana VASILYEVA,24 JUL 1992,RUS,1,Sochi (RUS),27 FEB 2011,1167,10000-metres-race-walk,race-walks,female,u20
 3,42:47.25,,Anežka DRAHOTOVÁ,22 JUL 1995,CZE,1,"Hayward Field, Eugene, OR (USA)",23 JUL 2014,1165,10000-metres-race-walk,race-walks,female,u20

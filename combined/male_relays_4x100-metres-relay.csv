@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,36.84,,Jamaica,,JAM,1,"Olympic Stadium, London (GBR)",2012-08-11,1318,4x100-metres-relay,relays,male,senior,4x100-metres-relay,track,36.84,GBR,,2012
 2,37.04,,Jamaica,,JAM,1,"DS, Daegu (KOR)",2011-09-04,1302,4x100-metres-relay,relays,male,senior,4x100-metres-relay,track,37.04,KOR,,2011
 3,37.1,,United States,,USA,1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1297,4x100-metres-relay,relays,male,senior,4x100-metres-relay,track,37.1,QAT,,2019

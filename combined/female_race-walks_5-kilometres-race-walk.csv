@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,19:46,,Kjersti TYSSE-PLÄTZER,1972-01-18,NOR,1,Hildesheim (GER),2006-08-27,1239,5-kilometres-race-walk,race-walks,female,senior,5-kilometres-race-walk,track,1186.0,GER,34.0,2006
 2,20:08,,Kjersti TYSSE-PLÄTZER,1972-01-18,NOR,1,Hildesheim (GER),2003-09-13,1211,5-kilometres-race-walk,race-walks,female,senior,5-kilometres-race-walk,track,1208.0,GER,31.0,2003
 3,20:11,,Gillian O'SULLIVAN,1976-08-21,IRL,1,Kraków (POL),2003-06-14,1207,5-kilometres-race-walk,race-walks,female,senior,5-kilometres-race-walk,track,1211.0,POL,26.0,2003

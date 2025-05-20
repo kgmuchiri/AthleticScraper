@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,74.40,,Ilke WYLUDDA,28 MAR 1969,GDR,2,Berlin (GER),13 SEP 1988,1338,discus-throw,throws,female,u20
 2,73.16,,Ilke WYLUDDA,28 MAR 1969,GDR,,Berlin (GER),13 SEP 1988,1315,discus-throw,throws,female,u20
 3,72.70,,Ilke WYLUDDA,28 MAR 1969,GDR,1,Karl Marx Stadt (GDR),15 JUL 1988,1306,discus-throw,throws,female,u20

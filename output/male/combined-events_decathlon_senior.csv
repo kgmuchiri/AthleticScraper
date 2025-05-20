@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,9126,,Kevin MAYER,10 FEB 1992,FRA,1,"Stade Pierre Paul Bernard, Talence (FRA)",16 SEP 2018,1302,decathlon,combined-events,male,senior
 2,9045,,Ashton EATON,21 JAN 1988,USA,1,"National Stadium, Beijing (CHN)",29 AUG 2015,1289,decathlon,combined-events,male,senior
 3,9039,,Ashton EATON,21 JAN 1988,USA,1,"Hayward Field, Eugene, OR (USA)",23 JUN 2012,1288,decathlon,combined-events,male,senior

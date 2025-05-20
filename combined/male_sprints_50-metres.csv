@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,5.56,,Donovan BAILEY,1967-12-16,CAN,1,"Reno, NV (USA) (i)",1996-02-09,1269,50-metres,sprints,male,senior,50-metres,track,5.56,USA,28.0,1996
 1,5.56,,Maurice GREENE,1974-07-23,USA,1,"Los Angeles, CA (USA) (i)",1999-02-13,1269,50-metres,sprints,male,senior,50-metres,track,5.56,USA,24.0,1999
 3,5.6,,Michael GREEN,1970-11-07,JAM,,Liévin (FRA) (i),1997-02-16,1241,50-metres,sprints,male,senior,50-metres,track,5.6,FRA,26.0,1997

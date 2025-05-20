@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2:54.29,,United States,,USA,1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-22,1288,4x400-metres-relay,relays,male,senior,4x400-metres-relay,track,174.29,GER,,1993
 2,2:54.43,,United States,,USA,1,"Stade de France, Paris (FRA)",2024-08-10,1285,4x400-metres-relay,relays,male,senior,4x400-metres-relay,track,174.43,FRA,,2024
 3,2:54.53,,Botswana,,BOT,2,"Stade de France, Paris (FRA)",2024-08-10,1284,4x400-metres-relay,relays,male,senior,4x400-metres-relay,track,174.53,FRA,,2024

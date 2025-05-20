@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,39:09,,Danila MARTYNOV,01 MAY 2004,RUS,1,Voronovo (RUS),05 SEP 2021,1165,10-kilometres-race-walk,race-walks,male,u18
 2,39:34,,Dmitriy GRAMACHKOV,09 MAY 2003,RUS,2,Voronovo (RUS),23 AUG 2020,1146,10-kilometres-race-walk,race-walks,male,u18
 3,39:35,,Shengji SHI,19 JAN 2007,CHN,2,Taicang (CHN),03 MAR 2024,1146,10-kilometres-race-walk,race-walks,male,u18

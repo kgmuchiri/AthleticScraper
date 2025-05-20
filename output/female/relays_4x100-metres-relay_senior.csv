@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,40.82,,United States,,USA,1,"Olympic Stadium, London (GBR)",10 AUG 2012,1273,4x100-metres-relay,relays,female,senior
 2,41.01,,United States,,USA,1,"Estádio Olímpico, Rio de Janeiro (BRA)",19 AUG 2016,1265,4x100-metres-relay,relays,female,senior
 3,41.02,,Jamaica,,JAM,1,"National Stadium, Tokyo (JPN)",06 AUG 2021,1264,4x100-metres-relay,relays,female,senior
@@ -1059,3 +1059,4 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 1044,43.00,,Texas,,INT,1h3,"John McDonnell Field, Fayetteville, AR (USA)",26 MAY 2022,1178,4x100-metres-relay,relays,female,senior
 1044,43.00,,Oregon,,INT,2f2,"Potts Field, Boulder, CO (USA)",12 MAY 2024,1178,4x100-metres-relay,relays,female,senior
 1044,43.00,,Spain,,ESP,3h1,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1178,4x100-metres-relay,relays,female,senior
+1044,43.00,,USC,,USA,1,"Hayward Field, Eugene, OR (USA)",16 MAY 2025,1178,4x100-metres-relay,relays,female,senior

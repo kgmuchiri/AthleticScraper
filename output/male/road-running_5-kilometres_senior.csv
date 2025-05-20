@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12:49,,Berihu AREGAWI,28 FEB 2001,ETH,1,Barcelona (ESP),31 DEC 2021,1250,5-kilometres,road-running,male,senior
 2,12:50,,Yomif KEJELCHA,01 AUG 1997,ETH,1,Lille (FRA),19 MAR 2023,1247,5-kilometres,road-running,male,senior
 3,12:51,,Joshua CHEPTEGEI,12 SEP 1996,UGA,1,Monaco (MON),16 FEB 2020,1243,5-kilometres,road-running,male,senior

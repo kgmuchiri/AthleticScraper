@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:06:47,,Degitu AZIMERAW,24 JAN 1999,ETH,6,Ras Al Khaimah (UAE),09 FEB 2018,1197,half-marathon,road-running,female,u20
 2,1:07:06,,Meaza ASEFA,21 NOV 2006,ETH,6,Meishan (CHN),23 FEB 2025,1190,half-marathon,road-running,female,u20
 3,1:07:26,,Beriha GEBRESLASIE,03 JUN 2006,ETH,7,Meishan (CHN),23 FEB 2025,1183,half-marathon,road-running,female,u20

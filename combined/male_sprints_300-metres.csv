@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,30.69,,Letsile TEBOGO,2003-06-07,BOT,1,"Pilditch Stadium, Pretoria (RSA)",2024-02-17,1286,300-metres,sprints,male,senior,300-metres,track,30.69,RSA,20.0,2024
 2,30.81,,Wayde VAN NIEKERK,1992-07-15,RSA,1,"Mestský Stadion, Ostrava (CZE)",2017-06-28,1274,300-metres,sprints,male,senior,300-metres,track,30.81,CZE,24.0,2017
 3,30.85,,Michael JOHNSON,1967-09-13,USA,1,Pretoria (RSA),2000-03-24,1270,300-metres,sprints,male,senior,300-metres,track,30.85,RSA,32.0,2000

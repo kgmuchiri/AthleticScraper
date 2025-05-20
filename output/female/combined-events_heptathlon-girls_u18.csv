@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6301,,Henriette JÆGER,30 JUN 2003,NOR,1,"Melløs stadion, Moss (NOR)",13 SEP 2020,,heptathlon-girls,combined-events,female,u18
 2,6221,,María VICENTE,28 MAR 2001,ESP,1,"Olimpiai Sportpark, Győr (HUN)",06 JUL 2018,,heptathlon-girls,combined-events,female,u18
 3,6186,,Alina SHUKH,12 FEB 1999,UKR,1,"New District Stadium, Tbilisi (GEO)",15 JUL 2016,,heptathlon-girls,combined-events,female,u18

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1.96,,Charmaine WEAVERS,27 FEB 1964,RSA,1,Bloemfontein (RSA),04 APR 1981,1180,high-jump,jumps,female,u18
 1,1.96,,Olga TURCHAK,05 MAR 1967,URS,1,Donetsk (URS),07 SEP 1984,1180,high-jump,jumps,female,u18
 1,1.96,,Eleanor PATTERSON,22 MAY 1996,AUS,1,Townsville (AUS),07 DEC 2013,1180,high-jump,jumps,female,u18

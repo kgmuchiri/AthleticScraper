@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,6.56,,Gwen TORRENCE,1965-06-12,USA,1,"Oklahoma City, OK (USA) (i)",1987-03-14,1202,55-metres,sprints,female,senior,55-metres,track,6.56,USA,21.0,1987
 2,6.58,,Dawn SOWELL,1966-03-27,USA,1,"Baton Rouge, LA (USA) (i)",1989-02-26,1194,55-metres,sprints,female,senior,55-metres,track,6.58,USA,22.0,1989
 2,6.58,,Beatrice UTONDU-OKOYE,1969-11-23,NGR,1,"Monroe, NC (USA) (i)",1990-02-11,1194,55-metres,sprints,female,senior,55-metres,track,6.58,USA,20.0,1990

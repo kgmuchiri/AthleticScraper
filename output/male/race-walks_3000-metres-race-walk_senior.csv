@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,10:30.28,,Tom BOSWORTH,17 JAN 1990,GBR,1,"Emirates Arena, Glasgow (GBR) (i)",25 FEB 2018,1252,3000-metres-race-walk,race-walks,male,senior
 2,10:31.42,,Andreas ERM,12 MAR 1976,GER,1,Halle (GER) (i),04 FEB 2001,1249,3000-metres-race-walk,race-walks,male,senior
 3,10:43.84,,Tom BOSWORTH,17 JAN 1990,GBR,1,"Olympic Stadium, London (GBR)",21 JUL 2018,1217,3000-metres-race-walk,race-walks,male,senior

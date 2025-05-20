@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,38:44.88,,Sotaro OSAKA,31 JAN 2006,JPN,1,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1182,10000-metres-race-walk,race-walks,male,u20
 2,38:46.4h,,Viktor BURAYEV,23 AUG 1982,RUS,1,Moskva (RUS),20 MAY 2000,1181,10000-metres-race-walk,race-walks,male,u20
 3,38:54.75,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Cottbus (GER),24 JUN 1981,1175,10000-metres-race-walk,race-walks,male,u20

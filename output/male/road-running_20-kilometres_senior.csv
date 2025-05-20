@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,55:21,,Zersenay TADESE,01 JAN 1982,ERI,,Lisboa (POR),21 MAR 2010,1241,20-kilometres,road-running,male,senior
 2,55:48,,Haile GEBRSELASSIE,18 APR 1973,ETH,,"Tempe, AZ (USA)",15 JAN 2006,1221,20-kilometres,road-running,male,senior
 3,56:01,,Zersenay TADESE,01 JAN 1982,ERI,1,Debrecen (HUN),08 OCT 2006,1211,20-kilometres,road-running,male,senior

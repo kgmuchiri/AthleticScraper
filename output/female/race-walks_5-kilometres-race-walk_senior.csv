@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,19:46,,Kjersti TYSSE-PLÄTZER,18 JAN 1972,NOR,1,Hildesheim (GER),27 AUG 2006,1239,5-kilometres-race-walk,race-walks,female,senior
 2,20:08,,Kjersti TYSSE-PLÄTZER,18 JAN 1972,NOR,1,Hildesheim (GER),13 SEP 2003,1211,5-kilometres-race-walk,race-walks,female,senior
 3,20:11,,Gillian O'SULLIVAN,21 AUG 1976,IRL,1,Kraków (POL),14 JUN 2003,1207,5-kilometres-race-walk,race-walks,female,senior

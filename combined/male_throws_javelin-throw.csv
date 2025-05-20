@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,98.48,,Jan ŽELEZNÝ,1966-06-16,CZE,1,Jena (GER),1996-05-25,1365.0,javelin-throw,throws,male,senior,javelin-throw,field,98.48,GER,29.0,1996
 2,97.76,,Johannes VETTER,1993-03-26,GER,1,"Stadion Śląski, Chorzów (POL)",2020-09-06,1355.0,javelin-throw,throws,male,senior,javelin-throw,field,97.76,POL,27.0,2020
 3,96.29,,Johannes VETTER,1993-03-26,GER,1,"Stadion Śląski, Chorzów (POL)",2021-05-29,1334.0,javelin-throw,throws,male,senior,javelin-throw,field,96.29,POL,28.0,2021

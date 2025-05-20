@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,3:15.17,,Soviet Union,,URS,1,"Olympic Stadium, Seoul (KOR)",1988-10-01,1267,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,195.17,KOR,,1988
 2,3:15.27,,United States,,USA,1,"Stade de France, Paris (FRA)",2024-08-10,1266,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,195.27,FRA,,2024
 3,3:15.51,,United States,,USA,2,"Olympic Stadium, Seoul (KOR)",1988-10-01,1264,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,195.51,KOR,,1988

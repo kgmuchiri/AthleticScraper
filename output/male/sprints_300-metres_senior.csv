@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,30.69,,Letsile TEBOGO,07 JUN 2003,BOT,1,"Pilditch Stadium, Pretoria (RSA)",17 FEB 2024,1286,300-metres,sprints,male,senior
 2,30.81,,Wayde VAN NIEKERK,15 JUL 1992,RSA,1,"Mestský Stadion, Ostrava (CZE)",28 JUN 2017,1274,300-metres,sprints,male,senior
 3,30.85,,Michael JOHNSON,13 SEP 1967,USA,1,Pretoria (RSA),24 MAR 2000,1270,300-metres,sprints,male,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,11:35.34,,Gillian O'SULLIVAN,1976-08-21,IRL,1,Belfast (GBR) (i),2003-02-15,1213,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,695.34,GBR,26.0,2003
 2,11:40.33,,Claudia IOVAN,1978-02-25,ROU,1,Bucureşti (ROU) (i),1999-01-30,1203,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,700.33,ROU,20.0,1999
 3,11:41.85,,Norica CÎMPEAN,1972-03-22,ROU,1,Bucureşti (ROU),1999-02-06,1199,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,701.85,ROU,26.0,1999

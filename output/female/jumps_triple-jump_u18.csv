@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,14.57,+0.2,Qiuyan HUANG,25 JAN 1980,CHN,1,Shanghai (CHN),19 OCT 1997,1176,triple-jump,jumps,female,u18
 2,14.33,,Baya RAHOULI,27 JUL 1979,ALG,,Birmingham (GBR) (i),08 FEB 1992,1151,triple-jump,jumps,female,u18
 3,14.29,+1.4,Ruiping REN,01 FEB 1976,CHN,1,Beijing (CHN),13 SEP 1993,1147,triple-jump,jumps,female,u18

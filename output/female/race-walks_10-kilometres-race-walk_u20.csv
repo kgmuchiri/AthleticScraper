@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,41:52,,Tatyana MINEYEVA,10 AUG 1990,RUS,1,Penza (RUS),05 SEP 2009,1198,10-kilometres-race-walk,race-walks,female,u20
 2,41:55,,Irina STANKINA,25 MAR 1977,RUS,1,"Adler, Sochi (RUS)",11 FEB 1995,1197,10-kilometres-race-walk,race-walks,female,u20
 3,41:57,,Hongmiao GAO,17 MAR 1974,CHN,2,Beijing (CHN),08 SEP 1993,1195,10-kilometres-race-walk,race-walks,female,u20

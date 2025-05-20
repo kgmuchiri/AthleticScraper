@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,12.12,+0.9,Tobi AMUSAN,23 APR 1997,NGR,1sf1,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1272,100-metres-hurdles,hurdles,female,senior
 2,12.17,+2.0,Masai RUSSELL,17 JUN 2000,USA,1,"Ansin Sports Complex, Miramar, FL (USA)",02 MAY 2025,1265,100-metres-hurdles,hurdles,female,senior
 3,12.19,+2.0,Tia JONES,08 SEP 2000,USA,2,"Ansin Sports Complex, Miramar, FL (USA)",02 MAY 2025,1262,100-metres-hurdles,hurdles,female,senior

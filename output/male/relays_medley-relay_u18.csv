@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:49.23,,Jamaica U18,,JAM,1,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,male,u18
 2,1:49.47,,United States U18,,USA,1,Lille (FRA),10 JUL 2011,,medley-relay,relays,male,u18
 3,1:50.14,,United States U18,,USA,2,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,male,u18

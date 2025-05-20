@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,19:00.4h,,Sergey SHIROBOKOV,11 FEB 1999,ANA,1,Saransk (RUS) (i),30 DEC 2016,1135,5000-metres-race-walk,race-walks,male,u18
 2,19:23.96,,Isaac BEACROFT,18 JUL 2007,AUS,1,"SOPAC, Sydney (AUS)",14 MAR 2024,1101,5000-metres-race-walk,race-walks,male,u18
 3,19:24.48,,Nitin GUPTA,01 JAN 2008,IND,1,"Patliputra Sports Complex, Patna (IND)",10 MAR 2025,1101,5000-metres-race-walk,race-walks,male,u18

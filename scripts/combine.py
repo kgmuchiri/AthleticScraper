@@ -11,7 +11,6 @@ csv_files = [f for f in os.listdir(combined_dir) if f.endswith(".csv")]
 all_dataframes = []
 for file in csv_files:
     df = pd.read_csv(os.path.join(combined_dir, file))
-    df["source_file"] = file  # Optional: track original file
     all_dataframes.append(df)
 
 # Combine into a single DataFrame

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,1:02:52,,Letesenbet GIDEY,1998-03-20,ETH,1,Valencia (ESP),2021-10-24,1281,half-marathon,road-running,female,senior,half-marathon,track,3772.0,ESP,23.0,2021
 2,1:03:04,,Agnes Jebet NGETICH,2001-01-23,KEN,1,Valencia (ESP),2024-10-27,1277,half-marathon,road-running,female,senior,half-marathon,track,3784.0,ESP,23.0,2024
 3,1:03:21,,Fotyen TESFAY,1998-02-17,ETH,2,Valencia (ESP),2024-10-27,1270,half-marathon,road-running,female,senior,half-marathon,track,3801.0,ESP,26.0,2024
@@ -1395,7 +1395,7 @@ Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Disci
 1377,1:09:03,,Rose Jerotich KOSGEI,1981-08-22,KEN,1,Praha (CZE),2009-03-28,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,CZE,27.0,2009
 1377,1:09:03,,Margaret OKAYO,1976-05-30,KEN,1,Udine (ITA),2000-10-01,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,ITA,24.0,2000
 1377,1:09:03,,Karoline Bjerkeli GRØVDAL,1990-06-14,NOR,7,"New York, NY (USA)",2025-03-16,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,USA,34.0,2025
-1377,1:09:03,,Regina WAMBUI,,KEN,8,Lisboa (POR),2025-03-09,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,POR,,2025
+1377,1:09:03,,Regina WAMBUI,2001-11-12,KEN,8,Lisboa (POR),2025-03-09,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,POR,23.0,2025
 1377,1:09:03,,Emily VENTERS,1999-06-06,USA,5,"Atlanta, GA (USA)",2025-03-02,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,USA,25.0,2025
 1377,1:09:03,,Nancy SANG,,KEN,5,Barcelona (ESP),2025-02-16,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,ESP,,2025
 1377,1:09:03,,Debash DESTA,2005-05-11,ETH,11,Ras Al Khaimah (UAE),2025-02-01,1149,half-marathon,road-running,female,senior,half-marathon,track,4143.0,UAE,19.0,2025

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2:09:56,,Ruth CHEPNGETICH,1994-08-08,KEN,1,"Chicago, IL (USA)",2024-10-13,1312,marathon,road-running,female,senior,marathon,track,7796.0,USA,30.0,2024
 2,2:11:53,,Tigst ASSEFA,1996-12-03,ETH,1,Berlin (GER),2023-09-24,1292,marathon,road-running,female,senior,marathon,track,7913.0,GER,26.0,2023
 3,2:13:44,,Sifan HASSAN,1993-01-01,NED,1,"Chicago, IL (USA)",2023-10-08,1274,marathon,road-running,female,senior,marathon,track,8024.0,USA,30.0,2023

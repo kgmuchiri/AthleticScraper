@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,11:35.34,,Gillian O'SULLIVAN,21 AUG 1976,IRL,1,Belfast (GBR) (i),15 FEB 2003,1213,3000-metres-race-walk,race-walks,female,senior
 2,11:40.33,,Claudia IOVAN,25 FEB 1978,ROU,1,Bucureşti (ROU) (i),30 JAN 1999,1203,3000-metres-race-walk,race-walks,female,senior
 3,11:41.85,,Norica CÎMPEAN,22 MAR 1972,ROU,1,Bucureşti (ROU),06 FEB 1999,1199,3000-metres-race-walk,race-walks,female,senior

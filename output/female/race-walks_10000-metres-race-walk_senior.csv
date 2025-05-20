@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,40:59.93,,Elvira CHEPAREVA,10 JAN 2000,RUS,1,"Kalininets Stadium, Yekaterinburg (RUS)",15 AUG 2024,1231,10000-metres-race-walk,race-walks,female,senior
 2,41:11.48,,Reykhan KAGRAMANOVA,01 JUN 1997,RUS,2,"Kalininets Stadium, Yekaterinburg (RUS)",15 AUG 2024,1223,10000-metres-race-walk,race-walks,female,senior
 3,41:22.5h,,Elvira CHEPAREVA,10 JAN 2000,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1217,10000-metres-race-walk,race-walks,female,senior

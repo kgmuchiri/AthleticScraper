@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,8435,,Niklas KAUL,11 FEB 1998,GER,1,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,,decathlon-u20,combined-events,male,u20
 2,8425,,Tomas JÄRVINEN,21 OCT 2005,CZE,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,,decathlon-u20,combined-events,male,u20
 3,8238,,Markus ROOTH,22 DEC 2001,NOR,1,"Bislett Stadion, Oslo (NOR)",28 JUN 2020,,decathlon-u20,combined-events,male,u20

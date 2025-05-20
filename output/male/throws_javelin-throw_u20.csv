@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,86.48,,Neeraj CHOPRA,24 DEC 1997,IND,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",23 JUL 2016,1193,javelin-throw,throws,male,u20
 2,84.98,,György HERCZEG,08 AUG 2004,HUN,1,"Leichtathletikarena, Eisenstadt (AUT)",26 JUL 2023,1172,javelin-throw,throws,male,u20
 3,84.69,,Zigismunds SIRMAIS,06 MAY 1992,LAT,2,Bauska (LAT),22 JUN 2011,1168,javelin-throw,throws,male,u20

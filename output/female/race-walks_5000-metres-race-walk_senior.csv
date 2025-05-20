@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,20:01.80,,Eleonora Anna GIORGI,14 SEP 1989,ITA,1,Misterbianco (ITA),18 MAY 2014,1219,5000-metres-race-walk,race-walks,female,senior
 2,20:02.60,,Gillian O'SULLIVAN,21 AUG 1976,IRL,1,Dublin (IRL),13 JUL 2002,1218,5000-metres-race-walk,race-walks,female,senior
 3,20:03.00,,Kerry SAXBY-JUNNA,02 JUN 1961,AUS,1,Sydney (AUS),11 FEB 1996,1217,5000-metres-race-walk,race-walks,female,senior

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,14.62,+1.0,Tereza MARINOVA,25 SEP 1977,BUL,1,"SIAC Homebush, Sydney (AUS)",25 AUG 1996,1181,triple-jump,jumps,female,u20
 2,14.57,+0.2,Qiuyan HUANG,25 JAN 1980,CHN,1,Shanghai (CHN),19 OCT 1997,1176,triple-jump,jumps,female,u20
 3,14.53,+0.5,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,3,Castellón (ESP),29 JUN 2021,1172,triple-jump,jumps,female,u20

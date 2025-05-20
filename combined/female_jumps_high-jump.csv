@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category,normalized_discpline,track_field,mark_numeric,venue_country_code,age_at_event,season
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2.1,,Yaroslava MAHUCHIKH,2001-09-19,UKR,1,"Stade Charléty, Paris (FRA)",2024-07-07,1319,high-jump,jumps,female,senior,high-jump,field,2.1,FRA,22.0,2024
 2,2.09,,Stefka KOSTADINOVA,1965-03-25,BUL,1,"Stadio Olimpico, Roma (ITA)",1987-08-30,1309,high-jump,jumps,female,senior,high-jump,field,2.09,ITA,22.0,1987
 3,2.08,,Stefka KOSTADINOVA,1965-03-25,BUL,1,Sofia (BUL),1986-05-31,1299,high-jump,jumps,female,senior,high-jump,field,2.08,BUL,21.0,1986

@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,44:20,,Letesenbet GIDEY,20 MAR 1998,ETH,1,Nijmegen (NED),17 NOV 2019,1274,15-kilometres,road-running,female,senior
 2,45:37,,Joyciline JEPKOSGEI,28 DEC 1993,KEN,,Praha (CZE),01 APR 2017,1232,15-kilometres,road-running,female,senior
 3,46:14,,Florence KIPLAGAT,27 FEB 1987,KEN,,Barcelona (ESP),15 FEB 2015,1212,15-kilometres,road-running,female,senior

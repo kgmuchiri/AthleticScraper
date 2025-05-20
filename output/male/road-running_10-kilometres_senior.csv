@@ -1,4 +1,4 @@
-Rank,Mark,Wind,Competitor,DOB,Nationality,Position,Venue,Date,Result Score,Discipline,Type,Gender,Age Category
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,26:24,,Rhonex KIPRUTO,12 OCT 1999,KEN,1,Valencia (ESP),12 JAN 2020,1285,10-kilometres,road-running,male,senior
 2,26:31,,Yomif KEJELCHA,01 AUG 1997,ETH,1,Castellón (ESP),16 FEB 2025,1273,10-kilometres,road-running,male,senior
 3,26:33,,Berihu AREGAWI,28 FEB 2001,ETH,1,Laredo (ESP),11 MAR 2023,1270,10-kilometres,road-running,male,senior
