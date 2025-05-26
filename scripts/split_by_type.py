@@ -15,8 +15,8 @@ relay_df.to_csv("datasets/relay_events.csv", index=False)
 
 # Split both datasets by gender
 for gender in ["male", "female"]:
-    gender_individual = individual_df[individual_df["gender"] == gender]
-    gender_relay = relay_df[relay_df["gender"] == gender]
+    gender_individual = individual_df[individual_df["sex"] == gender]
+    gender_relay = relay_df[relay_df["sex"] == gender]
 
     # --- Split by type ---
     type_output_dir = f"datasets/split_by_type/{gender}"

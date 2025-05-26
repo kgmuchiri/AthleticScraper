@@ -1,0 +1,133 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,5.99,,Obadele THOMPSON,1976-03-30,BAR,1,"Colorado Springs, CO (USA) (i)",1997-02-22,1268.0,55-metres,sprints,male,senior,55-metres,track,5.99,USA,20.0,1997
+2,6.0,,Lee MCRAE,1966-01-23,USA,1,"Oklahoma City, OK (USA) (i)",1986-03-14,1262.0,55-metres,sprints,male,senior,55-metres,track,6.0,USA,20.0,1986
+3,6.02,,Leonard MYLES-MILLS,1973-09-05,GHA,2,"Colorado Springs, CO (USA) (i)",1997-02-22,1249.0,55-metres,sprints,male,senior,55-metres,track,6.02,USA,23.0,1997
+4,6.03,,Sam GRADDY,1964-02-10,USA,1h1,"Oklahoma City, OK (USA) (i)",1986-03-14,1243.0,55-metres,sprints,male,senior,55-metres,track,6.03,USA,22.0,1986
+5,6.04,,Lee MCRAE,1966-01-23,USA,1,"East Rutherford, NJ (USA) (i)",1987-02-14,1237.0,55-metres,sprints,male,senior,55-metres,track,6.04,USA,21.0,1987
+5,6.04,,Andre CASON,1969-01-20,USA,1sf1,"Indianapolis, IN (USA) (i)",1990-03-09,1237.0,55-metres,sprints,male,senior,55-metres,track,6.04,USA,21.0,1990
+5,6.04,,Ato BOLDON,1973-12-30,TTO,1,"Flagstaff, AZ (USA) (i)",1997-02-01,1237.0,55-metres,sprints,male,senior,55-metres,track,6.04,USA,23.0,1997
+8,6.05,,Ben JOHNSON,1961-12-30,CAN,1,"East Rutherford, NJ (USA) (i)",1986-02-08,1231.0,55-metres,sprints,male,senior,55-metres,track,6.05,USA,24.0,1986
+8,6.05,,Sam GRADDY,1964-02-10,USA,2,"Oklahoma City, OK (USA) (i)",1986-03-14,1231.0,55-metres,sprints,male,senior,55-metres,track,6.05,USA,22.0,1986
+8,6.05,,Brian COOPER,1965-08-21,USA,1,"East Rutherford, NJ (USA) (i)",1988-02-13,1231.0,55-metres,sprints,male,senior,55-metres,track,6.05,USA,22.0,1988
+8,6.05,,Brian COOPER,1965-08-21,USA,1,"Monroe, NC (USA) (i)",1988-02-27,1231.0,55-metres,sprints,male,senior,55-metres,track,6.05,USA,22.0,1988
+12,6.06,,Marcus BRUNSON,1978-04-24,USA,h,"Reno, NV (USA) (i)",1999-02-20,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,USA,20.0,1999
+12,6.06,,Felix ANDAM,1974-11-26,GHA,1,Air Force Academy (USA) (i),1998-02-27,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,USA,23.0,1998
+12,6.06,,Syan WILLIAMS,1975-08-11,JAM,1f2,Air Force Academy (USA) (i),1998-02-14,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,USA,22.0,1998
+12,6.06,,Fred JOHNSON,1962-05-10,USA,1,"Fargo, ND (USA) (i)",1985-03-16,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,USA,22.0,1985
+12,6.06,,Emmit KING,1959-03-24,USA,1,"New York, NY (USA) (i)",1988-02-26,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,USA,28.0,1988
+12,6.06,,Brian COOPER,1965-08-21,USA,1,Ottawa (CAN) (i),1988-01-22,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,CAN,22.0,1988
+12,6.06,,Tim HARDEN,1974-01-27,USA,1,"Indianapolis, IN (USA) (i)",1996-03-09,1224.0,55-metres,sprints,male,senior,55-metres,track,6.06,USA,22.0,1996
+19,6.07,,Raghib ISMAIL,,USA,1h3,"West Lafayette, IN (USA) (i)",1991-02-08,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,,1991
+19,6.07,,Leonard SCOTT,1980-01-19,USA,h,"Gainesville, FL (USA) (i)",1999-02-20,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,19.0,1999
+19,6.07,,Obadiah COOPER,1970-03-08,USA,1,"Flagstaff, AZ (USA) (i)",1998-02-21,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,27.0,1998
+19,6.07,,Ousmane DIARRA,1966-09-30,MLI,1,"Ames, IA (USA) (i)",1996-03-01,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,29.0,1996
+19,6.07,,Andre CASON,1969-01-20,USA,1,"Indianapolis, IN (USA) (i)",1990-03-10,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,21.0,1990
+19,6.07,,Houston MCTEAR,1957-02-12,USA,1,"East Rutherford, NJ (USA) (i)",1983-02-27,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,26.0,1983
+19,6.07,,Raymond STEWART,1965-03-18,JAM,1,"Indianapolis, IN (USA) (i)",1989-03-11,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,23.0,1989
+19,6.07,,Lee MCRAE,1966-01-23,USA,1,"Oklahoma City, OK (USA) (i)",1988-03-12,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,22.0,1988
+19,6.07,,Lee MCRAE,1966-01-23,USA,1h2,"Oklahoma City, OK (USA) (i)",1986-03-14,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,20.0,1986
+19,6.07,,Brian COOPER,1965-08-21,USA,1,"New York, NY (USA) (i)",1990-02-23,1218.0,55-metres,sprints,male,senior,55-metres,track,6.07,USA,24.0,1990
+29,6.08,,Emmit KING,1959-03-24,USA,1,"Dallas, TX (USA) (i)",1988-02-06,1212.0,55-metres,sprints,male,senior,55-metres,track,6.08,USA,28.0,1988
+29,6.08,,Lee MCRAE,1966-01-23,USA,1,"East Rutherford, NJ (USA) (i)",1989-02-10,1212.0,55-metres,sprints,male,senior,55-metres,track,6.08,USA,23.0,1989
+29,6.08,,Michael GREEN,1970-11-07,JAM,1,"Indianapolis, IN (USA) (i)",1992-03-14,1212.0,55-metres,sprints,male,senior,55-metres,track,6.08,USA,21.0,1992
+29,6.08,,Bernard WILLIAMS,1978-01-19,USA,1,Air Force Academy (USA) (i),1998-02-21,1212.0,55-metres,sprints,male,senior,55-metres,track,6.08,USA,20.0,1998
+29,6.08,,Marvin BRACY,1993-12-15,USA,1,"Gainesville, FL (USA) (i)",2012-01-29,1212.0,55-metres,sprints,male,senior,55-metres,track,6.08,USA,18.0,2012
+34,6.09,,Ja'Warren HOOKER,1978-09-24,USA,2,"Flagstaff, AZ (USA) (i)",1998-02-21,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,19.0,1998
+34,6.09,,Marvin BRACY,1993-12-15,USA,1,"Gainesville, FL (USA) (i)",2015-01-23,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,21.0,2015
+34,6.09,,Lorenzeo POOLER,,USA,1f2,"Southern Pines, NC (USA) (i)",2011-12-28,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,,2011
+34,6.09,,Mark WITHERSPOON,1963-09-03,USA,1,"Cedar Falls, IA (USA) (i)",1994-02-18,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,30.0,1994
+34,6.09,,Carl LEWIS,1961-07-01,USA,2,"East Rutherford, NJ (USA) (i)",1987-02-14,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,25.0,1987
+34,6.09,,Leroy BURRELL,1967-02-21,USA,1,"Houston, TX (USA) (i)",1989-01-28,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,21.0,1989
+34,6.09,,Lee MCRAE,1966-01-23,USA,1sf1,"New York, NY (USA) (i)",1987-02-27,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,21.0,1987
+34,6.09,,Michael GREEN,1970-11-07,JAM,1sf1,"Indianapolis, IN (USA) (i)",1992-03-13,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,21.0,1992
+34,6.09,,Carl LEWIS,1961-07-01,USA,2,"East Rutherford, NJ (USA) (i)",1983-02-27,1206.0,55-metres,sprints,male,senior,55-metres,track,6.09,USA,21.0,1983
+43,6.1,,Leonard SCOTT,1980-01-19,USA,1,"Knoxville, TN (USA) (i)",2001-02-16,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,21.0,2001
+43,6.1,,Bernard WILLIAMS,1978-01-19,USA,1,"Norman, OK (USA) (i)",1998-12-05,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,20.0,1998
+43,6.1,,Wayne JOHNSON,1975-01-17,JAM,3,Air Force Academy (USA) (i),1998-02-28,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,23.0,1998
+43,6.1,,Jarmiene HOLLOWAY,1977-03-06,USA,1h5,Air Force Academy (USA) (i),1998-02-14,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,20.0,1998
+43,6.1,,Michael GREEN,1970-11-07,JAM,1,"Johnson City, TN (USA) (i)",1993-02-20,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,22.0,1993
+43,6.1,,Mickey GRIMES,1976-10-10,USA,1,"Los Angeles, CA (USA) (i)",2003-02-15,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,26.0,2003
+43,6.1,,Floyd HEARD,1966-03-24,USA,2,"Houston, TX (USA) (i)",1989-01-28,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,22.0,1989
+43,6.1,,Brian COOPER,1965-08-21,USA,1h1,"Oklahoma City, OK (USA) (i)",1988-03-11,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,22.0,1988
+43,6.1,,Mark WITHERSPOON,1963-09-03,USA,3,"East Rutherford, NJ (USA) (i)",1987-02-14,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,23.0,1987
+43,6.1,,Chidi IMOH,1963-08-27,NGR,2h2,"Oklahoma City, OK (USA) (i)",1986-03-14,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,22.0,1986
+43,6.1,,Stanley FLOYD,1961-06-23,USA,1h1,"Richfield, OH (USA) (i)",1982-02-06,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,20.0,1982
+43,6.1,,Michael GREEN,1970-11-07,JAM,1h3,"Johnson City, TN (USA) (i)",1992-02-14,1200.0,55-metres,sprints,male,senior,55-metres,track,6.1,USA,21.0,1992
+55,6.11,,Odean SKEEN,1994-08-28,JAM,1sf2,"Lubbock, TX (USA) (i)",2014-01-31,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,19.0,2014
+55,6.11,,Jon DRUMMOND,1968-09-09,USA,2,"Los Angeles, CA (USA) (i)",2003-02-15,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,34.0,2003
+55,6.11,,Ricardo SHAW,1977-06-19,USA,1,"Gainesville, FL (USA) (i)",2000-01-16,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,22.0,2000
+55,6.11,,Coby MILLER,1976-10-19,USA,1,"Gainesville, FL (USA) (i)",1999-01-22,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,22.0,1999
+55,6.11,,Greg SADDLER,1974-06-29,USA,1,"Indianapolis, IN (USA) (i)",1994-03-12,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,19.0,1994
+55,6.11,,Leroy BURRELL,1967-02-21,USA,1sf2,"Indianapolis, IN (USA) (i)",1990-03-09,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,23.0,1990
+55,6.11,,Leroy BURRELL,1967-02-21,USA,1,"New York, NY (USA) (i)",1990-02-02,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,22.0,1990
+55,6.11,,Leroy BURRELL,1967-02-21,USA,2,"Indianapolis, IN (USA) (i)",1989-03-11,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,22.0,1989
+55,6.11,,Brian COOPER,1965-08-21,USA,2,"Oklahoma City, OK (USA) (i)",1988-03-12,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,22.0,1988
+55,6.11,,Andre CASON,1969-01-20,USA,1h1,"Indianapolis, IN (USA) (i)",1990-03-09,1193.0,55-metres,sprints,male,senior,55-metres,track,6.11,USA,21.0,1990
+65,6.12,,Ja'Warren HOOKER,1978-09-24,USA,1,Chenay (USA) (i),2001-01-20,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,22.0,2001
+65,6.12,,Ronald DARBY,1994-01-02,USA,1,"Landover, MD (USA) (i)",2011-12-21,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,17.0,2011
+65,6.12,,Joshua NORMAN,1980-07-26,USA,1,"Fresno, CA (USA) (i)",2006-01-16,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,25.0,2006
+65,6.12,,Leonard SCOTT,1980-01-19,USA,1h1,"Knoxville, TN (USA) (i)",2001-02-16,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,21.0,2001
+65,6.12,,Leonard SCOTT,1980-01-19,USA,2,"Gainesville, FL (USA) (i)",1999-02-21,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,19.0,1999
+65,6.12,,Brian COOPER,1965-08-21,USA,1,"New York, NY (USA) (i)",1988-02-05,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,22.0,1988
+65,6.12,,Percival SPENCER,1975-02-24,JAM,1h3,"Colorado Springs, CO (USA) (i)",1997-02-20,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,22.0,1997
+65,6.12,,James JETT,1970-12-28,USA,1,"Morgantown, WV (USA) (i)",1990-02-10,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,19.0,1990
+65,6.12,,Anthony DEES,1963-08-06,USA,1h3,"New York, NY (USA) (i)",1990-02-02,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,26.0,1990
+65,6.12,,Emmit KING,1959-03-24,USA,1,"Johnson City, TN (USA) (i)",1988-01-23,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,28.0,1988
+65,6.12,,Terrence TRAMMELL,1978-11-23,USA,1,"Gainesville, FL (USA) (i)",1999-02-21,1187.0,55-metres,sprints,male,senior,55-metres,track,6.12,USA,20.0,1999
+76,6.13,,Anthony BUCHANAN,1981-09-10,USA,1,"Gainesville, FL (USA) (i)",2006-02-05,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,24.0,2006
+76,6.13,,Ja'Warren HOOKER,1978-09-24,USA,h,Chenay (USA) (i),2001-01-20,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,22.0,2001
+76,6.13,,Coby MILLER,1976-10-19,USA,h,"Gainesville, FL (USA) (i)",2000-02-06,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,23.0,2000
+76,6.13,,Coby MILLER,1976-10-19,USA,1,"Gainesville, FL (USA) (i)",2000-02-06,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,23.0,2000
+76,6.13,,Marcus BRUNSON,1978-04-24,USA,1,"Reno, NV (USA) (i)",1999-02-21,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,20.0,1999
+76,6.13,,Ronald PROMESSE,1974-08-31,LCA,4,"Colorado Springs, CO (USA) (i)",1997-02-22,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,22.0,1997
+76,6.13,,Garth ROBINSON,1970-10-11,JAM,1f5,"Reno, NV (USA) (i)",1995-02-04,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,24.0,1995
+76,6.13,,Chris CUMMINGS,1974-01-05,USA,1,Air Force Academy (USA) (i),1998-02-06,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,24.0,1998
+76,6.13,,Frank FREDERICKS,1967-10-02,NAM,1,"Provo, UT (USA) (i)",1993-01-30,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,25.0,1993
+76,6.13,,Obinna EREGBU,1969-11-09,NGR,1,"Johnson City, TN (USA) (i)",1993-01-30,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,23.0,1993
+76,6.13,,Daron COUNCIL,1964-12-26,USA,2h3,"New York, NY (USA) (i)",1990-02-02,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,25.0,1990
+76,6.13,,Emmit KING,1959-03-24,USA,2,"East Rutherford, NJ (USA) (i)",1988-02-13,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,28.0,1988
+76,6.13,,Lee MCRAE,1966-01-23,USA,1,"Oklahoma City, OK (USA) (i)",1987-03-14,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,21.0,1987
+76,6.13,,Frank EMMELMANN,1961-09-15,GDR,1h2,"Albuquerque, NM (USA) (i)",1984-02-03,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,22.0,1984
+76,6.13,,Phil RILEY,1972-09-24,USA,1,"Gainesville, FL (USA) (i)",1995-01-22,1181.0,55-metres,sprints,male,senior,55-metres,track,6.13,USA,22.0,1995
+91,6.14,,Greg BOLDEN,1984-06-30,USA,1,"Gainesville, FL (USA) (i)",2007-01-13,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,22.0,2007
+91,6.14,,John CAPEL,1978-10-27,USA,1,"Gainesville, FL (USA) (i)",2003-01-18,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,24.0,2003
+91,6.14,,Ephion J. JACKSON,1978-02-03,USA,1,"Reno, NV (USA) (i)",2002-02-16,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,24.0,2002
+91,6.14,,Curtis JOHNSON,1973-12-24,USA,1,"San Diego, CA (USA) (i)",2000-01-22,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,26.0,2000
+91,6.14,,Coby MILLER,1976-10-19,USA,h,"Gainesville, FL (USA) (i)",1999-02-20,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,22.0,1999
+91,6.14,,Bruny SURIN,1967-07-12,CAN,1,"Hanover, NH (USA) (i)",1999-01-10,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,31.0,1999
+91,6.14,,Kevin LITTLE,1968-04-03,USA,2,Air Force Academy (USA) (i),1998-01-31,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,29.0,1998
+91,6.14,,Virgil MADDOX,1978-08-31,USA,1,Air Force Academy (USA) (i),1998-01-31,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,19.0,1998
+91,6.14,,Leon GORDON,1974-07-01,JAM,2,Air Force Academy (USA) (i),1997-01-25,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,22.0,1997
+91,6.14,,Courtney HYSAW,1979-09-12,USA,1,Air Force Academy (USA) (i),1997-02-02,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,17.0,1997
+91,6.14,,Ainsley BLACKMAN,1963-05-13,BAR,1,"Blacksburg, VA (USA) (i)",1991-01-19,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,27.0,1991
+91,6.14,,Iziak ADEYANJU,1959-02-24,NGR,1,"Lawrence, KS (USA) (i)",1990-01-20,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,30.0,1990
+91,6.14,,Raymond STEWART,1965-03-18,JAM,1,"Fort Worth, TX (USA) (i)",1989-02-18,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,23.0,1989
+91,6.14,,Lee MCRAE,1966-01-23,USA,1,"New York, NY (USA) (i)",1989-02-03,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,23.0,1989
+91,6.14,,Vladimir KRYLOV,1964-02-26,URS,3,"East Rutherford, NJ (USA) (i)",1988-02-13,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,23.0,1988
+91,6.14,,Brian COOPER,1965-08-21,USA,2,"Dallas, TX (USA) (i)",1988-02-06,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,22.0,1988
+91,6.14,,Lee MCNEILL,1964-12-02,USA,2h1,"Oklahoma City, OK (USA) (i)",1986-03-14,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,21.0,1986
+91,6.14,,Emmit KING,1959-03-24,USA,2,"Dallas, TX (USA) (i)",1985-02-02,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,25.0,1985
+91,6.14,,Augustine OLOBIA,1969-07-18,NGR,2sf1,"Indianapolis, IN (USA) (i)",1991-03-08,1175.0,55-metres,sprints,male,senior,55-metres,track,6.14,USA,21.0,1991
+110,6.15,,Byron TOPPS,1976-05-09,USA,2,Air Force Academy (USA) (i),1998-02-21,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,21.0,1998
+110,6.15,,Corey BRIDGES,1974-06-30,USA,1,"Baton Rouge, LA (USA) (i)",1998-03-01,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,23.0,1998
+110,6.15,,John CAPEL,1978-10-27,USA,2,"Gainesville, FL (USA) (i)",2000-01-16,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,21.0,2000
+110,6.15,,Darrel BROWN,1984-10-11,TTO,1,"Gainesville, FL (USA) (i)",2003-02-09,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,18.0,2003
+110,6.15,,Ephion J. JACKSON,1978-02-03,USA,1h4,"Reno, NV (USA) (i)",2002-02-16,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,24.0,2002
+110,6.15,,John CAPEL,1978-10-27,USA,1h2,"Gainesville, FL (USA) (i)",2003-01-18,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,24.0,2003
+110,6.15,,Travis GRANT,1972-08-31,USA,1,"Lincoln, NE (USA) (i)",1998-01-24,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,25.0,1998
+110,6.15,,Justin GATLIN,1982-02-10,USA,1,"Gainesville, FL (USA) (i)",2012-01-14,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,29.0,2012
+110,6.15,,David COLLINS,1981-12-17,USA,1,"Boone, NC (USA) (i)",2001-12-06,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,19.0,2001
+110,6.15,,Frank NWANKPA,1973-05-26,NGR,1sf1,"Lincoln, NE (USA) (i)",1997-02-21,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,23.0,1997
+110,6.15,,Ray HILL,1967-06-24,USA,1,"Lincoln, NE (USA) (i)",1989-02-25,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,21.0,1989
+110,6.15,,David OAKS,1972-05-12,USA,1,"Reno, NV (USA) (i)",1994-02-05,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,21.0,1994
+110,6.15,,Henry NEAL,1970-10-28,USA,1,"Manhattan, KS (USA) (i)",1992-03-07,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,21.0,1992
+110,6.15,,Jeff GOLD,1962-04-02,USA,1,"Richmond, VA (USA) (i)",1990-01-13,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,27.0,1990
+110,6.15,,Leroy BURRELL,1967-02-21,USA,1,"New York, NY (USA) (i)",1989-02-24,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,22.0,1989
+110,6.15,,Thomas JEFFERSON,1962-06-08,USA,2,"New York, NY (USA) (i)",1988-02-26,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,25.0,1988
+110,6.15,,Manley WALLER,1964-07-21,USA,1sf1,"Gainesville, FL (USA) (i)",1987-02-07,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,22.0,1987
+110,6.15,,Terry MCDANIEL,1965-02-08,USA,1,"Fairfax, VA (USA) (i)",1986-02-01,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,20.0,1986
+110,6.15,,Thomas JEFFERSON,1962-06-08,USA,2,"Richfield, OH (USA) (i)",1985-02-17,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,22.0,1985
+110,6.15,,George NICHOLAS,1963-03-28,USA,2sf1,"Syracuse, NY (USA) (i)",1984-03-09,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,20.0,1984
+110,6.15,,Justin GATLIN,1982-02-10,USA,1,"Gainesville, FL (USA) (i)",2012-01-14,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,29.0,2012
+110,6.15,,Tyson WILSON,1977-10-09,USA,2,Air Force Academy (USA) (i),1997-02-15,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,19.0,1997
+110,6.15,,Justin GATLIN,1982-02-10,USA,1f1,"Gainesville, FL (USA) (i)",2012-01-22,1169.0,55-metres,sprints,male,senior,55-metres,track,6.15,USA,29.0,2012

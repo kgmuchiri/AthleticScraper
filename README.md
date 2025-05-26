@@ -9,7 +9,7 @@ Inspired by: https://github.com/thomascamminady/world-athletics-database/
 
 Used the options.json file from that repo to help
 
-Note: Datasets here are from 19-05-2025
+Note: Datasets here are from 26-05-2025
 
 ### Repo Structure
  - Output: Folder for the csv files created as a result of scraping
@@ -31,23 +31,23 @@ This dataset contains structured performance records from international athletic
 
 | Column Name           | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| `Rank`                | Athlete’s placement within the event (1 = first place).                     |
-| `Mark`                | Performance mark (in seconds for track or meters for field events).         |
-| `Wind`                | Wind reading during the event (m/s); relevant for sprints and hurdles.      |
-| `Competitor`          | Full name of the athlete.                                                   |
-| `DOB`                 | Date of birth of the athlete (`YYYY-MM-DD`).                                |
-| `Nationality`         | 3-letter IOC code representing the athlete’s country.                       |
-| `Position`            | The athlete's position in the heat/final (if different from rank).          |
-| `Venue`               | Full name of the event venue.                                               |
-| `Date`                | Date of the event (`YYYY-MM-DD`).                                           |
-| `Result Score`        | Scoring index from the event, if available. Created by WAA, max of 1400                   |
-| `Discipline`          | Original discipline string, including implement or hurdle specs (e.g., `110m-hurdles-990cm`). |
-| `Type`                | General classification of the event (e.g., `sprints`, `hurdles`, `throws`). |
-| `Gender`              | Athlete's gender (`male` or `female`).                                      |
-| `Age Category`        | Athlete's age classification (e.g., `u20`, `u18`, `senior`).                |
+| `rank`                | Athlete’s placement within the event (1 = first place).                     |
+| `mark`                | Performance mark (in seconds for track or meters for field events).         |
+| `wind`                | Wind reading during the event (m/s); relevant for sprints and hurdles.      |
+| `competitor`          | Full name of the athlete.                                                   |
+| `dob`                 | Date of birth of the athlete (`YYYY-MM-DD`).                                |
+| `nationality`         | 3-letter IOC code representing the athlete’s country.                       |
+| `position`            | The athlete's position in the heat/final (if different from rank).          |
+| `venue`               | Full name of the event venue.                                               |
+| `date`                | Date of the event (`YYYY-MM-DD`).                                           |
+| `result_score`        | Scoring index from the event, if available. Created by WAA, max of 1400                   |
+| `discipline`          | Original discipline string, including implement or hurdle specs (e.g., `110m-hurdles-990cm`). |
+| `type`                | General classification of the event (e.g., `sprints`, `hurdles`, `throws`). |
+| `gender`              | Athlete's gender (`male` or `female`).                                      |
+| `age_cat`        | Athlete's age classification (e.g., `u20`, `u18`, `senior`).                |
 | `normalized_discpline`| Cleaned discipline name used for grouping (e.g., `110-metres-hurdles`).     |
 | `track_field`         | Whether the event is a `track`, `field`, or `mixed` discipline.             |
 | `mark_numeric`        | Parsed numeric value of the mark (in seconds or meters).                    |
-| `venue_country_code`  | IOC 3-letter code extracted from the venue (e.g., `KEN`).                   |
+| `venue_country`  | IOC 3-letter code extracted from the venue (e.g., `KEN`).                   |
 | `age_at_event`        | Age of the athlete at the time of the event (in full years).                |
 | `season`              | Year in which the event took place.                                         |

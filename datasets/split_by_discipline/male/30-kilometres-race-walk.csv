@@ -1,0 +1,117 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,2:03:06,,Daniel BAUTISTA,1952-08-04,MEX,1,Cherkassy (URS),1980-04-27,1227.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7386.0,URS,27.0,1980
+2,2:05:06,,Nathan DEAKES,1977-08-17,AUS,1,Hobart (AUS),2006-08-27,1202.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7506.0,AUS,29.0,2006
+3,2:05:17,,Vitaliy POPOVICH,1962-10-22,URS,,Sochi (URS),1989-02-19,1200.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7517.0,URS,26.0,1989
+4,2:05:26,,Chao ZHANG,,CHN,1,Xi'an (CHN),2006-10-23,1198.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7526.0,CHN,,2006
+5,2:05:28,,Mikel ODRIOZOLA,1973-05-25,ESP,1,Badalona (ESP),2003-01-19,1197.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7528.0,ESP,29.0,2003
+6,2:05:31,,Rhydian COWLEY,1991-01-04,AUS,1,"Albert Park, Melbourne (AUS)",2025-05-18,1197.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7531.0,AUS,34.0,2025
+7,2:06:13,,Aigars FADEJEVS,1975-12-27,LAT,1,Sesto San Giovanni (ITA),2002-05-01,1188.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7573.0,ITA,26.0,2002
+8,2:07:03,,Veli-Matti PARTANEN,1991-10-28,FIN,1,Espoo (FIN),2018-06-17,1178.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7623.0,FIN,26.0,2018
+9,2:07:21,,Oleksiy KAZANIN,1982-05-22,UKR,1,Yevpatoriya (UKR),2009-03-15,1174.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7641.0,UKR,26.0,2009
+10,2:07:34,,Francisco Javier FERNÁNDEZ,1977-03-06,ESP,1f1,Dublin (IRL),2008-12-20,1171.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7654.0,IRL,31.0,2008
+10,2:07:34,,Veli-Matti PARTANEN,1991-10-28,FIN,1,Savonlinna (FIN),2019-06-09,1171.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7654.0,FIN,27.0,2019
+12,2:07:42,,Håvard HAUKENES,1990-04-22,NOR,,Cork (IRL),2020-12-19,1170.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7662.0,IRL,30.0,2020
+13,2:08:08,,Xuejin BAI,1987-06-06,CHN,2,Xi'an (CHN),2006-10-23,1165.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7688.0,CHN,19.0,2006
+14,2:08:28,,Reima SALONEN,1955-10-19,FIN,1,Eura (FIN),1988-09-11,1160.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7708.0,FIN,32.0,1988
+15,2:08:29,,Oleksiy SHELEST,1973-03-27,UKR,2,Yevpatoriya (UKR),2009-03-15,1160.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7709.0,UKR,35.0,2009
+16,2:08:41,,Will THOMPSON,2002-11-18,AUS,2,"Albert Park, Melbourne (AUS)",2025-05-18,1158.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7721.0,AUS,22.0,2025
+17,2:08:43,,Hao WANG,1989-08-16,CHN,1,Xintai (CHN),2008-10-25,1157.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7723.0,CHN,19.0,2008
+18,2:08:46,,Zhen WANG,1991-08-24,CHN,1,Zhengzhou (CHN),2008-03-16,1157.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7726.0,CHN,16.0,2008
+19,2:08:59,,Robert HEFFERNAN,1978-02-28,IRL,2f1,Dublin (IRL),2008-12-20,1154.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7739.0,IRL,30.0,2008
+20,2:09:01,,Oleksiy SHELEST,1973-03-27,UKR,1,Yevpatoriya (UKR),2005-03-04,1154.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7741.0,UKR,31.0,2005
+21,2:09:37,,Marco DE LUCA,1981-05-12,ITA,1,Ascoli (ITA),2004-10-10,1146.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7777.0,ITA,23.0,2004
+22,2:09:51,,Jozef PRIBILINEC,1960-07-06,TCH,1,Sesto San Giovanni (ITA),1988-05-01,1144.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7791.0,ITA,27.0,1988
+23,2:09:52,,José MARÍN,1950-01-25,ESP,2,Sesto San Giovanni (ITA),1988-05-01,1143.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7792.0,ITA,38.0,1988
+24,2:10:09,,Yoshimi HARA,1968-03-02,JPN,,Neagari (JPN),1996-09-29,1140.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7809.0,JPN,28.0,1996
+25,2:10:30,,Geng ZHIYAO,1987-08-15,CHN,3,Xi'an (CHN),2006-10-23,1136.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7830.0,CHN,19.0,2006
+26,2:10:33,,Rhydian COWLEY,1991-01-04,AUS,1,"Middle Park, Melbourne (AUS)",2019-07-28,1135.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7833.0,AUS,28.0,2019
+27,2:10:40,,David KENNY,1999-01-10,IRL,1,Cork (IRL),2020-12-19,1134.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7840.0,IRL,21.0,2020
+28,2:10:49,,Zongliang CHEN,1992-01-09,CHN,1,Taicang (CHN),2011-04-24,1132.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7849.0,CHN,19.0,2011
+29,2:10:51,,Serhiy BUDZA,1984-12-06,UKR,1,Yevpatoriya (UKR),2010-03-13,1132.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7851.0,UKR,25.0,2010
+30,2:10:57,,Rui ZHANG,1989-01-12,CHN,2,Zhengzhou (CHN),2008-03-16,1130.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7857.0,CHN,19.0,2008
+31,2:11:00,,Ivano BRUGNETTI,1976-09-01,ITA,1,Livorno (ITA),2003-02-23,1130.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7860.0,ITA,26.0,2003
+32,2:11:02,,José Antonio GONZÁLEZ,1979-06-15,ESP,2,Badalona (ESP),2003-01-19,1129.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7862.0,ESP,23.0,2003
+32,2:11:02,,Brendan BOYCE,1986-10-08,IRL,2,Cork (IRL),2020-12-19,1129.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7862.0,IRL,34.0,2020
+34,2:11:16,,João VIEIRA,1976-02-20,POR,1,Cucujaes (POR),2006-01-29,1126.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7876.0,POR,29.0,2006
+35,2:11:18,,Andriy YURIN,1984-01-20,UKR,1,Yevpatoriya (UKR),2004-03-13,1126.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7878.0,UKR,20.0,2004
+36,2:11:19,,Raffaello DUCCESCHI,1962-02-25,ITA,3,Sesto San Giovanni (ITA),1988-05-01,1126.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7879.0,ITA,26.0,1988
+37,2:11:31,,Qi ZHAO,1993-01-14,CHN,1,Xintai (CHN),2011-03-13,1123.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7891.0,CHN,18.0,2011
+37,2:11:31,,Yongqiang HE,1993-10-27,CHN,2,Xintai (CHN),2011-03-13,1123.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7891.0,CHN,17.0,2011
+39,2:11:38,,Xuezhi ZHANG,1987-07-06,CHN,4,Xi'an (CHN),2006-10-23,1122.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7898.0,CHN,19.0,2006
+40,2:11:41,,Santiago PÉREZ,1972-01-15,ESP,3,Badalona (ESP),2003-01-19,1121.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7901.0,ESP,31.0,2003
+41,2:11:52,,Serhiy BUDZA,1984-12-06,UKR,1,Yevpatoriya (UKR),2007-03-16,1119.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7912.0,UKR,22.0,2007
+42,2:11:54,,Evan DUNFEE,1990-09-28,CAN,1,Richmond (CAN),2014-08-10,1119.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7914.0,CAN,23.0,2014
+43,2:12:05,,Xiangqian JIN,1997-03-18,CHN,1,Huangshan (CHN),2016-03-06,1117.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7925.0,CHN,18.0,2016
+44,2:12:06,,Zhengyan HUANG,1988-08-14,CHN,5,Xi'an (CHN),2006-10-23,1116.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7926.0,CHN,18.0,2006
+45,2:12:07,,Aleksi OJALA,1992-12-09,FIN,1,Tuusula (FIN),2019-05-04,1116.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7927.0,FIN,26.0,2019
+46,2:12:08,,Song SUN,1996-12-15,CHN,1,Huangshan (CHN),2014-02-28,1116.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7928.0,CHN,17.0,2014
+47,2:12:14,,Lingfu GENG,1990-10-05,CHN,1,Baoji (CHN),2009-03-22,1115.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7934.0,CHN,18.0,2009
+48,2:12:16,,Ding CHEN,1992-08-05,CHN,1,Beijing (CHN),2010-09-19,1114.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7936.0,CHN,18.0,2010
+49,2:12:20,,Alex SCHWAZER,1984-11-26,ITA,2,Ascoli (ITA),2004-10-10,1114.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7940.0,ITA,19.0,2004
+49,2:12:20,,Yao ZHANG,2000-01-11,CHN,1,Changbaishan (CHN),2019-07-21,1114.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7940.0,CHN,19.0,2019
+51,2:12:21,,Serhiy BUDZA,1984-12-06,UKR,3,Yevpatoriya (UKR),2009-03-15,1113.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7941.0,UKR,24.0,2009
+51,2:12:21,,Fujie ZHAO,1993-11-11,CHN,2,Taicang (CHN),2011-04-24,1113.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7941.0,CHN,17.0,2011
+53,2:12:25,,Enrico LANG,1972-03-31,ITA,3,Ascoli (ITA),2004-10-10,1113.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7945.0,ITA,32.0,2004
+54,2:12:30,,Graziano MOROTTI,1951-01-15,ITA,,Bellinzona (SUI),1979-10-21,1112.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7950.0,SUI,28.0,1979
+55,2:12:31,,Sándor URBANIK,1964-12-15,HUN,,Sesto San Giovanni (ITA),1994-05-01,1111.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7951.0,ITA,29.0,1994
+56,2:12:32,,Marco GIUNGI,1974-10-30,ITA,2,Livorno (ITA),2003-02-23,1111.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7952.0,ITA,28.0,2003
+57,2:12:33,,Guanyu SU,1994-06-24,CHN,1,Taicang (CHN),2012-03-31,1111.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7953.0,CHN,17.0,2012
+58,2:12:36,,Zhendong WANG,1991-01-11,CHN,2,Beijing (CHN),2010-09-19,1110.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7956.0,CHN,19.0,2010
+58,2:12:36,,Jesús Ángel GARCÍA,1969-10-17,ESP,4,Badalona (ESP),2003-01-19,1110.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7956.0,ESP,33.0,2003
+60,2:12:38,,Maksym KOVALENKO,1989-01-09,UKR,2,Yevpatoriya (UKR),2010-03-13,1110.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7958.0,UKR,21.0,2010
+60,2:12:38,,Yingchao GAO,1998-01-18,CHN,1,Huangshan (CHN),2017-03-05,1110.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7958.0,CHN,19.0,2017
+62,2:12:41,,Qi ZHAO,1993-01-14,CHN,1,Erdos (CHN),2012-09-15,1110.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7961.0,CHN,19.0,2012
+63,2:12:46,,Matej TÓTH,1983-02-10,SVK,1,Chiasso (SUI),2006-09-10,1109.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7966.0,SUI,23.0,2006
+64,2:12:51,,Mitchell BAKER,2001-07-06,AUS,3,"Albert Park, Melbourne (AUS)",2025-05-18,1108.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7971.0,AUS,23.0,2025
+65,2:12:53,,Kevin EASTLER,1977-10-14,USA,1,"Chula Vista, CA (USA)",2006-01-15,1107.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7973.0,USA,28.0,2006
+66,2:12:56,,Alessandro MISTRETTA,1971-03-06,ITA,3,Livorno (ITA),2003-02-23,1107.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7976.0,ITA,31.0,2003
+67,2:12:57,,Yunpeng DU,1988-09-06,CHN,6,Xi'an (CHN),2006-10-23,1106.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7977.0,CHN,18.0,2006
+68,2:12:58,,Jared TALLENT,1984-10-17,AUS,1,Adelaide (AUS),2005-08-28,1106.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7978.0,AUS,20.0,2005
+69,2:12:59,,Rui ZHANG,1989-01-12,CHN,2,Xintai (CHN),2008-10-25,1106.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7979.0,CHN,19.0,2008
+70,2:13:02,,Zhenyang LIU,1987-10-02,CHN,7,Xi'an (CHN),2006-10-23,1105.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7982.0,CHN,19.0,2006
+71,2:13:07,,Jiaxing YIN,1994-03-16,CHN,2,Erdos (CHN),2012-09-15,1104.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7987.0,CHN,18.0,2012
+72,2:13:09,,Lingfu GENG,1990-10-05,CHN,3,Zhengzhou (CHN),2008-03-16,1104.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7989.0,CHN,17.0,2008
+73,2:13:15,,Tianji ZHANG,2002-12-29,CHN,1,Huangshan (CHN),2021-03-21,1103.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7995.0,CHN,18.0,2021
+74,2:13:16,,Colin GRIFFIN,1982-08-03,IRL,1,Douglas (GBR),2007-03-10,1103.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7996.0,GBR,24.0,2007
+74,2:13:16,,Oleksiy KAZANIN,1982-05-22,UKR,2,Yevpatoriya (UKR),2007-03-16,1103.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7996.0,UKR,24.0,2007
+74,2:13:16,,Hang LIU,2002-11-10,CHN,2,Huangshan (CHN),2021-03-21,1103.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,7996.0,CHN,18.0,2021
+77,2:13:22,,Zhen WANG,1991-08-24,CHN,2,Baoji (CHN),2009-03-22,1101.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8002.0,CHN,17.0,2009
+78,2:13:23,,Erik TYSSE,1980-12-04,NOR,,"Chula Vista, CA (USA)",2006-01-15,1101.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8003.0,USA,25.0,2006
+79,2:13:26,,Jarkko KINNUNEN,1984-01-19,FIN,2,Espoo (FIN),2018-06-17,1101.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8006.0,FIN,34.0,2018
+80,2:13:27,,João VIEIRA,1976-02-20,POR,1,Beja (POR),2005-01-29,1100.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8007.0,POR,28.0,2005
+81,2:13:30,,Wanli HU,1992-05-27,CHN,3,Taicang (CHN),2011-04-24,1100.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8010.0,CHN,18.0,2011
+82,2:13:50,,Jinhong CHA,1997-05-27,CHN,1,Beijing (CHN),2015-03-21,1096.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8030.0,CHN,17.0,2015
+83,2:13:51,,Jared TALLENT,1984-10-17,AUS,2,Hobart (AUS),2006-08-27,1096.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8031.0,AUS,21.0,2006
+84,2:13:53,,Andriy YURIN,1984-01-20,UKR,1,Mukachevo (UKR),2003-10-18,1095.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8033.0,UKR,19.0,2003
+85,2:13:54,,Mario AVELLANEDA,1974-11-12,ESP,5,Badalona (ESP),2003-01-19,1095.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8034.0,ESP,28.0,2003
+85,2:13:54,,Diego CAFAGNA,1975-07-09,ITA,4,Livorno (ITA),2003-02-23,1095.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8034.0,ITA,27.0,2003
+87,2:14:02,,Érick Bernabé BARRONDO,1991-06-14,GUA,,Dublin (IRL),2018-12-07,1093.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8042.0,IRL,27.0,2018
+88,2:14:07,,Rongjin ZHANG,1996-04-24,CHN,1,Changbaishan (CHN),2015-09-07,1092.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8047.0,CHN,19.0,2015
+89,2:14:11,,Brendan BOYCE,1986-10-08,IRL,1,Dublin (IRL),2018-12-07,1092.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8051.0,IRL,32.0,2018
+90,2:14:13,,Peter KORČOK,1974-08-12,SVK,2,Chiasso (SUI),2006-09-10,1091.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8053.0,SUI,32.0,2006
+91,2:14:14,,Zongliang CHEN,1992-01-09,CHN,1,Huangshan (CHN),2010-03-16,1091.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8054.0,CHN,18.0,2010
+92,2:14:15,,Aleksi OJALA,1992-12-09,FIN,2,Savonlinna (FIN),2019-06-09,1091.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8055.0,FIN,26.0,2019
+93,2:14:20,,Oleksiy KAZANIN,1982-05-22,UKR,2,Yevpatoriya (UKR),2005-03-04,1090.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8060.0,UKR,22.0,2005
+93,2:14:20,,Aleksi OJALA,1992-12-09,FIN,3,Espoo (FIN),2018-06-17,1090.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8060.0,FIN,25.0,2018
+95,2:14:21,,Yongqiang HE,1993-10-27,CHN,3,Erdos (CHN),2012-09-15,1090.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8061.0,CHN,18.0,2012
+95,2:14:21,,Wenchao NIU,1998-04-20,CHN,2,Huangshan (CHN),2017-03-05,1090.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8061.0,CHN,18.0,2017
+97,2:14:24,,Liangyong LI,1996-05-28,CHN,2,Huangshan (CHN),2014-02-28,1089.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8064.0,CHN,17.0,2014
+97,2:14:24,,Jarkko KINNUNEN,1984-01-19,FIN,1,Espoo (FIN),2015-06-14,1089.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8064.0,FIN,31.0,2015
+99,2:14:26,,Rusi LIU,1991-08-06,CHN,1,Taicang (CHN),2010-05-09,1089.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8066.0,CHN,18.0,2010
+100,2:14:28,,Kun WANG,1989-05-10,CHN,3,Xintai (CHN),2008-10-25,1088.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8068.0,CHN,19.0,2008
+101,2:14:32,,Xiaozhen JIANG,,CHN,2,Huangshan (CHN),2010-03-16,1088.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8072.0,CHN,,2010
+102,2:14:34,,Quentin REW,1984-07-16,NZL,2,Richmond (CAN),2014-08-10,1087.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8074.0,CAN,30.0,2014
+103,2:14:37,,Peng LI,1994-11-10,CHN,1,Taicang (CHN),2013-03-02,1087.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8077.0,CHN,18.0,2013
+104,2:14:40,,Alfio CORSARO,1979-10-31,ITA,5,Livorno (ITA),2003-02-23,1086.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8080.0,ITA,23.0,2003
+105,2:14:41,,Oleksiy SHELEST,1973-03-27,UKR,3,Yevpatoriya (UKR),2007-03-16,1086.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8081.0,UKR,33.0,2007
+106,2:14:44,,Kevin EASTLER,1977-10-14,USA,1,"Chula Vista, CA (USA)",2004-01-11,1085.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8084.0,USA,26.0,2004
+107,2:14:46,,Diego CAFAGNA,1975-07-09,ITA,4,Ascoli (ITA),2004-10-10,1085.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8086.0,ITA,29.0,2004
+107,2:14:46,,Marco DE LUCA,1981-05-12,ITA,1,Melfi (ITA),2007-10-07,1085.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8086.0,ITA,26.0,2007
+109,2:14:51,,Shiyi PENG,1998-09-16,CHN,3,Huangshan (CHN),2017-03-05,1084.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8091.0,CHN,18.0,2017
+110,2:14:53,,Tao YANG,1989-12-12,CHN,4,Zhengzhou (CHN),2008-03-16,1083.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8093.0,CHN,18.0,2008
+111,2:14:54,,Dedong YANG,1996-11-23,CHN,2,Changbaishan (CHN),2015-09-07,1083.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8094.0,CHN,18.0,2015
+112,2:14:55,,João VIEIRA,1976-02-20,POR,1,Cucujaes (POR),2007-02-04,1083.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8095.0,POR,30.0,2007
+113,2:14:56,,Yafei CHU,1988-05-09,CHN,8,Xi'an (CHN),2006-10-23,1083.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8096.0,CHN,18.0,2006
+114,2:14:58,,Oleksandr ROMANENKO,1981-06-26,UKR,4,Yevpatoriya (UKR),2007-03-16,1082.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8098.0,UKR,25.0,2007
+114,2:14:58,,Jorge RUIZ,1989-05-17,COL,1,"Valley Cottage, NY (USA)",2014-09-14,1082.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8098.0,USA,25.0,2014
+116,2:15:00,,Chris ERICKSON,1981-12-01,AUS,3,Hobart (AUS),2006-08-27,1082.0,30-kilometres-race-walk,race-walks,male,senior,30-kilometres-race-walk,track,8100.0,AUS,24.0,2006

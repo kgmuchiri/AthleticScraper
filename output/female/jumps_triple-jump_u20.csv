@@ -119,11 +119,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 116,14.01,+1.8,Erica MCLAIN,24 JAN 1986,USA,1,"Carson, CA (USA)",26 JUN 2005,1118,triple-jump,jumps,female,u20
 116,14.01,+0.8,Li SHA,14 AUG 1988,CHN,2,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1118,triple-jump,jumps,female,u20
 116,14.01,+0.6,Liliya KULIK,27 JAN 1987,UKR,3,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1118,triple-jump,jumps,female,u20
-121,14.00,0.0,Anna PYATYKH,04 APR 1981,RUS,1,Krasnodar (RUS),17 SEP 2000,1117,triple-jump,jumps,female,u20
-121,14.00,+0.8,Keila COSTA,06 FEB 1983,BRA,,Sâo Caetano do Sul (BRA),21 APR 2001,1117,triple-jump,jumps,female,u20
-121,14.00,+1.4,Mabel GAY,05 MAY 1983,CUB,1,La Habana (CUB),12 APR 2002,1117,triple-jump,jumps,female,u20
-121,14.00,,Sun YAN,30 MAR 1991,CHN,1,Beijing (CHN),13 MAY 2010,1117,triple-jump,jumps,female,u20
-121,14.00,+1.0,Yana BORODINA,21 APR 1992,RUS,1,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1117,triple-jump,jumps,female,u20
-121,14.00,0.0,Liadagmis POVEA,06 FEB 1996,CUB,2,La Habana (CUB),28 MAY 2015,1117,triple-jump,jumps,female,u20
-121,14.00,-0.6,Aleksandra NACHEVA,20 AUG 2001,BUL,1,Sofia (BUL),17 JUN 2018,1120,triple-jump,jumps,female,u20
-121,14.00,-2.4,Spyridoula KARYDI,30 JAN 2001,GRE,1,"Ryavallen, Borås (SWE)",20 JUL 2019,1131,triple-jump,jumps,female,u20
+116,14.01,+0.5,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,2,"Centro Sportivo Fontanassa, Savona (ITA)",21 MAY 2025,1118,triple-jump,jumps,female,u20
+122,14.00,0.0,Anna PYATYKH,04 APR 1981,RUS,1,Krasnodar (RUS),17 SEP 2000,1117,triple-jump,jumps,female,u20
+122,14.00,+0.8,Keila COSTA,06 FEB 1983,BRA,,Sâo Caetano do Sul (BRA),21 APR 2001,1117,triple-jump,jumps,female,u20
+122,14.00,+1.4,Mabel GAY,05 MAY 1983,CUB,1,La Habana (CUB),12 APR 2002,1117,triple-jump,jumps,female,u20
+122,14.00,,Sun YAN,30 MAR 1991,CHN,1,Beijing (CHN),13 MAY 2010,1117,triple-jump,jumps,female,u20
+122,14.00,+1.0,Yana BORODINA,21 APR 1992,RUS,1,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1117,triple-jump,jumps,female,u20
+122,14.00,0.0,Liadagmis POVEA,06 FEB 1996,CUB,2,La Habana (CUB),28 MAY 2015,1117,triple-jump,jumps,female,u20
+122,14.00,-0.6,Aleksandra NACHEVA,20 AUG 2001,BUL,1,Sofia (BUL),17 JUN 2018,1120,triple-jump,jumps,female,u20
+122,14.00,-2.4,Spyridoula KARYDI,30 JAN 2001,GRE,1,"Ryavallen, Borås (SWE)",20 JUL 2019,1131,triple-jump,jumps,female,u20

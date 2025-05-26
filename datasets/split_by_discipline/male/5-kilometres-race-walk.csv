@@ -1,0 +1,54 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,18:21,,Robert KORZENIOWSKI,1968-07-30,POL,,Bad Salzdefürth (GER),1990-09-15,1194.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1101.0,GER,22.0,1990
+2,18:24,,Valdas KAZLAUSKAS,1958-02-23,LTU,,Bad Salzdefürth (GER),1990-09-15,1189.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1104.0,GER,32.0,1990
+3,18:33,,Erik TYSSE,1980-12-04,NOR,1.0,Bergen (NOR),2006-08-23,1176.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1113.0,NOR,25.0,2006
+4,18:37,,Vasiliy MIZINOV,1997-12-29,ANA,1.0,Voronovo (RUS),2019-08-24,1170.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1117.0,RUS,21.0,2019
+5,18:45,,Maksim KRASNOV,1996-02-10,RUS,2.0,Voronovo (RUS),2019-08-24,1158.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1125.0,RUS,23.0,2019
+6,18:57,,Ivan TROTSKI,1976-05-27,BLR,1.0,Hildesheim (GER),2003-09-14,1140.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1137.0,GER,27.0,2003
+7,19:01,,Erik TYSSE,1980-12-04,NOR,2.0,Hildesheim (GER),2003-09-14,1135.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1141.0,GER,22.0,2003
+7,19:01,,Anton KUČMÍN,1984-06-07,SVK,1.0,Nitra (SVK),2013-10-04,1135.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1141.0,SVK,29.0,2013
+9,19:02,,Kirill FROLOV,1993-09-29,RUS,3.0,Voronovo (RUS),2019-08-24,1133.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1142.0,RUS,25.0,2019
+10,19:04,,Matej TÓTH,1983-02-10,SVK,2.0,Nitra (SVK),2013-10-04,1130.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1144.0,SVK,30.0,2013
+11,19:09,,Tim SEAMAN,1972-05-14,USA,3.0,Hildesheim (GER),2003-09-14,1123.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1149.0,GER,31.0,2003
+12,19:14,,Salih KORKMAZ,1997-01-01,TUR,1.0,Van (TUR),2022-09-03,1116.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1154.0,TUR,25.0,2022
+13,19:18,,Jiří MALYSA,1966-08-14,CZE,4.0,Hildesheim (GER),2003-09-14,1110.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1158.0,GER,37.0,2003
+14,19:20,,Miloš HOLUŠA,1965-05-02,CZE,5.0,Hildesheim (GER),2003-09-14,1107.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1160.0,GER,38.0,2003
+15,19:22,,Grzegorz SUDOŁ,1978-08-28,POL,1.0,Biala Podlaska (POL),2013-08-31,1104.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1162.0,POL,35.0,2013
+15,19:22,,Grzegorz SUDOŁ,1978-08-28,POL,1.0,Gdansk (POL),2013-08-31,1104.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1162.0,POL,35.0,2013
+15,19:22,,Vasiliy MIZINOV,1997-12-29,ANA,1.0,Simnas (LTU),2018-06-10,1104.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1162.0,LTU,20.0,2018
+18,19:23,,Dane BIRD-SMITH,1992-07-15,AUS,1.0,Sunshine Coast (AUS),2018-08-26,1103.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1163.0,AUS,26.0,2018
+19,19:24,,Zdeno BABÍK,1984-01-09,SVK,6.0,Hildesheim (GER),2003-09-14,1101.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1164.0,GER,19.0,2003
+19,19:24,,Alessio WRUSS,,ITA,1.0,Remanzacco (ITA),2011-09-04,1101.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1164.0,ITA,,2011
+19,19:24,,Marc TUR,1994-11-30,ESP,1.0,Toledo (ESP),2021-11-06,1101.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1164.0,ESP,26.0,2021
+22,19:25,,Valdas KAZLAUSKAS,1958-02-23,URS,1.0,Hildesheim (GER),1989-06-11,1100.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1165.0,GER,31.0,1989
+23,19:29,,Andi DRAKE,1965-02-06,GBR,,Søfteland (NOR),1990-05-27,1094.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1169.0,NOR,25.0,1990
+23,19:29,,David HURTADO,1999-04-21,ECU,1.0,"Hauppauge, NY (USA)",2017-10-22,1094.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1169.0,USA,18.0,2017
+23,19:29,,Aliaksandr LIAKHOVICH,1989-07-04,BLR,1.0,Lazdijai (LTU),2019-09-21,1094.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1169.0,LTU,30.0,2019
+26,19:30,,Andrey MAKAROV,1971-01-02,BLR,7.0,Hildesheim (GER),2003-09-14,1093.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1170.0,GER,32.0,2003
+27,19:31,,Alexandros PAPAMICHAIL,1988-09-18,GRE,2.0,Simnas (LTU),2018-06-10,1091.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1171.0,LTU,29.0,2018
+28,19:33,,Alberto AMEZCUA,1992-05-10,ESP,2.0,Toledo (ESP),2021-11-06,1088.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1173.0,ESP,29.0,2021
+28,19:33,,Kyle SWAN,1999-03-28,AUS,1.0,"Stromlo Forest Park, Canberra (AUS)",2024-06-09,1088.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1173.0,AUS,25.0,2024
+30,19:35,,Jaakko MÄÄTTÄNEN,1999-09-03,FIN,1.0,Espoo (FIN),2024-05-18,1086.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1175.0,FIN,24.0,2024
+31,19:36,,Nassir HASNAOUI,,MAR,1.0,Rabat (MAR),1991-02-17,1084.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1176.0,MAR,,1991
+32,19:36,,Ivan LOSEV,1986-01-26,UKR,3.0,Simnas (LTU),2018-06-10,1084.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1176.0,LTU,32.0,2018
+32,19:36,,Kiril SHUTOV,1997-09-24,RUS,4.0,Voronovo (RUS),2019-08-24,1084.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1176.0,RUS,21.0,2019
+32,19:36,,Tim FRASER,2000-02-22,AUS,1.0,"Lennox Gardens, Canberra (AUS)",2022-05-07,1084.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1176.0,AUS,22.0,2022
+35,19:37,,Diego GARCÍA CARRERA,1996-01-19,ESP,1.0,Toledo (ESP),2016-11-19,1083.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1177.0,ESP,20.0,2016
+36,19:39,,Rafał SIKORA,1987-02-17,POL,2.0,Biala Podlaska (POL),2013-08-31,1080.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1179.0,POL,26.0,2013
+36,19:39,,Rafał SIKORA,1987-02-17,POL,2.0,Gdansk (POL),2013-08-31,1080.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1179.0,POL,26.0,2013
+36,19:39,,Salih KORKMAZ,1997-01-01,TUR,1.0,Konya (TUR),2019-04-27,1080.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1179.0,TUR,22.0,2019
+39,19:40,,Dušan MAJDAN,1987-09-08,SVK,3.0,Nitra (SVK),2013-10-04,1078.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1180.0,SVK,26.0,2013
+40,19:41,,Alberto AMEZCUA,1992-05-10,ESP,1.0,Guadix (ESP),2019-12-28,1077.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1181.0,ESP,27.0,2019
+41,19:42,,Alberto AMEZCUA,1992-05-10,ESP,2.0,Toledo (ESP),2016-11-19,1076.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1182.0,ESP,24.0,2016
+41,19:42,,Karl JUNGHANNß,1996-04-06,GER,4.0,Simnas (LTU),2018-06-10,1076.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1182.0,LTU,22.0,2018
+41,19:42,,Jerry JOKINEN,2002-03-18,FIN,2.0,Espoo (FIN),2024-05-18,1076.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1182.0,FIN,22.0,2024
+44,19:43,,Miroslav ÚRADNÍK,1996-03-24,SVK,1.0,Hlohovec (SVK),2019-06-02,1074.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1183.0,SVK,23.0,2019
+44,19:43,,José Manuel PÉREZ,1999-09-10,ESP,3.0,Toledo (ESP),2021-11-06,1074.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1183.0,ESP,22.0,2021
+46,19:44,,Rafał AUGUSTYN,1984-05-14,POL,1.0,Bratkowice (POL),2009-09-12,1073.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1184.0,POL,25.0,2009
+46,19:44,,Anton KUČMÍN,1984-06-07,SVK,1.0,Hlohovec (SVK),2014-06-01,1073.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1184.0,SVK,30.0,2014
+46,19:44,,Anton KUČMÍN,1984-06-07,SVK,1.0,Nitra (SVK),2014-09-25,1073.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1184.0,SVK,30.0,2014
+49,19:46,,Yevgeniy MISYULYA,1964-03-13,BLR,8.0,Hildesheim (GER),2003-09-14,1070.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1186.0,GER,39.0,2003
+49,19:46,,Sándor RÁCZ,1986-09-14,HUN,4.0,Nitra (SVK),2013-10-04,1070.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1186.0,SVK,27.0,2013
+49,19:46,,Iván LÓPEZ,1997-03-29,ESP,4.0,Toledo (ESP),2021-11-06,1070.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1186.0,ESP,24.0,2021
+52,19:48,,Łukasz NOWAK,1988-12-18,POL,1.0,Pila (POL),2012-10-06,1067.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1188.0,POL,23.0,2012
+53,19:50,,Luis Manuel CORCHETE,1984-05-14,ESP,5.0,Toledo (ESP),2021-11-06,1064.0,5-kilometres-race-walk,race-walks,male,senior,5-kilometres-race-walk,track,1190.0,ESP,37.0,2021

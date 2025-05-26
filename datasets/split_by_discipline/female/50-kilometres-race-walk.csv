@@ -1,0 +1,342 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,3:50:42,,Yelena LASHMANOVA,1992-04-09,RUS,1.0,Voronovo (RUS),2020-09-05,1295.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,13842.0,RUS,28.0,2020
+2,3:57:08,,Klavdiya AFANASYEVA,1996-01-15,RUS,1.0,Cheboksary (RUS),2019-06-15,1256.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14228.0,RUS,23.0,2019
+3,3:59:15,,Hong LIU,1987-05-12,CHN,1.0,Huangshan (CHN),2019-03-09,1244.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14355.0,CHN,31.0,2019
+4,3:59:56,,Margarita NIKIFOROVA,1998-08-19,RUS,2.0,Voronovo (RUS),2020-09-05,1240.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14396.0,RUS,22.0,2020
+5,4:03:07,,Margarita NIKIFOROVA,1998-08-19,RUS,1.0,Cheboksary (RUS),2021-05-29,1221.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14587.0,RUS,22.0,2021
+6,4:03:51,,Maocuo LI,1992-10-20,CHN,2.0,Huangshan (CHN),2019-03-09,1216.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14631.0,CHN,26.0,2019
+7,4:04:36,,Rui LIANG,1994-06-18,CHN,1.0,Taicang (CHN),2018-05-05,1212.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14676.0,CHN,23.0,2018
+8,4:04:50,,Eleonora Anna GIORGI,1989-09-14,ITA,1.0,Alytus (LTU),2019-05-19,1211.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14690.0,LTU,29.0,2019
+9,4:05:46,,Júlia TAKÁCS,1989-06-29,ESP,2.0,Alytus (LTU),2019-05-19,1205.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14746.0,LTU,29.0,2019
+10,4:05:56,,Inês HENRIQUES,1980-05-01,POR,1.0,"Olympic Stadium, London (GBR)",2017-08-13,1204.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14756.0,GBR,37.0,2017
+11,4:05:58,,Margarita NIKIFOROVA,1998-08-19,RUS,2.0,Cheboksary (RUS),2019-06-15,1204.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14758.0,RUS,20.0,2019
+12,4:07:30,,Faying MA,1993-08-30,CHN,3.0,Huangshan (CHN),2019-03-09,1195.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14850.0,CHN,25.0,2019
+13,4:08:26,,Inês HENRIQUES,1980-05-01,POR,1.0,"Circuito Urbano, Porto de Mos (POR)",2017-01-15,1190.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14906.0,POR,36.0,2017
+14,4:08:58,,Hang YIN,1997-02-07,CHN,2.0,"Olympic Stadium, London (GBR)",2017-08-13,1186.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14938.0,GBR,20.0,2017
+15,4:09:09,,Hang YIN,1997-02-07,CHN,2.0,Taicang (CHN),2018-05-05,1185.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14949.0,CHN,21.0,2018
+16,4:09:21,,Inês HENRIQUES,1980-05-01,POR,1.0,"Olympiastadion, Berlin (GER)",2018-08-07,1184.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14961.0,GER,38.0,2018
+17,4:09:33,,Claire TALLENT,1981-07-06,AUS,3.0,Taicang (CHN),2018-05-05,1183.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,14973.0,CHN,36.0,2018
+18,4:10:59,,Monica SVENSSON,1978-12-26,SWE,1.0,Scanzorosciate (ITA),2007-10-21,1175.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15059.0,ITA,28.0,2007
+19,4:11:01,,Raquel GONZÁLEZ,1989-11-16,ESP,1.0,El Vendrell (ESP),2019-02-10,1174.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15061.0,ESP,29.0,2019
+20,4:11:12,,Johana ORDÓŇEZ,1987-12-12,ECU,1.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1173.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15072.0,PER,31.0,2019
+21,4:12:16,,Yelena GINKO,1976-07-30,BLR,1.0,Scanzorosciate (ITA),2004-10-17,1167.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15136.0,ITA,28.0,2004
+22,4:12:26,,Rui LIANG,1994-06-18,CHN,1.0,Xi'an (CHN),2018-09-08,1166.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15146.0,CHN,24.0,2018
+23,4:12:44,,Claire TALLENT,1981-07-06,AUS,,"Santee, CA (USA)",2019-01-26,1165.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15164.0,USA,37.0,2019
+24,4:12:56,,Paola PÉREZ,1989-12-21,ECU,4.0,Taicang (CHN),2018-05-05,1163.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15176.0,CHN,28.0,2018
+25,4:13:04,,Júlia TAKÁCS,1989-06-29,ESP,1.0,Burjassot (ESP),2018-02-25,1163.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15184.0,ESP,28.0,2018
+25,4:13:04,,Maocuo LI,1992-10-20,CHN,1.0,Chifeng (CHN),2018-07-03,1163.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15184.0,CHN,25.0,2018
+27,4:13:28,,Faying MA,1993-08-30,CHN,5.0,Taicang (CHN),2018-05-05,1160.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15208.0,CHN,24.0,2018
+28,4:13:56,,Mirna ORTÍZ,1987-02-28,GUA,1.0,Ciudad de Guatemala (GUA),2019-02-24,1158.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15236.0,GUA,32.0,2019
+29,4:13:57,,Inês HENRIQUES,1980-05-01,POR,3.0,Alytus (LTU),2019-05-19,1158.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15237.0,LTU,39.0,2019
+30,4:14:25,,Mária KATERINKA CZAKOVÁ,1988-10-02,SVK,1.0,Dudince (SVK),2018-03-24,1155.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15265.0,SVK,29.0,2018
+31,4:14:28,,Johana ORDÓŇEZ,1987-12-12,ECU,6.0,Taicang (CHN),2018-05-05,1155.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15268.0,CHN,30.0,2018
+32,4:14:31,,Pengqin JIANG,1995-09-05,CHN,4.0,Huangshan (CHN),2019-03-09,1154.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15271.0,CHN,23.0,2019
+33,4:14:38,,Monica SVENSSON,1978-12-26,SWE,1.0,Scanzorosciate (ITA),2009-10-18,1154.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15278.0,ITA,30.0,2009
+34,4:14:47,,Maocuo LI,1992-10-20,CHN,7.0,Taicang (CHN),2018-05-05,1153.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15287.0,CHN,25.0,2018
+35,4:14:49,,Tiantian BAI,1998-08-14,CHN,5.0,Huangshan (CHN),2019-03-09,1153.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15289.0,CHN,20.0,2019
+36,4:15:21,,Mirna ORTÍZ,1987-02-28,GUA,2.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1149.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15321.0,PER,32.0,2019
+37,4:15:22,,Júlia TAKÁCS,1989-06-29,ESP,2.0,"Olympiastadion, Berlin (GER)",2018-08-07,1149.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15322.0,GER,29.0,2018
+38,4:15:33,,Yingliu WANG,1992-05-01,CHN,6.0,Huangshan (CHN),2019-03-09,1148.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15333.0,CHN,26.0,2019
+39,4:15:42,,Mayra PÉREZ,1988-12-20,GUA,1.0,"Owego, NY (USA)",2017-09-09,1147.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15342.0,USA,28.0,2017
+40,4:15:46,,Mar JUÁREZ,1993-09-27,ESP,1.0,Torrevieja (ESP),2020-02-16,1147.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15346.0,ESP,26.0,2020
+41,4:15:50,,Valentyna MYRONCHUK,1994-08-10,UKR,4.0,Alytus (LTU),2019-05-19,1147.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15350.0,LTU,24.0,2019
+42,4:15:51,,Maocuo LI,1992-10-20,CHN,2.0,Xi'an (CHN),2018-09-08,1147.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15351.0,CHN,25.0,2018
+43,4:16:27,,Jolanta DUKURE,1979-09-20,LAT,1.0,Paralepa (EST),2006-09-09,1143.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15387.0,EST,26.0,2006
+44,4:16:33,,Mária KATERINKA CZAKOVÁ,1988-10-02,SVK,1.0,Dudince (SVK),2019-03-23,1143.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15393.0,SVK,30.0,2019
+45,4:16:37,,Júlia TAKÁCS,1989-06-29,ESP,8.0,Taicang (CHN),2018-05-05,1142.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15397.0,CHN,28.0,2018
+46,4:16:39,,Nastassia YATSEVICH,1985-01-18,BLR,5.0,Alytus (LTU),2019-05-19,1142.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15399.0,LTU,34.0,2019
+47,4:16:54,,Paola PÉREZ,1989-12-21,ECU,3.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1141.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15414.0,PER,29.0,2019
+48,4:17:07,,Olena SOBCHUK,1995-11-23,UKR,6.0,Alytus (LTU),2019-05-19,1139.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15427.0,LTU,23.0,2019
+49,4:17:29,,Monica SVENSSON,1978-12-26,SWE,1.0,Scanzorosciate (ITA),2006-10-15,1137.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15449.0,ITA,27.0,2006
+49,4:17:29,,Nadzeya DARAZHUK,1990-01-23,BLR,7.0,Alytus (LTU),2019-05-19,1137.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15449.0,LTU,29.0,2019
+51,4:18:00,,Nastassia YATSEVICH,1985-01-18,BLR,9.0,Taicang (CHN),2018-05-05,1134.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15480.0,CHN,33.0,2018
+52,4:18:26,,Anastasiya KALASHNIKOVA,1997-06-29,RUS,3.0,Voronovo (RUS),2020-09-05,1132.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15506.0,RUS,23.0,2020
+53,4:18:31,,Nadzeya DARAZHUK,1990-01-23,BLR,10.0,Taicang (CHN),2018-05-05,1131.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15511.0,CHN,28.0,2018
+54,4:18:50,,Valentyna MYRONCHUK,1994-08-10,UKR,1.0,Ivano-Frankivsk (UKR),2018-10-20,1130.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15530.0,UKR,24.0,2018
+55,4:18:53,,Yelena GINKO,1976-07-30,BLR,1.0,Scanzorosciate (ITA),2008-10-20,1129.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15533.0,ITA,32.0,2008
+56,4:18:56,,Ainhoa PINEDO,1983-02-17,ESP,2.0,Burjassot (ESP),2018-02-25,1129.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15536.0,ESP,35.0,2018
+57,4:19:04,,Magaly Beatriz BONILLA,1992-02-08,ECU,11.0,Taicang (CHN),2018-05-05,1128.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15544.0,CHN,26.0,2018
+58,4:19:13,,Yelena GINKO,1976-07-30,BLR,1.0,Scanzorosciate (ITA),2002-10-27,1127.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15553.0,ITA,26.0,2002
+59,4:19:34,,Rui LIANG,1994-06-18,CHN,7.0,Huangshan (CHN),2019-03-09,1125.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15574.0,CHN,24.0,2019
+60,4:19:37,,Kristina LYUBUSHKINA,1995-09-19,RUS,2.0,Cheboksary (RUS),2021-05-29,1125.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15577.0,RUS,25.0,2021
+61,4:19:43,,Magaly Beatriz BONILLA,1992-02-08,ECU,1.0,Sucúa (ECU),2018-03-10,1125.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15583.0,ECU,26.0,2018
+62,4:19:56,,Masumi FUCHISE,1986-09-02,JPN,1.0,Wajima (JPN),2019-04-14,1123.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15596.0,JPN,32.0,2019
+63,4:19:57,,Khrystyna YUDKINA,1984-12-04,UKR,8.0,Alytus (LTU),2019-05-19,1123.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15597.0,LTU,34.0,2019
+64,4:20:17,,Ivana RENIĆ,1996-08-21,CRO,2.0,Dudince (SVK),2019-03-23,1121.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15617.0,SVK,22.0,2019
+65,4:20:36,,Erika Jazmine MORALES,1986-10-12,MEX,1.0,"Hauppauge, NY (USA)",2018-10-21,1120.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15636.0,USA,32.0,2018
+66,4:20:46,,Khrystyna YUDKINA,1984-12-04,UKR,3.0,"Olympiastadion, Berlin (GER)",2018-08-07,1119.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15646.0,GER,33.0,2018
+67,4:20:49,,Shuqing YANG,1996-08-30,CHN,3.0,"Olympic Stadium, London (GBR)",2017-08-13,1118.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15649.0,GBR,20.0,2017
+68,4:21:07,,Ainhoa PINEDO,1983-02-17,ESP,9.0,Alytus (LTU),2019-05-19,1117.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15667.0,LTU,36.0,2019
+69,4:21:51,,Katie BURNETT,1988-10-07,USA,4.0,"Olympic Stadium, London (GBR)",2017-08-13,1112.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15711.0,GBR,28.0,2017
+70,4:22:15,,Khrystyna YUDKINA,1984-12-04,UKR,12.0,Taicang (CHN),2018-05-05,1110.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15735.0,CHN,33.0,2018
+71,4:22:20,,Monica SVENSSON,1978-12-26,SWE,2.0,Scanzorosciate (ITA),2008-10-20,1110.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15740.0,ITA,29.0,2008
+72,4:22:22,,Hang YIN,1997-02-07,CHN,1.0,Huangshan (CHN),2017-03-05,1110.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15742.0,CHN,20.0,2017
+73,4:22:23,,Nadezhda MOKEYEVA,1996-01-10,RUS,3.0,Cheboksary (RUS),2019-06-15,1109.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15743.0,RUS,23.0,2019
+74,4:22:24,,Kristina LYUBUSHKINA,1995-09-19,RUS,4.0,Voronovo (RUS),2020-09-05,1109.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15744.0,RUS,24.0,2020
+75,4:22:36,,Aleksandra BUSHKOVA,1997-01-13,RUS,2.0,Cheboksary (RUS),2018-06-09,1108.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15756.0,RUS,21.0,2018
+76,4:22:46,,Viviane LYRA,1993-07-29,BRA,4.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1107.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15766.0,PER,26.0,2019
+77,4:22:47,,Meijiao CHI,1996-06-28,CHN,8.0,Huangshan (CHN),2019-03-09,1107.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15767.0,CHN,22.0,2019
+78,4:22:57,,Evelyn INGA,1998-04-16,PER,1.0,Lázaro Cárdenas (MEX),2019-04-21,1106.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15777.0,MEX,21.0,2019
+79,4:23:26,,Rui LIANG,1994-06-18,CHN,1.0,"Corniche, Doha (QAT)",2019-09-28,1104.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15806.0,QAT,25.0,2019
+80,4:24:08,,Vasylyna VІTOVSHCHYK,1990-04-30,UKR,13.0,Taicang (CHN),2018-05-05,1100.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15848.0,CHN,28.0,2018
+81,4:24:35,,Mar JUÁREZ,1993-09-27,ESP,10.0,Alytus (LTU),2019-05-19,1097.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15875.0,LTU,25.0,2019
+82,4:24:49,,Johana ORDÓŇEZ,1987-12-12,ECU,2.0,Lázaro Cárdenas (MEX),2019-04-21,1096.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15889.0,MEX,31.0,2019
+83,4:24:59,,Mária KATERINKA CZAKOVÁ,1988-10-02,SVK,4.0,"Olympiastadion, Berlin (GER)",2018-08-07,1095.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15899.0,GER,29.0,2018
+84,4:25:04,,Tiantian BAI,1998-08-14,CHN,1.0,Leshan (CHN),2019-09-07,1094.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15904.0,CHN,21.0,2019
+85,4:25:22,,Brigita VIRBALYTĖ-DIMSIENĖ,1985-02-01,LTU,1.0,Villa di Serio (ITA),2010-10-17,1093.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15922.0,ITA,25.0,2010
+86,4:25:32,,Aleksandra BUSHKOVA,1997-01-13,RUS,5.0,Voronovo (RUS),2020-09-05,1092.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15932.0,RUS,23.0,2020
+87,4:26:10,,Mariavittoria BECCHETTI,1994-12-12,ITA,11.0,Alytus (LTU),2019-05-19,1088.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15970.0,LTU,24.0,2019
+88,4:26:36,,Katie BURNETT,1988-10-07,USA,1.0,"Santee, CA (USA)",2017-01-28,1086.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,15996.0,USA,28.0,2017
+89,4:26:40,,Maocuo LI,1992-10-20,CHN,2.0,"Corniche, Doha (QAT)",2019-09-28,1085.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16000.0,QAT,26.0,2019
+90,4:26:42,,Yumin CHEN,1997-02-28,CHN,9.0,Huangshan (CHN),2019-03-09,1085.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16002.0,CHN,22.0,2019
+91,4:27:03,,Ainhoa PINEDO,1983-02-17,ESP,5.0,"Olympiastadion, Berlin (GER)",2018-08-07,1083.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16023.0,GER,35.0,2018
+92,4:27:13,,Olga SHARGINA,1996-07-24,RUS,3.0,Cheboksary (RUS),2018-06-09,1082.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16033.0,RUS,21.0,2018
+93,4:27:14,,Mara RIBEIRO,1995-05-11,POR,12.0,Alytus (LTU),2019-05-19,1082.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16034.0,LTU,24.0,2019
+94,4:27:24,,Shuqing YANG,1996-08-30,CHN,2.0,Huangshan (CHN),2017-03-05,1081.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16044.0,CHN,20.0,2017
+95,4:27:38,,Nicole COLOMBI,1995-12-29,ITA,1.0,Gioiosa Marea (ITA),2019-01-27,1080.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16058.0,ITA,23.0,2019
+96,4:27:50,,Hang YIN,1997-02-07,CHN,2.0,Leshan (CHN),2019-09-07,1079.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16070.0,CHN,22.0,2019
+97,4:27:51,,Yuki YOSHIZUMI,1996-01-07,JPN,1.0,Takahata (JPN),2019-10-27,1079.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16071.0,JPN,23.0,2019
+98,4:28:13,,Evangelia XYNOU,1981-11-22,GRE,2.0,Scanzorosciate (ITA),2004-10-17,1077.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16093.0,ITA,22.0,2004
+99,4:28:30,,Mayra PÉREZ,1988-12-20,GUA,14.0,Taicang (CHN),2018-05-05,1075.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16110.0,CHN,29.0,2018
+100,4:28:49,,Alina TSVILII,1994-09-18,UKR,15.0,Taicang (CHN),2018-05-05,1073.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16129.0,CHN,23.0,2018
+101,4:28:52,,Claire TALLENT,1981-07-06,AUS,1.0,Melbourne (AUS),2018-12-02,1073.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16132.0,AUS,37.0,2018
+101,4:28:52,,Kristina LYUBUSHKINA,1995-09-19,RUS,4.0,Cheboksary (RUS),2019-06-15,1073.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16132.0,RUS,23.0,2019
+103,4:28:53,,Neringa AIDIETYTĖ,1983-06-05,LTU,1.0,Ivano-Frankivsk (UKR),2006-10-01,1073.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16133.0,UKR,23.0,2006
+104,4:28:58,,Johana ORDÓŇEZ,1987-12-12,ECU,2.0,Sucúa (ECU),2018-03-10,1073.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16138.0,ECU,30.0,2018
+104,4:28:58,,Mar JUÁREZ,1993-09-27,ESP,6.0,"Olympiastadion, Berlin (GER)",2018-08-07,1073.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16138.0,GER,24.0,2018
+106,4:29:13,,Eleonora Anna GIORGI,1989-09-14,ITA,3.0,"Corniche, Doha (QAT)",2019-09-28,1071.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16153.0,QAT,30.0,2019
+107,4:29:15,,Angeliki MAKRI,1978-09-25,GRE,13.0,Alytus (LTU),2019-05-19,1071.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16155.0,LTU,40.0,2019
+108,4:29:25,,Tiia KUIKKA,1994-11-30,FIN,14.0,Alytus (LTU),2019-05-19,1070.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16165.0,LTU,24.0,2019
+109,4:29:33,,Erin TAYLOR TALCOTT,1978-05-21,USA,2.0,"Santee, CA (USA)",2017-01-28,1069.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16173.0,USA,38.0,2017
+109,4:29:33,,Elianay PEREIRA,1984-05-11,BRA,5.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1069.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16173.0,PER,35.0,2019
+111,4:29:37,,Anastasiya KALASHNIKOVA,1997-06-29,RUS,3.0,Cheboksary (RUS),2021-05-29,1069.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16177.0,RUS,23.0,2021
+112,4:29:45,,Serena SONODA,1996-09-10,JPN,1.0,Takahata (JPN),2018-10-28,1068.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16185.0,JPN,22.0,2018
+113,4:29:56,,Natalia BRUNIKO,1973-02-23,ITA,2.0,Scanzorosciate (ITA),2002-10-27,1067.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16196.0,ITA,29.0,2002
+114,4:30:02,,Ainhoa PINEDO,1983-02-17,ESP,16.0,Taicang (CHN),2018-05-05,1067.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16202.0,CHN,35.0,2018
+115,4:30:09,,Kristina IVANOVA,1998-04-14,RUS,5.0,Cheboksary (RUS),2019-06-15,1066.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16209.0,RUS,21.0,2019
+116,4:30:17,,Federica CURIAZZI,1992-08-14,ITA,15.0,Alytus (LTU),2019-05-19,1065.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16217.0,LTU,26.0,2019
+117,4:30:30,,Mar JUÁREZ,1993-09-27,ESP,17.0,Taicang (CHN),2018-05-05,1064.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16230.0,CHN,24.0,2018
+118,4:30:38,,Aleksandra BUSHKOVA,1997-01-13,RUS,6.0,Cheboksary (RUS),2019-06-15,1063.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16238.0,RUS,22.0,2019
+119,4:30:43,,Dušica TOPIĆ,1982-01-11,SRB,7.0,"Olympiastadion, Berlin (GER)",2018-08-07,1063.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16243.0,GER,36.0,2018
+120,4:30:52,,Mayra PÉREZ,1988-12-20,GUA,6.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1062.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16252.0,PER,30.0,2019
+121,4:30:59,,Jolanta DUKURE,1979-09-20,LAT,2.0,Scanzorosciate (ITA),2009-10-18,1061.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16259.0,ITA,30.0,2009
+122,4:31:19,,Agnieszka ELLWARD,1989-03-26,POL,16.0,Alytus (LTU),2019-05-19,1060.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16279.0,LTU,30.0,2019
+123,4:31:33,,Jocy CABALLERO,1993-02-02,PER,7.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1058.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16293.0,PER,26.0,2019
+124,4:31:41,,Mariavittoria BECCHETTI,1994-12-12,ITA,8.0,"Olympiastadion, Berlin (GER)",2018-08-07,1058.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16301.0,GER,23.0,2018
+125,4:31:48,,Yafei ZHAO,1999-07-10,CHN,10.0,Huangshan (CHN),2019-03-09,1057.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16308.0,CHN,19.0,2019
+126,4:31:52,,Serena SONODA,1996-09-10,JPN,1.0,Wajima (JPN),2018-04-15,1057.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16312.0,JPN,21.0,2018
+127,4:32:11,,Irina MUSIKHINA,1988-06-07,RUS,6.0,Voronovo (RUS),2020-09-05,1055.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16331.0,RUS,32.0,2020
+128,4:32:14,,Khrystyna YUDKINA,1984-12-04,UKR,1.0,Ivano-Frankivsk (UKR),2017-10-15,1055.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16334.0,UKR,32.0,2017
+128,4:32:14,,Shanshan JIANG,1997-02-28,CHN,3.0,Huangshan (CHN),2017-03-05,1055.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16334.0,CHN,20.0,2017
+130,4:32:30,,Khrystyna YUDKINA,1984-12-04,UKR,1.0,Ivano-Frankivsk (UKR),2020-10-18,1053.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16350.0,UKR,35.0,2020
+131,4:32:35,,Lyudmyla SHELEST,1974-10-04,UKR,3.0,Scanzorosciate (ITA),2009-10-18,1053.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16355.0,ITA,35.0,2009
+132,4:32:43,,Tiia KUIKKA,1994-11-30,FIN,18.0,Taicang (CHN),2018-05-05,1052.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16363.0,CHN,23.0,2018
+133,4:32:47,,Agnieszka ELLWARD,1989-03-26,POL,2.0,Dudince (SVK),2018-03-24,1052.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16367.0,SVK,29.0,2018
+133,4:32:47,,Tiantian BAI,1998-08-14,CHN,2.0,Chifeng (CHN),2018-07-03,1052.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16367.0,CHN,19.0,2018
+135,4:32:53,,Erika Jazmine MORALES,1986-10-12,MEX,1.0,Monterrey (MEX),2018-02-25,1051.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16373.0,MEX,31.0,2018
+136,4:32:58,,Meijiao CHI,1996-06-28,CHN,3.0,Leshan (CHN),2019-09-07,1051.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16378.0,CHN,23.0,2019
+137,4:33:22,,Erin TAYLOR TALCOTT,1978-05-21,USA,1.0,"Santee, CA (USA)",2012-01-22,1048.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16402.0,USA,33.0,2012
+138,4:33:38,,Olena SOBCHUK,1995-11-23,UKR,4.0,"Corniche, Doha (QAT)",2019-09-28,1047.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16418.0,QAT,23.0,2019
+139,4:33:42,,Evangelia XYNOU,1981-11-22,GRE,2.0,Scanzorosciate (ITA),2007-10-21,1047.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16422.0,ITA,25.0,2007
+140,4:33:45,,Lyudmyla SHELEST,1974-10-04,UKR,3.0,Scanzorosciate (ITA),2004-10-17,1046.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16425.0,ITA,30.0,2004
+141,4:33:52,,Magaly Beatriz BONILLA,1992-02-08,ECU,3.0,Lázaro Cárdenas (MEX),2019-04-21,1046.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16432.0,MEX,27.0,2019
+142,4:34:01,,Kang ZHOU,1989-12-24,CHN,1.0,Huangshan (CHN),2016-03-06,1045.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16441.0,CHN,26.0,2016
+143,4:34:16,,Qiuye LI,1993-12-02,CHN,3.0,Chifeng (CHN),2018-07-03,1043.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16456.0,CHN,24.0,2018
+144,4:34:24,,Robyn STEVENS,1983-04-24,USA,1.0,"Santee, CA (USA)",2019-01-26,1043.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16464.0,USA,35.0,2019
+145,4:34:45,,Kristina KUDINOVA,1998-10-25,RUS,7.0,Voronovo (RUS),2020-09-05,1041.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16485.0,RUS,21.0,2020
+146,4:34:49,,Kseniya RADKO,1994-08-18,UKR,2.0,Ivano-Frankivsk (UKR),2017-10-15,1040.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16489.0,UKR,23.0,2017
+147,4:34:55,,Viviane LYRA,1993-07-29,BRA,4.0,Lázaro Cárdenas (MEX),2019-04-21,1040.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16495.0,MEX,25.0,2019
+148,4:34:56,,Faying MA,1993-08-30,CHN,5.0,"Corniche, Doha (QAT)",2019-09-28,1040.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16496.0,QAT,26.0,2019
+149,4:35:14,,Nadzeya DARAZHUK,1990-01-23,BLR,9.0,"Olympiastadion, Berlin (GER)",2018-08-07,1038.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16514.0,GER,28.0,2018
+150,4:35:35,,Jocy CABALLERO,1993-02-02,PER,5.0,Lázaro Cárdenas (MEX),2019-04-21,1036.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16535.0,MEX,26.0,2019
+151,4:35:39,,Ivana RENIĆ,1996-08-21,CRO,10.0,"Olympiastadion, Berlin (GER)",2018-08-07,1036.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16539.0,GER,21.0,2018
+152,4:35:51,,Annalisa POTENZA,1981-02-10,ITA,4.0,Scanzorosciate (ITA),2009-10-18,1035.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16551.0,ITA,28.0,2009
+153,4:35:56,,Tiia KUIKKA,1994-11-30,FIN,11.0,"Olympiastadion, Berlin (GER)",2018-08-07,1034.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16556.0,GER,23.0,2018
+154,4:36:00,,Khrystyna YUDKINA,1984-12-04,UKR,6.0,"Corniche, Doha (QAT)",2019-09-28,1034.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16560.0,QAT,34.0,2019
+155,4:36:05,,Lyudmyla SHELEST,1974-10-04,UKR,17.0,Alytus (LTU),2019-05-19,1034.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16565.0,LTU,44.0,2019
+156,4:36:36,,Evelyn INGA,1998-04-16,PER,8.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,1031.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16596.0,PER,21.0,2019
+157,4:36:40,,Lixue WANG,1996-12-15,CHN,4.0,Huangshan (CHN),2017-03-05,1030.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16600.0,CHN,20.0,2017
+158,4:37:03,,Magaly Beatriz BONILLA,1992-02-08,ECU,7.0,"Corniche, Doha (QAT)",2019-09-28,1028.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16623.0,QAT,27.0,2019
+159,4:37:05,,Viviane LYRA,1993-07-29,BRA,1.0,Bragança Paulista (BRA),2019-02-17,1028.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16625.0,BRA,25.0,2019
+160,4:37:26,,Leilei LI,1989-08-18,CHN,11.0,Huangshan (CHN),2019-03-09,1026.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16646.0,CHN,29.0,2019
+161,4:37:33,,Robyn STEVENS,1983-04-24,USA,1.0,"Santee, CA (USA)",2020-01-25,1026.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16653.0,USA,36.0,2020
+162,4:37:40,,Martina GABRIELLI,1986-02-15,ITA,2.0,Scanzorosciate (ITA),2006-10-15,1025.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16660.0,ITA,20.0,2006
+163,4:37:43,,Maria LARIOS LÓPEZ,1992-10-29,ESP,19.0,Taicang (CHN),2018-05-05,1025.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16663.0,CHN,25.0,2018
+163,4:37:43,,Lyudmyla SHELEST,1974-10-04,UKR,20.0,Taicang (CHN),2018-05-05,1025.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16663.0,CHN,43.0,2018
+165,4:37:54,,Elina CHEBOTARYOVA,1998-02-05,RUS,7.0,Cheboksary (RUS),2019-06-15,1024.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16674.0,RUS,21.0,2019
+166,4:37:55,,Vasylyna VІTOVSHCHYK,1990-04-30,UKR,3.0,Ivano-Frankivsk (UKR),2017-10-15,1024.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16675.0,UKR,27.0,2017
+167,4:38:11,,Erin TAYLOR TALCOTT,1978-05-21,USA,1.0,"Santee, CA (USA)",2014-12-14,1022.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16691.0,USA,36.0,2014
+168,4:38:20,,Júlia TAKÁCS,1989-06-29,ESP,8.0,"Corniche, Doha (QAT)",2019-09-28,1021.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16700.0,QAT,30.0,2019
+169,4:38:23,,Kseniya RADKO,1994-08-18,UKR,21.0,Taicang (CHN),2018-05-05,1021.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16703.0,CHN,23.0,2018
+170,4:38:26,,Lixue WANG,1996-12-15,CHN,1.0,Zhengzhou (CHN),2017-05-22,1021.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16706.0,CHN,20.0,2017
+171,4:38:36,,Tamara HAVRYLYUK,1995-12-14,UKR,2.0,Ivano-Frankivsk (UKR),2020-10-18,1020.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16716.0,UKR,24.0,2020
+172,4:38:44,,Agnieszka ELLWARD,1989-03-26,POL,1.0,Dudince (SVK),2020-10-24,1019.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16724.0,SVK,31.0,2020
+173,4:38:48,,Dan WANG,1995-01-11,CHN,5.0,Huangshan (CHN),2017-03-05,1019.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16728.0,CHN,22.0,2017
+173,4:38:48,,Nair DA ROSA,1980-03-22,BRA,3.0,Sucúa (ECU),2018-03-10,1019.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16728.0,ECU,37.0,2018
+175,4:38:54,,Paola PÉREZ,1989-12-21,ECU,9.0,"Corniche, Doha (QAT)",2019-09-28,1018.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16734.0,QAT,29.0,2019
+176,4:38:56,,Dan WANG,1995-01-11,CHN,2.0,Huangshan (CHN),2016-03-06,1018.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16736.0,CHN,21.0,2016
+176,4:38:56,,Shuqing YANG,1996-08-30,CHN,1.0,Xi'an (CHN),2017-06-18,1018.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16736.0,CHN,20.0,2017
+178,4:39:01,,Nami KUMAGAI,1996-07-09,JPN,2.0,Wajima (JPN),2018-04-15,1018.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16741.0,JPN,21.0,2018
+179,4:39:07,,Serena SONODA,1996-09-10,JPN,2.0,Takahata (JPN),2019-10-27,1017.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16747.0,JPN,23.0,2019
+180,4:39:09,,Kseniya RADKO,1994-08-18,UKR,1.0,Ivano-Frankivsk (UKR),2016-10-16,1017.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16749.0,UKR,22.0,2016
+181,4:39:10,,Aleksandra OVSYANNIKOVA,1993-06-16,RUS,8.0,Voronovo (RUS),2020-09-05,1017.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16750.0,RUS,27.0,2020
+182,4:39:28,,Nair DA ROSA,1980-03-22,BRA,1.0,Lima (PER),2017-05-14,1015.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16768.0,PER,37.0,2017
+182,4:39:28,,Mar JUÁREZ,1993-09-27,ESP,10.0,"Corniche, Doha (QAT)",2019-09-28,1015.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16768.0,QAT,26.0,2019
+184,4:39:42,,Katie BURNETT,1988-10-07,USA,2.0,"Santee, CA (USA)",2014-12-14,1014.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16782.0,USA,26.0,2014
+185,4:39:50,,Han XIAO,1998-11-12,CHN,4.0,Leshan (CHN),2019-09-07,1013.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16790.0,CHN,20.0,2019
+186,4:40:00,,Aleksandra OVSYANNIKOVA,1993-06-16,RUS,4.0,Cheboksary (RUS),2018-06-09,1012.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16800.0,RUS,24.0,2018
+187,4:40:02,,Caihong TANG,1996-04-29,CHN,2.0,Zhengzhou (CHN),2017-05-22,1012.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16802.0,CHN,21.0,2017
+187,4:40:02,,Anastasiya RODZKINA,1994-08-29,BLR,18.0,Alytus (LTU),2019-05-19,1012.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16802.0,LTU,24.0,2019
+189,4:40:03,,Mayra PÉREZ,1988-12-20,GUA,2.0,Ciudad de Guatemala (GUA),2019-02-24,1012.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16803.0,GUA,30.0,2019
+190,4:40:05,,Andrea KOVÁCS,1980-07-21,HUN,19.0,Alytus (LTU),2019-05-19,1012.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16805.0,LTU,38.0,2019
+191,4:40:15,,Mariavittoria BECCHETTI,1994-12-12,ITA,22.0,Taicang (CHN),2018-05-05,1011.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16815.0,CHN,23.0,2018
+192,4:40:24,,Agnieszka ELLWARD,1989-03-26,POL,3.0,Dudince (SVK),2019-03-23,1010.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16824.0,SVK,30.0,2019
+193,4:40:39,,Nami KUMAGAI,1996-07-09,JPN,2.0,Takahata (JPN),2018-10-28,1009.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16839.0,JPN,22.0,2018
+194,4:40:40,,Natsumi KURAHARA,,JPN,3.0,Takahata (JPN),2019-10-27,1009.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16840.0,JPN,,2019
+195,4:40:45,,Ainhoa PINEDO,1983-02-17,ESP,2.0,Torrevieja (ESP),2020-02-16,1008.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16845.0,ESP,37.0,2020
+196,4:41:02,,Paulina BUZIAK-SMIATACZ,1986-12-16,POL,4.0,Dudince (SVK),2019-03-23,1007.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16862.0,SVK,32.0,2019
+196,4:41:02,,Masumi FUCHISE,1986-09-02,JPN,11.0,"Corniche, Doha (QAT)",2019-09-28,1007.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16862.0,QAT,33.0,2019
+198,4:41:03,,Lyudmyla SHELEST,1974-10-04,UKR,1.0,Scanzorosciate (ITA),2005-10-16,1007.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16863.0,ITA,31.0,2005
+198,4:41:03,,Beatrice FORESTI,1998-10-29,ITA,20.0,Alytus (LTU),2019-05-19,1007.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16863.0,LTU,20.0,2019
+200,4:41:07,,Viviane LYRA,1993-07-29,BRA,1.0,Lima (PER),2020-03-07,1006.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16867.0,PER,26.0,2020
+201,4:41:09,,Aleksandra OVSYANNIKOVA,1993-06-16,RUS,8.0,Cheboksary (RUS),2019-06-15,1006.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16869.0,RUS,26.0,2019
+202,4:41:12,,Stephanie CASEY,1983-08-01,USA,6.0,Lázaro Cárdenas (MEX),2019-04-21,1006.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16872.0,MEX,35.0,2019
+203,4:41:16,,Antonina LOREK,1995-02-11,POL,2.0,Dudince (SVK),2020-10-24,1006.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16876.0,SVK,25.0,2020
+204,4:41:32,,Agnese PASTARE,1988-10-27,LAT,3.0,Scanzorosciate (ITA),2008-10-20,1004.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16892.0,ITA,19.0,2008
+205,4:41:39,,Viviane LYRA,1993-07-29,BRA,1.0,Bragança Paulista (BRA),2018-09-15,1003.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16899.0,BRA,25.0,2018
+206,4:41:44,,Nikolítsa ANDREOPOÚLOU,1983-03-26,GRE,3.0,Dudince (SVK),2018-03-24,1003.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16904.0,SVK,35.0,2018
+207,4:41:55,,Dušica TOPIĆ,1982-01-11,SRB,4.0,Ivano-Frankivsk (UKR),2017-10-15,1002.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16915.0,UKR,35.0,2017
+208,4:41:57,,Kora BOUFFLERT,1966-04-23,FRA,,Ay-Champagne (FRA),1995-09-17,1002.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16917.0,FRA,29.0,1995
+208,4:41:57,,Agnieszka ELLWARD,1989-03-26,POL,1.0,Gleina (GER),2017-10-14,1002.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16917.0,GER,28.0,2017
+210,4:42:15,,Erin TAYLOR TALCOTT,1978-05-21,USA,1.0,Timaru (NZL),2016-11-13,1000.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16935.0,NZL,38.0,2016
+211,4:42:17,,Meijiao CHI,1996-06-28,CHN,3.0,Xi'an (CHN),2018-09-08,1000.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16937.0,CHN,22.0,2018
+212,4:42:27,,Qiuye LI,1993-12-02,CHN,2.0,Xi'an (CHN),2017-06-18,999.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16947.0,CHN,23.0,2017
+213,4:42:34,,Susan RANDALL,1974-09-06,USA,3.0,"Santee, CA (USA)",2014-12-14,999.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16954.0,USA,40.0,2014
+214,4:42:37,,Jocy CABALLERO,1993-02-02,PER,4.0,Sucúa (ECU),2018-03-10,998.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16957.0,ECU,25.0,2018
+215,4:42:52,,Qiuye LI,1993-12-02,CHN,1.0,Changbaishan (CHN),2019-07-21,997.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16972.0,CHN,25.0,2019
+216,4:42:58,,Bianca Maria DITTRICH,1993-07-06,GER,1.0,Aschersleben (GER),2018-10-14,996.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16978.0,GER,25.0,2018
+217,4:43:01,,Shuqing YANG,1996-08-30,CHN,3.0,Zhengzhou (CHN),2017-05-22,996.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16981.0,CHN,20.0,2017
+218,4:43:03,,Yuki YOSHIZUMI,1996-01-07,JPN,3.0,Takahata (JPN),2018-10-28,996.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16983.0,JPN,22.0,2018
+218,4:43:03,,Elianay PEREIRA,1984-05-11,BRA,,"Santee, CA (USA)",2019-01-26,996.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16983.0,USA,34.0,2019
+220,4:43:13,,Lixue WANG,1996-12-15,CHN,5.0,Leshan (CHN),2019-09-07,995.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,16993.0,CHN,22.0,2019
+221,4:43:24,,Anita LIEPIŅA,1967-11-17,LAT,3.0,Scanzorosciate (ITA),2002-10-27,994.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17004.0,ITA,34.0,2002
+222,4:43:26,,Kaili XIA,1996-03-16,CHN,4.0,Xi'an (CHN),2018-09-08,994.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17006.0,CHN,22.0,2018
+223,4:43:36,,Federica CURIAZZI,1992-08-14,ITA,5.0,Dudince (SVK),2019-03-23,993.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17016.0,SVK,26.0,2019
+224,4:43:46,,Ines PASTORINO,1992-10-20,FRA,2.0,Aschersleben (GER),2018-10-14,992.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17026.0,GER,26.0,2018
+225,4:43:48,,Ioanna BEMOWSKA,1994-06-27,POL,4.0,Dudince (SVK),2018-03-24,992.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17028.0,SVK,23.0,2018
+225,4:43:48,,Han XIAO,1998-11-12,CHN,4.0,Chifeng (CHN),2018-07-03,992.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17028.0,CHN,19.0,2018
+227,4:44:01,,Huimin ZHAO,1993-10-12,CHN,3.0,Xi'an (CHN),2017-06-18,991.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17041.0,CHN,23.0,2017
+227,4:44:01,,Nastassia YATSEVICH,1985-01-18,BLR,12.0,"Corniche, Doha (QAT)",2019-09-28,991.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17041.0,QAT,34.0,2019
+229,4:44:26,,Erin TAYLOR TALCOTT,1978-05-21,USA,1.0,"San Diego, CA (USA)",2016-02-21,989.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17066.0,USA,37.0,2016
+230,4:44:35,,Vasylyna VІTOVSHCHYK,1990-04-30,UKR,2.0,Ivano-Frankivsk (UKR),2016-10-16,988.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17075.0,UKR,26.0,2016
+231,4:44:38,,Elianay PEREIRA,1984-05-11,BRA,6.0,Dudince (SVK),2019-03-23,988.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17078.0,SVK,34.0,2019
+232,4:44:45,,Natsumi KURAHARA,,JPN,3.0,Wajima (JPN),2018-04-15,987.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17085.0,JPN,,2018
+233,4:44:55,,Maeva CASALE,1997-03-05,FRA,1.0,Balma (FRA),2019-10-27,986.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17095.0,FRA,22.0,2019
+234,4:45:13,,Katsiaryna PASHKOUSKAYA,1978-09-03,BLR,5.0,Scanzorosciate (ITA),2009-10-18,984.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17113.0,ITA,31.0,2009
+235,4:45:14,,Irina MUSIKHINA,1988-06-07,RUS,4.0,Cheboksary (RUS),2021-05-29,984.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17114.0,RUS,32.0,2021
+236,4:45:24,,Yafei ZHAO,1999-07-10,CHN,6.0,Leshan (CHN),2019-09-07,983.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17124.0,CHN,20.0,2019
+237,4:45:34,,Lyudmyla SHELEST,1974-10-04,UKR,2.0,Ivano-Frankivsk (UKR),2018-10-20,983.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17134.0,UKR,44.0,2018
+238,4:45:51,,Pengqin JIANG,1995-09-05,CHN,5.0,Chifeng (CHN),2018-07-03,981.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17151.0,CHN,22.0,2018
+239,4:45:57,,Laura POLLI,1983-09-07,SUI,2.0,Scanzorosciate (ITA),2005-10-16,981.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17157.0,ITA,22.0,2005
+240,4:46:12,,Mariela SÁNCHEZ TERÁN,1991-08-25,MEX,,"Santee, CA (USA)",2018-01-20,979.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17172.0,USA,26.0,2018
+240,4:46:12,,Leilei LI,1989-08-18,CHN,7.0,Leshan (CHN),2019-09-07,979.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17172.0,CHN,30.0,2019
+242,4:46:21,,Cecile NAZE,1995-11-27,FRA,1.0,Epinal (FRA),2019-03-17,978.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17181.0,FRA,23.0,2019
+243,4:46:27,,Ivana RENIĆ,1996-08-21,CRO,5.0,Dudince (SVK),2018-03-24,978.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17187.0,SVK,21.0,2018
+244,4:46:33,,Maeva CASALE,1997-03-05,FRA,3.0,Aschersleben (GER),2018-10-14,977.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17193.0,GER,21.0,2018
+245,4:46:44,,Antonina LOREK,1995-02-11,POL,21.0,Alytus (LTU),2019-05-19,976.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17204.0,LTU,24.0,2019
+246,4:46:54,,Stephanie CASEY,1983-08-01,USA,,"Santee, CA (USA)",2020-01-25,975.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17214.0,USA,36.0,2020
+247,4:47:02,,Erin TAYLOR TALCOTT,1978-05-21,USA,2.0,"Santee, CA (USA)",2020-01-25,975.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17222.0,USA,41.0,2020
+248,4:47:06,,Arely MORALES,1998-07-28,GUA,3.0,Ciudad de Guatemala (GUA),2019-02-24,974.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17226.0,GUA,20.0,2019
+249,4:47:18,,Rihan WU,1999-01-11,CHN,12.0,Huangshan (CHN),2019-03-09,973.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17238.0,CHN,20.0,2019
+250,4:47:26,,Nadzeya DARAZHUK,1990-01-23,BLR,13.0,"Corniche, Doha (QAT)",2019-09-28,973.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17246.0,QAT,29.0,2019
+251,4:47:27,,Tiziana SECCHI,1982-01-12,ITA,4.0,Scanzorosciate (ITA),2002-10-27,973.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17247.0,ITA,20.0,2002
+252,4:47:28,,Maocuo LI,1992-10-20,CHN,2.0,Huhehaote (CHN),2016-09-10,972.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17248.0,CHN,23.0,2016
+253,4:47:42,,Maria Teresa MARINELLI,1985-04-30,ITA,3.0,Scanzorosciate (ITA),2006-10-15,971.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17262.0,ITA,21.0,2006
+254,4:47:50,,Katie BURNETT,1988-10-07,USA,1.0,"Santee, CA (USA)",2018-01-20,971.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17270.0,USA,29.0,2018
+255,4:47:54,,Antonina LOREK,1995-02-11,POL,7.0,Dudince (SVK),2019-03-23,970.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17274.0,SVK,24.0,2019
+256,4:48:00,,Natalie LE ROUX,1982-06-10,RSA,23.0,Taicang (CHN),2018-05-05,970.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17280.0,CHN,35.0,2018
+257,4:48:08,,Lucie BARRITAULT,1990-04-29,FRA,24.0,Taicang (CHN),2018-05-05,969.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17288.0,CHN,28.0,2018
+258,4:48:12,,Lingyu MA,1995-01-06,CHN,3.0,Huangshan (CHN),2016-03-06,969.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17292.0,CHN,21.0,2016
+259,4:48:16,,Maria LARIOS LÓPEZ,1992-10-29,ESP,22.0,Alytus (LTU),2019-05-19,968.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17296.0,LTU,26.0,2019
+260,4:48:26,,Maria Dolores MARCOS VALERO,1979-08-18,ESP,1.0,Naumburg (GER),2017-04-23,967.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17306.0,GER,37.0,2017
+261,4:48:46,,Chiaki YAMATO,1990-11-20,JPN,4.0,Wajima (JPN),2018-04-15,966.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17326.0,JPN,27.0,2018
+262,4:48:54,,Maria LARIOS LÓPEZ,1992-10-29,ESP,2.0,El Vendrell (ESP),2019-02-10,965.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17334.0,ESP,26.0,2019
+263,4:49:30,,Angeliki MAKRI,1978-09-25,GRE,1.0,Marathonas (GRE),2019-01-20,962.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17370.0,GRE,40.0,2019
+264,4:49:33,,Nadezhda MOKEYEVA,1996-01-10,RUS,5.0,Cheboksary (RUS),2018-06-09,962.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17373.0,RUS,22.0,2018
+265,4:49:36,,Lucie BARRITAULT,1990-04-29,FRA,23.0,Alytus (LTU),2019-05-19,961.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17376.0,LTU,29.0,2019
+266,4:49:39,,Despina ZAPOUNIDOU,1985-10-05,GRE,3.0,Scanzorosciate (ITA),2005-10-16,961.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17379.0,ITA,20.0,2005
+267,4:49:44,,Monika CHODEROVÁ,1976-04-15,CZE,5.0,Scanzorosciate (ITA),2002-10-27,961.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17384.0,ITA,26.0,2002
+268,4:49:45,,Jocy CABALLERO,1993-02-02,PER,2.0,Lima (PER),2017-05-14,960.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17385.0,PER,24.0,2017
+269,4:49:48,,Shuqing YANG,1996-08-30,CHN,2.0,Changbaishan (CHN),2019-07-21,960.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17388.0,CHN,22.0,2019
+270,4:49:54,,Faying MA,1993-08-30,CHN,1.0,Changbaishan (CHN),2016-06-05,960.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17394.0,CHN,22.0,2016
+271,4:49:56,,Chunxiu ZHANG,1997-05-02,CHN,13.0,Huangshan (CHN),2019-03-09,960.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17396.0,CHN,21.0,2019
+272,4:49:57,,Susan ARMENTA,1973-09-19,USA,1.0,"Manassas, VA (USA)",2001-03-31,959.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17397.0,USA,27.0,2001
+273,4:50:17,,Andrea KOVÁCS,1980-07-21,HUN,8.0,Dudince (SVK),2019-03-23,958.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17417.0,SVK,38.0,2019
+274,4:50:18,,Shuqing YANG,1996-08-30,CHN,8.0,Leshan (CHN),2019-09-07,958.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17418.0,CHN,23.0,2019
+275,4:50:26,,Erin TAYLOR TALCOTT,1978-05-21,USA,1.0,Arica (CHI),2015-05-10,957.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17426.0,CHI,36.0,2015
+276,4:50:27,,Katie BURNETT,1988-10-07,USA,7.0,Lázaro Cárdenas (MEX),2019-04-21,957.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17427.0,MEX,30.0,2019
+277,4:50:31,,Stephanie CASEY,1983-08-01,USA,9.0,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-11,956.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17431.0,PER,36.0,2019
+278,4:50:37,,Monika GARDINI,,ITA,4.0,Scanzorosciate (ITA),2005-10-16,956.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17437.0,ITA,,2005
+279,4:50:38,,Oksana KULAHINA,1997-04-01,UKR,3.0,Ivano-Frankivsk (UKR),2020-10-18,956.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17438.0,UKR,23.0,2020
+280,4:50:51,,Sandra BROWN,1949-04-01,GBR,1.0,Basildon (GBR),1991-07-13,955.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17451.0,GBR,42.0,1991
+281,4:51:13,,Maeva CASALE,1997-03-05,FRA,25.0,Taicang (CHN),2018-05-05,953.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17473.0,CHN,21.0,2018
+282,4:51:32,,Norliana MOHD RUSNI,1989-10-26,MAS,1.0,Seremban (MAS),2014-12-06,951.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17492.0,MAS,25.0,2014
+283,4:51:36,,Mari TAKEUCHI,1988-12-23,JPN,2.0,Wajima (JPN),2019-04-14,951.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17496.0,JPN,30.0,2019
+284,4:51:43,,Laura POLLI,1983-09-07,SUI,3.0,Scanzorosciate (ITA),2007-10-21,950.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17503.0,ITA,24.0,2007
+285,4:52:01,,Jocy CABALLERO,1993-02-02,PER,26.0,Taicang (CHN),2018-05-05,949.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17521.0,CHN,25.0,2018
+286,4:52:07,,Beatrice FORESTI,1998-10-29,ITA,1.0,Reggio Emilia (ITA),2018-10-21,948.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17527.0,ITA,19.0,2018
+287,4:52:38,,Lucie BARRITAULT,1990-04-29,FRA,12.0,"Olympiastadion, Berlin (GER)",2018-08-07,945.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17558.0,GER,28.0,2018
+288,4:52:39,,Despina ZAPOUNIDOU,1985-10-05,GRE,4.0,Scanzorosciate (ITA),2004-10-17,945.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17559.0,ITA,19.0,2004
+288,4:52:39,,Silvia PANSERI,,ITA,6.0,Scanzorosciate (ITA),2002-10-27,945.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17559.0,ITA,,2002
+290,4:52:43,,Nair DA ROSA,1980-03-22,BRA,27.0,Taicang (CHN),2018-05-05,945.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17563.0,CHN,38.0,2018
+291,4:52:45,,Maeva CASALE,1997-03-05,FRA,24.0,Alytus (LTU),2019-05-19,945.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17565.0,LTU,22.0,2019
+292,4:52:47,,Lucie AUFFRET,1988-07-06,FRA,2.0,Epinal (FRA),2019-03-17,945.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17567.0,FRA,30.0,2019
+293,4:52:55,,Meijiao CHI,1996-06-28,CHN,3.0,Changbaishan (CHN),2019-07-21,944.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17575.0,CHN,23.0,2019
+294,4:52:56,,Agnieszka ELLWARD,1989-03-26,POL,1.0,Dudince (SVK),2017-03-25,944.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17576.0,SVK,28.0,2017
+295,4:53:02,,Shuqing YANG,1996-08-30,CHN,6.0,Chifeng (CHN),2018-07-03,943.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17582.0,CHN,21.0,2018
+296,4:53:14,,Nair DA ROSA,1980-03-22,BRA,8.0,Lázaro Cárdenas (MEX),2019-04-21,942.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17594.0,MEX,39.0,2019
+297,4:53:17,,Shiqian LIAO,1997-07-24,CHN,14.0,Huangshan (CHN),2019-03-09,942.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17597.0,CHN,21.0,2019
+298,4:53:27,,Katie BURNETT,1988-10-07,USA,3.0,"Santee, CA (USA)",2020-01-25,941.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17607.0,USA,31.0,2020
+299,4:53:38,,Maria Dolores MARCOS VALERO,1979-08-18,ESP,3.0,Burjassot (ESP),2018-02-25,940.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17618.0,ESP,38.0,2018
+300,4:53:50,,Akane TAMAKI,2001-01-02,JPN,5.0,Wajima (JPN),2018-04-15,939.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17630.0,JPN,17.0,2018
+301,4:54:00,,Monika GARDINI,,ITA,5.0,Scanzorosciate (ITA),2004-10-17,938.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17640.0,ITA,,2004
+302,4:54:09,,Nair DA ROSA,1980-03-22,BRA,2.0,Bragança Paulista (BRA),2019-02-17,938.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17649.0,BRA,38.0,2019
+302,4:54:09,,Angeliki MAKRI,1978-09-25,GRE,14.0,"Corniche, Doha (QAT)",2019-09-28,938.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17649.0,QAT,41.0,2019
+304,4:54:10,,Tongmin ZHAO,1999-01-15,CHN,9.0,Leshan (CHN),2019-09-07,937.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17650.0,CHN,20.0,2019
+305,4:54:12,,Susan RANDALL,1974-09-06,USA,3.0,"Santee, CA (USA)",2017-01-28,937.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17652.0,USA,42.0,2017
+306,4:54:20,,Lingyu MA,1995-01-06,CHN,4.0,Xi'an (CHN),2017-06-18,937.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17660.0,CHN,22.0,2017
+307,4:54:23,,Elisabeth BRUNET,1986-06-20,FRA,3.0,Epinal (FRA),2019-03-17,936.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17663.0,FRA,32.0,2019
+308,4:54:31,,Kelly RUDDICK,1973-04-19,AUS,2.0,Melbourne (AUS),2018-12-02,936.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17671.0,AUS,45.0,2018
+309,4:54:33,,Natalie LE ROUX,1982-06-10,RSA,1.0,George (RSA),2017-10-21,935.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17673.0,RSA,35.0,2017
+310,4:54:39,,Erin TAYLOR TALCOTT,1978-05-21,USA,2.0,Monterrey (MEX),2018-02-25,935.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17679.0,MEX,39.0,2018
+311,4:54:54,,Miriam DE JESUS GUTIERREZ,1981-07-08,ECU,5.0,Sucúa (ECU),2018-03-10,934.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17694.0,ECU,36.0,2018
+312,4:55:20,,Natalie LE ROUX,1982-06-10,RSA,1.0,Cape Town (RSA),2018-10-27,931.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17720.0,RSA,36.0,2018
+313,4:55:34,,Chunyan ZHU,1992-06-03,CHN,4.0,Huhehaote (CHN),2016-09-10,930.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17734.0,CHN,24.0,2016
+314,4:56:00,,Angeliki MAKRI,1978-09-25,GRE,1.0,Marathonas (GRE),2018-01-14,928.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17760.0,GRE,39.0,2018
+315,4:56:02,,Yafei ZHAO,1999-07-10,CHN,4.0,Changbaishan (CHN),2019-07-21,928.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17762.0,CHN,20.0,2019
+316,4:56:07,,Chunxiu ZHANG,1997-05-02,CHN,10.0,Leshan (CHN),2019-09-07,927.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17767.0,CHN,22.0,2019
+317,4:56:09,,Yan ZHANG,1997-01-03,CHN,5.0,Xi'an (CHN),2018-09-08,927.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17769.0,CHN,21.0,2018
+318,4:56:42,,Susan RANDALL,1974-09-06,USA,2.0,Arica (CHI),2015-05-10,924.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17802.0,CHI,40.0,2015
+319,4:56:48,,Lydia MCGRANAHAN,1976-10-26,USA,1.0,"Hauppauge, NY (USA)",2019-10-20,924.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17808.0,USA,43.0,2019
+320,4:56:50,,Sandra SILVA,1975-09-21,POR,1.0,"Circuito Urbano, Porto de Mos (POR)",2021-01-10,924.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17810.0,POR,45.0,2021
+321,4:57:11,,Monika GARDINI,,ITA,7.0,Scanzorosciate (ITA),2002-10-27,922.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17831.0,ITA,,2002
+321,4:57:11,,Erin TAYLOR TALCOTT,1978-05-21,USA,1.0,"Surprise, AZ (USA)",2010-02-07,922.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17831.0,USA,31.0,2010
+323,4:57:31,,Henrieta RUSNÁKOVÁ,1971-10-17,SVK,8.0,Scanzorosciate (ITA),2002-10-27,920.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17851.0,ITA,31.0,2002
+324,4:57:38,,Mylene ORTIZ,1979-02-15,FRA,4.0,Aschersleben (GER),2018-10-14,920.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17858.0,GER,39.0,2018
+325,4:58:08,,Lucie PELANTOVÁ,1986-05-07,CZE,4.0,Scanzorosciate (ITA),2007-10-21,917.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17888.0,ITA,21.0,2007
+326,4:58:25,,Lyudmyla SHELEST,1974-10-04,UKR,1.0,Ivano-Frankivsk (UKR),2019-10-19,916.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17905.0,UKR,45.0,2019
+327,4:58:33,,Ruonan ZHU,1998-03-14,CHN,6.0,Xi'an (CHN),2018-09-08,915.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17913.0,CHN,20.0,2018
+328,4:58:41,,Lizbeth SILVA,1989-09-30,MEX,3.0,Monterrey (MEX),2018-02-25,914.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17921.0,MEX,28.0,2018
+329,4:58:44,,Mara RIBEIRO,1995-05-11,POR,15.0,"Corniche, Doha (QAT)",2019-09-28,914.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17924.0,QAT,24.0,2019
+330,4:59:00,,Chunxiu ZHANG,1997-05-02,CHN,5.0,Changbaishan (CHN),2019-07-21,913.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17940.0,CHN,22.0,2019
+330,4:59:00,,Martina GABRIELLI,1986-02-15,ITA,6.0,Scanzorosciate (ITA),2004-10-17,913.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17940.0,ITA,18.0,2004
+332,4:59:01,,Lucie BARRITAULT,1990-04-29,FRA,2.0,Balma (FRA),2019-10-27,912.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17941.0,FRA,29.0,2019
+333,4:59:08,,Cecile NAZE,1995-11-27,FRA,5.0,Aschersleben (GER),2018-10-14,912.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17948.0,GER,22.0,2018
+334,4:59:12,,Chunyan ZHU,1992-06-03,CHN,4.0,Zhengzhou (CHN),2017-05-22,912.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17952.0,CHN,24.0,2017
+335,4:59:14,,Runfeng GUO,1995-05-09,CHN,5.0,Xi'an (CHN),2017-06-18,911.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17954.0,CHN,22.0,2017
+336,4:59:16,,Erin TAYLOR TALCOTT,1978-05-21,USA,2.0,"Santee, CA (USA)",2018-01-20,911.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17956.0,USA,39.0,2018
+337,4:59:18,,Jeanne BILLA,1996-02-21,FRA,6.0,Aschersleben (GER),2018-10-14,911.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17958.0,GER,22.0,2018
+338,4:59:32,,Tracy FEINER,1977-08-25,AUS,1.0,"Fawkner Park, Melbourne (AUS)",2019-12-01,910.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17972.0,AUS,42.0,2019
+339,4:59:40,,Angeliki MAKRI,1978-09-25,GRE,6.0,Dudince (SVK),2018-03-24,909.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17980.0,SVK,39.0,2018
+340,4:59:44,,Liliya STEPANOVA,1997-10-13,RUS,6.0,Cheboksary (RUS),2018-06-09,909.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17984.0,RUS,20.0,2018
+341,4:59:55,,Anett TORMA,1984-04-02,HUN,,"Santee, CA (USA)",2018-01-20,908.0,50-kilometres-race-walk,race-walks,female,senior,50-kilometres-race-walk,track,17995.0,USA,33.0,2018

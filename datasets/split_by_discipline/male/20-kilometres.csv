@@ -1,0 +1,101 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,55:21,,Zersenay TADESE,1982-01-01,ERI,,Lisboa (POR),2010-03-21,1241.0,20-kilometres,road-running,male,senior,20-kilometres,track,3321.0,POR,28.0,2010
+2,55:48,,Haile GEBRSELASSIE,1973-04-18,ETH,,"Tempe, AZ (USA)",2006-01-15,1221.0,20-kilometres,road-running,male,senior,20-kilometres,track,3348.0,USA,32.0,2006
+3,56:01,,Zersenay TADESE,1982-01-01,ERI,1.0,Debrecen (HUN),2006-10-08,1211.0,20-kilometres,road-running,male,senior,20-kilometres,track,3361.0,HUN,24.0,2006
+4,56:18,,Paul TERGAT,1969-06-17,KEN,,Milano (ITA),1998-04-04,1199.0,20-kilometres,road-running,male,senior,20-kilometres,track,3378.0,ITA,28.0,1998
+5,56:41,,Robert Kipkorir KIPCHUMBA,1984-02-24,KEN,2.0,Debrecen (HUN),2006-10-08,1182.0,20-kilometres,road-running,male,senior,20-kilometres,track,3401.0,HUN,22.0,2006
+6,56:52,,Eshetu WENDIMU,1986-10-03,ETH,1.0,Alphen aan den Rijn (NED),2007-03-11,1175.0,20-kilometres,road-running,male,senior,20-kilometres,track,3412.0,NED,20.0,2007
+7,57:01,,Mekubo MOGUSU,1986-12-25,KEN,1.0,Tachikawa (JPN),2007-10-20,1168.0,20-kilometres,road-running,male,senior,20-kilometres,track,3421.0,JPN,20.0,2007
+8,57:15,,Wilson Kiprotich KEBENEI,1980-07-20,KEN,3.0,Debrecen (HUN),2006-10-08,1158.0,20-kilometres,road-running,male,senior,20-kilometres,track,3435.0,HUN,26.0,2006
+8,57:15,,Dennis Musembi NDISO,1983-12-31,KEN,1.0,Alphen aan den Rijn (NED),2008-03-09,1158.0,20-kilometres,road-running,male,senior,20-kilometres,track,3435.0,NED,24.0,2008
+10,57:19,,Evans Kiprop CHERUIYOT,1982-05-10,KEN,1.0,Paris (FRA),2005-10-16,1155.0,20-kilometres,road-running,male,senior,20-kilometres,track,3439.0,FRA,23.0,2005
+11,57:20,,Patrick Mutuku IVUTI,1978-07-30,KEN,2.0,Alphen aan den Rijn (NED),2008-03-09,1155.0,20-kilometres,road-running,male,senior,20-kilometres,track,3440.0,NED,29.0,2008
+12,57:21,,Wilson Kipkemei BUSIENEI,1981-08-18,UGA,4.0,Debrecen (HUN),2006-10-08,1154.0,20-kilometres,road-running,male,senior,20-kilometres,track,3441.0,HUN,25.0,2006
+13,57:22,,Wifred Kipkoech TARAGON,1985-06-09,KEN,5.0,Debrecen (HUN),2006-10-08,1153.0,20-kilometres,road-running,male,senior,20-kilometres,track,3442.0,HUN,21.0,2006
+13,57:22,,Mekubo MOGUSU,1986-12-25,KEN,1.0,Tachikawa (JPN),2005-10-22,1153.0,20-kilometres,road-running,male,senior,20-kilometres,track,3442.0,JPN,18.0,2005
+15,57:27,,Deriba Merga EJIGU,1980-10-26,ETH,6.0,Debrecen (HUN),2006-10-08,1150.0,20-kilometres,road-running,male,senior,20-kilometres,track,3447.0,HUN,25.0,2006
+15,57:27,,Tadesse TOLA,1987-10-31,ETH,7.0,Debrecen (HUN),2006-10-08,1150.0,20-kilometres,road-running,male,senior,20-kilometres,track,3447.0,HUN,18.0,2006
+15,57:27,,Josphat Ledama KISAISA,1998-06-25,KEN,1.0,Tachikawa (JPN),2017-10-14,1150.0,20-kilometres,road-running,male,senior,20-kilometres,track,3447.0,JPN,19.0,2017
+18,57:31,,Ben Kimutai KIMWOLE,,KEN,2.0,Paris (FRA),2005-10-16,1147.0,20-kilometres,road-running,male,senior,20-kilometres,track,3451.0,FRA,,2005
+19,57:32,,Elvis TABARACH,1997-06-20,KEN,1.0,Paris (FRA),2023-10-08,1146.0,20-kilometres,road-running,male,senior,20-kilometres,track,3452.0,FRA,26.0,2023
+20,57:33,,Mubarak Hassan SHAMI,1980-12-02,QAT,8.0,Debrecen (HUN),2006-10-08,1146.0,20-kilometres,road-running,male,senior,20-kilometres,track,3453.0,HUN,25.0,2006
+20,57:33,,Emmanuel MUTAI,1984-10-12,KEN,3.0,Alphen aan den Rijn (NED),2008-03-09,1146.0,20-kilometres,road-running,male,senior,20-kilometres,track,3453.0,NED,23.0,2008
+20,57:33,,Dominic Nyairo OMARE,1997-03-11,KEN,2.0,Tachikawa (JPN),2017-10-14,1146.0,20-kilometres,road-running,male,senior,20-kilometres,track,3453.0,JPN,20.0,2017
+23,57:34,,Evans Kiprop CHERUIYOT,1982-05-10,KEN,2.0,Alphen aan den Rijn (NED),2007-03-11,1145.0,20-kilometres,road-running,male,senior,20-kilometres,track,3454.0,NED,24.0,2007
+24,57:36,,Hassan CHAHDI,1989-05-07,FRA,2.0,Paris (FRA),2023-10-08,1143.0,20-kilometres,road-running,male,senior,20-kilometres,track,3456.0,FRA,34.0,2023
+25,57:37,,James Kabogor YATICH,1984-10-22,KEN,3.0,Alphen aan den Rijn (NED),2007-03-11,1143.0,20-kilometres,road-running,male,senior,20-kilometres,track,3457.0,NED,22.0,2007
+25,57:37,,Khalid KHANNOUCHI,1971-12-22,MAR,1.0,"New Haven, CT (USA)",1998-09-07,1143.0,20-kilometres,road-running,male,senior,20-kilometres,track,3457.0,USA,26.0,1998
+27,57:38,,Robert Kiprotich CHERUIYOT,1974-12-20,KEN,1.0,Paris (FRA),2002-10-13,1142.0,20-kilometres,road-running,male,senior,20-kilometres,track,3458.0,FRA,27.0,2002
+28,57:40,,Tessema ABSHERO,1986-12-09,ETH,4.0,Alphen aan den Rijn (NED),2008-03-09,1141.0,20-kilometres,road-running,male,senior,20-kilometres,track,3460.0,NED,21.0,2008
+29,57:41,,Sondre Nordstad MOEN,1991-01-12,NOR,3.0,Paris (FRA),2023-10-08,1140.0,20-kilometres,road-running,male,senior,20-kilometres,track,3461.0,FRA,32.0,2023
+30,57:42,,Girma TOLA,1974-10-19,ETH,3.0,Paris (FRA),2005-10-16,1139.0,20-kilometres,road-running,male,senior,20-kilometres,track,3462.0,FRA,31.0,2005
+30,57:42,,Dieudonné DISI,1980-04-24,RWA,9.0,Debrecen (HUN),2006-10-08,1139.0,20-kilometres,road-running,male,senior,20-kilometres,track,3462.0,HUN,26.0,2006
+30,57:42,,Sammy KITWARA,1986-11-26,KEN,1.0,Paris (FRA),2008-10-12,1139.0,20-kilometres,road-running,male,senior,20-kilometres,track,3462.0,FRA,21.0,2008
+33,57:43,,James Kibocha THEURI,1978-11-30,FRA,4.0,Paris (FRA),2005-10-16,1138.0,20-kilometres,road-running,male,senior,20-kilometres,track,3463.0,FRA,26.0,2005
+34,57:44,,Elliah MBOGO,,KEN,5.0,Alphen aan den Rijn (NED),2008-03-09,1138.0,20-kilometres,road-running,male,senior,20-kilometres,track,3464.0,NED,,2008
+35,57:45,,Morhad AMDOUNI,1988-06-21,FRA,4.0,Paris (FRA),2023-10-08,1137.0,20-kilometres,road-running,male,senior,20-kilometres,track,3465.0,FRA,35.0,2023
+36,57:46,,Hendrick RAMAALA,1972-02-02,RSA,1.0,Paris (FRA),1998-10-18,1136.0,20-kilometres,road-running,male,senior,20-kilometres,track,3466.0,FRA,26.0,1998
+37,57:47,,Benjamin NGANDU,1990-03-21,KEN,1.0,Tachikawa (JPN),2012-10-20,1136.0,20-kilometres,road-running,male,senior,20-kilometres,track,3467.0,JPN,22.0,2012
+37,57:47,,John KALES,,KEN,6.0,Alphen aan den Rijn (NED),2008-03-09,1136.0,20-kilometres,road-running,male,senior,20-kilometres,track,3467.0,NED,,2008
+37,57:47,,Lahoussine MRIKIK,1972-06-07,MAR,2.0,Paris (FRA),1998-10-18,1136.0,20-kilometres,road-running,male,senior,20-kilometres,track,3467.0,FRA,26.0,1998
+40,57:48,,David Kiprono LANGAT,,KEN,5.0,Paris (FRA),2005-10-16,1135.0,20-kilometres,road-running,male,senior,20-kilometres,track,3468.0,FRA,,2005
+41,57:49,,Toshihiko SEKO,1956-07-15,JPN,1.0,Fuchu (JPN),1980-11-23,1134.0,20-kilometres,road-running,male,senior,20-kilometres,track,3469.0,JPN,24.0,1980
+41,57:49,,Yonas KIFLE,1977-11-05,ERI,10.0,Debrecen (HUN),2006-10-08,1134.0,20-kilometres,road-running,male,senior,20-kilometres,track,3469.0,HUN,28.0,2006
+43,57:50,,Dagim GETNET,1983-06-12,ETH,2.0,Paris (FRA),2008-10-12,1134.0,20-kilometres,road-running,male,senior,20-kilometres,track,3470.0,FRA,25.0,2008
+44,57:52,,Kamal SAAIDOU,1964-12-09,MAR,3.0,Paris (FRA),1998-10-18,1132.0,20-kilometres,road-running,male,senior,20-kilometres,track,3472.0,FRA,33.0,1998
+44,57:52,,David KIPTUM BUSENEI,1974-12-22,KEN,4.0,Paris (FRA),1998-10-18,1132.0,20-kilometres,road-running,male,senior,20-kilometres,track,3472.0,FRA,23.0,1998
+44,57:52,,Wilson Kwambai CHEBET,1985-07-12,KEN,1.0,Alphen aan den Rijn (NED),2009-03-08,1132.0,20-kilometres,road-running,male,senior,20-kilometres,track,3472.0,NED,23.0,2009
+47,57:53,,Fikadu LEMMA,1984-02-19,ETH,3.0,Paris (FRA),2008-10-12,1131.0,20-kilometres,road-running,male,senior,20-kilometres,track,3473.0,FRA,24.0,2008
+48,57:54,,Hicham SIGUENI,1993-01-30,MAR,5.0,Paris (FRA),2023-10-08,1131.0,20-kilometres,road-running,male,senior,20-kilometres,track,3474.0,FRA,30.0,2023
+48,57:54,,Morhad AMDOUNI,1988-06-21,FRA,1.0,Paris (FRA),2021-10-10,1131.0,20-kilometres,road-running,male,senior,20-kilometres,track,3474.0,FRA,33.0,2021
+48,57:54,,Ryan HALL,1982-10-14,USA,11.0,Debrecen (HUN),2006-10-08,1131.0,20-kilometres,road-running,male,senior,20-kilometres,track,3474.0,HUN,24.0,2006
+48,57:54,,Salah HISSOU,1972-01-16,MAR,1.0,Alphen aan den Rijn (NED),2004-03-07,1131.0,20-kilometres,road-running,male,senior,20-kilometres,track,3474.0,NED,32.0,2004
+48,57:54,,Domingos CASTRO,1963-11-22,POR,1.0,Paris (FRA),1999-10-17,1131.0,20-kilometres,road-running,male,senior,20-kilometres,track,3474.0,FRA,35.0,1999
+53,57:56,,Kamel KOHIL,1971-12-25,ALG,5.0,Paris (FRA),1998-10-18,1129.0,20-kilometres,road-running,male,senior,20-kilometres,track,3476.0,FRA,26.0,1998
+54,57:57,,Luke METTO,,KEN,2.0,Paris (FRA),1999-10-17,1129.0,20-kilometres,road-running,male,senior,20-kilometres,track,3477.0,FRA,,1999
+54,57:57,,Abdellah FALIL,,MAR,7.0,Alphen aan den Rijn (NED),2008-03-09,1129.0,20-kilometres,road-running,male,senior,20-kilometres,track,3477.0,NED,,2008
+54,57:57,,Enock OMWAMBA,1993-04-04,KEN,1.0,Tachikawa (JPN),2013-10-19,1129.0,20-kilometres,road-running,male,senior,20-kilometres,track,3477.0,JPN,20.0,2013
+54,57:57,,Josphat Kiprono MENJO,1979-08-20,KEN,2.0,Paris (FRA),2021-10-10,1129.0,20-kilometres,road-running,male,senior,20-kilometres,track,3477.0,FRA,42.0,2021
+58,57:58,,Hendrick RAMAALA,1972-02-02,RSA,1.0,Alphen aan den Rijn (NED),2000-03-12,1128.0,20-kilometres,road-running,male,senior,20-kilometres,track,3478.0,NED,28.0,2000
+58,57:58,,Raji ASSEFA,1986-02-18,ETH,2.0,Alphen aan den Rijn (NED),2009-03-08,1128.0,20-kilometres,road-running,male,senior,20-kilometres,track,3478.0,NED,23.0,2009
+58,57:58,,Tessema ABSHERO,1986-12-09,ETH,3.0,Alphen aan den Rijn (NED),2009-03-08,1128.0,20-kilometres,road-running,male,senior,20-kilometres,track,3478.0,NED,22.0,2009
+61,57:59,,Lahoussine MRIKIK,1972-06-07,MAR,3.0,Paris (FRA),1999-10-17,1127.0,20-kilometres,road-running,male,senior,20-kilometres,track,3479.0,FRA,27.0,1999
+62,58:00,,Daniel MUIVA KITONYI,1994-01-12,KEN,2.0,Tachikawa (JPN),2013-10-19,1127.0,20-kilometres,road-running,male,senior,20-kilometres,track,3480.0,JPN,19.0,2013
+63,58:03,,Rodgers ROP,1976-02-16,KEN,4.0,Alphen aan den Rijn (NED),2007-03-11,1124.0,20-kilometres,road-running,male,senior,20-kilometres,track,3483.0,NED,31.0,2007
+63,58:03,,John KIPSANG,,KEN,6.0,Paris (FRA),1998-10-18,1124.0,20-kilometres,road-running,male,senior,20-kilometres,track,3483.0,FRA,,1998
+65,58:04,,Greg VAN HEST,1973-06-03,NED,1.0,Alphen aan den Rijn (NED),1999-03-13,1124.0,20-kilometres,road-running,male,senior,20-kilometres,track,3484.0,NED,25.0,1999
+65,58:04,,John KIPROTICH,1983-06-05,KEN,4.0,Paris (FRA),2008-10-12,1124.0,20-kilometres,road-running,male,senior,20-kilometres,track,3484.0,FRA,25.0,2008
+65,58:04,,Yann SCHRUB,1996-03-20,FRA,1.0,Paris (FRA),2022-10-09,1124.0,20-kilometres,road-running,male,senior,20-kilometres,track,3484.0,FRA,26.0,2022
+65,58:04,,Elvis TABARACH,1997-06-20,KEN,2.0,Paris (FRA),2022-10-09,1124.0,20-kilometres,road-running,male,senior,20-kilometres,track,3484.0,FRA,25.0,2022
+69,58:05,,Abdelilah ELMAIMOUNI,1992-05-01,MAR,3.0,Paris (FRA),2022-10-09,1123.0,20-kilometres,road-running,male,senior,20-kilometres,track,3485.0,FRA,30.0,2022
+69,58:05,,Hayimro YELE,1998-01-13,ETH,1.0,Paris (FRA),2024-10-13,1123.0,20-kilometres,road-running,male,senior,20-kilometres,track,3485.0,FRA,26.0,2024
+71,58:07,,Dennis MUSAU,1983-06-10,KEN,1.0,Paris (FRA),2007-10-14,1122.0,20-kilometres,road-running,male,senior,20-kilometres,track,3487.0,FRA,24.0,2007
+71,58:07,,Tebalu ZAWUDE HEYI,1987-11-02,ETH,1.0,Paris (FRA),2013-10-13,1122.0,20-kilometres,road-running,male,senior,20-kilometres,track,3487.0,FRA,25.0,2013
+71,58:07,,Yann SCHRUB,1996-03-20,FRA,2.0,Paris (FRA),2024-10-13,1122.0,20-kilometres,road-running,male,senior,20-kilometres,track,3487.0,FRA,28.0,2024
+74,58:08,,Erick Leon NDIEMA,1990-01-01,KEN,5.0,Paris (FRA),2022-10-09,1121.0,20-kilometres,road-running,male,senior,20-kilometres,track,3488.0,FRA,32.0,2022
+74,58:08,,Stephan BARONGO OGARI,1992-10-15,KEN,4.0,Paris (FRA),2022-10-09,1121.0,20-kilometres,road-running,male,senior,20-kilometres,track,3488.0,FRA,30.0,2022
+74,58:08,,Charles BARONGO OGARI,1992-10-15,KEN,2.0,Paris (FRA),2013-10-13,1121.0,20-kilometres,road-running,male,senior,20-kilometres,track,3488.0,FRA,21.0,2013
+74,58:08,,Paul Kimaiyo KIMUGUL,1980-03-04,KEN,5.0,Alphen aan den Rijn (NED),2007-03-11,1121.0,20-kilometres,road-running,male,senior,20-kilometres,track,3488.0,NED,27.0,2007
+74,58:08,,Toshihiko SEKO,1956-07-15,JPN,1.0,Fuchu (JPN),1979-11-18,1121.0,20-kilometres,road-running,male,senior,20-kilometres,track,3488.0,JPN,23.0,1979
+74,58:08,,Jonathan MAIYO,1988-05-05,KEN,2.0,Paris (FRA),2007-10-14,1121.0,20-kilometres,road-running,male,senior,20-kilometres,track,3488.0,FRA,19.0,2007
+80,58:09,,Joseph KIBOR,1972-12-22,KEN,2.0,Alphen aan den Rijn (NED),1999-03-13,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3489.0,NED,26.0,1999
+80,58:09,,David NDEGWA MAINA,1972-12-17,KEN,4.0,Paris (FRA),1999-10-17,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3489.0,FRA,26.0,1999
+80,58:09,,Michele GAMBA,1972-10-02,ITA,1.0,Almeirim (POR),2001-01-22,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3489.0,POR,28.0,2001
+80,58:09,,Philimon TERER,,KEN,3.0,Paris (FRA),2007-10-14,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3489.0,FRA,,2007
+80,58:09,,Hillary BOR,1989-11-22,USA,1.0,"New Haven, CT (USA)",2024-09-02,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3489.0,USA,34.0,2024
+80,58:09,,Emmanuel ROUDOLFF,1995-07-30,FRA,3.0,Paris (FRA),2024-10-13,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3489.0,FRA,29.0,2024
+86,58:10,,Mehdi FRÈRE,1996-07-27,FRA,6.0,Paris (FRA),2022-10-09,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3490.0,FRA,26.0,2022
+86,58:10,,John Nzau MWANGANGI,1990-11-01,KEN,1.0,Paris (FRA),2010-10-10,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3490.0,FRA,19.0,2010
+86,58:10,,Sammy Kipkorir KIBET,,KEN,4.0,Paris (FRA),2007-10-14,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3490.0,FRA,,2007
+86,58:10,,Paulo CATARINO,1963-09-30,POR,2.0,Almeirim (POR),2001-01-22,1120.0,20-kilometres,road-running,male,senior,20-kilometres,track,3490.0,POR,37.0,2001
+90,58:11,,Alberto CHAICA,1973-09-17,POR,3.0,Almeirim (POR),2001-01-22,1119.0,20-kilometres,road-running,male,senior,20-kilometres,track,3491.0,POR,27.0,2001
+90,58:11,,Josphat Muchiri NDAMBIRI,1985-02-12,KEN,1.0,Tachikawa (JPN),2004-10-16,1119.0,20-kilometres,road-running,male,senior,20-kilometres,track,3491.0,JPN,19.0,2004
+90,58:11,,Mohamed EL HACHIMI,1980-09-05,MAR,4.0,Alphen aan den Rijn (NED),2009-03-08,1119.0,20-kilometres,road-running,male,senior,20-kilometres,track,3491.0,NED,28.0,2009
+90,58:11,,Simon KARIUKI,1996-04-01,KEN,3.0,Tachikawa (JPN),2017-10-14,1119.0,20-kilometres,road-running,male,senior,20-kilometres,track,3491.0,JPN,21.0,2017
+94,58:12,,Jakob KITUR,,KEN,5.0,Paris (FRA),2007-10-14,1118.0,20-kilometres,road-running,male,senior,20-kilometres,track,3492.0,FRA,,2007
+94,58:12,,Ezechiel NIZIGIYIMANA,1990-03-30,BDI,1.0,Paris (FRA),2012-10-14,1118.0,20-kilometres,road-running,male,senior,20-kilometres,track,3492.0,FRA,22.0,2012
+96,58:14,,Elvis TABARACH,1997-06-20,KEN,4.0,Paris (FRA),2024-10-13,1117.0,20-kilometres,road-running,male,senior,20-kilometres,track,3494.0,FRA,27.0,2024
+97,58:15,,John Nzau MWANGANGI,1990-11-01,KEN,1.0,Paris (FRA),2011-10-09,1116.0,20-kilometres,road-running,male,senior,20-kilometres,track,3495.0,FRA,20.0,2011
+97,58:15,,Patrick MATHENGE,1997-11-02,KEN,1.0,Tachikawa (JPN),2016-10-16,1116.0,20-kilometres,road-running,male,senior,20-kilometres,track,3495.0,JPN,18.0,2016
+97,58:15,,Richard Mutai KIPRONO,,KEN,1.0,Alphen aan den Rijn (NED),2001-03-11,1116.0,20-kilometres,road-running,male,senior,20-kilometres,track,3495.0,NED,,2001
+97,58:15,,Dominic Lokinyomo LOBALU,1998-08-16,SUI,1.0,Genève (SUI),2022-11-06,1116.0,20-kilometres,road-running,male,senior,20-kilometres,track,3495.0,SUI,24.0,2022

@@ -2518,10 +2518,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2423,6.78,0.7,Tori BOWIE,1990-08-27,USA,1,"Provo, UT (USA)",2019-04-27,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,28.0,2019
 2423,6.78,,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,2q,"Emirates Arena, Glasgow (GBR) (i)",2019-03-02,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GBR,23.0,2019
 2423,6.78,1.5,Blessing OKAGBARE,1988-10-09,NGR,1,Calabar (NGR),2011-06-25,1169,long-jump,jumps,female,senior,long-jump,field,6.78,NGR,22.0,2011
-2423,6.78,1.5,Olga KUCHERENKO,1985-11-05,RUS,3,Saransk (RUS),2010-07-13,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,24.0,2010
+2423,6.78,1.7,Darya KLISHINA,1991-01-15,RUS,1,"Olympiastadion, Stockholm (SWE)",2010-08-06,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,19.0,2010
 2423,6.78,-1.9,Brittney REESE,1986-09-09,USA,,Luzern (SUI),2010-08-08,1180,long-jump,jumps,female,senior,long-jump,field,6.78,SUI,23.0,2010
-2423,6.78,1.4,Rita INÁNCSI,1971-01-06,HUN,ce,Götzis (AUT),1994-05-29,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUT,23.0,1994
-2423,6.78,0.0,Ludmila NINOVA,1960-06-25,AUT,4,Paris (FRA),1994-09-03,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,34.0,1994
+2423,6.78,1.8,Lyudmila GALKINA,1972-01-20,RUS,4,"Bislett Stadion, Oslo (NOR)",1994-07-22,1169,long-jump,jumps,female,senior,long-jump,field,6.78,NOR,22.0,1994
 2423,6.78,,Ludmila NINOVA,1960-06-25,AUT,1,Zagreb (CRO),1995-06-22,1169,long-jump,jumps,female,senior,long-jump,field,6.78,CRO,35.0,1995
 2423,6.78,1.0,Olga RUBLYOVA,1974-10-28,RUS,4,"Ullevi Stadium, Göteborg (SWE)",1995-08-06,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,20.0,1995
 2423,6.78,0.2,Nina PEREVEDENTSEVA,1964-05-02,RUS,4,St. Petersburg (RUS),1996-07-04,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,32.0,1996
@@ -2542,9 +2541,10 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2423,6.78,0.1,Heike DRECHSLER,1964-12-16,GER,1,Bruxelles (BEL),1998-08-28,1169,long-jump,jumps,female,senior,long-jump,field,6.78,BEL,33.0,1998
 2423,6.78,,Tatyana TER-MESROBYAN,1968-05-12,RUS,1,St. Petersburg (RUS) (i),1999-01-26,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,30.0,1999
 2423,6.78,,Iva PRANDZHEVA,1972-02-15,BUL,3,"Green Dome, Maebashi (JPN) (i)",1999-03-06,1169,long-jump,jumps,female,senior,long-jump,field,6.78,JPN,27.0,1999
-2423,6.78,1.7,Darya KLISHINA,1991-01-15,RUS,1,"Olympiastadion, Stockholm (SWE)",2010-08-06,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,19.0,2010
+2423,6.78,-0.6,Olena KHLOPOTNOVA,1963-08-04,UKR,1,Almaty (KAZ),1999-05-22,1172,long-jump,jumps,female,senior,long-jump,field,6.78,KAZ,35.0,1999
+2423,6.78,0.0,Ludmila NINOVA,1960-06-25,AUT,4,Paris (FRA),1994-09-03,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,34.0,1994
 2423,6.78,0.8,Fiona MAY,1969-12-12,ITA,3,"New York, NY (USA)",1994-05-22,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,24.0,1994
-2423,6.78,0.6,Susen TIEDTKE,1969-01-23,GER,1,Bad Langensalza (GER),1999-06-12,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,30.0,1999
+2423,6.78,0.8,Eunice BARBER,1974-11-17,FRA,2,Villeneuve d'Ascq (FRA),1999-06-13,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,24.0,1999
 2423,6.78,,Ludmila NINOVA,1960-06-25,AUT,2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,33.0,1994
 2423,6.78,0.6,Heidemarie ROSENDAHL,1947-02-14,FRG,1,"Olympiastadion, München (GER)",1972-08-31,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,25.0,1972
 2423,6.78,,Kathy MCMILLAN,1957-11-07,USA,1,"Westwood, CA (USA)",1976-06-12,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,18.0,1976
@@ -2567,11 +2567,10 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2423,6.78,-0.7,Marieta ILCU,1962-10-16,ROU,1,"Stadio Adriatico, Pescara (ITA)",1989-07-19,1173,long-jump,jumps,female,senior,long-jump,field,6.78,ITA,26.0,1989
 2423,6.78,,Ringa ROPO-JUNNILA,1966-02-16,FIN,1,Stockholm (SWE) (i),1991-02-19,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,25.0,1991
 2423,6.78,,Erica JOHANSSON,1974-02-05,SWE,1,Malmö (SWE) (i),1993-02-21,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,19.0,1993
-2423,6.78,-0.6,Olena KHLOPOTNOVA,1963-08-04,UKR,1,Almaty (KAZ),1999-05-22,1172,long-jump,jumps,female,senior,long-jump,field,6.78,KAZ,35.0,1999
-2423,6.78,1.8,Lyudmila GALKINA,1972-01-20,RUS,4,"Bislett Stadion, Oslo (NOR)",1994-07-22,1169,long-jump,jumps,female,senior,long-jump,field,6.78,NOR,22.0,1994
-2423,6.78,0.8,Eunice BARBER,1974-11-17,FRA,2,Villeneuve d'Ascq (FRA),1999-06-13,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,24.0,1999
-2423,6.78,0.0,Eunice BARBER,1974-11-17,FRA,1q2,"Stade de France, Paris-St-Denis (FRA)",2003-08-28,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,28.0,2003
-2423,6.78,,Tatyana LEBEDEVA,1976-07-21,RUS,1q1,"Sportaréna, Budapest (HUN) (i)",2004-03-06,1169,long-jump,jumps,female,senior,long-jump,field,6.78,HUN,27.0,2004
+2423,6.78,0.6,Susen TIEDTKE,1969-01-23,GER,1,Bad Langensalza (GER),1999-06-12,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,30.0,1999
+2423,6.78,1.4,Rita INÁNCSI,1971-01-06,HUN,ce,Götzis (AUT),1994-05-29,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUT,23.0,1994
+2423,6.78,0.0,Yelena PERSHINA,1963-12-24,KAZ,1,Rhede (GER),1999-06-18,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,35.0,1999
+2423,6.78,,Olga RUBLYOVA,1974-10-28,RUS,3,Moskva (RUS) (i),2004-02-19,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,29.0,2004
 2423,6.78,1.0,Antonia STOYANOVA,1976-08-17,BUL,1,Plovdiv (BUL),2004-06-20,1169,long-jump,jumps,female,senior,long-jump,field,6.78,BUL,27.0,2004
 2423,6.78,0.4,Carolina KLÜFT,1983-02-02,SWE,1ce2,"Olympic Stadium, Athina (GRE)",2004-08-21,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,21.0,2004
 2423,6.78,,Tianna MADISON,1985-08-30,USA,1,"Fayetteville, AR (USA) (i)",2005-03-11,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,19.0,2005
@@ -2580,6 +2579,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2423,6.78,0.4,Lyudmila KOLCHANOVA,1979-10-01,RUS,1,"Olympic Stadium, Athina (GRE)",2006-09-17,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,26.0,2006
 2423,6.78,0.0,Lela NELSON,1983-05-19,USA,ce,Filderstadt (GER),2007-08-19,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,24.0,2007
 2423,6.78,0.6,Tatyana LEBEDEVA,1976-07-21,RUS,1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",2007-09-22,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,31.0,2007
+2423,6.78,,Tatyana KOTOVA,1976-12-11,RUS,4,Stockholm (SWE) (i),2008-02-21,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,31.0,2008
 2423,6.78,1.0,Brittney REESE,1986-09-09,USA,1,"Oxford, MS (USA)",2008-04-12,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,21.0,2008
 2423,6.78,1.6,Tatyana CHERNOVA,1988-01-29,RUS,1ce1,"Mösle-Stadium, Götzis (AUT)",2008-06-01,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUT,20.0,2008
 2423,6.78,1.8,Nina KOLARIČ,1986-12-12,SLO,1,Ptuj (SLO),2008-06-29,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SLO,21.0,2008
@@ -2590,62 +2590,63 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2423,6.78,,Brianna GLENN,1980-04-18,USA,2,"Albuquerque, NM (USA) (i)",2010-02-28,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,29.0,2010
 2423,6.78,1.3,Naide GOMES,1979-11-20,POR,2,"Bislett Stadion, Oslo (NOR)",2010-06-04,1169,long-jump,jumps,female,senior,long-jump,field,6.78,NOR,30.0,2010
 2423,6.78,1.3,Éloyse LESUEUR-AYMONIN,1988-07-15,FRA,1,"Fana Stadion, Bergen (NOR)",2010-06-20,1169,long-jump,jumps,female,senior,long-jump,field,6.78,NOR,21.0,2010
-2423,6.78,0.0,Yelena PERSHINA,1963-12-24,KAZ,1,Rhede (GER),1999-06-18,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,35.0,1999
-2423,6.78,0.9,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,Beograd (SRB),2010-06-20,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SRB,20.0,2010
-2423,6.78,,Olga RUBLYOVA,1974-10-28,RUS,3,Moskva (RUS) (i),2004-02-19,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,29.0,2004
-2423,6.78,,Tatyana KOTOVA,1976-12-11,RUS,4,Stockholm (SWE) (i),2008-02-21,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,31.0,2008
-2423,6.78,0.3,Tatyana KOTOVA,1976-12-11,RUS,2,Tula (RUS),2003-08-09,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,26.0,2003
-2423,6.78,0.7,Olena SHEKHOVTSOVA,1972-05-31,UKR,1,Patra (GRE),2000-09-02,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,28.0,2000
 2423,6.78,1.6,Marion JONES,1975-10-12,USA,2,"Eugene, OR (USA)",1999-06-25,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,23.0,1999
-2423,6.78,2.0,Oksana UDMURTOVA,1982-02-01,RUS,2,Cheboksary (RUS),2003-06-28,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,21.0,2003
+2423,6.78,1.5,Olga KUCHERENKO,1985-11-05,RUS,3,Saransk (RUS),2010-07-13,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,24.0,2010
+2423,6.78,,Tatyana LEBEDEVA,1976-07-21,RUS,1q1,"Sportaréna, Budapest (HUN) (i)",2004-03-06,1169,long-jump,jumps,female,senior,long-jump,field,6.78,HUN,27.0,2004
+2423,6.78,0.9,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,Beograd (SRB),2010-06-20,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SRB,20.0,2010
+2423,6.78,0.4,Valentīna GOTOVSKA,1965-09-03,LAT,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",2000-07-05,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SUI,34.0,2000
+2423,6.78,1.9,Jackie EDWARDS,1971-04-14,BAH,1,"Palo Alto, CA (USA)",2001-03-31,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,29.0,2001
+2423,6.78,0.5,Marion JONES,1975-10-12,USA,2,Linz (AUT),1999-07-26,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUT,23.0,1999
 2423,6.78,-0.2,Niurka MONTALVO,1968-06-04,ESP,2q1,"La Cartuja, Sevilla (ESP)",1999-08-21,1170,long-jump,jumps,female,senior,long-jump,field,6.78,ESP,31.0,1999
 2423,6.78,,Niurka MONTALVO,1968-06-04,ESP,1,Valencia (ESP) (i),2000-02-02,1169,long-jump,jumps,female,senior,long-jump,field,6.78,ESP,31.0,2000
 2423,6.78,2.0,Susen TIEDTKE,1969-01-23,GER,1,Wesel (GER),2000-06-12,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,31.0,2000
 2423,6.78,,Susen TIEDTKE,1969-01-23,GER,1,Bad Langensalza (GER),2000-07-01,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GER,31.0,2000
-2423,6.78,0.4,Valentīna GOTOVSKA,1965-09-03,LAT,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",2000-07-05,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SUI,34.0,2000
+2423,6.78,0.0,Eunice BARBER,1974-11-17,FRA,1q2,"Stade de France, Paris-St-Denis (FRA)",2003-08-28,1169,long-jump,jumps,female,senior,long-jump,field,6.78,FRA,28.0,2003
 2423,6.78,0.8,Erica JOHANSSON,1974-02-05,SWE,2,Stockholm (SWE),2000-08-01,1169,long-jump,jumps,female,senior,long-jump,field,6.78,SWE,26.0,2000
 2423,6.78,0.2,Heike DRECHSLER,1964-12-16,GER,2,"Stade Louis II, Monaco (MON)",2000-08-18,1169,long-jump,jumps,female,senior,long-jump,field,6.78,MON,35.0,2000
 2423,6.78,,Niki XANTHOU,1973-10-11,GRE,1,Kalamata (GRE),2000-08-19,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,26.0,2000
-2423,6.78,0.5,Marion JONES,1975-10-12,USA,2,Linz (AUT),1999-07-26,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUT,23.0,1999
-2423,6.78,1.9,Jackie EDWARDS,1971-04-14,BAH,1,"Palo Alto, CA (USA)",2001-03-31,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,29.0,2001
-2423,6.78,1.9,Niurka MONTALVO,1968-06-04,ESP,5,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-07,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUS,33.0,2001
-2423,6.78,1.9,Aisha JAMES,1981-03-12,TTO,1,"Des Moines, IA (USA)",2003-04-26,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,22.0,2003
-2423,6.78,0.7,Maurren Higa MAGGI,1976-06-25,BRA,1,London (GBR),2002-08-23,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GBR,26.0,2002
-2423,6.78,0.2,Tünde VASZI,1972-04-18,HUN,2,Athina (GRE),2002-06-10,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,30.0,2002
-2423,6.78,,Concepción MONTANER,1981-01-14,ESP,1,Valencia (ESP) (i),2003-03-01,1169,long-jump,jumps,female,senior,long-jump,field,6.78,ESP,22.0,2003
-2423,6.78,0.0,Tatyana KOTOVA,1976-12-11,RUS,1,"Stadio Olimpico, Roma (ITA)",2001-06-29,1169,long-jump,jumps,female,senior,long-jump,field,6.78,ITA,24.0,2001
-2423,6.78,0.8,Kumiko IMURA,1981-01-10,JPN,2,Tokyo (JPN),2001-06-10,1169,long-jump,jumps,female,senior,long-jump,field,6.78,JPN,20.0,2001
+2423,6.78,0.7,Olena SHEKHOVTSOVA,1972-05-31,UKR,1,Patra (GRE),2000-09-02,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,28.0,2000
 2423,6.78,0.0,Niurka MONTALVO,1968-06-04,ESP,1,Madrid (ESP),2001-05-26,1169,long-jump,jumps,female,senior,long-jump,field,6.78,ESP,32.0,2001
-2580,6.77,1.9,Shara PROCTOR,1988-09-16,GBR,1,"National Training Center, Clermont, FL (USA)",2021-05-02,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,32.0,2021
-2580,6.77,1.2,Chanice PORTER,1994-05-25,JAM,3,"Spec Towns Track, Athens, GA (USA)",2021-04-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,26.0,2021
-2580,6.77,1.7,Caterine IBARGUEN,1984-02-12,COL,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",2018-07-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,SUI,34.0,2018
-2580,6.77,,Malaika MIHAMBO,1994-02-03,GER,1,"Mercedes-Benz Arena, Berlin (GER) (i)",2021-02-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,27.0,2021
-2580,6.77,0.6,Malaika MIHAMBO,1994-02-03,GER,2,"Olympiastadion, Berlin (GER)",2020-09-13,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,26.0,2020
+2423,6.78,0.8,Kumiko IMURA,1981-01-10,JPN,2,Tokyo (JPN),2001-06-10,1169,long-jump,jumps,female,senior,long-jump,field,6.78,JPN,20.0,2001
+2423,6.78,0.0,Tatyana KOTOVA,1976-12-11,RUS,1,"Stadio Olimpico, Roma (ITA)",2001-06-29,1169,long-jump,jumps,female,senior,long-jump,field,6.78,ITA,24.0,2001
+2423,6.78,1.9,Niurka MONTALVO,1968-06-04,ESP,5,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-07,1169,long-jump,jumps,female,senior,long-jump,field,6.78,AUS,33.0,2001
+2423,6.78,0.2,Tünde VASZI,1972-04-18,HUN,2,Athina (GRE),2002-06-10,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GRE,30.0,2002
+2423,6.78,0.7,Maurren Higa MAGGI,1976-06-25,BRA,1,London (GBR),2002-08-23,1169,long-jump,jumps,female,senior,long-jump,field,6.78,GBR,26.0,2002
+2423,6.78,,Concepción MONTANER,1981-01-14,ESP,1,Valencia (ESP) (i),2003-03-01,1169,long-jump,jumps,female,senior,long-jump,field,6.78,ESP,22.0,2003
+2423,6.78,1.9,Aisha JAMES,1981-03-12,TTO,1,"Des Moines, IA (USA)",2003-04-26,1169,long-jump,jumps,female,senior,long-jump,field,6.78,USA,22.0,2003
+2423,6.78,2.0,Oksana UDMURTOVA,1982-02-01,RUS,2,Cheboksary (RUS),2003-06-28,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,21.0,2003
+2423,6.78,0.3,Tatyana KOTOVA,1976-12-11,RUS,2,Tula (RUS),2003-08-09,1169,long-jump,jumps,female,senior,long-jump,field,6.78,RUS,26.0,2003
 2580,6.77,,Malaika MIHAMBO,1994-02-03,GER,1,"Quarterback Immobilien Arena, Leipzig (GER) (i)",2020-02-23,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,26.0,2020
-2580,6.77,-0.4,Tori BOWIE,1990-08-27,USA,2q1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1169,long-jump,jumps,female,senior,long-jump,field,6.77,QAT,29.0,2019
-2580,6.77,0.2,Katarina JOHNSON-THOMPSON,1993-01-09,GBR,1ce1,"Khalifa International Stadium, Doha (QAT)",2019-10-03,1167,long-jump,jumps,female,senior,long-jump,field,6.77,QAT,26.0,2019
-2580,6.77,0.2,Anasztázia NGUYEN,1993-01-09,HUN,1,Budapest (HUN),2019-07-30,1167,long-jump,jumps,female,senior,long-jump,field,6.77,HUN,26.0,2019
 2580,6.77,,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,3q,"Emirates Arena, Glasgow (GBR) (i)",2019-03-02,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GBR,29.0,2019
+2580,6.77,0.2,Anasztázia NGUYEN,1993-01-09,HUN,1,Budapest (HUN),2019-07-30,1167,long-jump,jumps,female,senior,long-jump,field,6.77,HUN,26.0,2019
+2580,6.77,0.2,Katarina JOHNSON-THOMPSON,1993-01-09,GBR,1ce1,"Khalifa International Stadium, Doha (QAT)",2019-10-03,1167,long-jump,jumps,female,senior,long-jump,field,6.77,QAT,26.0,2019
+2580,6.77,-0.4,Tori BOWIE,1990-08-27,USA,2q1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1169,long-jump,jumps,female,senior,long-jump,field,6.77,QAT,29.0,2019
+2580,6.77,0.6,Ivana ŠPANOVIĆ,1990-05-10,SRB,,Valence (FRA),2013-08-31,1167,long-jump,jumps,female,senior,long-jump,field,6.77,FRA,23.0,2013
+2580,6.77,0.6,Malaika MIHAMBO,1994-02-03,GER,2,"Olympiastadion, Berlin (GER)",2020-09-13,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,26.0,2020
+2580,6.77,,Malaika MIHAMBO,1994-02-03,GER,1,"Mercedes-Benz Arena, Berlin (GER) (i)",2021-02-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,27.0,2021
+2580,6.77,1.2,Chanice PORTER,1994-05-25,JAM,3,"Spec Towns Track, Athens, GA (USA)",2021-04-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,26.0,2021
+2580,6.77,1.9,Shara PROCTOR,1988-09-16,GBR,1,"National Training Center, Clermont, FL (USA)",2021-05-02,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,32.0,2021
+2580,6.77,1.7,Caterine IBARGUEN,1984-02-12,COL,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",2018-07-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,SUI,34.0,2018
 2580,6.77,0.6,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,1,Minsk (BLR),2018-07-21,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BLR,29.0,2018
-2580,6.77,0.8,Blessing OKAGBARE,1988-10-09,NGR,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2017-07-04,1167,long-jump,jumps,female,senior,long-jump,field,6.77,HUN,28.0,2017
+2580,6.77,1.2,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,1,"FBK Stadium, Hengelo (NED)",2015-05-24,1167,long-jump,jumps,female,senior,long-jump,field,6.77,NED,25.0,2015
 2580,6.77,-0.1,Sha'keela SAUNDERS,1993-12-12,USA,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1167,long-jump,jumps,female,senior,long-jump,field,6.77,HUN,24.0,2018
 2580,6.77,2.0,Kylie PRICE,1993-11-23,USA,3,"Chula Vista, CA (USA)",2018-05-19,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,24.0,2018
 2580,6.77,0.6,Brooke STRATTON,1993-07-12,AUS,2,Gold Coast (AUS),2018-04-12,1167,long-jump,jumps,female,senior,long-jump,field,6.77,AUS,24.0,2018
 2580,6.77,,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,"Leichtathletikhalle im Arena-Sportpark, Düsseldorf (GER) (i)",2018-02-06,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,27.0,2018
-2580,6.77,-0.1,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,1,"International Stadium, Gateshead (GBR)",2021-07-13,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GBR,26.0,2021
+2580,6.77,0.8,Blessing OKAGBARE,1988-10-09,NGR,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2017-07-04,1167,long-jump,jumps,female,senior,long-jump,field,6.77,HUN,28.0,2017
 2580,6.77,-0.8,Sha'keela SAUNDERS,1993-12-12,USA,,"Sacramento, CA (USA)",2017-06-24,1171,long-jump,jumps,female,senior,long-jump,field,6.77,USA,23.0,2017
 2580,6.77,1.3,Quanesha BURKS,1995-03-15,USA,,"Baton Rouge, LA (USA)",2017-04-28,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,22.0,2017
 2580,6.77,-0.4,Quanesha BURKS,1995-03-15,USA,1,"Tuscaloosa, AL (USA)",2016-05-13,1169,long-jump,jumps,female,senior,long-jump,field,6.77,USA,21.0,2016
-2580,6.77,1.2,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,1,"FBK Stadium, Hengelo (NED)",2015-05-24,1167,long-jump,jumps,female,senior,long-jump,field,6.77,NED,25.0,2015
+2580,6.77,-0.2,Malaika MIHAMBO,1994-02-03,GER,,"Olympiastadion, Stockholm (SWE)",2021-07-04,1168,long-jump,jumps,female,senior,long-jump,field,6.77,SWE,27.0,2021
 2580,6.77,1.8,Shara PROCTOR,1988-09-16,GBR,1,"Clermont, FL (USA)",2015-04-18,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,26.0,2015
 2580,6.77,,Ivana ŠPANOVIĆ,1990-05-10,SRB,3,"Ergo Arena, Sopot (POL) (i)",2014-03-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,POL,23.0,2014
 2580,6.77,1.8,Keturah ORJI,1996-03-05,USA,1,"Cougar Athletic Stadium, Azusa, CA (USA)",2021-05-14,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,25.0,2021
-37,6.77,1.4,Rosmaiby QUESADA,2006-03-15,CUB,1,"Estadio Panamericano, La Habana (CUB)",2025-04-25,1167,long-jump,jumps,female,u20,long-jump,field,6.77,CUB,19.0,2025
-2580,6.77,,Quanesha BURKS,1995-03-15,USA,5,"Štark Arena, Beograd (SRB) (i)",2022-03-20,1167,long-jump,jumps,female,senior,long-jump,field,6.77,SRB,27.0,2022
+2580,6.77,-0.8,Ivana VULETA,1990-05-10,SRB,1,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)",2023-07-14,1171,long-jump,jumps,female,senior,long-jump,field,6.77,ITA,33.0,2023
+2580,6.77,-0.1,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,1,"International Stadium, Gateshead (GBR)",2021-07-13,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GBR,26.0,2021
 2580,6.77,,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,1,"Olimpiyets Arena, Mogilyov (BLR) (i)",2024-01-19,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BLR,34.0,2024
 37,6.77,0.9,Heike DAUTE,1964-12-16,GDR,1q1,"Olympic Stadium, Athina (GRE)",1982-09-06,1167,long-jump,jumps,female,u20,long-jump,field,6.77,GRE,17.0,1982
 37,6.77,1.2,Darya KLISHINA,1991-01-15,RUS,3,"Bislett Stadion, Oslo (NOR)",2010-06-04,1167,long-jump,jumps,female,u20,long-jump,field,6.77,NOR,19.0,2010
-2580,6.77,0.6,Ivana ŠPANOVIĆ,1990-05-10,SRB,,Valence (FRA),2013-08-31,1167,long-jump,jumps,female,senior,long-jump,field,6.77,FRA,23.0,2013
+37,6.77,1.4,Rosmaiby QUESADA,2006-03-15,CUB,1,"Estadio Panamericano, La Habana (CUB)",2025-04-25,1167,long-jump,jumps,female,u20,long-jump,field,6.77,CUB,19.0,2025
 2580,6.77,1.4,Rosmaiby QUESADA,2006-03-15,CUB,1,"Estadio Panamericano, La Habana (CUB)",2025-04-25,1167,long-jump,jumps,female,senior,long-jump,field,6.77,CUB,19.0,2025
 2580,6.77,,Annik KÄLIN,2000-04-27,SUI,1q1,"Omnisport, Apeldoorn (NED) (i)",2025-03-07,1167,long-jump,jumps,female,senior,long-jump,field,6.77,NED,24.0,2025
 2580,6.77,,Annik KÄLIN,2000-04-27,SUI,1,"AccorHotels Arena de Bercy, Paris (FRA) (i)",2025-02-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,FRA,24.0,2025
@@ -2654,9 +2655,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2580,6.77,,Mikaelle ASSANI,2002-08-18,GER,4,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GBR,21.0,2024
 2580,6.77,,Viyaleta SKVARTSOVA,1998-04-15,BLR,1,"Olimpiyets, Mogilyov (BLR) (i)",2024-02-17,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BLR,25.0,2024
 2580,6.77,0.2,Quanesha BURKS,1995-03-15,USA,3,"Hayward Field, Eugene, OR (USA)",2023-09-17,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,28.0,2023
-2580,6.77,-0.5,Quanesha BURKS,1995-03-15,USA,3,"Stadio Olimpico, Roma (ITA)",2022-06-09,1170,long-jump,jumps,female,senior,long-jump,field,6.77,ITA,27.0,2022
+2580,6.77,,Quanesha BURKS,1995-03-15,USA,5,"Štark Arena, Beograd (SRB) (i)",2022-03-20,1167,long-jump,jumps,female,senior,long-jump,field,6.77,SRB,27.0,2022
 2580,6.77,-1.1,Hilary KPATCHA,1998-05-05,FRA,4,"Stade Louis II, Monaco (MON)",2023-07-21,1173,long-jump,jumps,female,senior,long-jump,field,6.77,MON,25.0,2023
-2580,6.77,-0.8,Ivana VULETA,1990-05-10,SRB,1,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)",2023-07-14,1171,long-jump,jumps,female,senior,long-jump,field,6.77,ITA,33.0,2023
 2580,6.77,1.1,Jazmin SAWYERS,1994-05-21,GBR,,"Manchester Regional Arena, Manchester (GBR)",2023-07-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GBR,29.0,2023
 2580,6.77,1.9,Agate DE SOUSA,2000-06-05,STP,1,"Estádio José Vieira de Carvalho, Maia (POR)",2023-07-08,1167,long-jump,jumps,female,senior,long-jump,field,6.77,POR,23.0,2023
 2580,6.77,0.7,Petra BÁNHIDI-FARKAS,1999-04-30,HUN,1,"Iharos Sándor Atlétikai Pálya, Budapest (HUN)",2023-07-01,1167,long-jump,jumps,female,senior,long-jump,field,6.77,HUN,24.0,2023
@@ -2665,6 +2665,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2580,6.77,0.0,Milica GARDAŠEVIĆ,1998-09-28,SRB,1,"Municipal Theatre Of Piraeus, Piraeus (GRE)",2023-06-04,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GRE,24.0,2023
 2580,6.77,1.7,Brooke BUSCHKUEHL,1993-07-12,AUS,2,"International Stadium, Yokohama (JPN)",2023-05-21,1167,long-jump,jumps,female,senior,long-jump,field,6.77,JPN,29.0,2023
 2580,6.77,0.6,Ese BRUME,1996-01-20,NGR,1,"National Stadium, Gaborone (BOT)",2023-04-29,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BOT,27.0,2023
+2580,6.77,-0.5,Quanesha BURKS,1995-03-15,USA,3,"Stadio Olimpico, Roma (ITA)",2022-06-09,1170,long-jump,jumps,female,senior,long-jump,field,6.77,ITA,27.0,2022
 2580,6.77,,Ivana ŠPANOVIĆ,1990-05-10,SRB,1q,"Ergo Arena, Sopot (POL) (i)",2014-03-08,1167,long-jump,jumps,female,senior,long-jump,field,6.77,POL,23.0,2014
 2580,6.77,,Galina SALO,1959-06-14,URS,5,Donetsk (URS),1984-09-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,URS,25.0,1984
 2580,6.77,1.9,Lorraine UGEN,1991-08-22,GBR,1,"Eugene, OR (USA)",2013-06-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,USA,21.0,2013
@@ -2725,6 +2726,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2580,6.77,1.4,Olga KUCHERENKO,1985-11-05,RUS,2,Rieti (ITA),2009-09-06,1167,long-jump,jumps,female,senior,long-jump,field,6.77,ITA,23.0,2009
 2580,6.77,1.8,Funmi JIMOH,1984-05-29,USA,1,Ponce (PUR),2010-05-08,1167,long-jump,jumps,female,senior,long-jump,field,6.77,PUR,25.0,2010
 2580,6.77,0.6,Tatyana KOTOVA,1976-12-11,RUS,1,Vila Real de Santo António (POR),2010-05-29,1167,long-jump,jumps,female,senior,long-jump,field,6.77,POR,33.0,2010
+2580,6.77,1.2,Darya KLISHINA,1991-01-15,RUS,3,"Bislett Stadion, Oslo (NOR)",2010-06-04,1167,long-jump,jumps,female,senior,long-jump,field,6.77,NOR,19.0,2010
 2580,6.77,,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,,Minsk (BLR),2010-06-04,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BLR,21.0,2010
 2580,6.77,1.8,Yuliya PIDLUZHNAYA,1988-10-01,RUS,1,Bad Langensalza (GER),2010-06-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,21.0,2010
 2580,6.77,1.7,Olga KUCHERENKO,1985-11-05,RUS,,"Estadio Olímpico, Barcelona (ESP)",2010-07-28,1167,long-jump,jumps,female,senior,long-jump,field,6.77,ESP,24.0,2010
@@ -2732,392 +2734,391 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2580,6.77,0.9,Brittney REESE,1986-09-09,USA,1,Berlin (GER),2011-08-12,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,24.0,2011
 2580,6.77,0.0,Darya KLISHINA,1991-01-15,RUS,3q2,"DS, Daegu (KOR)",2011-08-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,KOR,20.0,2011
 2580,6.77,1.6,Heike DRECHSLER,1964-12-16,GER,1,Dessau (GER),2000-05-31,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,35.0,2000
-2580,6.77,,Veronika SHUTKOVA,1986-05-26,BLR,2,Gomel (BLR) (i),2012-01-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BLR,25.0,2012
 2580,6.77,,Yargelis SAVIGNE,1984-11-13,CUB,1,Linz (AUT) (i),2008-01-31,1167,long-jump,jumps,female,senior,long-jump,field,6.77,AUT,23.0,2008
-2580,6.77,1.2,Darya KLISHINA,1991-01-15,RUS,3,"Bislett Stadion, Oslo (NOR)",2010-06-04,1167,long-jump,jumps,female,senior,long-jump,field,6.77,NOR,19.0,2010
+2580,6.77,,Veronika SHUTKOVA,1986-05-26,BLR,2,Gomel (BLR) (i),2012-01-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,BLR,25.0,2012
 2580,6.77,-1.3,Oksana AYDAMIROVA,1984-09-24,RUS,2,Gyumri (ARM),2007-09-09,1174,long-jump,jumps,female,senior,long-jump,field,6.77,ARM,22.0,2007
 2580,6.77,0.2,Carolina KLÜFT,1983-02-02,SWE,ce,Tallinn (EST),2003-07-06,1167,long-jump,jumps,female,senior,long-jump,field,6.77,EST,20.0,2003
 2580,6.77,0.1,Eunice BARBER,1974-11-17,FRA,3,"Stade de France, Paris-St-Denis (FRA)",2000-06-23,1167,long-jump,jumps,female,senior,long-jump,field,6.77,FRA,25.0,2000
-2580,6.77,-0.1,Tatyana KOTOVA,1976-12-11,RUS,1,Tula (RUS),2000-07-25,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,23.0,2000
 2580,6.77,0.7,Viktoriya RYBALKO,1982-10-26,UKR,4q1,"Yanmar Stadium Nagai, Osaka (JPN)",2007-08-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,JPN,24.0,2007
+2580,6.77,-0.1,Tatyana KOTOVA,1976-12-11,RUS,1,Tula (RUS),2000-07-25,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,23.0,2000
 2580,6.77,0.2,Dawn BURRELL,1973-11-01,USA,2q2,"Olympic Stadium, Sydney (AUS)",2000-09-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,AUS,26.0,2000
-2580,6.77,1.3,Yingnan GUAN,1977-04-25,CHN,1,Ningbo (CHN),2001-04-28,1167,long-jump,jumps,female,senior,long-jump,field,6.77,CHN,24.0,2001
+2580,6.77,0.4,Valentīna GOTOVSKA,1965-09-03,LAT,1,Tartu (EST),2001-06-19,1167,long-jump,jumps,female,senior,long-jump,field,6.77,EST,35.0,2001
 2580,6.77,-0.2,Elva GOULBOURNE,1980-01-21,JAM,1,Ciudad de Guatemala (GUA),2001-07-20,1168,long-jump,jumps,female,senior,long-jump,field,6.77,GUA,21.0,2001
 2580,6.77,0.3,Fiona MAY,1969-12-12,ITA,2,"Letzigrund, Zürich (SUI)",2001-08-17,1167,long-jump,jumps,female,senior,long-jump,field,6.77,SUI,31.0,2001
 2580,6.77,,Lyudmila GALKINA,1972-01-20,RUS,1,Moskva (RUS) (i),2002-01-26,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,30.0,2002
 2580,6.77,0.2,Bronwyn THOMPSON,1978-01-29,AUS,1,Brisbane (AUS),2002-04-13,1167,long-jump,jumps,female,senior,long-jump,field,6.77,AUS,24.0,2002
-2580,6.77,0.4,Valentīna GOTOVSKA,1965-09-03,LAT,1,Tartu (EST),2001-06-19,1167,long-jump,jumps,female,senior,long-jump,field,6.77,EST,35.0,2001
+2580,6.77,1.3,Yingnan GUAN,1977-04-25,CHN,1,Ningbo (CHN),2001-04-28,1167,long-jump,jumps,female,senior,long-jump,field,6.77,CHN,24.0,2001
 2580,6.77,0.9,Elva GOULBOURNE,1980-01-21,JAM,1,"Olympiastadion, Berlin (GER)",2003-08-10,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,23.0,2003
-2580,6.77,,Yelena IVANOVA,1979-03-16,RUS,3,Tula (RUS),2006-07-15,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,27.0,2006
+2580,6.77,0.9,Bronwyn THOMPSON,1978-01-29,AUS,2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",2006-09-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,28.0,2006
 2580,6.77,0.9,Yargelis SAVIGNE,1984-11-13,CUB,1,La Habana (CUB),2005-05-19,1167,long-jump,jumps,female,senior,long-jump,field,6.77,CUB,20.0,2005
 2580,6.77,1.5,Yuliya ZINOVYEVA,1984-07-20,RUS,2,Sochi (RUS),2005-05-26,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,20.0,2005
-2580,6.77,1.4,Anna KRASYELNIK,1987-02-22,RUS,8,Sochi (RUS),2007-05-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,20.0,2007
 2580,6.77,,Oksana UDMURTOVA,1982-02-01,RUS,1,Moskva (RUS) (i),2006-02-18,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,24.0,2006
-2580,6.77,0.9,Bronwyn THOMPSON,1978-01-29,AUS,2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",2006-09-09,1167,long-jump,jumps,female,senior,long-jump,field,6.77,GER,28.0,2006
+2580,6.77,1.4,Anna KRASYELNIK,1987-02-22,RUS,8,Sochi (RUS),2007-05-27,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,20.0,2007
+2580,6.77,,Yelena IVANOVA,1979-03-16,RUS,3,Tula (RUS),2006-07-15,1167,long-jump,jumps,female,senior,long-jump,field,6.77,RUS,27.0,2006
 2580,6.77,1.7,Grace UPSHAW,1975-09-25,USA,3,Rieti (ITA),2004-09-05,1167,long-jump,jumps,female,senior,long-jump,field,6.77,ITA,28.0,2004
-2716,6.76,,Shara PROCTOR,1988-09-16,GBR,2,"Emirates Arena, Glasgow (GBR) (i)",2016-02-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,27.0,2016
-2716,6.76,1.8,Quanesha BURKS,1995-03-15,USA,1,"Auburn, AL (USA)",2016-04-23,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2016
-2716,6.76,1.4,Lorraine UGEN,1991-08-22,GBR,3,"Hayward Field, Eugene, OR (USA)",2016-05-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,24.0,2016
-2716,6.76,0.3,Funmi JIMOH,1984-05-29,USA,5,"Hayward Field, Eugene, OR (USA)",2016-07-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,32.0,2016
-2716,6.76,1.7,Malaika MIHAMBO,1994-02-03,GER,2q1,"Olympisch Stadion, Amsterdam (NED)",2016-07-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,NED,22.0,2016
-2716,6.76,,Quanesha BURKS,1995-03-15,USA,2f2,"Nashville, TN (USA) (i)",2017-02-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2017
-2716,6.76,,Claudia SALMAN-RATH,1986-04-25,GER,2,Berlin (GER) (i),2017-02-10,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,30.0,2017
-2716,6.76,,Lorraine UGEN,1991-08-22,GBR,1,"Barclaycard Arena, Birmingham (GBR) (i)",2017-02-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,25.0,2017
-2716,6.76,0.4,Lorraine UGEN,1991-08-22,GBR,2,Baie Mahault (FRA),2017-05-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,25.0,2017
-2716,6.76,1.3,Quanesha BURKS,1995-03-15,USA,1,"San Francisco, CA (USA)",2017-06-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,22.0,2017
-2716,6.76,0.9,Brooke STRATTON,1993-07-12,AUS,3,"Olympic Stadium, London (GBR)",2018-07-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,25.0,2018
-2716,6.76,0.6,Aliyah WHISBY,1998-02-23,USA,2,"Athens, GA (USA)",2019-04-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2019
-2716,6.76,,Anna MISOCHENKO,1992-04-15,RUS,1,Slavyansk-na-Kubani (RUS) (i),2016-01-31,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,23.0,2016
-2716,6.76,,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,1,Istanbul (TUR) (i),2019-02-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,TUR,23.0,2019
-2716,6.76,,Ksenija BALTA,1986-11-01,EST,1,"Globe Arena, Stockholm (SWE) (i)",2016-02-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,29.0,2016
-2716,6.76,0.8,Brittney REESE,1986-09-09,USA,1,"San Marcos, TX (USA)",2014-05-23,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,27.0,2014
-2716,6.76,0.1,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,4q2,"National Stadium, Beijing (CHN)",2015-08-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CHN,26.0,2015
-2716,6.76,1.9,Tianna BARTOLETTA,1985-08-30,USA,2,"Stade Louis II, Monaco (MON)",2015-07-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,29.0,2015
-2716,6.76,0.6,Ivana ŠPANOVIĆ,1990-05-10,SRB,6,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,25.0,2015
-2716,6.76,0.5,Brittney REESE,1986-09-09,USA,5,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,28.0,2015
-2716,6.76,,Ivana ŠPANOVIĆ,1990-05-10,SRB,1q,"O2 Arena, Praha (CZE) (i)",2015-03-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CZE,24.0,2015
-2716,6.76,0.0,Tianna BARTOLETTA,1985-08-30,USA,2,"Letzigrund, Zürich (SUI)",2014-08-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,29.0,2014
-2716,6.76,1.1,Funmi JIMOH,1984-05-29,USA,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2014-07-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,30.0,2014
-2716,6.76,,Darya KLISHINA,1991-01-15,RUS,2q,"Ergo Arena, Sopot (POL) (i)",2014-03-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POL,23.0,2014
-2716,6.76,-0.8,Blessing OKAGBARE,1988-10-09,NGR,2,"Letzigrund, Zürich (SUI)",2013-08-29,1169,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,24.0,2013
-2716,6.76,-0.1,Darya KLISHINA,1991-01-15,RUS,6,"Luzhniki Stadion, Moskva (RUS)",2013-08-11,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,22.0,2013
-2716,6.76,-0.3,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,Stara Zagora (BUL),2013-07-28,1166,long-jump,jumps,female,senior,long-jump,field,6.76,BUL,23.0,2013
-2716,6.76,2.0,Lena MALKUS,1993-08-06,GER,1,"Ratinan Stadion, Tampere (FIN)",2013-07-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FIN,19.0,2013
-2716,6.76,,Svetlana BIRYUKOVA,1991-04-01,RUS,2,Moskva (RUS) (i),2013-02-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,21.0,2013
-2716,6.76,1.7,Ese BRUME,1996-01-20,NGR,1,Samsun (TUR),2019-05-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,TUR,23.0,2019
-2716,6.76,-1.0,Olga SUDARAVA,1984-02-22,BLR,1,Minsk (BLR),2013-06-07,1171,long-jump,jumps,female,senior,long-jump,field,6.76,BLR,29.0,2013
-2716,6.76,0.5,Caterine IBARGUEN,1984-02-12,COL,1,"Khalifa International Stadium, Doha (QAT)",2019-05-03,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,35.0,2019
-2716,6.76,,Ivana VULETA,1990-05-10,SRB,1,"Messehalle, Karlsruhe (GER) (i)",2023-01-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,32.0,2023
-2716,6.76,1.5,Brittney REESE,1986-09-09,USA,3,"Stadio Olimpico, Roma (ITA)",2019-06-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,32.0,2019
-2716,6.76,-1.1,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,2,"Olympiastadion, Stockholm (SWE)",2022-06-30,1171,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,26.0,2022
+2717,6.76,,Shara PROCTOR,1988-09-16,GBR,2,"Emirates Arena, Glasgow (GBR) (i)",2016-02-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,27.0,2016
+2717,6.76,1.8,Quanesha BURKS,1995-03-15,USA,1,"Auburn, AL (USA)",2016-04-23,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2016
+2717,6.76,1.4,Lorraine UGEN,1991-08-22,GBR,3,"Hayward Field, Eugene, OR (USA)",2016-05-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,24.0,2016
+2717,6.76,0.3,Funmi JIMOH,1984-05-29,USA,5,"Hayward Field, Eugene, OR (USA)",2016-07-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,32.0,2016
+2717,6.76,1.7,Malaika MIHAMBO,1994-02-03,GER,2q1,"Olympisch Stadion, Amsterdam (NED)",2016-07-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,NED,22.0,2016
+2717,6.76,,Claudia SALMAN-RATH,1986-04-25,GER,2,Berlin (GER) (i),2017-02-10,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,30.0,2017
+2717,6.76,0.4,Lorraine UGEN,1991-08-22,GBR,2,Baie Mahault (FRA),2017-05-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,25.0,2017
+2717,6.76,,Lorraine UGEN,1991-08-22,GBR,1,"Barclaycard Arena, Birmingham (GBR) (i)",2017-02-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,25.0,2017
+2717,6.76,,Quanesha BURKS,1995-03-15,USA,2f2,"Nashville, TN (USA) (i)",2017-02-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2017
+2717,6.76,1.3,Quanesha BURKS,1995-03-15,USA,1,"San Francisco, CA (USA)",2017-06-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,22.0,2017
+2717,6.76,0.9,Brooke STRATTON,1993-07-12,AUS,3,"Olympic Stadium, London (GBR)",2018-07-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,25.0,2018
+2717,6.76,,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,1,Istanbul (TUR) (i),2019-02-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,TUR,23.0,2019
+2717,6.76,0.6,Aliyah WHISBY,1998-02-23,USA,2,"Athens, GA (USA)",2019-04-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2019
+2717,6.76,,Anna MISOCHENKO,1992-04-15,RUS,1,Slavyansk-na-Kubani (RUS) (i),2016-01-31,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,23.0,2016
+2717,6.76,,Ksenija BALTA,1986-11-01,EST,1,"Globe Arena, Stockholm (SWE) (i)",2016-02-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,29.0,2016
+2717,6.76,0.8,Brittney REESE,1986-09-09,USA,1,"San Marcos, TX (USA)",2014-05-23,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,27.0,2014
+2717,6.76,0.1,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,4q2,"National Stadium, Beijing (CHN)",2015-08-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CHN,26.0,2015
+2717,6.76,1.9,Tianna BARTOLETTA,1985-08-30,USA,2,"Stade Louis II, Monaco (MON)",2015-07-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,29.0,2015
+2717,6.76,0.6,Ivana ŠPANOVIĆ,1990-05-10,SRB,6,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,25.0,2015
+2717,6.76,0.5,Brittney REESE,1986-09-09,USA,5,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,28.0,2015
+2717,6.76,,Ivana ŠPANOVIĆ,1990-05-10,SRB,1q,"O2 Arena, Praha (CZE) (i)",2015-03-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CZE,24.0,2015
+2717,6.76,0.0,Tianna BARTOLETTA,1985-08-30,USA,2,"Letzigrund, Zürich (SUI)",2014-08-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,29.0,2014
+2717,6.76,1.1,Funmi JIMOH,1984-05-29,USA,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2014-07-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,30.0,2014
+2717,6.76,1.7,Ese BRUME,1996-01-20,NGR,1,Samsun (TUR),2019-05-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,TUR,23.0,2019
+2717,6.76,,Darya KLISHINA,1991-01-15,RUS,2q,"Ergo Arena, Sopot (POL) (i)",2014-03-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POL,23.0,2014
+2717,6.76,-0.8,Blessing OKAGBARE,1988-10-09,NGR,2,"Letzigrund, Zürich (SUI)",2013-08-29,1169,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,24.0,2013
+2717,6.76,-0.1,Darya KLISHINA,1991-01-15,RUS,6,"Luzhniki Stadion, Moskva (RUS)",2013-08-11,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,22.0,2013
+2717,6.76,-0.3,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,Stara Zagora (BUL),2013-07-28,1166,long-jump,jumps,female,senior,long-jump,field,6.76,BUL,23.0,2013
+2717,6.76,2.0,Lena MALKUS,1993-08-06,GER,1,"Ratinan Stadion, Tampere (FIN)",2013-07-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FIN,19.0,2013
+2717,6.76,-1.0,Olga SUDARAVA,1984-02-22,BLR,1,Minsk (BLR),2013-06-07,1171,long-jump,jumps,female,senior,long-jump,field,6.76,BLR,29.0,2013
+2717,6.76,,Svetlana BIRYUKOVA,1991-04-01,RUS,2,Moskva (RUS) (i),2013-02-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,21.0,2013
+2717,6.76,0.5,Caterine IBARGUEN,1984-02-12,COL,1,"Khalifa International Stadium, Doha (QAT)",2019-05-03,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,35.0,2019
+2717,6.76,0.5,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,1,"Avangard Stadium, Lutsk (UKR)",2021-06-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,25.0,2021
+2717,6.76,1.5,Brittney REESE,1986-09-09,USA,3,"Stadio Olimpico, Roma (ITA)",2019-06-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,32.0,2019
+2717,6.76,0.5,Brooke BUSCHKUEHL,1993-07-12,AUS,4q1,"Hayward Field, Eugene, OR (USA)",2022-07-23,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,29.0,2022
+2717,6.76,1.3,Viorica ŢIGĂU,1979-08-12,ROU,1,Bucureşti (ROU),2012-06-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ROU,32.0,2012
 40,6.76,0.0,Shaili SINGH,2004-01-07,IND,1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",2023-04-15,1165,long-jump,jumps,female,u20,long-jump,field,6.76,IND,19.0,2023
-2716,6.76,1.3,Viorica ŢIGĂU,1979-08-12,ROU,1,Bucureşti (ROU),2012-06-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ROU,32.0,2012
-2716,6.76,,Larissa IAPICHINO,2002-07-18,ITA,2q1,"Omnisport, Apeldoorn (NED) (i)",2025-03-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,NED,22.0,2025
-2716,6.76,,Viktoria GORLOVA,2001-05-22,RUS,2,"LFK CSKA, Moskva (RUS) (i)",2025-03-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,23.0,2025
-2716,6.76,0.3,Ese BRUME,1996-01-20,NGR,2q1,"Stade de France, Paris (FRA)",2024-08-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,28.0,2024
-2716,6.76,-0.3,Quanesha BURKS,1995-03-15,USA,3,"Bregyó Athletic Center, Székesfehérvár (HUN)",2024-07-09,1166,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,29.0,2024
-2716,6.76,0.3,Milica GARDAŠEVIĆ,1998-09-28,SRB,2,"Stadion Śląski, Chorzów (POL)",2024-05-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POL,25.0,2024
-2716,6.76,,Annik KÄLIN,2000-04-27,SUI,1,"Athletik Zentrum, St. Gallen (SUI) (i)",2024-02-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,23.0,2024
-2716,6.76,,Tara DAVIS-WOODHALL,1999-05-20,USA,1,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2024-01-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,24.0,2024
-2716,6.76,1.3,Pauline HONDEMA,2000-03-28,NED,1,"Sportcentrum Wembley, Kortrijk (BEL)",2023-07-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,23.0,2023
-2716,6.76,0.6,Agate DE SOUSA,2000-06-05,STP,3,"Stadion Śląski, Chorzów (POL)",2023-06-04,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POL,23.0,2023
-2716,6.76,0.0,Shaili SINGH,2004-01-07,IND,1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",2023-04-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,IND,19.0,2023
-2716,6.76,0.1,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,4,"Olympiastadion, München (GER)",2022-08-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,27.0,2022
-2716,6.76,0.5,Brooke BUSCHKUEHL,1993-07-12,AUS,4q1,"Hayward Field, Eugene, OR (USA)",2022-07-23,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,29.0,2022
-2716,6.76,0.0,Jogailė PETROKAITĖ,1995-09-30,LTU,1,"Centrinis Stadionas, Šiauliai (LTU)",2022-06-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,LTU,26.0,2022
-2716,6.76,-0.7,Yelena SOKOLOVA,1986-07-23,ANA,3,Minsk (BLR),2019-06-23,1169,long-jump,jumps,female,senior,long-jump,field,6.76,BLR,32.0,2019
-2716,6.76,0.5,Agate DE SOUSA,2000-06-05,STP,2,"Maria-Theresien-Straße, Innsbruck (AUT)",2022-06-11,1165,long-jump,jumps,female,senior,long-jump,field,6.76,AUT,22.0,2022
-2716,6.76,0.2,Fátima DIAME,1996-09-22,ESP,1,"Polideportivo Municipal, Andújar (ESP)",2022-06-04,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,25.0,2022
-2716,6.76,-0.8,Khaddi SAGNIA,1994-04-20,SWE,1,"Olympiastadion, Stockholm (SWE)",2021-09-04,1169,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,27.0,2021
-2716,6.76,1.9,Ivana ŠPANOVIĆ,1990-05-10,SRB,,"Stade Olympique de la Pontaise, Lausanne (SUI)",2021-08-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,31.0,2021
-2716,6.76,0.3,Ese BRUME,1996-01-20,NGR,4q2,"National Stadium, Tokyo (JPN)",2021-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,25.0,2021
-2716,6.76,-0.1,Khaddi SAGNIA,1994-04-20,SWE,3q1,"National Stadium, Tokyo (JPN)",2021-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,27.0,2021
-2716,6.76,0.5,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,1,"Avangard Stadium, Lutsk (UKR)",2021-06-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,25.0,2021
-2716,6.76,0.9,Ruth USORO,1997-10-08,NGR,2f1,"Mike A. Myers Stadium, Austin, TX (USA)",2021-03-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,2021
-2716,6.76,1.3,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2020-08-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,25.0,2020
-2716,6.76,-0.3,Khaddi SAGNIA,1994-04-20,SWE,1,"Tingvalla IP, Karlstad (SWE)",2020-07-08,1166,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,26.0,2020
-2716,6.76,,Quanesha BURKS,1995-03-15,USA,1,"Convention Center, Albuquerque, NM (USA) (i)",2020-02-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,24.0,2020
-2716,6.76,0.5,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,5,"Khalifa International Stadium, Doha (QAT)",2019-10-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,30.0,2019
-2716,6.76,-0.4,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,Kruševac (SRB),2019-08-25,1167,long-jump,jumps,female,senior,long-jump,field,6.76,SRB,29.0,2019
-2716,6.76,1.2,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,2,Minsk (BLR),2019-06-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BLR,30.0,2019
-2716,6.76,0.0,Lyudmila KOLCHANOVA,1979-10-01,RUS,4,"Olympic Stadium, London (GBR)",2012-08-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,32.0,2012
-2716,6.76,,Eunice BARBER,1974-11-17,FRA,2,Karlsruhe (GER) (i),2000-01-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,25.0,2000
-2716,6.76,0.1,Anna KLYASHTORNAYA,1986-02-03,RUS,1,Tartu (EST),2012-05-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,EST,26.0,2012
-2716,6.76,,Mirela DULGHERU-RENDA,1966-10-05,ROU,3,Bucureşti (ROU) (i),1989-02-04,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ROU,22.0,1989
-2716,6.76,,Yelena BELEVSKAYA,1963-10-11,URS,3,"Hoosier Dome, Indianapolis, IN (USA) (i)",1987-03-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,1987
-2716,6.76,,Yelena BELEVSKAYA,1963-10-11,URS,3,"Arena Stade Couvert, Liévin (FRA) (i)",1987-02-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,23.0,1987
-2716,6.76,1.4,Helga RADTKE,1962-05-16,GDR,2q1,"Neckarstadion, Stuttgart (GER)",1986-08-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,1986
-2716,6.76,-0.3,Jackie JOYNER,1962-03-03,USA,ce,Götzis (AUT),1986-05-25,1166,long-jump,jumps,female,senior,long-jump,field,6.76,AUT,24.0,1986
-2716,6.76,0.7,Jackie JOYNER,1962-03-03,USA,1q1,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,22.0,1984
-2716,6.76,,Brigitte WUJAK,1955-03-06,GDR,3,Erfurt (GER),1984-06-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,29.0,1984
-2716,6.76,1.6,Carol LEWIS,1963-08-08,USA,3,Bruxelles (BEL),1983-08-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,20.0,1983
-2716,6.76,,Jarmila STREJČKOVÁ,1953-02-15,TCH,2,Praha (TCH),1983-07-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,TCH,30.0,1983
-2716,6.76,,Ildikó ERDÉLYI,1955-07-19,HUN,1,Budapest (HUN),1977-10-09,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,22.0,1977
-2716,6.76,,Brigitte WUJAK,1955-03-06,GDR,1,Helsinki (FIN),1977-08-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FIN,22.0,1977
-2716,6.76,1.8,Brigitte WUJAK,1955-03-06,GDR,,Dresden (GER),1977-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,22.0,1977
-2716,6.76,1.8,Heidemarie WYCISK,1949-02-02,GDR,2,Dresden (GER),1977-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,28.0,1977
-2716,6.76,,Angela VOIGT,1951-05-18,GDR,1,Berlin (GER) (i),1976-01-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,1976
-2716,6.76,1.8,Ingrid MICKLER,1942-09-26,FRG,1,"Olympiastadion, Helsinki (FIN)",1971-08-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FIN,28.0,1971
-2716,6.76,-1.6,Mary RAND,1940-02-10,GBR,1,"National Stadium, Tokyo (JPN)",1964-10-14,1174,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,24.0,1964
-2716,6.76,,Shana WILLIAMS,1972-04-07,USA,1,"Johnson City, TN (USA) (i)",1998-01-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,25.0,1998
-2716,6.76,0.0,Yuan HUNT,1974-12-18,USA,1,"New Orleans, LA (USA)",1998-04-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,1998
-2716,6.76,0.9,Yelena KASHCHEYEVA,1973-02-17,KAZ,1,Bishkek (KGZ),1998-05-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,KGZ,25.0,1998
-2716,6.76,0.4,Tünde VASZI,1972-04-18,HUN,1,Budapest (HUN),1998-06-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,26.0,1998
-2716,6.76,1.6,Tatyana KOTOVA,1976-12-11,RUS,4,Moskva (RUS),1998-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,21.0,1998
-2716,6.76,,Heike DRECHSLER,1964-12-16,GER,1,Karlsruhe (GER) (i),1999-02-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,34.0,1999
-2716,6.76,0.6,Shana WILLIAMS,1972-04-07,USA,3,Linz (AUT),1999-07-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,AUT,27.0,1999
-2716,6.76,0.3,Eunice BARBER,1974-11-17,FRA,1,Niort (FRA),1999-07-31,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,24.0,1999
-2716,6.76,,Helga RADTKE,1962-05-16,GDR,2,Senftenberg (GER) (i),1988-02-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,25.0,1988
-2716,6.76,1.4,Anke BEHMER,1961-06-05,GDR,ce,Tønsberg (NOR),1989-07-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,NOR,28.0,1989
-2716,6.76,0.0,Olga RUBLYOVA,1974-10-28,RUS,3q1,"La Cartuja, Sevilla (ESP)",1999-08-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,24.0,1999
-2716,6.76,1.0,Ringa ROPO-JUNNILA,1966-02-16,FIN,3q1,"Poljud Stadion, Split (CRO)",1990-08-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CRO,24.0,1990
-2716,6.76,-0.2,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,1f1,Garbsen (GER),2012-05-20,1166,long-jump,jumps,female,senior,long-jump,field,6.76,GER,22.0,2012
-2716,6.76,0.0,Mei ZHONG,1977-01-07,CHN,3,Shanghai (CHN),1997-10-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CHN,20.0,1997
-2716,6.76,0.9,Olena KHLOPOTNOVA,1963-08-04,UKR,2,Kyiv (UKR),1997-07-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,33.0,1997
-2716,6.76,1.0,Sabine BRAUN,1965-06-19,GER,,Frankfurt (GER),1997-06-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,32.0,1997
-2716,6.76,0.2,Tünde VASZI,1972-04-18,HUN,1,Budapest (HUN),1997-06-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,25.0,1997
-2716,6.76,0.9,Tatyana KOTOVA,1976-12-11,RUS,1,Vladimir (RUS),1997-06-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,20.0,1997
-2716,6.76,0.4,Susen TIEDTKE,1969-01-23,GER,1,Pretoria (RSA),1997-04-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RSA,28.0,1997
-2716,6.76,,Chioma AJUNWA,1971-12-25,NGR,2q2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1997-03-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,25.0,1997
-2716,6.76,,Nina PEREVEDENTSEVA,1964-05-02,RUS,1,Samara (RUS) (i),1997-03-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,32.0,1997
-2716,6.76,2.0,Claudia GERHARDT,1966-01-18,GER,2,Sestriere (ITA),1996-08-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,30.0,1996
-2716,6.76,0.0,Ludmila NINOVA,1960-06-25,AUT,1,Caorle (ITA),1996-06-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,35.0,1996
-2716,6.76,1.1,Lyudmila GALKINA,1972-01-20,RUS,1,Sevilla (ESP),1996-06-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,24.0,1996
-2716,6.76,1.1,Claudia GERHARDT,1966-01-18,GER,3,"Estadio de la Comunidad, Madrid (ESP)",1996-06-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,30.0,1996
-2716,6.76,,Renata NIELSEN,1966-05-18,DEN,1,"Globe Arena, Stockholm (SWE) (i)",1996-03-10,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,29.0,1996
-2716,6.76,1.2,Nicole BOEGMAN,1967-03-05,AUS,1,Sydney (AUS),1996-02-11,1165,long-jump,jumps,female,senior,long-jump,field,6.76,AUS,28.0,1996
-2716,6.76,,Claudia GERHARDT,1966-01-18,GER,2,Chemnitz (GER) (i),1996-01-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,30.0,1996
-2716,6.76,1.5,Viktoriya VERSHININA,1971-06-11,UKR,1,Fukuoka (JPN),1995-08-31,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,24.0,1995
-2716,6.76,0.3,Valentina UCCHEDDU,1966-10-26,ITA,5,"Ullevi Stadium, Göteborg (SWE)",1995-08-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,28.0,1995
-2716,6.76,0.0,Ludmila NINOVA,1960-06-25,AUT,2,"Stade Louis II, Monaco (MON)",1994-08-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,34.0,1994
-2716,6.76,0.0,Olena KHLOPOTNOVA,1963-08-04,UKR,2,Bruxelles (BEL),1993-09-03,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,30.0,1993
-2716,6.76,0.6,Renata NIELSEN,1966-05-18,DEN,3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,27.0,1993
-2716,6.76,,Irina MUSHAYILOVA,1967-01-06,RUS,4,"The Sky Dome, Toronto (CAN) (i)",1993-03-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CAN,26.0,1993
-2716,6.76,0.6,Ringa ROPO-JUNNILA,1966-02-16,FIN,8,"Poljud Stadion, Split (CRO)",1990-08-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CRO,24.0,1990
-2716,6.76,1.0,Joanne WISE,1971-03-15,GBR,2,Malmö (SWE),1999-08-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,28.0,1999
-2716,6.76,0.2,Fiona MAY,1969-12-12,ITA,3,"Olympiastadion, Berlin (GER)",1994-08-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,1994
-2716,6.76,0.7,Eunice BARBER,1974-11-17,FRA,ce,Talence (FRA),1999-09-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,24.0,1999
-2716,6.76,0.5,Ksenija BALTA,1986-11-01,EST,1,Tallinn (EST),2009-08-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,EST,22.0,2009
-2716,6.76,0.9,Bianca KAPPLER,1977-08-08,GER,1,Wesel (GER),2007-06-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,29.0,2007
-2716,6.76,0.4,Viktoriya RYBALKO,1982-10-26,UKR,1,Donetsk (UKR),2007-07-05,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,24.0,2007
-2716,6.76,1.8,Keila COSTA,1983-02-06,BRA,3,Bad Langensalza (GER),2007-07-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,2007
-2716,6.76,0.0,Naide GOMES,1979-11-20,POR,1,Cuxhaven (GER),2007-07-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,27.0,2007
-2716,6.76,,Marina PANKOVA,1982-11-16,RUS,2,Samara (RUS) (i),2008-02-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2008
-2716,6.76,,Maurren Higa MAGGI,1976-06-25,BRA,2,"Velódromo Luis Puig, Valencia (ESP) (i)",2008-02-09,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,31.0,2008
-2716,6.76,,Brittney REESE,1986-09-09,USA,1,"Fayetteville, AR (USA) (i)",2008-03-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2008
-2716,6.76,1.5,Brittney REESE,1986-09-09,USA,2,"Stade Louis II, Monaco (MON)",2008-07-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,21.0,2008
-2716,6.76,0.4,Brittney REESE,1986-09-09,USA,4,"National Stadium, Beijing (CHN)",2008-08-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CHN,21.0,2008
-2716,6.76,-0.2,Soon-ok JUNG,1983-04-23,KOR,1,Daegu (KOR),2009-06-04,1166,long-jump,jumps,female,senior,long-jump,field,6.76,KOR,26.0,2009
-2716,6.76,1.0,Olga KUCHERENKO,1985-11-05,RUS,1,Ostrava (CZE),2009-06-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CZE,23.0,2009
-2716,6.76,0.1,Olga KUCHERENKO,1985-11-05,RUS,1,"Stadio Quercia, Rovereto (ITA)",2009-09-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,23.0,2009
-2716,6.76,0.0,Viktoriya RYBALKO,1982-10-26,UKR,1,Yalta (UKR),2007-06-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,24.0,2007
-2716,6.76,1.6,Irene PUSTERLA,1988-06-21,SUI,1,Lugano (SUI),2010-07-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,22.0,2010
-2716,6.76,1.8,Janay DELOACH,1985-10-12,USA,2,São Paulo (BRA),2011-05-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BRA,25.0,2011
-2716,6.76,1.7,Darya KLISHINA,1991-01-15,RUS,2,"Stade Olympique de la Pontaise, Lausanne (SUI)",2011-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,20.0,2011
-2716,6.76,0.1,Lauma GRĪVA,1984-10-27,LAT,2,Kohila (EST),2011-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,EST,26.0,2011
-2716,6.76,0.3,Brianna GLENN,1980-04-18,USA,1,Bottrop (GER),2011-07-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,31.0,2011
-2716,6.76,1.2,Yelena SOKOLOVA,1986-07-23,RUS,1q1,Cheboksary (RUS),2011-07-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2011
-2716,6.76,0.6,Anna KLYASHTORNAYA,1986-02-03,RUS,5,Cheboksary (RUS),2011-07-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2011
-2716,6.76,0.2,Naide GOMES,1979-11-20,POR,2q1,"DS, Daegu (KOR)",2011-08-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,KOR,31.0,2011
-2716,6.76,-0.3,Ineta RADEVIČA,1981-07-13,LAT,2,"DS, Daegu (KOR)",2011-08-28,1166,long-jump,jumps,female,senior,long-jump,field,6.76,KOR,30.0,2011
-2716,6.76,1.0,Hyleas FOUNTAIN,1981-01-14,USA,3,Nice (FRA),2011-09-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,30.0,2011
-2716,6.76,0.2,Lyudmila GALKINA,1972-01-20,RUS,1,Sevilla (ESP),2000-06-09,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,28.0,2000
-2716,6.76,0.3,Keila COSTA,1983-02-06,BRA,1,São Paulo (BRA),2007-06-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BRA,24.0,2007
-2716,6.76,0.0,Ineta RADEVIČA,1981-07-13,LAT,4,"Meteor, Zhukovskiy (RUS)",2010-06-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,28.0,2010
-2716,6.76,1.4,Maurren Higa MAGGI,1976-06-25,BRA,1,São Paulo (BRA),2007-04-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BRA,30.0,2007
-2716,6.76,1.8,Niki XANTHOU,1973-10-11,GRE,2,Rethymno (GRE),2003-07-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GRE,29.0,2003
-2716,6.76,-1.2,Tatyana TER-MESROBYAN,1968-05-12,RUS,q,Tula (RUS),2000-07-23,1172,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,32.0,2000
-2716,6.76,,Naide GOMES,1979-11-20,POR,1,Espinho (POR) (i),2007-02-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POR,27.0,2007
-2716,6.76,1.4,Yingnan GUAN,1977-04-25,CHN,3,Stockholm (SWE),2000-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,23.0,2000
-2716,6.76,0.0,Dawn BURRELL,1973-11-01,USA,3,"Stade Louis II, Monaco (MON)",2000-08-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,26.0,2000
-2716,6.76,0.4,Niurka MONTALVO,1968-06-04,ESP,4,Bruxelles (BEL),2000-08-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,32.0,2000
-2716,6.76,0.0,Fiona MAY,1969-12-12,ITA,2,Madrid (ESP),2001-05-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,31.0,2001
-2716,6.76,1.5,Tünde VASZI,1972-04-18,HUN,1,Budapest (HUN),2001-07-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,29.0,2001
-2716,6.76,1.1,Olga RUBLYOVA,1974-10-28,RUS,2,Chania (GRE),2002-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GRE,27.0,2002
-2716,6.76,-0.1,Elva GOULBOURNE,1980-01-21,JAM,1,"Sacramento, CA (USA)",2003-06-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,2003
-2716,6.76,,Inessa KRAVETS,1966-10-05,UKR,1,Kyiv (UKR),2003-06-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,36.0,2003
-2716,6.76,0.5,Eunice BARBER,1974-11-17,FRA,1,"Stadio Luigi Ridolfi, Firenze (ITA)",2003-06-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,28.0,2003
-2716,6.76,-0.1,Irina MELNIKOVA,1975-05-14,RUS,1,"Arsenal Stadium, Tula (RUS)",2003-06-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,28.0,2003
-2716,6.76,1.1,Inessa KRAVETS,1966-10-05,UKR,1,Madrid (ESP),2003-07-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,36.0,2003
-2716,6.76,-1.5,Tatyana KOTOVA,1976-12-11,RUS,2,"Stadio Olimpico, Roma (ITA)",2004-07-02,1174,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,27.0,2004
-2716,6.76,,Naide GOMES,1979-11-20,POR,2,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,26.0,2006
-2716,6.76,1.9,Kumiko IMURA,1981-01-10,JPN,1,Hamamatsu (JPN),2006-11-03,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,25.0,2006
-2716,6.76,-0.7,Lyudmila KOVALYOVA,1975-03-18,UKR,1,Kyiv (UKR),2005-07-25,1169,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,30.0,2005
-2716,6.76,1.0,Irina MELESHINA,1982-05-25,RUS,1,"Stadio Luigi Ridolfi, Firenze (ITA)",2005-06-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,23.0,2005
-2716,6.76,1.1,Rose RICHMOND,1981-01-29,USA,,"Carson, CA (USA)",2004-07-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,2004
-2716,6.76,,Concepción MONTANER,1981-01-14,ESP,3,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2006
-2716,6.76,0.6,Zita AJKLER,1975-06-09,HUN,1,Debrecen (HUN),2004-06-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,29.0,2004
-2716,6.76,0.0,Tünde VASZI,1972-04-18,HUN,1,Córdoba (ESP),2003-09-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,31.0,2003
-2888,6.75,0.5,Sha'keela SAUNDERS,1993-12-12,USA,2,"Columbia, SC (USA)",2017-05-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,23.0,2017
-2888,6.75,1.8,Akela JONES,1995-04-22,BAR,1,"Fort Worth, TX (USA)",2016-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2016
-2888,6.75,0.2,Tianna BARTOLETTA,1985-08-30,USA,3,"Shanghai Stadium, Shanghai (CHN)",2016-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CHN,30.0,2016
-2888,6.75,0.2,Jazmin SAWYERS,1994-05-21,GBR,1,Birmingham (GBR),2016-06-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,22.0,2016
-2888,6.75,0.0,Ksenija BALTA,1986-11-01,EST,3,"Stade de France, Paris-St-Denis (FRA)",2016-08-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FRA,29.0,2016
-2888,6.75,0.3,Christabel NETTEY,1991-06-02,CAN,2,"Shanghai Stadium, Shanghai (CHN)",2016-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CHN,24.0,2016
-2888,6.75,-0.5,Jana VELĎÁKOVÁ,1981-06-03,SVK,1,Banská Bystrica (SVK),2016-06-26,1166,long-jump,jumps,female,senior,long-jump,field,6.75,SVK,35.0,2016
-2888,6.75,-0.8,Katarina JOHNSON-THOMPSON,1993-01-09,GBR,4,"Olympic Stadium, London (GBR)",2017-07-09,1167,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,24.0,2017
-2888,6.75,0.9,Alexandra WESTER,1994-03-21,GER,1f1,Weinheim (GER),2017-05-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,23.0,2017
-2888,6.75,2.0,Darya KLISHINA,1991-01-15,ANA,2,"Bislett Stadion, Oslo (NOR)",2017-06-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,NOR,26.0,2017
-2888,6.75,-0.7,Malaika MIHAMBO,1994-02-03,GER,1,"Olympiastadion, Berlin (GER)",2018-08-11,1167,long-jump,jumps,female,senior,long-jump,field,6.75,GER,24.0,2018
-2888,6.75,-0.1,Shara PROCTOR,1988-09-16,GBR,3,Gold Coast (AUS),2018-04-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,AUS,29.0,2018
-2888,6.75,0.9,Alina ROTARU,1993-06-05,ROU,2,Pitesti (ROU),2019-07-31,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,26.0,2019
-2888,6.75,,Alexandra WESTER,1994-03-21,GER,1,Leipzig (GER) (i),2016-02-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,21.0,2016
-2888,6.75,0.0,Chanice PORTER,1994-05-25,JAM,1,"Athens, GA (USA)",2018-05-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,23.0,2018
-2888,6.75,0.7,Shara PROCTOR,1988-09-16,GBR,2q1,"Olympiastadion, Berlin (GER)",2018-08-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,29.0,2018
-2888,6.75,,Brooke STRATTON,1993-07-12,AUS,5,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-18,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,22.0,2016
-2888,6.75,,Ivana ŠPANOVIĆ,1990-05-10,SRB,3,"Barclaycard Arena, Birmingham (GBR) (i)",2015-02-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,24.0,2015
-2888,6.75,,Akela JONES,1995-04-22,BAR,1,"Ames, IA (USA) (i)",2016-02-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2016
-2888,6.75,,Quanesha BURKS,1995-03-15,USA,1,"Fayetteville, AR (USA) (i)",2016-02-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2016
-2888,6.75,0.1,Tori POLK,1983-09-21,USA,3q1,"Luzhniki Stadion, Moskva (RUS)",2013-08-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,29.0,2013
-2888,6.75,-0.2,Darya KLISHINA,1991-01-15,RUS,,"Stade Louis II, Monaco (MON)",2013-07-19,1164,long-jump,jumps,female,senior,long-jump,field,6.75,MON,22.0,2013
-2888,6.75,,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,3,"Mercedes-Benz Arena, Berlin (GER) (i)",2020-02-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,30.0,2020
-2888,6.75,1.0,Éloyse LESUEUR-AYMONIN,1988-07-15,FRA,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",2013-07-04,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SUI,24.0,2013
-2888,6.75,,Yuliya PIDLUZHNAYA,1988-10-01,RUS,1,Chelyabinsk (RUS) (i),2014-01-19,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,2014
-2888,6.75,,Katarina JOHNSON-THOMPSON,1993-01-09,GBR,1,Sheffield (GBR) (i),2014-02-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,21.0,2014
-2888,6.75,0.8,Irene PUSTERLA,1988-06-21,SUI,2,Rovereto (ITA),2014-09-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,26.0,2014
-2888,6.75,,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,2,Malmö (SWE) (i),2015-02-25,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,25.0,2015
-2888,6.75,1.0,Darya KLISHINA,1991-01-15,RUS,7,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,QAT,24.0,2015
-2888,6.75,1.8,Sha'keela SAUNDERS,1993-12-12,USA,3,"Eugene, OR (USA)",2015-06-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2015
-2888,6.75,0.9,Sha'keela SAUNDERS,1993-12-12,USA,5,"Hayward Field, Eugene, OR (USA)",2015-06-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2015
-2888,6.75,-0.6,Malaika MIHAMBO,1994-02-03,GER,1q1,"Kadrioru staadion, Tallinn (EST)",2015-07-11,1166,long-jump,jumps,female,senior,long-jump,field,6.75,EST,21.0,2015
-2888,6.75,1.7,Alina ROTARU,1993-06-05,ROU,1,Pitesti (ROU),2015-07-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,22.0,2015
-2888,6.75,,Janay DELOACH,1985-10-12,USA,1,"Colorado Springs, CO (USA) (i)",2016-01-22,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,30.0,2016
-2888,6.75,,Yuliya PIDLUZHNAYA,1988-10-01,RUS,1,Moskva (RUS) (i),2016-02-24,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,27.0,2016
-2888,6.75,-0.5,Abigail IROZURU,1990-01-03,GBR,4,"Alexander Stadium, Birmingham (GBR)",2019-08-18,1166,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,29.0,2019
-2888,6.75,,Annik KÄLIN,2000-04-27,SUI,2,"Uber Arena, Berlin (GER) (i)",2024-02-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,23.0,2024
-2888,6.75,,Monae' NICHOLS,1998-11-24,USA,1,"Sports Performance Center, Lubbock, TX (USA) (i)",2021-01-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,22.0,2021
-2888,6.75,-0.3,Diana LESTI,1998-03-30,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",2023-06-08,1164,long-jump,jumps,female,senior,long-jump,field,6.75,HUN,25.0,2023
-2888,6.75,0.4,Maja ÅSKAG,2002-12-18,SWE,2,"Tingvalla IP, Karlstad (SWE)",2023-07-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,20.0,2023
-2888,6.75,2.0,Viyaleta SKVARTSOVA,1998-04-15,BLR,1,"Regional Sport Complex, Brest (BLR)",2023-07-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BLR,25.0,2023
-2888,6.75,0.1,Ruth USORO,1997-10-08,NGR,1,"Stadio Colbachini, Padova (ITA)",2023-09-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,25.0,2023
-2888,6.75,,Larissa IAPICHINO,2002-07-18,ITA,3,"Uber Arena, Berlin (GER) (i)",2024-02-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,21.0,2024
-2888,6.75,,Annik KÄLIN,2000-04-27,SUI,5,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,23.0,2024
-2888,6.75,1.8,Eliane MARTINS,1986-05-26,BRA,2,"Pista atletismo Fuente de la Niña, Guadalajara (ESP)",2024-06-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,38.0,2024
-2888,6.75,1.3,Prestina Oluchi OCHONOGOR,2006-07-03,NGR,1,"Samuel Ogbemudia Stadium, Benin City (NGR)",2024-06-18,1163,long-jump,jumps,female,senior,long-jump,field,6.75,NGR,17.0,2024
-2888,6.75,-0.6,Quanesha BURKS,1995-03-15,USA,4q1,"Hayward Field, Eugene, OR (USA)",2024-06-27,1166,long-jump,jumps,female,senior,long-jump,field,6.75,USA,29.0,2024
-2888,6.75,1.1,Agate DE SOUSA,2000-06-05,POR,2,"Olympic Stadium, London (GBR)",2024-07-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,24.0,2024
-2888,6.75,,Milica GARDAŠEVIĆ,1998-09-28,SRB,4,"Omnisport, Apeldoorn (NED) (i)",2025-03-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,NED,26.0,2025
-2888,6.75,,Tacoria HUMPHREY,2003-01-02,USA,2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",2025-03-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,22.0,2025
-2888,6.75,1.5,Tara DAVIS-WOODHALL,1999-05-20,USA,1,"Drake Stadium, Des Moines, IA (USA)",2025-04-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,25.0,2025
-2888,6.75,-1.1,Darya KLISHINA,1991-01-15,RUS,1,Sochi (RUS),2013-05-25,1169,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,22.0,2013
+2717,6.76,,Larissa IAPICHINO,2002-07-18,ITA,2q1,"Omnisport, Apeldoorn (NED) (i)",2025-03-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,NED,22.0,2025
+2717,6.76,,Viktoria GORLOVA,2001-05-22,RUS,2,"LFK CSKA, Moskva (RUS) (i)",2025-03-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,23.0,2025
+2717,6.76,0.3,Ese BRUME,1996-01-20,NGR,2q1,"Stade de France, Paris (FRA)",2024-08-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,28.0,2024
+2717,6.76,-0.3,Quanesha BURKS,1995-03-15,USA,3,"Bregyó Athletic Center, Székesfehérvár (HUN)",2024-07-09,1166,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,29.0,2024
+2717,6.76,0.3,Milica GARDAŠEVIĆ,1998-09-28,SRB,2,"Stadion Śląski, Chorzów (POL)",2024-05-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POL,25.0,2024
+2717,6.76,,Annik KÄLIN,2000-04-27,SUI,1,"Athletik Zentrum, St. Gallen (SUI) (i)",2024-02-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,23.0,2024
+2717,6.76,,Tara DAVIS-WOODHALL,1999-05-20,USA,1,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2024-01-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,24.0,2024
+2717,6.76,1.3,Pauline HONDEMA,2000-03-28,NED,1,"Sportcentrum Wembley, Kortrijk (BEL)",2023-07-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,23.0,2023
+2717,6.76,0.6,Agate DE SOUSA,2000-06-05,STP,3,"Stadion Śląski, Chorzów (POL)",2023-06-04,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POL,23.0,2023
+2717,6.76,0.0,Shaili SINGH,2004-01-07,IND,1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",2023-04-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,IND,19.0,2023
+2717,6.76,,Ivana VULETA,1990-05-10,SRB,1,"Messehalle, Karlsruhe (GER) (i)",2023-01-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,32.0,2023
+2717,6.76,0.1,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,4,"Olympiastadion, München (GER)",2022-08-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,27.0,2022
+2717,6.76,-1.1,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,2,"Olympiastadion, Stockholm (SWE)",2022-06-30,1171,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,26.0,2022
+2717,6.76,-0.7,Yelena SOKOLOVA,1986-07-23,ANA,3,Minsk (BLR),2019-06-23,1169,long-jump,jumps,female,senior,long-jump,field,6.76,BLR,32.0,2019
+2717,6.76,0.0,Jogailė PETROKAITĖ,1995-09-30,LTU,1,"Centrinis Stadionas, Šiauliai (LTU)",2022-06-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,LTU,26.0,2022
+2717,6.76,0.5,Agate DE SOUSA,2000-06-05,STP,2,"Maria-Theresien-Straße, Innsbruck (AUT)",2022-06-11,1165,long-jump,jumps,female,senior,long-jump,field,6.76,AUT,22.0,2022
+2717,6.76,0.2,Fátima DIAME,1996-09-22,ESP,1,"Polideportivo Municipal, Andújar (ESP)",2022-06-04,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,25.0,2022
+2717,6.76,-0.8,Khaddi SAGNIA,1994-04-20,SWE,1,"Olympiastadion, Stockholm (SWE)",2021-09-04,1169,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,27.0,2021
+2717,6.76,1.9,Ivana ŠPANOVIĆ,1990-05-10,SRB,,"Stade Olympique de la Pontaise, Lausanne (SUI)",2021-08-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,31.0,2021
+2717,6.76,0.3,Ese BRUME,1996-01-20,NGR,4q2,"National Stadium, Tokyo (JPN)",2021-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,25.0,2021
+2717,6.76,-0.1,Khaddi SAGNIA,1994-04-20,SWE,3q1,"National Stadium, Tokyo (JPN)",2021-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,27.0,2021
+2717,6.76,0.9,Ruth USORO,1997-10-08,NGR,2f1,"Mike A. Myers Stadium, Austin, TX (USA)",2021-03-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,2021
+2717,6.76,1.3,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2020-08-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,25.0,2020
+2717,6.76,-0.3,Khaddi SAGNIA,1994-04-20,SWE,1,"Tingvalla IP, Karlstad (SWE)",2020-07-08,1166,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,26.0,2020
+2717,6.76,,Quanesha BURKS,1995-03-15,USA,1,"Convention Center, Albuquerque, NM (USA) (i)",2020-02-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,24.0,2020
+2717,6.76,0.5,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,5,"Khalifa International Stadium, Doha (QAT)",2019-10-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,QAT,30.0,2019
+2717,6.76,-0.4,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,Kruševac (SRB),2019-08-25,1167,long-jump,jumps,female,senior,long-jump,field,6.76,SRB,29.0,2019
+2717,6.76,1.2,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,2,Minsk (BLR),2019-06-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BLR,30.0,2019
+2717,6.76,0.0,Lyudmila KOLCHANOVA,1979-10-01,RUS,4,"Olympic Stadium, London (GBR)",2012-08-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GBR,32.0,2012
+2717,6.76,0.7,Eunice BARBER,1974-11-17,FRA,ce,Talence (FRA),1999-09-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,24.0,1999
+2717,6.76,0.1,Anna KLYASHTORNAYA,1986-02-03,RUS,1,Tartu (EST),2012-05-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,EST,26.0,2012
+2717,6.76,,Mirela DULGHERU-RENDA,1966-10-05,ROU,3,Bucureşti (ROU) (i),1989-02-04,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ROU,22.0,1989
+2717,6.76,,Yelena BELEVSKAYA,1963-10-11,URS,3,"Hoosier Dome, Indianapolis, IN (USA) (i)",1987-03-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,1987
+2717,6.76,,Yelena BELEVSKAYA,1963-10-11,URS,3,"Arena Stade Couvert, Liévin (FRA) (i)",1987-02-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,23.0,1987
+2717,6.76,1.4,Helga RADTKE,1962-05-16,GDR,2q1,"Neckarstadion, Stuttgart (GER)",1986-08-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,1986
+2717,6.76,-0.3,Jackie JOYNER,1962-03-03,USA,ce,Götzis (AUT),1986-05-25,1166,long-jump,jumps,female,senior,long-jump,field,6.76,AUT,24.0,1986
+2717,6.76,0.7,Jackie JOYNER,1962-03-03,USA,1q1,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,22.0,1984
+2717,6.76,,Brigitte WUJAK,1955-03-06,GDR,3,Erfurt (GER),1984-06-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,29.0,1984
+2717,6.76,1.6,Carol LEWIS,1963-08-08,USA,3,Bruxelles (BEL),1983-08-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,20.0,1983
+2717,6.76,,Jarmila STREJČKOVÁ,1953-02-15,TCH,2,Praha (TCH),1983-07-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,TCH,30.0,1983
+2717,6.76,,Ildikó ERDÉLYI,1955-07-19,HUN,1,Budapest (HUN),1977-10-09,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,22.0,1977
+2717,6.76,,Brigitte WUJAK,1955-03-06,GDR,1,Helsinki (FIN),1977-08-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FIN,22.0,1977
+2717,6.76,1.8,Brigitte WUJAK,1955-03-06,GDR,,Dresden (GER),1977-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,22.0,1977
+2717,6.76,1.8,Heidemarie WYCISK,1949-02-02,GDR,2,Dresden (GER),1977-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,28.0,1977
+2717,6.76,,Angela VOIGT,1951-05-18,GDR,1,Berlin (GER) (i),1976-01-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,1976
+2717,6.76,1.8,Ingrid MICKLER,1942-09-26,FRG,1,"Olympiastadion, Helsinki (FIN)",1971-08-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FIN,28.0,1971
+2717,6.76,-1.6,Mary RAND,1940-02-10,GBR,1,"National Stadium, Tokyo (JPN)",1964-10-14,1174,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,24.0,1964
+2717,6.76,,Shana WILLIAMS,1972-04-07,USA,1,"Johnson City, TN (USA) (i)",1998-01-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,25.0,1998
+2717,6.76,0.0,Yuan HUNT,1974-12-18,USA,1,"New Orleans, LA (USA)",1998-04-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,1998
+2717,6.76,0.9,Yelena KASHCHEYEVA,1973-02-17,KAZ,1,Bishkek (KGZ),1998-05-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,KGZ,25.0,1998
+2717,6.76,0.4,Tünde VASZI,1972-04-18,HUN,1,Budapest (HUN),1998-06-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,26.0,1998
+2717,6.76,1.6,Tatyana KOTOVA,1976-12-11,RUS,4,Moskva (RUS),1998-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,21.0,1998
+2717,6.76,,Heike DRECHSLER,1964-12-16,GER,1,Karlsruhe (GER) (i),1999-02-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,34.0,1999
+2717,6.76,0.6,Shana WILLIAMS,1972-04-07,USA,3,Linz (AUT),1999-07-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,AUT,27.0,1999
+2717,6.76,0.3,Eunice BARBER,1974-11-17,FRA,1,Niort (FRA),1999-07-31,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,24.0,1999
+2717,6.76,,Helga RADTKE,1962-05-16,GDR,2,Senftenberg (GER) (i),1988-02-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,25.0,1988
+2717,6.76,1.4,Anke BEHMER,1961-06-05,GDR,ce,Tønsberg (NOR),1989-07-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,NOR,28.0,1989
+2717,6.76,0.0,Olga RUBLYOVA,1974-10-28,RUS,3q1,"La Cartuja, Sevilla (ESP)",1999-08-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,24.0,1999
+2717,6.76,1.0,Ringa ROPO-JUNNILA,1966-02-16,FIN,3q1,"Poljud Stadion, Split (CRO)",1990-08-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CRO,24.0,1990
+2717,6.76,-0.2,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,1f1,Garbsen (GER),2012-05-20,1166,long-jump,jumps,female,senior,long-jump,field,6.76,GER,22.0,2012
+2717,6.76,0.0,Mei ZHONG,1977-01-07,CHN,3,Shanghai (CHN),1997-10-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CHN,20.0,1997
+2717,6.76,0.9,Olena KHLOPOTNOVA,1963-08-04,UKR,2,Kyiv (UKR),1997-07-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,33.0,1997
+2717,6.76,1.0,Sabine BRAUN,1965-06-19,GER,,Frankfurt (GER),1997-06-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,32.0,1997
+2717,6.76,0.2,Tünde VASZI,1972-04-18,HUN,1,Budapest (HUN),1997-06-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,25.0,1997
+2717,6.76,0.9,Tatyana KOTOVA,1976-12-11,RUS,1,Vladimir (RUS),1997-06-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,20.0,1997
+2717,6.76,0.4,Susen TIEDTKE,1969-01-23,GER,1,Pretoria (RSA),1997-04-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RSA,28.0,1997
+2717,6.76,,Chioma AJUNWA,1971-12-25,NGR,2q2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1997-03-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,25.0,1997
+2717,6.76,,Nina PEREVEDENTSEVA,1964-05-02,RUS,1,Samara (RUS) (i),1997-03-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,32.0,1997
+2717,6.76,2.0,Claudia GERHARDT,1966-01-18,GER,2,Sestriere (ITA),1996-08-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,30.0,1996
+2717,6.76,0.0,Ludmila NINOVA,1960-06-25,AUT,1,Caorle (ITA),1996-06-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,35.0,1996
+2717,6.76,1.1,Lyudmila GALKINA,1972-01-20,RUS,1,Sevilla (ESP),1996-06-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,24.0,1996
+2717,6.76,1.1,Claudia GERHARDT,1966-01-18,GER,3,"Estadio de la Comunidad, Madrid (ESP)",1996-06-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,30.0,1996
+2717,6.76,,Renata NIELSEN,1966-05-18,DEN,1,"Globe Arena, Stockholm (SWE) (i)",1996-03-10,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,29.0,1996
+2717,6.76,1.2,Nicole BOEGMAN,1967-03-05,AUS,1,Sydney (AUS),1996-02-11,1165,long-jump,jumps,female,senior,long-jump,field,6.76,AUS,28.0,1996
+2717,6.76,,Claudia GERHARDT,1966-01-18,GER,2,Chemnitz (GER) (i),1996-01-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,30.0,1996
+2717,6.76,1.5,Viktoriya VERSHININA,1971-06-11,UKR,1,Fukuoka (JPN),1995-08-31,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,24.0,1995
+2717,6.76,0.3,Valentina UCCHEDDU,1966-10-26,ITA,5,"Ullevi Stadium, Göteborg (SWE)",1995-08-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,28.0,1995
+2717,6.76,0.0,Ludmila NINOVA,1960-06-25,AUT,2,"Stade Louis II, Monaco (MON)",1994-08-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,34.0,1994
+2717,6.76,0.0,Olena KHLOPOTNOVA,1963-08-04,UKR,2,Bruxelles (BEL),1993-09-03,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,30.0,1993
+2717,6.76,0.6,Renata NIELSEN,1966-05-18,DEN,3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,27.0,1993
+2717,6.76,,Irina MUSHAYILOVA,1967-01-06,RUS,4,"The Sky Dome, Toronto (CAN) (i)",1993-03-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CAN,26.0,1993
+2717,6.76,0.6,Ringa ROPO-JUNNILA,1966-02-16,FIN,8,"Poljud Stadion, Split (CRO)",1990-08-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CRO,24.0,1990
+2717,6.76,1.0,Joanne WISE,1971-03-15,GBR,2,Malmö (SWE),1999-08-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,28.0,1999
+2717,6.76,0.2,Fiona MAY,1969-12-12,ITA,3,"Olympiastadion, Berlin (GER)",1994-08-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,1994
+2717,6.76,,Eunice BARBER,1974-11-17,FRA,2,Karlsruhe (GER) (i),2000-01-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,25.0,2000
+2717,6.76,0.5,Ksenija BALTA,1986-11-01,EST,1,Tallinn (EST),2009-08-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,EST,22.0,2009
+2717,6.76,0.9,Bianca KAPPLER,1977-08-08,GER,1,Wesel (GER),2007-06-28,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,29.0,2007
+2717,6.76,0.4,Viktoriya RYBALKO,1982-10-26,UKR,1,Donetsk (UKR),2007-07-05,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,24.0,2007
+2717,6.76,1.8,Keila COSTA,1983-02-06,BRA,3,Bad Langensalza (GER),2007-07-07,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,24.0,2007
+2717,6.76,0.0,Naide GOMES,1979-11-20,POR,1,Cuxhaven (GER),2007-07-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,27.0,2007
+2717,6.76,,Marina PANKOVA,1982-11-16,RUS,2,Samara (RUS) (i),2008-02-02,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2008
+2717,6.76,,Maurren Higa MAGGI,1976-06-25,BRA,2,"Velódromo Luis Puig, Valencia (ESP) (i)",2008-02-09,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,31.0,2008
+2717,6.76,,Brittney REESE,1986-09-09,USA,1,"Fayetteville, AR (USA) (i)",2008-03-14,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,21.0,2008
+2717,6.76,1.5,Brittney REESE,1986-09-09,USA,2,"Stade Louis II, Monaco (MON)",2008-07-29,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,21.0,2008
+2717,6.76,0.4,Brittney REESE,1986-09-09,USA,4,"National Stadium, Beijing (CHN)",2008-08-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CHN,21.0,2008
+2717,6.76,-0.2,Soon-ok JUNG,1983-04-23,KOR,1,Daegu (KOR),2009-06-04,1166,long-jump,jumps,female,senior,long-jump,field,6.76,KOR,26.0,2009
+2717,6.76,1.0,Olga KUCHERENKO,1985-11-05,RUS,1,Ostrava (CZE),2009-06-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,CZE,23.0,2009
+2717,6.76,0.1,Olga KUCHERENKO,1985-11-05,RUS,1,"Stadio Quercia, Rovereto (ITA)",2009-09-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,23.0,2009
+2717,6.76,0.0,Viktoriya RYBALKO,1982-10-26,UKR,1,Yalta (UKR),2007-06-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,24.0,2007
+2717,6.76,1.6,Irene PUSTERLA,1988-06-21,SUI,1,Lugano (SUI),2010-07-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,22.0,2010
+2717,6.76,1.8,Janay DELOACH,1985-10-12,USA,2,São Paulo (BRA),2011-05-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BRA,25.0,2011
+2717,6.76,1.7,Darya KLISHINA,1991-01-15,RUS,2,"Stade Olympique de la Pontaise, Lausanne (SUI)",2011-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SUI,20.0,2011
+2717,6.76,0.1,Lauma GRĪVA,1984-10-27,LAT,2,Kohila (EST),2011-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,EST,26.0,2011
+2717,6.76,0.3,Brianna GLENN,1980-04-18,USA,1,Bottrop (GER),2011-07-15,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GER,31.0,2011
+2717,6.76,1.2,Yelena SOKOLOVA,1986-07-23,RUS,1q1,Cheboksary (RUS),2011-07-21,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2011
+2717,6.76,0.6,Anna KLYASHTORNAYA,1986-02-03,RUS,5,Cheboksary (RUS),2011-07-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2011
+2717,6.76,0.2,Naide GOMES,1979-11-20,POR,2q1,"DS, Daegu (KOR)",2011-08-27,1165,long-jump,jumps,female,senior,long-jump,field,6.76,KOR,31.0,2011
+2717,6.76,-0.3,Ineta RADEVIČA,1981-07-13,LAT,2,"DS, Daegu (KOR)",2011-08-28,1166,long-jump,jumps,female,senior,long-jump,field,6.76,KOR,30.0,2011
+2717,6.76,1.0,Hyleas FOUNTAIN,1981-01-14,USA,3,Nice (FRA),2011-09-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,FRA,30.0,2011
+2717,6.76,0.2,Lyudmila GALKINA,1972-01-20,RUS,1,Sevilla (ESP),2000-06-09,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,28.0,2000
+2717,6.76,0.3,Keila COSTA,1983-02-06,BRA,1,São Paulo (BRA),2007-06-24,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BRA,24.0,2007
+2717,6.76,0.0,Ineta RADEVIČA,1981-07-13,LAT,4,"Meteor, Zhukovskiy (RUS)",2010-06-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,28.0,2010
+2717,6.76,1.4,Maurren Higa MAGGI,1976-06-25,BRA,1,São Paulo (BRA),2007-04-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BRA,30.0,2007
+2717,6.76,1.8,Niki XANTHOU,1973-10-11,GRE,2,Rethymno (GRE),2003-07-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GRE,29.0,2003
+2717,6.76,-1.2,Tatyana TER-MESROBYAN,1968-05-12,RUS,q,Tula (RUS),2000-07-23,1172,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,32.0,2000
+2717,6.76,,Naide GOMES,1979-11-20,POR,1,Espinho (POR) (i),2007-02-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,POR,27.0,2007
+2717,6.76,1.4,Yingnan GUAN,1977-04-25,CHN,3,Stockholm (SWE),2000-08-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,SWE,23.0,2000
+2717,6.76,0.0,Dawn BURRELL,1973-11-01,USA,3,"Stade Louis II, Monaco (MON)",2000-08-18,1165,long-jump,jumps,female,senior,long-jump,field,6.76,MON,26.0,2000
+2717,6.76,0.4,Niurka MONTALVO,1968-06-04,ESP,4,Bruxelles (BEL),2000-08-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,BEL,32.0,2000
+2717,6.76,0.0,Fiona MAY,1969-12-12,ITA,2,Madrid (ESP),2001-05-26,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,31.0,2001
+2717,6.76,1.5,Tünde VASZI,1972-04-18,HUN,1,Budapest (HUN),2001-07-01,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,29.0,2001
+2717,6.76,1.1,Olga RUBLYOVA,1974-10-28,RUS,2,Chania (GRE),2002-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.76,GRE,27.0,2002
+2717,6.76,-0.1,Elva GOULBOURNE,1980-01-21,JAM,1,"Sacramento, CA (USA)",2003-06-13,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,2003
+2717,6.76,,Inessa KRAVETS,1966-10-05,UKR,1,Kyiv (UKR),2003-06-20,1165,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,36.0,2003
+2717,6.76,0.5,Eunice BARBER,1974-11-17,FRA,1,"Stadio Luigi Ridolfi, Firenze (ITA)",2003-06-22,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,28.0,2003
+2717,6.76,-0.1,Irina MELNIKOVA,1975-05-14,RUS,1,"Arsenal Stadium, Tula (RUS)",2003-06-08,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,28.0,2003
+2717,6.76,1.1,Inessa KRAVETS,1966-10-05,UKR,1,Madrid (ESP),2003-07-19,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,36.0,2003
+2717,6.76,-1.5,Tatyana KOTOVA,1976-12-11,RUS,2,"Stadio Olimpico, Roma (ITA)",2004-07-02,1174,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,27.0,2004
+2717,6.76,,Naide GOMES,1979-11-20,POR,2,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,26.0,2006
+2717,6.76,1.9,Kumiko IMURA,1981-01-10,JPN,1,Hamamatsu (JPN),2006-11-03,1165,long-jump,jumps,female,senior,long-jump,field,6.76,JPN,25.0,2006
+2717,6.76,-0.7,Lyudmila KOVALYOVA,1975-03-18,UKR,1,Kyiv (UKR),2005-07-25,1169,long-jump,jumps,female,senior,long-jump,field,6.76,UKR,30.0,2005
+2717,6.76,1.0,Irina MELESHINA,1982-05-25,RUS,1,"Stadio Luigi Ridolfi, Firenze (ITA)",2005-06-17,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ITA,23.0,2005
+2717,6.76,1.1,Rose RICHMOND,1981-01-29,USA,,"Carson, CA (USA)",2004-07-25,1165,long-jump,jumps,female,senior,long-jump,field,6.76,USA,23.0,2004
+2717,6.76,,Concepción MONTANER,1981-01-14,ESP,3,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1165,long-jump,jumps,female,senior,long-jump,field,6.76,RUS,25.0,2006
+2717,6.76,0.6,Zita AJKLER,1975-06-09,HUN,1,Debrecen (HUN),2004-06-16,1165,long-jump,jumps,female,senior,long-jump,field,6.76,HUN,29.0,2004
+2717,6.76,0.0,Tünde VASZI,1972-04-18,HUN,1,Córdoba (ESP),2003-09-06,1165,long-jump,jumps,female,senior,long-jump,field,6.76,ESP,31.0,2003
+2889,6.75,0.5,Sha'keela SAUNDERS,1993-12-12,USA,2,"Columbia, SC (USA)",2017-05-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,23.0,2017
+2889,6.75,1.8,Akela JONES,1995-04-22,BAR,1,"Fort Worth, TX (USA)",2016-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2016
+2889,6.75,0.2,Tianna BARTOLETTA,1985-08-30,USA,3,"Shanghai Stadium, Shanghai (CHN)",2016-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CHN,30.0,2016
+2889,6.75,0.2,Jazmin SAWYERS,1994-05-21,GBR,1,Birmingham (GBR),2016-06-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,22.0,2016
+2889,6.75,0.0,Ksenija BALTA,1986-11-01,EST,3,"Stade de France, Paris-St-Denis (FRA)",2016-08-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FRA,29.0,2016
+2889,6.75,0.3,Christabel NETTEY,1991-06-02,CAN,2,"Shanghai Stadium, Shanghai (CHN)",2016-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CHN,24.0,2016
+2889,6.75,-0.5,Jana VELĎÁKOVÁ,1981-06-03,SVK,1,Banská Bystrica (SVK),2016-06-26,1166,long-jump,jumps,female,senior,long-jump,field,6.75,SVK,35.0,2016
+2889,6.75,-0.8,Katarina JOHNSON-THOMPSON,1993-01-09,GBR,4,"Olympic Stadium, London (GBR)",2017-07-09,1167,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,24.0,2017
+2889,6.75,0.9,Alexandra WESTER,1994-03-21,GER,1f1,Weinheim (GER),2017-05-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,23.0,2017
+2889,6.75,2.0,Darya KLISHINA,1991-01-15,ANA,2,"Bislett Stadion, Oslo (NOR)",2017-06-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,NOR,26.0,2017
+2889,6.75,-0.7,Malaika MIHAMBO,1994-02-03,GER,1,"Olympiastadion, Berlin (GER)",2018-08-11,1167,long-jump,jumps,female,senior,long-jump,field,6.75,GER,24.0,2018
+2889,6.75,-0.1,Shara PROCTOR,1988-09-16,GBR,3,Gold Coast (AUS),2018-04-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,AUS,29.0,2018
+2889,6.75,0.9,Alina ROTARU,1993-06-05,ROU,2,Pitesti (ROU),2019-07-31,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,26.0,2019
+2889,6.75,,Alexandra WESTER,1994-03-21,GER,1,Leipzig (GER) (i),2016-02-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,21.0,2016
+2889,6.75,0.0,Chanice PORTER,1994-05-25,JAM,1,"Athens, GA (USA)",2018-05-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,23.0,2018
+2889,6.75,0.7,Shara PROCTOR,1988-09-16,GBR,2q1,"Olympiastadion, Berlin (GER)",2018-08-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,29.0,2018
+2889,6.75,,Brooke STRATTON,1993-07-12,AUS,5,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-18,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,22.0,2016
+2889,6.75,,Ivana ŠPANOVIĆ,1990-05-10,SRB,3,"Barclaycard Arena, Birmingham (GBR) (i)",2015-02-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,24.0,2015
+2889,6.75,,Akela JONES,1995-04-22,BAR,1,"Ames, IA (USA) (i)",2016-02-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2016
+2889,6.75,,Quanesha BURKS,1995-03-15,USA,1,"Fayetteville, AR (USA) (i)",2016-02-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2016
+2889,6.75,0.1,Tori POLK,1983-09-21,USA,3q1,"Luzhniki Stadion, Moskva (RUS)",2013-08-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,29.0,2013
+2889,6.75,-0.2,Darya KLISHINA,1991-01-15,RUS,,"Stade Louis II, Monaco (MON)",2013-07-19,1164,long-jump,jumps,female,senior,long-jump,field,6.75,MON,22.0,2013
+2889,6.75,,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,3,"Mercedes-Benz Arena, Berlin (GER) (i)",2020-02-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,30.0,2020
+2889,6.75,1.0,Éloyse LESUEUR-AYMONIN,1988-07-15,FRA,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",2013-07-04,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SUI,24.0,2013
+2889,6.75,,Yuliya PIDLUZHNAYA,1988-10-01,RUS,1,Chelyabinsk (RUS) (i),2014-01-19,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,2014
+2889,6.75,,Katarina JOHNSON-THOMPSON,1993-01-09,GBR,1,Sheffield (GBR) (i),2014-02-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,21.0,2014
+2889,6.75,0.8,Irene PUSTERLA,1988-06-21,SUI,2,Rovereto (ITA),2014-09-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,26.0,2014
+2889,6.75,,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,2,Malmö (SWE) (i),2015-02-25,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,25.0,2015
+2889,6.75,1.0,Darya KLISHINA,1991-01-15,RUS,7,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,QAT,24.0,2015
+2889,6.75,1.8,Sha'keela SAUNDERS,1993-12-12,USA,3,"Eugene, OR (USA)",2015-06-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2015
+2889,6.75,0.9,Sha'keela SAUNDERS,1993-12-12,USA,5,"Hayward Field, Eugene, OR (USA)",2015-06-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2015
+2889,6.75,-0.6,Malaika MIHAMBO,1994-02-03,GER,1q1,"Kadrioru staadion, Tallinn (EST)",2015-07-11,1166,long-jump,jumps,female,senior,long-jump,field,6.75,EST,21.0,2015
+2889,6.75,1.7,Alina ROTARU,1993-06-05,ROU,1,Pitesti (ROU),2015-07-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,22.0,2015
+2889,6.75,,Janay DELOACH,1985-10-12,USA,1,"Colorado Springs, CO (USA) (i)",2016-01-22,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,30.0,2016
+2889,6.75,,Yuliya PIDLUZHNAYA,1988-10-01,RUS,1,Moskva (RUS) (i),2016-02-24,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,27.0,2016
+2889,6.75,-0.5,Abigail IROZURU,1990-01-03,GBR,4,"Alexander Stadium, Birmingham (GBR)",2019-08-18,1166,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,29.0,2019
+2889,6.75,,Annik KÄLIN,2000-04-27,SUI,2,"Uber Arena, Berlin (GER) (i)",2024-02-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,23.0,2024
+2889,6.75,,Monae' NICHOLS,1998-11-24,USA,1,"Sports Performance Center, Lubbock, TX (USA) (i)",2021-01-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,22.0,2021
+2889,6.75,-0.3,Diana LESTI,1998-03-30,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",2023-06-08,1164,long-jump,jumps,female,senior,long-jump,field,6.75,HUN,25.0,2023
+2889,6.75,0.4,Maja ÅSKAG,2002-12-18,SWE,2,"Tingvalla IP, Karlstad (SWE)",2023-07-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,20.0,2023
+2889,6.75,2.0,Viyaleta SKVARTSOVA,1998-04-15,BLR,1,"Regional Sport Complex, Brest (BLR)",2023-07-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BLR,25.0,2023
+2889,6.75,0.1,Ruth USORO,1997-10-08,NGR,1,"Stadio Colbachini, Padova (ITA)",2023-09-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,25.0,2023
+2889,6.75,,Larissa IAPICHINO,2002-07-18,ITA,3,"Uber Arena, Berlin (GER) (i)",2024-02-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,21.0,2024
+2889,6.75,,Annik KÄLIN,2000-04-27,SUI,5,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,23.0,2024
+2889,6.75,1.8,Eliane MARTINS,1986-05-26,BRA,2,"Pista atletismo Fuente de la Niña, Guadalajara (ESP)",2024-06-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,38.0,2024
+2889,6.75,1.3,Prestina Oluchi OCHONOGOR,2006-07-03,NGR,1,"Samuel Ogbemudia Stadium, Benin City (NGR)",2024-06-18,1163,long-jump,jumps,female,senior,long-jump,field,6.75,NGR,17.0,2024
+2889,6.75,-0.6,Quanesha BURKS,1995-03-15,USA,4q1,"Hayward Field, Eugene, OR (USA)",2024-06-27,1166,long-jump,jumps,female,senior,long-jump,field,6.75,USA,29.0,2024
+2889,6.75,1.1,Agate DE SOUSA,2000-06-05,POR,2,"Olympic Stadium, London (GBR)",2024-07-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,24.0,2024
+2889,6.75,,Milica GARDAŠEVIĆ,1998-09-28,SRB,4,"Omnisport, Apeldoorn (NED) (i)",2025-03-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,NED,26.0,2025
+2889,6.75,,Tacoria HUMPHREY,2003-01-02,USA,2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",2025-03-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,22.0,2025
+2889,6.75,1.5,Tara DAVIS-WOODHALL,1999-05-20,USA,1,"Drake Stadium, Des Moines, IA (USA)",2025-04-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,25.0,2025
+2889,6.75,-1.1,Darya KLISHINA,1991-01-15,RUS,1,Sochi (RUS),2013-05-25,1169,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,22.0,2013
 41,6.75,,Larissa IAPICHINO,2002-07-18,ITA,1,"Palaindoor Ancona, Ancona (ITA) (i)",2021-02-06,1163,long-jump,jumps,female,u20,long-jump,field,6.75,ITA,18.0,2021
 41,6.75,1.3,Prestina Oluchi OCHONOGOR,2006-07-03,NGR,1,"Samuel Ogbemudia Stadium, Benin City (NGR)",2024-06-18,1163,long-jump,jumps,female,u20,long-jump,field,6.75,NGR,17.0,2024
-2888,6.75,-0.7,Hilary KPATCHA,1998-05-05,FRA,1f1,"Stadion Śląski, Chorzów (POL)",2023-06-25,1167,long-jump,jumps,female,senior,long-jump,field,6.75,POL,25.0,2023
-2888,6.75,-2.7,Fátima DIAME,1996-09-22,ESP,1,"Helmántico, Salamanca (ESP)",2023-06-03,1179,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,26.0,2023
-2888,6.75,,Larissa IAPICHINO,2002-07-18,ITA,1,"Palaindoor Ancona, Ancona (ITA) (i)",2021-02-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,18.0,2021
-2888,6.75,2.0,Sumire HATA,1996-05-04,JPN,1,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",2023-05-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,27.0,2023
-2888,6.75,,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,"Ataköy Arena, Istanbul (TUR) (i)",2021-02-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,TUR,30.0,2021
-2888,6.75,,Khaddi SAGNIA,1994-04-20,SWE,3,"Arena, Toruń (POL) (i)",2021-03-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,POL,26.0,2021
-2888,6.75,-0.4,Jazmin SAWYERS,1994-05-21,GBR,1,"Sportcity Regional Arena, Manchester (GBR)",2021-06-27,1165,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,27.0,2021
-2888,6.75,0.3,Abigail IROZURU,1990-01-03,GBR,4q1,"National Stadium, Tokyo (JPN)",2021-08-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,31.0,2021
-2888,6.75,0.4,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,3,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SUI,26.0,2021
-2888,6.75,,Jasmine MOORE,2001-05-01,USA,1,"Gilliam Indoor Track, College Station, TX (USA) (i)",2022-02-25,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2022
-2888,6.75,,Lorraine UGEN,1991-08-22,GBR,1,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2022-02-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,30.0,2022
-2888,6.75,1.7,Jasmine MOORE,2001-05-01,USA,4,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2022
-2888,6.75,1.5,Quanesha BURKS,1995-03-15,USA,,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2022-04-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,27.0,2022
-2888,6.75,1.8,Ese BRUME,1996-01-20,NGR,,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2022-04-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,26.0,2022
-2888,6.75,0.1,Quanesha BURKS,1995-03-15,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",2022-08-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BAH,27.0,2022
-2888,6.75,1.3,Esraa OWIS,1997-10-15,EGY,1,"Olympic Sports Center, El Maadi (EGY)",2022-09-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,EGY,24.0,2022
-2888,6.75,,Jazmin SAWYERS,1994-05-21,GBR,1,"Loughborough University Indoor Track, Loughborough (GBR) (i)",2023-02-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,28.0,2023
-2888,6.75,,Tara DAVIS-WOODHALL,1999-05-20,USA,1,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2023-02-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,23.0,2023
-2888,6.75,1.8,Claire BRYANT,2001-08-25,USA,3,"Percy Beard Track, Gainesville, FL (USA)",2023-04-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2023
-2888,6.75,-3.8,Lyudmila KOLCHANOVA,1979-10-01,RUS,1,Yerino (RUS),2013-06-15,1185,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,33.0,2013
-2888,6.75,1.4,Lyudmila KOLCHANOVA,1979-10-01,RUS,1,Moskva (RUS),2011-06-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,31.0,2011
-2888,6.75,0.0,Christabel NETTEY,1991-06-02,CAN,1,"Tempe, AZ (USA)",2013-04-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2013
-2888,6.75,0.3,Linda FERGA-KHODADIN,1976-12-24,FRA,3,"Petrovskiy Stadium, St. Petersburg (RUS)",1998-06-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,21.0,1998
-2888,6.75,0.2,Sharon COUCH-JEWELL,1969-09-13,USA,4,"Atlanta, GA (USA)",1996-06-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,26.0,1996
-2888,6.75,0.8,Sharon JAKLOFSKY,1968-09-30,NED,3q1,"Olympic Stadium, Atlanta, GA (USA)",1996-08-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,27.0,1996
-2888,6.75,0.6,Susen TIEDTKE,1969-01-23,GER,1,Cape Town (RSA),1997-04-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RSA,28.0,1997
-2888,6.75,,Svetlana BIRYUKOVA,1991-04-01,RUS,1,Moskva (RUS) (i),2013-01-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,21.0,2013
-2888,6.75,-0.1,Fiona MAY,1969-12-12,ITA,2,"Stadio Olimpico, Roma (ITA)",1997-06-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,27.0,1997
-2888,6.75,1.4,Tünde VASZI,1972-04-18,HUN,1,Praha (CZE),1997-06-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CZE,25.0,1997
-2888,6.75,0.2,Lyudmila GALKINA,1972-01-20,RUS,1,Moskva (RUS),1997-06-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,1997
-2888,6.75,1.1,Heike DRECHSLER,1964-12-16,GER,3,Frankfurt (GER),1997-06-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,32.0,1997
-2888,6.75,0.0,Sharon COUCH-JEWELL,1969-09-13,USA,1,Stuttgart (GER),1997-07-13,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,27.0,1997
-2888,6.75,0.2,Lyudmila GALKINA,1972-01-20,RUS,3q1,"Olympic Stadium, Athina (GRE)",1997-08-07,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,25.0,1997
-2888,6.75,0.0,Yingnan GUAN,1977-04-25,CHN,1,Osaka (JPN),1998-05-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,21.0,1998
-2888,6.75,1.0,Eunice BARBER,1974-11-17,SLE,1,Lyon (FRA),1998-06-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FRA,23.0,1998
-2888,6.75,1.0,Shana WILLIAMS,1972-04-07,USA,3,Linz (AUT),1998-07-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,AUT,26.0,1998
-2888,6.75,,Lyudmila GALKINA,1972-01-20,RUS,1,Samara (RUS) (i),2001-02-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,29.0,2001
-2888,6.75,0.2,Iva PRANDZHEVA,1972-02-15,BUL,4,Rieti (ITA),1998-08-30,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,26.0,1998
-2888,6.75,0.0,Iva PRANDZHEVA,1972-02-15,BUL,2,Athina (GRE),1999-06-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,1999
-2888,6.75,-0.9,Olga RUBLYOVA,1974-10-28,RUS,2,Dortmund (GER),1999-06-26,1168,long-jump,jumps,female,senior,long-jump,field,6.75,GER,24.0,1999
-2888,6.75,-0.6,Heike DRECHSLER,1964-12-16,GER,q,Erfurt (GER),1999-07-03,1166,long-jump,jumps,female,senior,long-jump,field,6.75,GER,34.0,1999
-2888,6.75,0.6,Heike DRECHSLER,1964-12-16,GER,1,Erfurt (GER),1999-07-04,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,34.0,1999
-2888,6.75,0.0,Camilla JOHANSSON,1976-11-03,SWE,1,Växjö (SWE),1999-08-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,22.0,1999
-2888,6.75,0.1,Joanne WISE,1971-03-15,GBR,4q1,"La Cartuja, Sevilla (ESP)",1999-08-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,28.0,1999
-2888,6.75,-0.3,Joanne WISE,1971-03-15,GBR,5,"La Cartuja, Sevilla (ESP)",1999-08-23,1164,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,28.0,1999
-2888,6.75,-0.8,Fiona MAY,1969-12-12,ITA,1,Rovereto (ITA),1999-09-01,1167,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,29.0,1999
-2888,6.75,0.1,Despina PAPAVASSILAKI,1973-03-24,GRE,3,Athina (GRE),2000-05-31,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2000
-2888,6.75,0.3,Fiona MAY,1969-12-12,ITA,1,Trento (ITA),2000-06-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,30.0,2000
-2888,6.75,-0.4,Fiona MAY,1969-12-12,ITA,2,"Stadio Olimpico, Roma (ITA)",2000-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,30.0,2000
-2888,6.75,,Yelena SINCHUKOVA,1961-01-23,RUS,2,"Globe Arena, Stockholm (SWE) (i)",1996-03-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,35.0,1996
-2888,6.75,,Yelena SINCHUKOVA,1961-01-23,RUS,1,Moskva (RUS) (i),1996-02-24,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,35.0,1996
-2888,6.75,0.9,Irina MUSHAYILOVA,1967-01-06,RUS,,"Ullevi Stadium, Göteborg (SWE)",1995-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,28.0,1995
-2888,6.75,-0.2,Inessa KRAVETS,1966-10-05,UKR,3,Bruxelles (BEL),1994-08-19,1164,long-jump,jumps,female,senior,long-jump,field,6.75,BEL,27.0,1994
-2888,6.75,1.3,Angela VOIGT,1951-05-18,GDR,,Dresden (GER),1978-08-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,27.0,1978
-2888,6.75,,Valy IONESCU,1960-08-31,ROU,1,Bucureşti (ROU) (i),1981-02-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,20.0,1981
-2888,6.75,1.9,Karin HÄNEL,1957-05-28,FRG,2,Rhede (GER),1981-05-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,23.0,1981
-2888,6.75,,Yolanda CHEN,1961-07-26,URS,1,Moskva (URS),1982-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,21.0,1982
-2888,6.75,,Carol LEWIS,1963-08-08,USA,1,"Tempe, AZ (USA)",1983-04-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,19.0,1983
-2888,6.75,,Yelena OBIZHAYEVA,1960-10-09,URS,1,Riga (LAT),1983-06-04,1163,long-jump,jumps,female,senior,long-jump,field,6.75,LAT,22.0,1983
-2888,6.75,,Vera OLENCHENKO,1959-03-21,URS,1,Kislovodsk (URS),1983-08-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,24.0,1983
-2888,6.75,,Robyn LORRAWAY,1961-07-20,AUS,1,Canberra (AUS),1984-01-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,AUS,22.0,1984
-2888,6.75,,Susan HEARNSHAW,1961-05-26,GBR,1,Split (CRO),1984-04-30,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CRO,22.0,1984
-2888,6.75,,Helga RADTKE,1962-05-16,GDR,4,Erfurt (GER),1984-06-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,22.0,1984
-2888,6.75,,Christine SCHIMA,1962-09-06,GDR,5,Erfurt (GER),1984-06-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,21.0,1984
-2888,6.75,,Irina VALYUKEVICH,1959-11-19,URS,8,Kiev (URS),1984-06-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,24.0,1984
-2888,6.75,,Svetlana ZORINA,1960-02-02,URS,1,Tiraspol (MDA),1986-08-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,MDA,26.0,1986
-2888,6.75,,Yelena MEDVEDYEVA,1965-07-09,URS,1,Klaipėda (LTU) (i),1987-01-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,LTU,21.0,1987
-2888,6.75,0.0,Jennifer INNISS,1959-11-21,USA,4q1,"Stadio Olimpico, Roma (ITA)",1987-09-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,27.0,1987
-2888,6.75,,Ludmila NINOVA,1960-06-25,BUL,2,Bratislava (TCH),1988-06-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,TCH,27.0,1988
-2888,6.75,-2.5,Larisa NIKITINA,1965-04-29,URS,ce,Helmond (NED),1989-07-16,1178,long-jump,jumps,female,senior,long-jump,field,6.75,NED,24.0,1989
-2888,6.75,,Valy IONESCU-CONSTANTIN,1960-08-31,ROU,3,"Letzigrund, Zürich (SUI)",1989-08-16,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SUI,28.0,1989
-2888,6.75,1.0,Irina MUSHAYILOVA,1967-01-06,URS,2,Sochi (URS),1990-05-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,23.0,1990
-2888,6.75,0.8,Valy IONESCU-CONSTANTIN,1960-08-31,ROU,1,Helsinki (FIN),1990-06-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FIN,29.0,1990
-2888,6.75,-0.1,Jackie JOYNER-KERSEE,1962-03-03,USA,3q2,"Estadio Olímpico, Barcelona (ESP)",1992-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,30.0,1992
-2888,6.75,0.5,Olena KHLOPOTNOVA,1963-08-04,UKR,4,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,30.0,1993
-2888,6.75,,Larisa BEREZHNAYA,1961-02-28,UKR,3,"Olympiastadion, Berlin (GER)",1993-08-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,32.0,1993
-2888,6.75,0.0,Irina MUSHAYILOVA,1967-01-06,RUS,3,Bruxelles (BEL),1993-09-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BEL,26.0,1993
-2888,6.75,1.1,Renata NIELSEN,1966-05-18,DEN,3,San José (USA),1994-05-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,28.0,1994
-2888,6.75,-0.3,Fiona MAY,1969-12-12,ITA,4,"Stade Louis II, Monaco (MON)",2000-08-18,1164,long-jump,jumps,female,senior,long-jump,field,6.75,MON,30.0,2000
-2888,6.75,0.0,Yelena PERSHINA,1963-12-24,KAZ,1,Heusenstamm (GER),1997-05-29,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,33.0,1997
-2888,6.75,,Heike DRECHSLER,1964-12-16,GER,5,"Atlantic Pavillion, Lisboa (POR) (i)",2001-03-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,POR,36.0,2001
-2888,6.75,1.6,Maurren Higa MAGGI,1976-06-25,BRA,2,Doha (QAT),2008-05-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,QAT,31.0,2008
-2888,6.75,0.1,Lyudmila KOLCHANOVA,1979-10-01,RUS,3,"Meteor, Zhukovskiy (RUS)",2008-06-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,28.0,2008
-2888,6.75,1.0,Maurren Higa MAGGI,1976-06-25,BRA,1,Rethymno (GRE),2008-07-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,32.0,2008
-2888,6.75,,Janice JOSEPHS,1982-03-31,RSA,1f1,Port Elizabeth (RSA),2009-02-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RSA,26.0,2009
-2888,6.75,,Ksenija BALTA,1986-11-01,EST,1q,"Oval Lingotto, Torino (ITA) (i)",2009-03-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,22.0,2009
-2888,6.75,0.0,Akiba MCKINNEY,1979-03-09,USA,1,"Walnut, CA (USA)",2009-04-18,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,30.0,2009
-2888,6.75,0.5,Maurren Higa MAGGI,1976-06-25,BRA,1q1,Rio de Janeiro (BRA),2009-06-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,32.0,2009
-2888,6.75,-0.2,Maurren Higa MAGGI,1976-06-25,BRA,2,Rio de Janeiro (BRA),2009-06-07,1164,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,32.0,2009
-2888,6.75,0.1,Jovanee JARRETT,1983-01-15,JAM,1,Kingston (JAM),2009-06-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JAM,26.0,2009
-2888,6.75,-1.6,Viktoriya MOLCHANOVA,1982-05-26,UKR,1,Yalta (UKR),2009-07-22,1172,long-jump,jumps,female,senior,long-jump,field,6.75,UKR,27.0,2009
-2888,6.75,,Anna KLYASHTORNAYA,1986-02-03,RUS,1,Moskva (RUS) (i),2010-02-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,24.0,2010
-2888,6.75,,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,1,Karlsruhe (GER) (i),2010-02-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,20.0,2010
-2888,6.75,1.3,Lyudmila KOLCHANOVA,1979-10-01,RUS,1q1,Saransk (RUS),2010-07-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,30.0,2010
-2888,6.75,1.0,Lyudmila KOLCHANOVA,1979-10-01,RUS,5,"Estadio Olímpico, Barcelona (ESP)",2010-07-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,30.0,2010
-2888,6.75,1.1,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,6,"Estadio Olímpico, Barcelona (ESP)",2010-07-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,21.0,2010
-2888,6.75,0.3,Brittney REESE,1986-09-09,USA,2,"Olympiastadion, Stockholm (SWE)",2010-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,23.0,2010
-2888,6.75,,Anna KLYASHTORNAYA,1986-02-03,RUS,2,Moskva (RUS) (i),2011-02-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,2011
-2888,6.75,,Yuliya PIDLUZHNAYA,1988-10-01,RUS,3,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",2011-03-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FRA,22.0,2011
-2888,6.75,1.2,Brianna GLENN,1980-04-18,USA,2,"Walnut, CA (USA)",2011-04-16,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,31.0,2011
-2888,6.75,0.9,Olga BALAYEVA,1984-07-30,RUS,1,Tartu (EST),2011-05-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,EST,26.0,2011
-2888,6.75,1.8,Tori POLK,1983-09-21,USA,2,"Clermont, FL (USA)",2011-06-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,27.0,2011
-2888,6.75,-0.5,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,3,"Meteor, Zhukovskiy (RUS)",2011-07-03,1166,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,22.0,2011
-2888,6.75,,Erica JOHANSSON,1974-02-05,SWE,2,Kalamata (GRE),2001-06-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2001
-2888,6.75,1.1,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,1,Rovereto (ITA),2011-09-13,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,22.0,2011
-2888,6.75,,Darya KLISHINA,1991-01-15,RUS,1,Glasgow (GBR) (i),2012-01-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,21.0,2012
-2888,6.75,1.8,Hyleas FOUNTAIN,1981-01-14,USA,1,"Tucson, AZ (USA)",2012-05-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,31.0,2012
-2888,6.75,0.0,Maurren Higa MAGGI,1976-06-25,BRA,1,Fortaleza (BRA),2008-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,31.0,2008
-2888,6.75,1.4,Veronika SHUTKOVA,1986-05-26,BLR,4,"Meteor, Zhukovskiy (RUS)",2011-07-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,2011
-2888,6.75,,Tatyana KOTOVA,1976-12-11,RUS,2,Moskva (RUS) (i),2008-01-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,31.0,2008
-2888,6.75,0.2,Tatyana VOYKINA,1981-10-16,RUS,2,Moskva (RUS),2005-07-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,23.0,2005
-2888,6.75,1.3,Concepción MONTANER,1981-01-14,ESP,1,Castellón (ESP),2007-08-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,26.0,2007
-2888,6.75,1.1,Fiona MAY,1969-12-12,ITA,3,Torino (ITA),2001-06-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,31.0,2001
-2888,6.75,1.2,Heike DRECHSLER,1964-12-16,GER,1,Cuxhaven (GER),2001-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,36.0,2001
-2888,6.75,-0.9,Anna KOVALENKO,1982-02-03,RUS,1,Tula (RUS),2002-06-02,1168,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,20.0,2002
-2888,6.75,0.2,Styliani PILATOU,1980-03-28,GRE,1,Volos (GRE),2002-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,22.0,2002
-2888,6.75,,Olga RUBLYOVA,1974-10-28,RUS,1,Moskva (RUS) (i),2003-02-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,28.0,2003
-2888,6.75,,Yingnan GUAN,1977-04-25,CHN,4,"Sportaréna, Budapest (HUN) (i)",2004-03-07,1163,long-jump,jumps,female,senior,long-jump,field,6.75,HUN,26.0,2004
-2888,6.75,0.0,Yingnan GUAN,1977-04-25,CHN,1,Shijiazhuang (CHN),2004-05-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CHN,27.0,2004
-2888,6.75,0.0,Adina ANTON,1984-10-06,ROU,1,Bucureşti (ROU),2004-06-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,19.0,2004
-2888,6.75,0.9,Tatyana KOTOVA,1976-12-11,RUS,3,Rethymno (GRE),2004-06-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2004
-2888,6.75,-0.7,Irina MELESHINA,1982-05-25,RUS,1q1,"Olympic Stadium, Athina (GRE)",2004-08-25,1167,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,22.0,2004
-2888,6.75,-0.1,Maurren Higa MAGGI,1976-06-25,BRA,1,São Paulo (BRA),2003-06-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,26.0,2003
-2888,6.75,0.7,Eunice BARBER,1974-11-17,FRA,2ce1,"Olympiastadion, Helsinki (FIN)",2005-08-07,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FIN,30.0,2005
-2888,6.75,1.7,Chrysopigi DEVETZI,1976-01-02,GRE,4,Rethymno (GRE),2006-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,30.0,2006
-2888,6.75,0.4,Carolina KLÜFT,1983-02-02,SWE,1,Vaasa (FIN),2007-06-24,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FIN,24.0,2007
-2888,6.75,0.0,Oleksandra STADNYUK-SHISHLYUK,1980-04-16,UKR,1,Chania (GRE),2007-06-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2007
-2888,6.75,0.5,Anju Bobby GEORGE,1977-04-19,IND,1,"Stade Louis II, Monaco (MON)",2005-09-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,MON,28.0,2005
-2888,6.75,0.8,Rose RICHMOND,1981-01-29,USA,3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",2006-09-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,25.0,2006
-2888,6.75,1.4,Kumiko IMURA,1981-01-10,JPN,5,Rethymno (GRE),2006-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,25.0,2006
-2888,6.75,0.1,Olga RUBLYOVA,1974-10-28,RUS,2,Nürnberg (GER),2001-06-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,26.0,2001
-2888,6.75,0.5,Kumiko IMURA,1981-01-10,JPN,1,Kobe (JPN),2006-07-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,25.0,2006
-2888,6.75,0.7,Claudia TONN,1981-04-18,GER,1ce2,"Stadionring, Ratingen (GER)",2006-06-25,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,25.0,2006
-2888,6.75,,Tianna MADISON,1985-08-30,USA,1,"Fayetteville, AR (USA) (i)",2006-02-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2006
-2888,6.75,1.8,Kumiko IMURA,1981-01-10,JPN,1,Shizuoka (JPN),2006-05-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,25.0,2006
-2888,6.75,1.7,Styliani PILATOU,1980-03-28,GRE,1,Thessaloniki (GRE),2006-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,26.0,2006
+2889,6.75,-0.7,Hilary KPATCHA,1998-05-05,FRA,1f1,"Stadion Śląski, Chorzów (POL)",2023-06-25,1167,long-jump,jumps,female,senior,long-jump,field,6.75,POL,25.0,2023
+2889,6.75,-2.7,Fátima DIAME,1996-09-22,ESP,1,"Helmántico, Salamanca (ESP)",2023-06-03,1179,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,26.0,2023
+2889,6.75,,Larissa IAPICHINO,2002-07-18,ITA,1,"Palaindoor Ancona, Ancona (ITA) (i)",2021-02-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,18.0,2021
+2889,6.75,2.0,Sumire HATA,1996-05-04,JPN,1,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",2023-05-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,27.0,2023
+2889,6.75,,Ivana ŠPANOVIĆ,1990-05-10,SRB,1,"Ataköy Arena, Istanbul (TUR) (i)",2021-02-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,TUR,30.0,2021
+2889,6.75,,Khaddi SAGNIA,1994-04-20,SWE,3,"Arena, Toruń (POL) (i)",2021-03-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,POL,26.0,2021
+2889,6.75,-0.4,Jazmin SAWYERS,1994-05-21,GBR,1,"Sportcity Regional Arena, Manchester (GBR)",2021-06-27,1165,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,27.0,2021
+2889,6.75,0.3,Abigail IROZURU,1990-01-03,GBR,4q1,"National Stadium, Tokyo (JPN)",2021-08-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,31.0,2021
+2889,6.75,0.4,Maryna BEKH-ROMANCHUK,1995-07-18,UKR,3,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SUI,26.0,2021
+2889,6.75,,Jasmine MOORE,2001-05-01,USA,1,"Gilliam Indoor Track, College Station, TX (USA) (i)",2022-02-25,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2022
+2889,6.75,,Lorraine UGEN,1991-08-22,GBR,1,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2022-02-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,30.0,2022
+2889,6.75,1.7,Jasmine MOORE,2001-05-01,USA,4,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2022
+2889,6.75,1.5,Quanesha BURKS,1995-03-15,USA,,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2022-04-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,27.0,2022
+2889,6.75,1.8,Ese BRUME,1996-01-20,NGR,,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2022-04-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,26.0,2022
+2889,6.75,0.1,Quanesha BURKS,1995-03-15,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",2022-08-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BAH,27.0,2022
+2889,6.75,1.3,Esraa OWIS,1997-10-15,EGY,1,"Olympic Sports Center, El Maadi (EGY)",2022-09-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,EGY,24.0,2022
+2889,6.75,,Jazmin SAWYERS,1994-05-21,GBR,1,"Loughborough University Indoor Track, Loughborough (GBR) (i)",2023-02-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,28.0,2023
+2889,6.75,,Tara DAVIS-WOODHALL,1999-05-20,USA,1,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2023-02-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,23.0,2023
+2889,6.75,1.8,Claire BRYANT,2001-08-25,USA,3,"Percy Beard Track, Gainesville, FL (USA)",2023-04-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2023
+2889,6.75,-3.8,Lyudmila KOLCHANOVA,1979-10-01,RUS,1,Yerino (RUS),2013-06-15,1185,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,33.0,2013
+2889,6.75,1.4,Lyudmila KOLCHANOVA,1979-10-01,RUS,1,Moskva (RUS),2011-06-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,31.0,2011
+2889,6.75,0.0,Christabel NETTEY,1991-06-02,CAN,1,"Tempe, AZ (USA)",2013-04-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,21.0,2013
+2889,6.75,0.3,Linda FERGA-KHODADIN,1976-12-24,FRA,3,"Petrovskiy Stadium, St. Petersburg (RUS)",1998-06-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,21.0,1998
+2889,6.75,0.2,Sharon COUCH-JEWELL,1969-09-13,USA,4,"Atlanta, GA (USA)",1996-06-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,26.0,1996
+2889,6.75,0.8,Sharon JAKLOFSKY,1968-09-30,NED,3q1,"Olympic Stadium, Atlanta, GA (USA)",1996-08-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,27.0,1996
+2889,6.75,0.6,Susen TIEDTKE,1969-01-23,GER,1,Cape Town (RSA),1997-04-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RSA,28.0,1997
+2889,6.75,,Svetlana BIRYUKOVA,1991-04-01,RUS,1,Moskva (RUS) (i),2013-01-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,21.0,2013
+2889,6.75,-0.1,Fiona MAY,1969-12-12,ITA,2,"Stadio Olimpico, Roma (ITA)",1997-06-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,27.0,1997
+2889,6.75,1.4,Tünde VASZI,1972-04-18,HUN,1,Praha (CZE),1997-06-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CZE,25.0,1997
+2889,6.75,0.2,Lyudmila GALKINA,1972-01-20,RUS,1,Moskva (RUS),1997-06-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,1997
+2889,6.75,1.1,Heike DRECHSLER,1964-12-16,GER,3,Frankfurt (GER),1997-06-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,32.0,1997
+2889,6.75,0.0,Sharon COUCH-JEWELL,1969-09-13,USA,1,Stuttgart (GER),1997-07-13,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,27.0,1997
+2889,6.75,0.2,Lyudmila GALKINA,1972-01-20,RUS,3q1,"Olympic Stadium, Athina (GRE)",1997-08-07,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,25.0,1997
+2889,6.75,0.0,Yingnan GUAN,1977-04-25,CHN,1,Osaka (JPN),1998-05-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,21.0,1998
+2889,6.75,1.0,Eunice BARBER,1974-11-17,SLE,1,Lyon (FRA),1998-06-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FRA,23.0,1998
+2889,6.75,1.0,Shana WILLIAMS,1972-04-07,USA,3,Linz (AUT),1998-07-05,1163,long-jump,jumps,female,senior,long-jump,field,6.75,AUT,26.0,1998
+2889,6.75,,Lyudmila GALKINA,1972-01-20,RUS,1,Samara (RUS) (i),2001-02-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,29.0,2001
+2889,6.75,0.2,Iva PRANDZHEVA,1972-02-15,BUL,4,Rieti (ITA),1998-08-30,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,26.0,1998
+2889,6.75,0.0,Iva PRANDZHEVA,1972-02-15,BUL,2,Athina (GRE),1999-06-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,1999
+2889,6.75,-0.9,Olga RUBLYOVA,1974-10-28,RUS,2,Dortmund (GER),1999-06-26,1168,long-jump,jumps,female,senior,long-jump,field,6.75,GER,24.0,1999
+2889,6.75,-0.6,Heike DRECHSLER,1964-12-16,GER,q,Erfurt (GER),1999-07-03,1166,long-jump,jumps,female,senior,long-jump,field,6.75,GER,34.0,1999
+2889,6.75,0.6,Heike DRECHSLER,1964-12-16,GER,1,Erfurt (GER),1999-07-04,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,34.0,1999
+2889,6.75,0.0,Camilla JOHANSSON,1976-11-03,SWE,1,Växjö (SWE),1999-08-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,22.0,1999
+2889,6.75,0.1,Joanne WISE,1971-03-15,GBR,4q1,"La Cartuja, Sevilla (ESP)",1999-08-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,28.0,1999
+2889,6.75,-0.3,Joanne WISE,1971-03-15,GBR,5,"La Cartuja, Sevilla (ESP)",1999-08-23,1164,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,28.0,1999
+2889,6.75,-0.8,Fiona MAY,1969-12-12,ITA,1,Rovereto (ITA),1999-09-01,1167,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,29.0,1999
+2889,6.75,0.1,Despina PAPAVASSILAKI,1973-03-24,GRE,3,Athina (GRE),2000-05-31,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2000
+2889,6.75,0.3,Fiona MAY,1969-12-12,ITA,1,Trento (ITA),2000-06-01,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,30.0,2000
+2889,6.75,-0.4,Fiona MAY,1969-12-12,ITA,2,"Stadio Olimpico, Roma (ITA)",2000-06-30,1165,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,30.0,2000
+2889,6.75,,Yelena SINCHUKOVA,1961-01-23,RUS,2,"Globe Arena, Stockholm (SWE) (i)",1996-03-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,35.0,1996
+2889,6.75,,Yelena SINCHUKOVA,1961-01-23,RUS,1,Moskva (RUS) (i),1996-02-24,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,35.0,1996
+2889,6.75,0.9,Irina MUSHAYILOVA,1967-01-06,RUS,,"Ullevi Stadium, Göteborg (SWE)",1995-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,28.0,1995
+2889,6.75,-0.2,Inessa KRAVETS,1966-10-05,UKR,3,Bruxelles (BEL),1994-08-19,1164,long-jump,jumps,female,senior,long-jump,field,6.75,BEL,27.0,1994
+2889,6.75,1.3,Angela VOIGT,1951-05-18,GDR,,Dresden (GER),1978-08-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,27.0,1978
+2889,6.75,,Valy IONESCU,1960-08-31,ROU,1,Bucureşti (ROU) (i),1981-02-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,20.0,1981
+2889,6.75,1.9,Karin HÄNEL,1957-05-28,FRG,2,Rhede (GER),1981-05-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,23.0,1981
+2889,6.75,,Yolanda CHEN,1961-07-26,URS,1,Moskva (URS),1982-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,21.0,1982
+2889,6.75,,Carol LEWIS,1963-08-08,USA,1,"Tempe, AZ (USA)",1983-04-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,19.0,1983
+2889,6.75,,Yelena OBIZHAYEVA,1960-10-09,URS,1,Riga (LAT),1983-06-04,1163,long-jump,jumps,female,senior,long-jump,field,6.75,LAT,22.0,1983
+2889,6.75,,Vera OLENCHENKO,1959-03-21,URS,1,Kislovodsk (URS),1983-08-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,24.0,1983
+2889,6.75,,Robyn LORRAWAY,1961-07-20,AUS,1,Canberra (AUS),1984-01-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,AUS,22.0,1984
+2889,6.75,,Susan HEARNSHAW,1961-05-26,GBR,1,Split (CRO),1984-04-30,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CRO,22.0,1984
+2889,6.75,,Helga RADTKE,1962-05-16,GDR,4,Erfurt (GER),1984-06-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,22.0,1984
+2889,6.75,,Christine SCHIMA,1962-09-06,GDR,5,Erfurt (GER),1984-06-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,21.0,1984
+2889,6.75,,Irina VALYUKEVICH,1959-11-19,URS,8,Kiev (URS),1984-06-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,24.0,1984
+2889,6.75,,Svetlana ZORINA,1960-02-02,URS,1,Tiraspol (MDA),1986-08-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,MDA,26.0,1986
+2889,6.75,,Yelena MEDVEDYEVA,1965-07-09,URS,1,Klaipėda (LTU) (i),1987-01-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,LTU,21.0,1987
+2889,6.75,0.0,Jennifer INNISS,1959-11-21,USA,4q1,"Stadio Olimpico, Roma (ITA)",1987-09-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,27.0,1987
+2889,6.75,,Ludmila NINOVA,1960-06-25,BUL,2,Bratislava (TCH),1988-06-08,1163,long-jump,jumps,female,senior,long-jump,field,6.75,TCH,27.0,1988
+2889,6.75,-2.5,Larisa NIKITINA,1965-04-29,URS,ce,Helmond (NED),1989-07-16,1178,long-jump,jumps,female,senior,long-jump,field,6.75,NED,24.0,1989
+2889,6.75,,Valy IONESCU-CONSTANTIN,1960-08-31,ROU,3,"Letzigrund, Zürich (SUI)",1989-08-16,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SUI,28.0,1989
+2889,6.75,1.0,Irina MUSHAYILOVA,1967-01-06,URS,2,Sochi (URS),1990-05-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,URS,23.0,1990
+2889,6.75,0.8,Valy IONESCU-CONSTANTIN,1960-08-31,ROU,1,Helsinki (FIN),1990-06-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FIN,29.0,1990
+2889,6.75,-0.1,Jackie JOYNER-KERSEE,1962-03-03,USA,3q2,"Estadio Olímpico, Barcelona (ESP)",1992-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,30.0,1992
+2889,6.75,0.5,Olena KHLOPOTNOVA,1963-08-04,UKR,4,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,30.0,1993
+2889,6.75,,Larisa BEREZHNAYA,1961-02-28,UKR,3,"Olympiastadion, Berlin (GER)",1993-08-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,32.0,1993
+2889,6.75,0.0,Irina MUSHAYILOVA,1967-01-06,RUS,3,Bruxelles (BEL),1993-09-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BEL,26.0,1993
+2889,6.75,1.1,Renata NIELSEN,1966-05-18,DEN,3,San José (USA),1994-05-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,28.0,1994
+2889,6.75,-0.3,Fiona MAY,1969-12-12,ITA,4,"Stade Louis II, Monaco (MON)",2000-08-18,1164,long-jump,jumps,female,senior,long-jump,field,6.75,MON,30.0,2000
+2889,6.75,0.0,Yelena PERSHINA,1963-12-24,KAZ,1,Heusenstamm (GER),1997-05-29,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,33.0,1997
+2889,6.75,,Heike DRECHSLER,1964-12-16,GER,5,"Atlantic Pavillion, Lisboa (POR) (i)",2001-03-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,POR,36.0,2001
+2889,6.75,1.6,Maurren Higa MAGGI,1976-06-25,BRA,2,Doha (QAT),2008-05-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,QAT,31.0,2008
+2889,6.75,0.1,Lyudmila KOLCHANOVA,1979-10-01,RUS,3,"Meteor, Zhukovskiy (RUS)",2008-06-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,28.0,2008
+2889,6.75,1.0,Maurren Higa MAGGI,1976-06-25,BRA,1,Rethymno (GRE),2008-07-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,32.0,2008
+2889,6.75,,Janice JOSEPHS,1982-03-31,RSA,1f1,Port Elizabeth (RSA),2009-02-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RSA,26.0,2009
+2889,6.75,,Ksenija BALTA,1986-11-01,EST,1q,"Oval Lingotto, Torino (ITA) (i)",2009-03-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,22.0,2009
+2889,6.75,0.0,Akiba MCKINNEY,1979-03-09,USA,1,"Walnut, CA (USA)",2009-04-18,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,30.0,2009
+2889,6.75,0.5,Maurren Higa MAGGI,1976-06-25,BRA,1q1,Rio de Janeiro (BRA),2009-06-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,32.0,2009
+2889,6.75,-0.2,Maurren Higa MAGGI,1976-06-25,BRA,2,Rio de Janeiro (BRA),2009-06-07,1164,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,32.0,2009
+2889,6.75,0.1,Jovanee JARRETT,1983-01-15,JAM,1,Kingston (JAM),2009-06-26,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JAM,26.0,2009
+2889,6.75,-1.6,Viktoriya MOLCHANOVA,1982-05-26,UKR,1,Yalta (UKR),2009-07-22,1172,long-jump,jumps,female,senior,long-jump,field,6.75,UKR,27.0,2009
+2889,6.75,,Anna KLYASHTORNAYA,1986-02-03,RUS,1,Moskva (RUS) (i),2010-02-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,24.0,2010
+2889,6.75,,Sosthene MOGUENARA-TAROUM,1989-10-17,GER,1,Karlsruhe (GER) (i),2010-02-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,20.0,2010
+2889,6.75,1.3,Lyudmila KOLCHANOVA,1979-10-01,RUS,1q1,Saransk (RUS),2010-07-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,30.0,2010
+2889,6.75,1.0,Lyudmila KOLCHANOVA,1979-10-01,RUS,5,"Estadio Olímpico, Barcelona (ESP)",2010-07-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,30.0,2010
+2889,6.75,1.1,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,6,"Estadio Olímpico, Barcelona (ESP)",2010-07-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,21.0,2010
+2889,6.75,0.3,Brittney REESE,1986-09-09,USA,2,"Olympiastadion, Stockholm (SWE)",2010-08-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,SWE,23.0,2010
+2889,6.75,,Anna KLYASHTORNAYA,1986-02-03,RUS,2,Moskva (RUS) (i),2011-02-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,2011
+2889,6.75,,Yuliya PIDLUZHNAYA,1988-10-01,RUS,3,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",2011-03-06,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FRA,22.0,2011
+2889,6.75,1.2,Brianna GLENN,1980-04-18,USA,2,"Walnut, CA (USA)",2011-04-16,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,31.0,2011
+2889,6.75,0.9,Olga BALAYEVA,1984-07-30,RUS,1,Tartu (EST),2011-05-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,EST,26.0,2011
+2889,6.75,1.8,Tori POLK,1983-09-21,USA,2,"Clermont, FL (USA)",2011-06-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,27.0,2011
+2889,6.75,-0.5,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,3,"Meteor, Zhukovskiy (RUS)",2011-07-03,1166,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,22.0,2011
+2889,6.75,,Erica JOHANSSON,1974-02-05,SWE,2,Kalamata (GRE),2001-06-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2001
+2889,6.75,1.1,Nastassia MIRONCHYK-IVANOVA,1989-04-13,BLR,1,Rovereto (ITA),2011-09-13,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,22.0,2011
+2889,6.75,,Darya KLISHINA,1991-01-15,RUS,1,Glasgow (GBR) (i),2012-01-28,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GBR,21.0,2012
+2889,6.75,1.8,Hyleas FOUNTAIN,1981-01-14,USA,1,"Tucson, AZ (USA)",2012-05-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,31.0,2012
+2889,6.75,0.0,Maurren Higa MAGGI,1976-06-25,BRA,1,Fortaleza (BRA),2008-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,31.0,2008
+2889,6.75,1.4,Veronika SHUTKOVA,1986-05-26,BLR,4,"Meteor, Zhukovskiy (RUS)",2011-07-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,25.0,2011
+2889,6.75,,Tatyana KOTOVA,1976-12-11,RUS,2,Moskva (RUS) (i),2008-01-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,31.0,2008
+2889,6.75,0.2,Tatyana VOYKINA,1981-10-16,RUS,2,Moskva (RUS),2005-07-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,23.0,2005
+2889,6.75,1.3,Concepción MONTANER,1981-01-14,ESP,1,Castellón (ESP),2007-08-11,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ESP,26.0,2007
+2889,6.75,1.1,Fiona MAY,1969-12-12,ITA,3,Torino (ITA),2001-06-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ITA,31.0,2001
+2889,6.75,1.2,Heike DRECHSLER,1964-12-16,GER,1,Cuxhaven (GER),2001-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,36.0,2001
+2889,6.75,-0.9,Anna KOVALENKO,1982-02-03,RUS,1,Tula (RUS),2002-06-02,1168,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,20.0,2002
+2889,6.75,0.2,Styliani PILATOU,1980-03-28,GRE,1,Volos (GRE),2002-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,22.0,2002
+2889,6.75,,Olga RUBLYOVA,1974-10-28,RUS,1,Moskva (RUS) (i),2003-02-27,1163,long-jump,jumps,female,senior,long-jump,field,6.75,RUS,28.0,2003
+2889,6.75,,Yingnan GUAN,1977-04-25,CHN,4,"Sportaréna, Budapest (HUN) (i)",2004-03-07,1163,long-jump,jumps,female,senior,long-jump,field,6.75,HUN,26.0,2004
+2889,6.75,0.0,Yingnan GUAN,1977-04-25,CHN,1,Shijiazhuang (CHN),2004-05-20,1163,long-jump,jumps,female,senior,long-jump,field,6.75,CHN,27.0,2004
+2889,6.75,0.0,Adina ANTON,1984-10-06,ROU,1,Bucureşti (ROU),2004-06-12,1163,long-jump,jumps,female,senior,long-jump,field,6.75,ROU,19.0,2004
+2889,6.75,0.9,Tatyana KOTOVA,1976-12-11,RUS,3,Rethymno (GRE),2004-06-23,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2004
+2889,6.75,-0.7,Irina MELESHINA,1982-05-25,RUS,1q1,"Olympic Stadium, Athina (GRE)",2004-08-25,1167,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,22.0,2004
+2889,6.75,-0.1,Maurren Higa MAGGI,1976-06-25,BRA,1,São Paulo (BRA),2003-06-15,1163,long-jump,jumps,female,senior,long-jump,field,6.75,BRA,26.0,2003
+2889,6.75,0.7,Eunice BARBER,1974-11-17,FRA,2ce1,"Olympiastadion, Helsinki (FIN)",2005-08-07,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FIN,30.0,2005
+2889,6.75,1.7,Chrysopigi DEVETZI,1976-01-02,GRE,4,Rethymno (GRE),2006-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,30.0,2006
+2889,6.75,0.4,Carolina KLÜFT,1983-02-02,SWE,1,Vaasa (FIN),2007-06-24,1163,long-jump,jumps,female,senior,long-jump,field,6.75,FIN,24.0,2007
+2889,6.75,0.0,Oleksandra STADNYUK-SHISHLYUK,1980-04-16,UKR,1,Chania (GRE),2007-06-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,27.0,2007
+2889,6.75,0.5,Anju Bobby GEORGE,1977-04-19,IND,1,"Stade Louis II, Monaco (MON)",2005-09-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,MON,28.0,2005
+2889,6.75,0.8,Rose RICHMOND,1981-01-29,USA,3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",2006-09-09,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,25.0,2006
+2889,6.75,1.4,Kumiko IMURA,1981-01-10,JPN,5,Rethymno (GRE),2006-07-21,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,25.0,2006
+2889,6.75,0.1,Olga RUBLYOVA,1974-10-28,RUS,2,Nürnberg (GER),2001-06-17,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,26.0,2001
+2889,6.75,0.5,Kumiko IMURA,1981-01-10,JPN,1,Kobe (JPN),2006-07-02,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,25.0,2006
+2889,6.75,0.7,Claudia TONN,1981-04-18,GER,1ce2,"Stadionring, Ratingen (GER)",2006-06-25,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GER,25.0,2006
+2889,6.75,,Tianna MADISON,1985-08-30,USA,1,"Fayetteville, AR (USA) (i)",2006-02-10,1163,long-jump,jumps,female,senior,long-jump,field,6.75,USA,20.0,2006
+2889,6.75,1.8,Kumiko IMURA,1981-01-10,JPN,1,Shizuoka (JPN),2006-05-03,1163,long-jump,jumps,female,senior,long-jump,field,6.75,JPN,25.0,2006
+2889,6.75,1.7,Styliani PILATOU,1980-03-28,GRE,1,Thessaloniki (GRE),2006-05-14,1163,long-jump,jumps,female,senior,long-jump,field,6.75,GRE,26.0,2006
 43,6.74,,Alyssa JONES,2004-02-06,USA,4,"Convention Center, Albuquerque, NM (USA) (i)",2023-03-10,1160,long-jump,jumps,female,u20,long-jump,field,6.74,USA,19.0,2023
 43,6.74,1.8,Alyssa JONES,2004-02-06,USA,,"Hilmer Lodge Stadium, Walnut, CA (USA)",2023-05-13,1160,long-jump,jumps,female,u20,long-jump,field,6.74,USA,19.0,2023
 43,6.74,1.0,Minjia LU,1990-12-29,CHN,1,Jinan (CHN),2009-10-23,1160,long-jump,jumps,female,u20,long-jump,field,6.74,CHN,18.0,2009
