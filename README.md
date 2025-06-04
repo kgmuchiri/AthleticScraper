@@ -9,15 +9,15 @@ Inspired by: https://github.com/thomascamminady/world-athletics-database/
 
 Used the options.json file from that repo to help
 
-Note: Datasets here are from 26-05-2025
+Note: Datasets here were generated on 26-05-2025
 
 ### Repo Structure
  - Output: Folder for the csv files created as a result of scraping
- - Combined: a folder that takes the outputs and combines them on overall discipline e.g. Shot-put and Shot-put 6kg are of the shotput discpline however their records are maintained seperately one the World Athletics Page
- - Datasets: contains datasets split by type, individual events and relay events
- - Logs: For any errors that come up during
- - Notebooks: Jupyter notebooks for EDA
- - Scripts: Contains all the scripts necessary to generate the datasets
+ - Combined: a folder that takes the outputs and combines them on overall discipline e.g. Shot-put and Shot-put 6kg are of the shotput discpline however their records are maintained seperately one the World Athletics Page (intermediary files)
+ - Datasets: contains final datasets split by type, individual events and relay events
+ - Logs: For any errors that come up while running the scripts
+ - Notebooks: Jupyter notebooks for EDA.
+ - Scripts: Contains all the scripts necessary to generate the datasets.
 
 ### To Run
 - Install requirements from requirements.txt
