@@ -59,23 +59,24 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 55,10.28,+1.1,Jevaughn MINZIE,20 JUL 1995,JAM,1,Kingston (JAM),16 JUN 2012,1112,100-metres,sprints,male,u18
 55,10.28,-0.4,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,1114,100-metres,sprints,male,u18
 55,10.28,+0.9,Nyckoles HARBOR,05 JUL 2005,USA,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",16 APR 2022,1112,100-metres,sprints,male,u18
-61,10.29,+2.0,Nicholas JOHNSON,12 NOV 1983,USA,3,"Denton, TX (USA)",23 JUN 2000,1108,100-metres,sprints,male,u18
-61,10.29,+0.2,Raheem CHAMBERS,06 OCT 1997,JAM,1,Kingston (JAM),28 MAR 2014,1108,100-metres,sprints,male,u18
-61,10.29,-0.4,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Satellite High School, Satellite Beach, FL (USA)",08 AUG 2020,1110,100-metres,sprints,male,u18
-61,10.29,+0.2,Jeff ERIUS,08 MAR 2004,FRA,1h4,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,1108,100-metres,sprints,male,u18
-61,10.29,+1.5,Bradley NKOANA,27 JAN 2005,RSA,1sf1,"Bestmed Tuks Stadium, Pretoria (RSA)",12 MAR 2022,1108,100-metres,sprints,male,u18
-61,10.29,0.0,Gout GOUT,29 DEC 2007,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 MAR 2024,1108,100-metres,sprints,male,u18
-61,10.29,-0.4,Hikari Osinachi ABRAHAM,14 FEB 2007,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",14 JUN 2024,1110,100-metres,sprints,male,u18
-68,10.30,-0.1,Quincy WATTS,19 JUN 1970,USA,1,"Provo, UT (USA)",25 JUL 1987,1105,100-metres,sprints,male,u18
-68,10.30,+1.6,Takeshi ARAKAWA,22 JUN 1974,JPN,1,Shizuoka (JPN),03 AUG 1991,1105,100-metres,sprints,male,u18
-68,10.30,+1.7,DaBryan BLANTON,03 JUL 1984,USA,1,"Austin, TX (USA)",12 MAY 2001,1105,100-metres,sprints,male,u18
-68,10.30,,Sybrand VAN DYK,19 JUL 1985,RSA,1,Germiston (RSA),09 MAR 2002,1105,100-metres,sprints,male,u18
-68,10.30,+0.7,J-Mee SAMUELS,20 MAY 1987,USA,1,"Des Moines, IA (USA)",31 JUL 2004,1105,100-metres,sprints,male,u18
-68,10.30,+2.0,Rynell PARSON,11 JUL 1990,USA,1h2,"Indianapolis, IN (USA)",21 JUN 2007,1105,100-metres,sprints,male,u18
-68,10.30,-0.1,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1h1,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,1105,100-metres,sprints,male,u18
-68,10.30,-1.2,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1sf2,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,1112,100-metres,sprints,male,u18
-68,10.30,-0.8,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2,Wakayama (JPN),30 JUL 2015,1109,100-metres,sprints,male,u18
-68,10.30,+1.9,Paulo André CAMILO,20 AUG 1998,BRA,1,Maringa (BRA),14 NOV 2015,1105,100-metres,sprints,male,u18
-68,10.30,+2.0,Devon MOORE,,USA,1h5,"Hickory, NC (USA)",18 APR 2019,1105,100-metres,sprints,male,u18
-68,10.30,+0.4,Deandre DALEY,08 FEB 2005,JAM,1h1,"National Stadium, Kingston (JAM)",11 MAR 2022,1105,100-metres,sprints,male,u18
-68,10.30,+1.9,Bradley NKOANA,27 JAN 2005,RSA,2h4,"McArthur Stadium, Potchefstroom (RSA)",14 MAY 2022,1105,100-metres,sprints,male,u18
+55,10.28,-1.2,Tate TAYLOR,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",05 MAY 2024,1119,100-metres,sprints,male,u18
+62,10.29,+2.0,Nicholas JOHNSON,12 NOV 1983,USA,3,"Denton, TX (USA)",23 JUN 2000,1108,100-metres,sprints,male,u18
+62,10.29,+0.2,Raheem CHAMBERS,06 OCT 1997,JAM,1,Kingston (JAM),28 MAR 2014,1108,100-metres,sprints,male,u18
+62,10.29,-0.4,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Satellite High School, Satellite Beach, FL (USA)",08 AUG 2020,1110,100-metres,sprints,male,u18
+62,10.29,+0.2,Jeff ERIUS,08 MAR 2004,FRA,1h4,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,1108,100-metres,sprints,male,u18
+62,10.29,+1.5,Bradley NKOANA,27 JAN 2005,RSA,1sf1,"Bestmed Tuks Stadium, Pretoria (RSA)",12 MAR 2022,1108,100-metres,sprints,male,u18
+62,10.29,0.0,Gout GOUT,29 DEC 2007,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 MAR 2024,1108,100-metres,sprints,male,u18
+62,10.29,-0.4,Hikari Osinachi ABRAHAM,14 FEB 2007,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",14 JUN 2024,1110,100-metres,sprints,male,u18
+69,10.30,-0.1,Quincy WATTS,19 JUN 1970,USA,1,"Provo, UT (USA)",25 JUL 1987,1105,100-metres,sprints,male,u18
+69,10.30,+1.6,Takeshi ARAKAWA,22 JUN 1974,JPN,1,Shizuoka (JPN),03 AUG 1991,1105,100-metres,sprints,male,u18
+69,10.30,+1.7,DaBryan BLANTON,03 JUL 1984,USA,1,"Austin, TX (USA)",12 MAY 2001,1105,100-metres,sprints,male,u18
+69,10.30,,Sybrand VAN DYK,19 JUL 1985,RSA,1,Germiston (RSA),09 MAR 2002,1105,100-metres,sprints,male,u18
+69,10.30,+0.7,J-Mee SAMUELS,20 MAY 1987,USA,1,"Des Moines, IA (USA)",31 JUL 2004,1105,100-metres,sprints,male,u18
+69,10.30,+2.0,Rynell PARSON,11 JUL 1990,USA,1h2,"Indianapolis, IN (USA)",21 JUN 2007,1105,100-metres,sprints,male,u18
+69,10.30,-0.1,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1h1,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,1105,100-metres,sprints,male,u18
+69,10.30,-1.2,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1sf2,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,1112,100-metres,sprints,male,u18
+69,10.30,-0.8,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2,Wakayama (JPN),30 JUL 2015,1109,100-metres,sprints,male,u18
+69,10.30,+1.9,Paulo André CAMILO,20 AUG 1998,BRA,1,Maringa (BRA),14 NOV 2015,1105,100-metres,sprints,male,u18
+69,10.30,+2.0,Devon MOORE,,USA,1h5,"Hickory, NC (USA)",18 APR 2019,1105,100-metres,sprints,male,u18
+69,10.30,+0.4,Deandre DALEY,08 FEB 2005,JAM,1h1,"National Stadium, Kingston (JAM)",11 MAR 2022,1105,100-metres,sprints,male,u18
+69,10.30,+1.9,Bradley NKOANA,27 JAN 2005,RSA,2h4,"McArthur Stadium, Potchefstroom (RSA)",14 MAY 2022,1105,100-metres,sprints,male,u18

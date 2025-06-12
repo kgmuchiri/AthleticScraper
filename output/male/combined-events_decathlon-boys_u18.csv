@@ -28,57 +28,59 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 27,7526,,František DOUBEK,04 APR 2002,CZE,1,Nova Gorica (SLO),06 OCT 2019,,decathlon-boys,combined-events,male,u18
 28,7517,,Mathias AKO BIENES,28 JUL 1995,FRA,1f,Aubagne (FRA),08 JUL 2012,,decathlon-boys,combined-events,male,u18
 29,7511,,Hans-Christian HAUSENBERG,18 SEP 1998,EST,1,Rakvere (EST),18 SEP 2014,,decathlon-boys,combined-events,male,u18
-30,7510,,Tomas JÄRVINEN,21 OCT 2005,CZE,,"Staadion, Rakvere (EST)",04 AUG 2022,,decathlon-boys,combined-events,male,u18
-31,7498,,Stepan KEKIN,13 NOV 2000,RUS,1f,Smolensk (RUS),11 JUN 2017,,decathlon-boys,combined-events,male,u18
-32,7493,,George PATRICK,23 FEB 1998,USA,4,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,decathlon-boys,combined-events,male,u18
-33,7483,,Florian KATZSCHMANN,30 JAN 1991,GER,1f,Hannover (GER),30 AUG 2008,,decathlon-boys,combined-events,male,u18
-34,7474,,Toralv OPSAL,09 MAR 1998,NOR,5,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,decathlon-boys,combined-events,male,u18
-35,7471,,Stefan MATULA,18 JUL 1990,GER,1f1,"Bernhausen, Filderstadt (GER)",20 MAY 2007,,decathlon-boys,combined-events,male,u18
-36,7462,,Arseniy YELFIMOV,17 SEP 2001,ANA,5,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,decathlon-boys,combined-events,male,u18
-37,7460,,Maximilian KLUTH,18 JUL 2000,GER,1,Filderstadt (GER),11 JUN 2017,,decathlon-boys,combined-events,male,u18
-37,7460,,Victor TÖRNSTRÖM,10 JUN 2005,SWE,4,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
-39,7450,,František DOUBEK,04 APR 2002,CZE,1,Zlín (CZE),01 JUN 2019,,decathlon-boys,combined-events,male,u18
-40,7444,,Toralv OPSAL,09 MAR 1998,NOR,1,Copenhagen (DEN),14 JUN 2015,,decathlon-boys,combined-events,male,u18
-41,7443,,Matthias LASCH,07 SEP 2004,AUT,,"Sport und Freizeitzentrum, Leibnitz (AUT)",30 MAY 2021,,decathlon-boys,combined-events,male,u18
-42,7429,,Friedrich SCHULZE,09 SEP 2005,GER,5,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
-43,7427,,Jake STEIN,17 JAN 1994,AUS,1f,Perth (AUS),01 APR 2011,,decathlon-boys,combined-events,male,u18
-43,7427,,Martin MOLDAU,09 JAN 1998,EST,2f,Šiauliai (LTU),25 MAY 2015,,decathlon-boys,combined-events,male,u18
-45,7423,,Paul KALLENBERG,15 MAR 2002,GER,3,Baku (AZE),23 JUL 2019,,decathlon-boys,combined-events,male,u18
-46,7412,,Manuel SIEBEL,1986,GER,1f,Wesel (GER),23 AUG 2003,,decathlon-boys,combined-events,male,u18
-46,7412,,Matthias PREY,09 AUG 1988,GER,1f,"Bernhausen, Filderstadt (GER)",05 JUN 2005,,decathlon-boys,combined-events,male,u18
-46,7412,,Hubert TROŚCIANKA,26 JUL 2006,POL,1,"Stadion Śląski, Chorzów (POL)",08 JUL 2023,,decathlon-boys,combined-events,male,u18
-49,7408,,Steffen KLINK,03 FEB 1992,GER,1f,"Bernhausen, Filderstadt (GER)",24 MAY 2009,,decathlon-boys,combined-events,male,u18
-50,7407,,Maximilian VOLLMER,12 MAR 1998,GER,2f,"Bernhausen, Filderstadt (GER)",07 JUN 2015,,decathlon-boys,combined-events,male,u18
-51,7398,,Fredrik SAMUELSSON,16 FEB 1995,SWE,1,Huddinge (SWE),16 SEP 2012,,decathlon-boys,combined-events,male,u18
-52,7397,,Friedrich SCHULZE,09 SEP 2005,GER,2,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",22 MAY 2022,,decathlon-boys,combined-events,male,u18
-53,7396,,Caio Henrique DA SILVA,08 APR 1999,BRA,1f,Sao Bernardo do Campo (BRA),16 OCT 2016,,decathlon-boys,combined-events,male,u18
-54,7391,,František DOUBEK,04 APR 2002,CZE,4,Baku (AZE),23 JUL 2019,,decathlon-boys,combined-events,male,u18
-55,7390,,Steven FAUVEL-CLINCH,10 APR 2000,FRA,1,St-Renan (FRA),18 JUN 2017,,decathlon-boys,combined-events,male,u18
-56,7382,,Manuel WAGNER,08 MAR 1999,GER,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,decathlon-boys,combined-events,male,u18
-57,7379,,Sander SKOTHEIM,31 MAY 2002,NOR,1,Uppsala (SWE),09 JUN 2019,,decathlon-boys,combined-events,male,u18
-58,7378,,Stepan KEKIN,13 NOV 2000,RUS,1,"Adler, Sochi (RUS)",14 MAY 2017,,decathlon-boys,combined-events,male,u18
-58,7378,,Leon-Joel CLAIR,07 FEB 2006,GER,1,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",21 MAY 2023,,decathlon-boys,combined-events,male,u18
-60,7377,,Oļegs KOZJAKOVS,13 JAN 2001,LAT,2,"Kasarani, Nairobi (KEN)",13 JUL 2017,,decathlon-boys,combined-events,male,u18
-61,7371,,Leo GÖRANSSON,05 AUG 2005,SWE,1,"Seinäjoen keskusurheilukenttä, Seinäjoki (FIN)",12 JUN 2022,,decathlon-boys,combined-events,male,u18
-62,7370,,Eemil PORVARI,02 FEB 2003,FIN,1,"Kaurialan kenttä, Hämeenlinna (FIN)",30 AUG 2020,,decathlon-boys,combined-events,male,u18
-63,7359,,Jente HAUTTEKEETE,14 MAR 2002,BEL,1,Herentals (BEL),12 MAY 2019,,decathlon-boys,combined-events,male,u18
-64,7355,,Arseniy YELFIMOV,17 SEP 2001,RUS,2f,Smolensk (RUS),11 JUN 2017,,decathlon-boys,combined-events,male,u18
-64,7355,,Imanol EGIDAZU,31 OCT 2005,ESP,1,Jerez de la Frontera (ESP),19 JUN 2022,,decathlon-boys,combined-events,male,u18
-66,7354,,Hubert TROŚCIANKA,26 JUL 2006,POL,1,"Atletski stadion Poljane, Maribor (SLO)",25 JUL 2023,,decathlon-boys,combined-events,male,u18
-67,7351,,Emanuel MOLLEKER,03 MAY 2004,GER,1,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",06 JUN 2021,,decathlon-boys,combined-events,male,u18
-68,7344,,Harry Richard JÄÄGER,01 FEB 2005,EST,6,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
-69,7342,,Daniel HANZELKA,28 JUN 2006,CZE,2,"Atletski stadion Poljane, Maribor (SLO)",25 JUL 2023,,decathlon-boys,combined-events,male,u18
-70,7340,,Sven JANSONS,19 JUL 2001,NED,1,Den Haag (NED),03 JUN 2018,,decathlon-boys,combined-events,male,u18
-70,7340,,Leon-Joel CLAIR,07 FEB 2006,GER,3,"Atletski stadion Poljane, Maribor (SLO)",25 JUL 2023,,decathlon-boys,combined-events,male,u18
-72,7338,,Artur HÄMÄLÄINEN,19 JUL 1997,FIN,1,Kopvogur (ISL),08 JUN 2014,,decathlon-boys,combined-events,male,u18
-73,7337,,Leo NEUGEBAUER,19 JUN 2000,GER,2,Filderstadt (GER),11 JUN 2017,,decathlon-boys,combined-events,male,u18
-73,7337,,Tristan KONSO,04 DEC 2007,EST,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",02 JUN 2024,,decathlon-boys,combined-events,male,u18
-75,7328,,Ashley MOLONEY,13 MAR 2000,AUS,1f,Townsville (AUS),25 SEP 2016,,decathlon-boys,combined-events,male,u18
-76,7318,,Liam Belo DA SILVA,29 JUN 2007,SWE,2,Banská Bystrica (SVK),21 JUL 2024,,decathlon-boys,combined-events,male,u18
-77,7312,,Kevin MAYER,10 FEB 1992,FRA,1,Arles (FRA),07 JUN 2009,,decathlon-boys,combined-events,male,u18
-78,7311,,Jorg VANLIERDE,24 FEB 1999,BEL,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,decathlon-boys,combined-events,male,u18
-79,7305,,Elmo SAVOLA,10 MAR 1995,FIN,1,Turku (FIN),08 SEP 2012,,decathlon-boys,combined-events,male,u18
-80,7304,,Imanol EGIDAZU,31 OCT 2005,ESP,7,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
-81,7303,,Gabriel EMMANUEL,12 AUG 2003,NED,1,Emmeloord (NED),06 SEP 2020,,decathlon-boys,combined-events,male,u18
-81,7303,,Alexandre MONTAGNE,09 JAN 2005,FRA,1,"Stade Philippides, Montpellier (FRA)",05 JUN 2022,,decathlon-boys,combined-events,male,u18
-83,7302,,Joaquim RODRIGUEZ,19 MAR 2002,ESP,1,Castellón (ESP),23 JUN 2019,,decathlon-boys,combined-events,male,u18
+29,7511,,Kilian TROCHAIN,18 MAR 2008,FRA,1,"Stade Pierre Paul Bernard, Talence (FRA)",01 JUN 2025,,decathlon-boys,combined-events,male,u18
+31,7510,,Tomas JÄRVINEN,21 OCT 2005,CZE,,"Staadion, Rakvere (EST)",04 AUG 2022,,decathlon-boys,combined-events,male,u18
+32,7498,,Stepan KEKIN,13 NOV 2000,RUS,1f,Smolensk (RUS),11 JUN 2017,,decathlon-boys,combined-events,male,u18
+33,7493,,George PATRICK,23 FEB 1998,USA,4,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,decathlon-boys,combined-events,male,u18
+34,7483,,Florian KATZSCHMANN,30 JAN 1991,GER,1f,Hannover (GER),30 AUG 2008,,decathlon-boys,combined-events,male,u18
+35,7474,,Toralv OPSAL,09 MAR 1998,NOR,5,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,decathlon-boys,combined-events,male,u18
+36,7471,,Stefan MATULA,18 JUL 1990,GER,1f1,"Bernhausen, Filderstadt (GER)",20 MAY 2007,,decathlon-boys,combined-events,male,u18
+37,7462,,Arseniy YELFIMOV,17 SEP 2001,ANA,5,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,decathlon-boys,combined-events,male,u18
+38,7460,,Maximilian KLUTH,18 JUL 2000,GER,1,Filderstadt (GER),11 JUN 2017,,decathlon-boys,combined-events,male,u18
+38,7460,,Victor TÖRNSTRÖM,10 JUN 2005,SWE,4,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
+40,7450,,František DOUBEK,04 APR 2002,CZE,1,Zlín (CZE),01 JUN 2019,,decathlon-boys,combined-events,male,u18
+41,7444,,Toralv OPSAL,09 MAR 1998,NOR,1,Copenhagen (DEN),14 JUN 2015,,decathlon-boys,combined-events,male,u18
+42,7443,,Matthias LASCH,07 SEP 2004,AUT,,"Sport und Freizeitzentrum, Leibnitz (AUT)",30 MAY 2021,,decathlon-boys,combined-events,male,u18
+43,7441,,Matteo SORCI,29 MAR 2008,ITA,1,"Sportplatz Lana, Lana (ITA)",08 JUN 2025,,decathlon-boys,combined-events,male,u18
+44,7429,,Friedrich SCHULZE,09 SEP 2005,GER,5,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
+45,7427,,Jake STEIN,17 JAN 1994,AUS,1f,Perth (AUS),01 APR 2011,,decathlon-boys,combined-events,male,u18
+45,7427,,Martin MOLDAU,09 JAN 1998,EST,2f,Šiauliai (LTU),25 MAY 2015,,decathlon-boys,combined-events,male,u18
+47,7423,,Paul KALLENBERG,15 MAR 2002,GER,3,Baku (AZE),23 JUL 2019,,decathlon-boys,combined-events,male,u18
+48,7412,,Manuel SIEBEL,1986,GER,1f,Wesel (GER),23 AUG 2003,,decathlon-boys,combined-events,male,u18
+48,7412,,Matthias PREY,09 AUG 1988,GER,1f,"Bernhausen, Filderstadt (GER)",05 JUN 2005,,decathlon-boys,combined-events,male,u18
+48,7412,,Hubert TROŚCIANKA,26 JUL 2006,POL,1,"Stadion Śląski, Chorzów (POL)",08 JUL 2023,,decathlon-boys,combined-events,male,u18
+51,7408,,Steffen KLINK,03 FEB 1992,GER,1f,"Bernhausen, Filderstadt (GER)",24 MAY 2009,,decathlon-boys,combined-events,male,u18
+52,7407,,Maximilian VOLLMER,12 MAR 1998,GER,2f,"Bernhausen, Filderstadt (GER)",07 JUN 2015,,decathlon-boys,combined-events,male,u18
+53,7398,,Fredrik SAMUELSSON,16 FEB 1995,SWE,1,Huddinge (SWE),16 SEP 2012,,decathlon-boys,combined-events,male,u18
+54,7397,,Friedrich SCHULZE,09 SEP 2005,GER,2,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",22 MAY 2022,,decathlon-boys,combined-events,male,u18
+55,7396,,Caio Henrique DA SILVA,08 APR 1999,BRA,1f,Sao Bernardo do Campo (BRA),16 OCT 2016,,decathlon-boys,combined-events,male,u18
+56,7391,,František DOUBEK,04 APR 2002,CZE,4,Baku (AZE),23 JUL 2019,,decathlon-boys,combined-events,male,u18
+57,7390,,Steven FAUVEL-CLINCH,10 APR 2000,FRA,1,St-Renan (FRA),18 JUN 2017,,decathlon-boys,combined-events,male,u18
+58,7382,,Manuel WAGNER,08 MAR 1999,GER,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,decathlon-boys,combined-events,male,u18
+59,7379,,Sander SKOTHEIM,31 MAY 2002,NOR,1,Uppsala (SWE),09 JUN 2019,,decathlon-boys,combined-events,male,u18
+60,7378,,Stepan KEKIN,13 NOV 2000,RUS,1,"Adler, Sochi (RUS)",14 MAY 2017,,decathlon-boys,combined-events,male,u18
+60,7378,,Leon-Joel CLAIR,07 FEB 2006,GER,1,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",21 MAY 2023,,decathlon-boys,combined-events,male,u18
+62,7377,,Oļegs KOZJAKOVS,13 JAN 2001,LAT,2,"Kasarani, Nairobi (KEN)",13 JUL 2017,,decathlon-boys,combined-events,male,u18
+63,7371,,Leo GÖRANSSON,05 AUG 2005,SWE,1,"Seinäjoen keskusurheilukenttä, Seinäjoki (FIN)",12 JUN 2022,,decathlon-boys,combined-events,male,u18
+64,7370,,Eemil PORVARI,02 FEB 2003,FIN,1,"Kaurialan kenttä, Hämeenlinna (FIN)",30 AUG 2020,,decathlon-boys,combined-events,male,u18
+65,7359,,Jente HAUTTEKEETE,14 MAR 2002,BEL,1,Herentals (BEL),12 MAY 2019,,decathlon-boys,combined-events,male,u18
+66,7355,,Arseniy YELFIMOV,17 SEP 2001,RUS,2f,Smolensk (RUS),11 JUN 2017,,decathlon-boys,combined-events,male,u18
+66,7355,,Imanol EGIDAZU,31 OCT 2005,ESP,1,Jerez de la Frontera (ESP),19 JUN 2022,,decathlon-boys,combined-events,male,u18
+68,7354,,Hubert TROŚCIANKA,26 JUL 2006,POL,1,"Atletski stadion Poljane, Maribor (SLO)",25 JUL 2023,,decathlon-boys,combined-events,male,u18
+69,7351,,Emanuel MOLLEKER,03 MAY 2004,GER,1,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",06 JUN 2021,,decathlon-boys,combined-events,male,u18
+70,7344,,Harry Richard JÄÄGER,01 FEB 2005,EST,6,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
+71,7342,,Daniel HANZELKA,28 JUN 2006,CZE,2,"Atletski stadion Poljane, Maribor (SLO)",25 JUL 2023,,decathlon-boys,combined-events,male,u18
+72,7340,,Sven JANSONS,19 JUL 2001,NED,1,Den Haag (NED),03 JUN 2018,,decathlon-boys,combined-events,male,u18
+72,7340,,Leon-Joel CLAIR,07 FEB 2006,GER,3,"Atletski stadion Poljane, Maribor (SLO)",25 JUL 2023,,decathlon-boys,combined-events,male,u18
+74,7338,,Artur HÄMÄLÄINEN,19 JUL 1997,FIN,1,Kopvogur (ISL),08 JUN 2014,,decathlon-boys,combined-events,male,u18
+75,7337,,Leo NEUGEBAUER,19 JUN 2000,GER,2,Filderstadt (GER),11 JUN 2017,,decathlon-boys,combined-events,male,u18
+75,7337,,Tristan KONSO,04 DEC 2007,EST,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",02 JUN 2024,,decathlon-boys,combined-events,male,u18
+77,7328,,Ashley MOLONEY,13 MAR 2000,AUS,1f,Townsville (AUS),25 SEP 2016,,decathlon-boys,combined-events,male,u18
+78,7318,,Liam Belo DA SILVA,29 JUN 2007,SWE,2,Banská Bystrica (SVK),21 JUL 2024,,decathlon-boys,combined-events,male,u18
+79,7312,,Kevin MAYER,10 FEB 1992,FRA,1,Arles (FRA),07 JUN 2009,,decathlon-boys,combined-events,male,u18
+80,7311,,Jorg VANLIERDE,24 FEB 1999,BEL,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,decathlon-boys,combined-events,male,u18
+81,7305,,Elmo SAVOLA,10 MAR 1995,FIN,1,Turku (FIN),08 SEP 2012,,decathlon-boys,combined-events,male,u18
+82,7304,,Imanol EGIDAZU,31 OCT 2005,ESP,7,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,decathlon-boys,combined-events,male,u18
+83,7303,,Gabriel EMMANUEL,12 AUG 2003,NED,1,Emmeloord (NED),06 SEP 2020,,decathlon-boys,combined-events,male,u18
+83,7303,,Alexandre MONTAGNE,09 JAN 2005,FRA,1,"Stade Philippides, Montpellier (FRA)",05 JUN 2022,,decathlon-boys,combined-events,male,u18
+85,7302,,Joaquim RODRIGUEZ,19 MAR 2002,ESP,1,Castellón (ESP),23 JUN 2019,,decathlon-boys,combined-events,male,u18

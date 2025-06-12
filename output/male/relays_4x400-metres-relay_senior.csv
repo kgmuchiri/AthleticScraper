@@ -615,7 +615,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 613,3:01.17,,Jamaica,,JAM,2h2,"T. Robinson Stadium, Nassau (BAH)",24 MAY 2014,1179,4x400-metres-relay,relays,male,senior
 613,3:01.17,,Cuba,,CUB,2h2,"CIBC, Toronto (CAN)",24 JUL 2015,1179,4x400-metres-relay,relays,male,senior
 613,3:01.17,,Texas A&M,,USA,1f2,"Knoxville, TN (USA)",13 MAY 2018,1179,4x400-metres-relay,relays,male,senior
-613,3:01.17,,Texas A&M,,INT,1h2,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1179,4x400-metres-relay,relays,male,senior
+613,3:01.17,,Texas A&M,,INT,1sf2,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1179,4x400-metres-relay,relays,male,senior
 618,3:01.18,,Federal Republic of Germany,,FRG,4sf2,"Stadio Olimpico, Roma (ITA)",05 SEP 1987,1179,4x400-metres-relay,relays,male,senior
 618,3:01.18,,Brazil,,BRA,5,"CIBC, Toronto (CAN)",25 JUL 2015,1179,4x400-metres-relay,relays,male,senior
 618,3:01.18,,Poland,,POL,2,"Olympisch Stadion, Amsterdam (NED)",10 JUL 2016,1179,4x400-metres-relay,relays,male,senior
@@ -753,249 +753,250 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 749,3:01.52,,Stephen F. Austin,,USA,2,"Hayward Field, Eugene, OR (USA)",11 JUN 2021,1174,4x400-metres-relay,relays,male,senior
 749,3:01.52,,Texas A&M,,USA,1,"Franklin Field, Philadelphia, PA (USA)",27 APR 2024,1174,4x400-metres-relay,relays,male,senior
 749,3:01.52,,Florida,,USA,1f5,"Percy Beard Track, Gainesville, FL (USA)",19 APR 2025,1174,4x400-metres-relay,relays,male,senior
-755,3:01.53,,Japan,,JPN,2h1,"Hayward Field, Eugene, OR (USA)",23 JUL 2022,1173,4x400-metres-relay,relays,male,senior
-755,3:01.53,,Texas,,USA,2h3,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1173,4x400-metres-relay,relays,male,senior
-757,3:01.54,,Florida State,,INT,1,"Philadelphia, PA (USA)",25 APR 2009,1173,4x400-metres-relay,relays,male,senior
-757,3:01.54,,Bahamas,,BAH,3h2,"DS, Daegu (KOR)",01 SEP 2011,1173,4x400-metres-relay,relays,male,senior
-757,3:01.54,,Central TX All Stars,,INT,1,"Austin, TX (USA)",31 MAR 2012,1173,4x400-metres-relay,relays,male,senior
-757,3:01.54,,Trinidad and Tobago,,TTO,7h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",26 AUG 2023,1173,4x400-metres-relay,relays,male,senior
-761,3:01.55,,Texas A&M,,INT,1f1,"Austin, TX (USA)",03 APR 2010,1173,4x400-metres-relay,relays,male,senior
-761,3:01.55,,Baylor,,INT,1f3,"Clyde Hart Track & Field Stadium, Waco, TX (USA)",22 APR 2023,1173,4x400-metres-relay,relays,male,senior
-763,3:01.56,,Mississippi State,,INT,3,"Des Moines, IA (USA)",11 JUN 2011,1173,4x400-metres-relay,relays,male,senior
-763,3:01.56,,Australia,,AUS,4h2,"DS, Daegu (KOR)",01 SEP 2011,1173,4x400-metres-relay,relays,male,senior
-763,3:01.56,,Great Britain & NI,,GBR,2,"Olympiastadion, Helsinki (FIN)",01 JUL 2012,1173,4x400-metres-relay,relays,male,senior
-763,3:01.56,,Texas A&M,,USA,2f1,"Clemson, SC (USA) (i)",09 FEB 2019,1227,4x400-metres-relay,relays,male,senior
-763,3:01.56,,Sri Lanka,,SRI,1,"Supachalasai National Stadium, Bangkok (THA)",16 JUL 2023,1173,4x400-metres-relay,relays,male,senior
-763,3:01.56,,Arkansas,,USA,2h2,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1173,4x400-metres-relay,relays,male,senior
-769,3:01.57,,Russia,,RUS,3,"Stade Charléty, Paris (FRA)",20 JUN 1999,1173,4x400-metres-relay,relays,male,senior
-769,3:01.57,,Jamaica,,JAM,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 SEP 2001,1173,4x400-metres-relay,relays,male,senior
-769,3:01.57,,Jamaica,,JAM,2f1,"International Stadium, Yokohama (JPN)",12 MAY 2019,1173,4x400-metres-relay,relays,male,senior
-769,3:01.57,,Netherlands,,NED,2h1,"Olympiastadion, München (GER)",19 AUG 2022,1173,4x400-metres-relay,relays,male,senior
-769,3:01.57,,Arizona State,,INT,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",14 MAY 2023,1173,4x400-metres-relay,relays,male,senior
-769,3:01.57,,LSU,,INT,7,"Hayward Field, Eugene, OR (USA)",07 JUN 2024,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,United States Red,,USA,1,"Austin, TX (USA)",02 APR 2004,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,Louisiana State,,INT,1,"Sacramento, CA (USA)",10 JUN 2006,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,Australia,,AUS,2,Daegu (KOR),16 MAY 2012,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,Penn State,,USA,4,"Des Moines, IA (USA)",09 JUN 2012,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,Trinidad and Tobago,,TTO,3h2,"CIBC, Toronto (CAN)",24 JUL 2015,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,India,,IND,1,"HOC Stadium, Hangzhou (CHN)",04 OCT 2023,1173,4x400-metres-relay,relays,male,senior
-775,3:01.58,,Texas Tech,,INT,3h3,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1173,4x400-metres-relay,relays,male,senior
-782,3:01.59,,Yugoslavia,,YUG,5sf2,"Olympic Stadium, Seoul (KOR)",30 SEP 1988,1173,4x400-metres-relay,relays,male,senior
-782,3:01.59,,Belgium,,BEL,1f1,Izmir (TUR),19 JUN 2011,1173,4x400-metres-relay,relays,male,senior
-782,3:01.59,,Poland,,POL,7,"Olympic Stadium, London (GBR)",13 AUG 2017,1173,4x400-metres-relay,relays,male,senior
-782,3:01.59,,North Carolina A&T,,INT,2h3,"Billy Hayes T& F Complex, Bloomington, IN (USA)",27 MAY 2022,1173,4x400-metres-relay,relays,male,senior
-782,3:01.59,,Jamaica,,JAM,3h1,"Hayward Field, Eugene, OR (USA)",23 JUL 2022,1173,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Barbados,,BAR,6,"Memorial Coliseum, Los Angeles, CA (USA)",11 AUG 1984,1172,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Nigeria,,NGR,2h2,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1172,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Louisiana State,,USA,3,"Eugene, OR (USA)",14 JUN 2014,1172,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Florida,,USA,1f2,"Starkville, MS (USA)",16 MAY 2015,1172,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Italy,,ITA,3h1,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019,1172,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Italy,,ITA,5f1,"The Bahamas National Stadium, Nassau (BAH)",05 MAY 2024,1172,4x400-metres-relay,relays,male,senior
-787,3:01.60,,Spain,,ESP,6h2,"Stade de France, Paris (FRA)",09 AUG 2024,1172,4x400-metres-relay,relays,male,senior
-794,3:01.61,,Soviet Union,,URS,3sf1,"Stadio Olimpico, Roma (ITA)",05 SEP 1987,1172,4x400-metres-relay,relays,male,senior
-794,3:01.61,,Brazil,,BRA,4,"Estadio Olímpico, Barcelona (ESP)",08 AUG 1992,1172,4x400-metres-relay,relays,male,senior
-794,3:01.61,,Bulgaria,,BUL,2h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1172,4x400-metres-relay,relays,male,senior
-794,3:01.61,,Florida,,INT,3h1,"Eugene, OR (USA)",06 JUN 2018,1172,4x400-metres-relay,relays,male,senior
-798,3:01.62,,Russia,,RUS,5,"Yanmar Stadium Nagai, Osaka (JPN)",02 SEP 2007,1172,4x400-metres-relay,relays,male,senior
-798,3:01.62,,Great Britain & NI,,GBR,1h1,"Olympiastadion, Berlin (GER)",10 AUG 2018,1172,4x400-metres-relay,relays,male,senior
-798,3:01.62,,Italy,,ITA,1,"Stade Municipal, Annecy (FRA)",11 JUN 2023,1172,4x400-metres-relay,relays,male,senior
-798,3:01.62,,Virginia Tech,,USA,2,"Percy Beard Track, Gainesville, FL (USA)",30 MAR 2024,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Mississippi State,,USA,5,"Sacramento, CA (USA)",11 JUN 2005,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Great Britain & NI,,GBR,2,"Ullevi Stadium, Göteborg (SWE)",13 AUG 2006,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Bahamas,,BAH,2,"Philadelphia, PA (USA)",25 APR 2015,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Louisiana State,,INT,2f2,"Starkville, MS (USA)",16 MAY 2015,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Great Britain & NI,,GBR,1h1,"Olympisch Stadion, Amsterdam (NED)",09 JUL 2016,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Czech Republic,,CZE,8,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1172,4x400-metres-relay,relays,male,senior
-802,3:01.63,,Baylor,,INT,6,"Mike A. Myers Stadium, Austin, TX (USA)",09 JUN 2023,1172,4x400-metres-relay,relays,male,senior
-809,3:01.64,,Texas A&M,,INT,3,"Hayward Field, Eugene, OR (USA)",11 JUN 2021,1172,4x400-metres-relay,relays,male,senior
-810,3:01.65,,France,,FRA,3h2,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1172,4x400-metres-relay,relays,male,senior
-810,3:01.65,,France,,FRA,3,"Stadio Luigi Ridolfi, Firenze (ITA)",19 JUN 2005,1172,4x400-metres-relay,relays,male,senior
-810,3:01.65,,France,,FRA,2h1,"Olympiastadion, Berlin (GER)",22 AUG 2009,1172,4x400-metres-relay,relays,male,senior
-810,3:01.65,,Trinidad and Tobago,,TTO,2,Mayagüez (PUR),17 JUL 2011,1172,4x400-metres-relay,relays,male,senior
-814,3:01.66,,Louisiana State,,INT,1h,"Eugene, OR (USA)",31 MAY 2001,1171,4x400-metres-relay,relays,male,senior
-814,3:01.66,,Baylor,,USA,1f2,"Des Moines, IA (USA)",26 MAY 2007,1171,4x400-metres-relay,relays,male,senior
-814,3:01.66,,Mississippi State,,INT,2,"Eugene, OR (USA)",12 JUN 2010,1171,4x400-metres-relay,relays,male,senior
-814,3:01.66,,Brazil,,BRA,4h2,"CIBC, Toronto (CAN)",24 JUL 2015,1171,4x400-metres-relay,relays,male,senior
-818,3:01.67,,Kenya,,KEN,5,"Stadio Olimpico, Roma (ITA)",06 SEP 1987,1171,4x400-metres-relay,relays,male,senior
-818,3:01.67,,Bahamas,,BAH,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 SEP 2001,1171,4x400-metres-relay,relays,male,senior
-818,3:01.67,,Ireland,,IRL,4,"Letzigrund, Zürich (SUI)",17 AUG 2014,1171,4x400-metres-relay,relays,male,senior
-818,3:01.67,,Venezuela,,VEN,2,Medellín (COL),10 JUL 2016,1171,4x400-metres-relay,relays,male,senior
-818,3:01.67,,France,,FRA,2h1,"Olympiastadion, Berlin (GER)",10 AUG 2018,1171,4x400-metres-relay,relays,male,senior
-818,3:01.67,,LSU,,USA,3sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1171,4x400-metres-relay,relays,male,senior
-824,3:01.68,,Jamaica,,JAM,1,Mayagüez (PUR),30 JUL 2010,1171,4x400-metres-relay,relays,male,senior
-824,3:01.68,,Texas A&M,,INT,5,"Des Moines, IA (USA)",09 JUN 2012,1171,4x400-metres-relay,relays,male,senior
-824,3:01.68,,Kentucky,,INT,4sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1171,4x400-metres-relay,relays,male,senior
-824,3:01.68,,Gainesville Elite,,USA,1,"Percy Beard Track, Gainesville, FL (USA)",30 MAR 2024,1171,4x400-metres-relay,relays,male,senior
-824,3:01.68,,LSU,,INT,3f1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",30 MAR 2024,1171,4x400-metres-relay,relays,male,senior
-824,3:01.68,,Italy,,ITA,13,"The Bahamas National Stadium, Nassau (BAH)",04 MAY 2024,1171,4x400-metres-relay,relays,male,senior
-830,3:01.69,,Africa,,INT,2,"CM, Madrid (ESP)",21 SEP 2002,1171,4x400-metres-relay,relays,male,senior
-830,3:01.69,,Texas Tech,,INT,1h3,"Sacramento, CA (USA)",08 JUN 2005,1171,4x400-metres-relay,relays,male,senior
-830,3:01.69,,Texas,,INT,4,"Hayward Field, Eugene, OR (USA)",10 JUN 2022,1171,4x400-metres-relay,relays,male,senior
-830,3:01.69,,Great Britain & NI,,GBR,1h1,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Jamaica,,JAM,3h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,France,,FRA,2h2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Japan,,JPN,1,Bangkok (THA),19 DEC 1998,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,South Africa,,RSA,3h3,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Japan,,JPN,1,Osaka (JPN),08 MAY 2004,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Poland,,POL,1,"Olympiastadion, München (GER)",24 JUN 2007,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Venezuela,,VEN,2,Barquisimeto (VEN),10 JUN 2012,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Belgium,,BEL,4h1,"Olympic Stadium, London (GBR)",09 AUG 2012,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Germany,,GER,5,"Letzigrund, Zürich (SUI)",17 AUG 2014,1171,4x400-metres-relay,relays,male,senior
-834,3:01.70,,Nigeria,,NGR,22,"The Bahamas National Stadium, Nassau (BAH)",04 MAY 2024,1171,4x400-metres-relay,relays,male,senior
-844,3:01.71,,Nigeria,,NGR,5,"Estadio Olímpico, Barcelona (ESP)",08 AUG 1992,1171,4x400-metres-relay,relays,male,senior
-844,3:01.71,,Russia,,RUS,4f1,"Olympic Stadium, Cheboksary (RUS)",21 JUN 2015,1171,4x400-metres-relay,relays,male,senior
-844,3:01.71,,Kentucky,,INT,1,"Cushing Stadium, College Station, TX (USA)",15 MAY 2021,1171,4x400-metres-relay,relays,male,senior
-847,3:01.72,,Senegal,,SEN,2sf1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1171,4x400-metres-relay,relays,male,senior
-847,3:01.72,,Russia,,RUS,1f1,"Fana Stadion, Bergen (NOR)",20 JUN 2010,1171,4x400-metres-relay,relays,male,senior
-847,3:01.72,,Spain,,ESP,1h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1171,4x400-metres-relay,relays,male,senior
-847,3:01.72,,United States,,USA,2,"Estadio Atlético de la VIDENA, Lima (PER)",10 AUG 2019,1171,4x400-metres-relay,relays,male,senior
-847,3:01.72,,Texas A&M,,INT,5,"Hayward Field, Eugene, OR (USA)",10 JUN 2022,1171,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Kenya,,KEN,3sf1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Kenya,,KEN,3,Johannesburg (RSA),18 SEP 1999,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Louisiana State,,INT,1,"Houston, TX (USA)",31 MAR 2001,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Poland,,POL,3,"Ullevi Stadium, Göteborg (SWE)",13 AUG 2006,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Texas A&M,,INT,1f1,"Philadelphia, PA (USA)",30 APR 2011,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Poland,,POL,5h2,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Dominican Republic,,DOM,4,San José (CRC),09 AUG 2015,1170,4x400-metres-relay,relays,male,senior
-852,3:01.73,,Texas A&M,,INT,2,"Cushing Stadium, College Station, TX (USA)",15 MAY 2021,1170,4x400-metres-relay,relays,male,senior
-860,3:01.74,,Bahamas,,BAH,3h2,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1170,4x400-metres-relay,relays,male,senior
-860,3:01.74,,Trinidad and Tobago,,TTO,5,"Luzhniki Stadion, Moskva (RUS)",16 AUG 2013,1170,4x400-metres-relay,relays,male,senior
-860,3:01.74,,Texas A&M,,USA,1,"Austin, TX (USA)",01 APR 2017,1170,4x400-metres-relay,relays,male,senior
-860,3:01.74,,LSU,,INT,1h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",24 MAY 2024,1170,4x400-metres-relay,relays,male,senior
-860,3:01.74,,The HOP ( Hanany Oly Project,,USA,1,"Larry K. Durham Track at Kidd Field at the University of Texas, El Paso, TX (USA)",11 APR 2025,1170,4x400-metres-relay,relays,male,senior
-865,3:01.75,,Italy,,ITA,2sf3,"Olympic Stadium, Athina (GRE)",09 AUG 1997,1170,4x400-metres-relay,relays,male,senior
-866,3:01.76,,France,,FRA,2sf1,"Olympic Stadium, Athina (GRE)",09 AUG 1997,1170,4x400-metres-relay,relays,male,senior
-866,3:01.76,,Great Britain & NI,,GBR,1,"Stadio Olimpico, Roma (ITA)",31 MAY 2012,1170,4x400-metres-relay,relays,male,senior
-866,3:01.76,,Dominican Republic,,DOM,5h2,"Estádio Olímpico, Rio de Janeiro (BRA)",19 AUG 2016,1170,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Santa Monica Track Club,,USA,1,Linz (AUT),09 JUL 1997,1170,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Arizona State,,INT,1,"Northridge, CA (USA)",29 MAY 2004,1170,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Germany,,GER,2,"Olympiastadion, München (GER)",24 JUN 2007,1170,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Baylor,,INT,2f2,"Austin, TX (USA)",09 APR 2011,1170,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Germany,,GER,3,"Olympiastadion, Helsinki (FIN)",01 JUL 2012,1170,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Poland,,POL,1,"Arena Birmingham, Birmingham (GBR) (i)",04 MAR 2018,1224,4x400-metres-relay,relays,male,senior
-869,3:01.77,,Texas A&M,,USA,1f2,"Fayetteville, AR (USA)",11 MAY 2019,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Italy,,ITA,4,"Poljud Stadion, Split (CRO)",01 SEP 1990,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Germany,,GER,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUN 2004,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Jamaica,,JAM,1,Cartagena de Indias (COL),29 JUL 2006,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Texas A&M,,USA,2,"Des Moines, IA (USA)",14 JUN 2008,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Florida,,USA,1f1,"Gainesville, FL (USA)",04 APR 2015,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Poland,,POL,2h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Botswana,,BOT,1,Gold Coast (AUS),14 APR 2018,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Alabama,,INT,1f2,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",25 FEB 2023,1224,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Florida,,INT,1h1,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1170,4x400-metres-relay,relays,male,senior
-876,3:01.78,,Portugal,,POR,22,"Tianhe Sports Center, Guangzhou (CHN)",10 MAY 2025,1170,4x400-metres-relay,relays,male,senior
-886,3:01.79,,Great Britain & NI,,GBR,1h1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1169,4x400-metres-relay,relays,male,senior
-886,3:01.79,,Cuba,,CUB,4,Winnipeg (CAN),30 JUL 1999,1169,4x400-metres-relay,relays,male,senior
-886,3:01.79,,Poland,,POL,1,"Weserstadion, Bremen (GER)",24 JUN 2001,1169,4x400-metres-relay,relays,male,senior
-886,3:01.79,,France,,FRA,1h3,"Stade de France, Paris-St-Denis (FRA)",30 AUG 2003,1169,4x400-metres-relay,relays,male,senior
-886,3:01.79,,Iowa,,USA,5sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1169,4x400-metres-relay,relays,male,senior
-886,3:01.79,,United States,,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",21 AUG 2022,1169,4x400-metres-relay,relays,male,senior
-886,3:01.79,,Arizona State,,INT,1f2,"Potts Field, Boulder, CO (USA)",12 MAY 2024,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,World International,,INT,1f1,"Austin, TX (USA)",03 APR 1999,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,Vector Sports Management,,USA,1,"Tempe, AZ (USA)",10 APR 1999,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,Minnesota,,INT,2,"Austin, TX (USA)",12 JUN 2004,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,Venezuela,,VEN,2,Veracruz (MEX),28 NOV 2014,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,Germany,,GER,3h1,"Olympiastadion, München (GER)",19 AUG 2022,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,Belgium,,BEL,4h1,"Olympiastadion, München (GER)",19 AUG 2022,1169,4x400-metres-relay,relays,male,senior
-893,3:01.80,,India,,IND,2,"Supachalasai National Stadium, Bangkok (THA)",16 JUL 2023,1169,4x400-metres-relay,relays,male,senior
-900,3:01.81,,Jamaica,,JAM,1f2,Santo Domingo (DOM),09 AUG 2003,1169,4x400-metres-relay,relays,male,senior
-901,3:01.82,,Cuba,,CUB,2sf2,"Ullevi Stadium, Göteborg (SWE)",12 AUG 1995,1169,4x400-metres-relay,relays,male,senior
-901,3:01.82,,United States Blue,,USA,3,"Philadelphia, PA (USA)",28 APR 2001,1169,4x400-metres-relay,relays,male,senior
-901,3:01.82,,Bahamas,,BAH,2,Mayagüez (PUR),30 JUL 2010,1169,4x400-metres-relay,relays,male,senior
-901,3:01.82,,USATF High Performance B,,USA,2f1,"Gainesville, FL (USA)",30 MAR 2019,1169,4x400-metres-relay,relays,male,senior
-901,3:01.82,,Czech Republic,,CZE,6,"Olympiastadion, München (GER)",20 AUG 2022,1169,4x400-metres-relay,relays,male,senior
-901,3:01.82,,Arkansas,,INT,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2025,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,Federal Republic of Germany,,FRG,2,"Olympiastadion, Helsinki (FIN)",14 AUG 1983,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,South Africa,,RSA,4,Manchester (GBR),31 JUL 2002,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,Baylor,,USA,6,"Sacramento, CA (USA)",11 JUN 2005,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,Belgium,,BEL,5,"Olympic Stadium, London (GBR)",10 AUG 2012,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,Louisiana State,,INT,1,"Austin, TX (USA)",02 APR 2016,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,Florida,,INT,4,"Eugene, OR (USA)",08 JUN 2018,1169,4x400-metres-relay,relays,male,senior
-907,3:01.83,,Arkansas,,USA,1h1,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,Baylor,,INT,1,"Columbia, MO (USA)",17 MAY 1998,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,South Africa,,RSA,2,Melbourne (AUS),25 MAR 2006,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,Poland,,POL,5h2,"DS, Daegu (KOR)",01 SEP 2011,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,Colombia,,COL,6h1,"Estádio Olímpico, Rio de Janeiro (BRA)",19 AUG 2016,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,Arkansas,,INT,2,"Eugene, OR (USA)",09 JUN 2017,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,Arkansas,,USA,2,"Eugene, OR (USA)",09 JUN 2017,1169,4x400-metres-relay,relays,male,senior
-914,3:01.84,,Nigeria,,NGR,3,"University of Ghana Sports Stadium, Accra (GHA)",22 MAR 2024,1169,4x400-metres-relay,relays,male,senior
-921,3:01.85,,Italy,,ITA,4h3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1169,4x400-metres-relay,relays,male,senior
-921,3:01.85,,India,,IND,2,Jakarta (INA),30 AUG 2018,1169,4x400-metres-relay,relays,male,senior
-921,3:01.85,,LSU,,USA,1f1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",24 APR 2021,1169,4x400-metres-relay,relays,male,senior
-921,3:01.85,,Botswana,,BOT,2,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1169,4x400-metres-relay,relays,male,senior
-921,3:01.85,,Oklahoma,,USA,3sf2,"Mike A. Myers Stadium, Austin, TX (USA)",07 JUN 2023,1169,4x400-metres-relay,relays,male,senior
-921,3:01.85,,Arizona State,,USA,2,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2025,1169,4x400-metres-relay,relays,male,senior
-927,3:01.86,,Wales,,GBR,3,Kuala Lumpur (MAS),21 SEP 1998,1168,4x400-metres-relay,relays,male,senior
-927,3:01.86,,Brazil,,BRA,13,"The Bahamas National Stadium, Nassau (BAH)",05 MAY 2024,1168,4x400-metres-relay,relays,male,senior
-929,3:01.87,,United States,,USA,2f2,Santo Domingo (DOM),09 AUG 2003,1168,4x400-metres-relay,relays,male,senior
-929,3:01.87,,Baylor,,USA,1h3,"Austin, TX (USA)",10 JUN 2004,1168,4x400-metres-relay,relays,male,senior
-929,3:01.87,,Florida,,USA,3,"Eugene, OR (USA)",12 JUN 2010,1168,4x400-metres-relay,relays,male,senior
-929,3:01.87,,PR of China,,CHN,21,"Tianhe Sports Center, Guangzhou (CHN)",10 MAY 2025,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Africa,,INT,3,"Estadio Olímpico, Barcelona (ESP)",10 SEP 1989,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,World Express AC,,INT,1,"Atlanta, GA (USA)",23 MAY 1998,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Russia,,RUS,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUN 2004,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Bahamas,,BAH,6,"Olympic Stadium, Athina (GRE)",28 AUG 2004,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Belgium,,BEL,4,"Olympiastadion, Berlin (GER)",23 AUG 2009,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Venezuela,,VEN,1,Rio de Janeiro (BRA),20 MAY 2012,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Japan,,JPN,1,Incheon (KOR),02 OCT 2014,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Colombia,,COL,1,Rio de Janeiro (BRA),16 MAY 2016,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Cuba,,CUB,3h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1168,4x400-metres-relay,relays,male,senior
-933,3:01.88,,Alabama,,INT,1h3,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1168,4x400-metres-relay,relays,male,senior
-943,3:01.89,,Georgia Tech,,INT,1,"Amherst, MA (USA)",05 JUN 1998,1168,4x400-metres-relay,relays,male,senior
-943,3:01.89,,Texas A&M,,INT,1f1,"Austin, TX (USA)",29 MAY 2010,1168,4x400-metres-relay,relays,male,senior
-943,3:01.89,,Botswana,,BOT,1,"Le Grand Stade, Marrakech (MAR)",14 AUG 2014,1168,4x400-metres-relay,relays,male,senior
-943,3:01.89,,India,,IND,1h,Patiala (IND),25 JUN 2021,1168,4x400-metres-relay,relays,male,senior
-943,3:01.89,,Portugal,,POR,6,"Stadio Olimpico, Roma (ITA)",12 JUN 2024,1168,4x400-metres-relay,relays,male,senior
-943,3:01.89,,Great Britain & NI,,GBR,7,"Stadio Olimpico, Roma (ITA)",12 JUN 2024,1168,4x400-metres-relay,relays,male,senior
-949,3:01.90,,United States U20,,USA,1,"Olympic Stadium, Athina (GRE)",20 JUL 1986,1168,4x400-metres-relay,relays,male,senior
-949,3:01.90,,Texas,,INT,4sf2,"Mike A. Myers Stadium, Austin, TX (USA)",07 JUN 2023,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Federal Republic of Germany,,FRG,1,Torino (ITA),05 AUG 1979,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Australia,,AUS,3sf2,"Olympic Stadium, Sydney (AUS)",29 SEP 2000,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,United States Red,,USA,1,"Austin, TX (USA)",09 APR 2005,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Trinidad and Tobago,,TTO,2h2,"Olympiastadion, Helsinki (FIN)",13 AUG 2005,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Great Britain & NI,,GBR,3h1,"Olympiastadion, Berlin (GER)",22 AUG 2009,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Iowa,,USA,3,"Eugene, OR (USA)",09 JUN 2017,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Iowa,,USA,3,"Eugene, OR (USA)",09 JUN 2017,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Campbell,,INT,2h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",24 MAY 2024,1168,4x400-metres-relay,relays,male,senior
-951,3:01.91,,Portugal,,POR,5h2,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1168,4x400-metres-relay,relays,male,senior
-960,3:01.92,,Nigeria,,NGR,4sf1,"Stadio Olimpico, Roma (ITA)",05 SEP 1987,1167,4x400-metres-relay,relays,male,senior
-960,3:01.92,,Poland,,POL,2h1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1167,4x400-metres-relay,relays,male,senior
-960,3:01.92,,Japan,,JPN,3sf2,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1167,4x400-metres-relay,relays,male,senior
-960,3:01.92,,Great Britain & NI,,GBR,3,"Olympiastadion, München (GER)",24 JUN 2007,1167,4x400-metres-relay,relays,male,senior
-960,3:01.92,,Bahamas,,BAH,2,Gold Coast (AUS),14 APR 2018,1167,4x400-metres-relay,relays,male,senior
-965,3:01.93,,San Antonio Elite,,USA,1,"Austin, TX (USA)",30 MAR 2013,1167,4x400-metres-relay,relays,male,senior
-966,3:01.94,,Jamaica,,JAM,3,Melbourne (AUS),25 MAR 2006,1167,4x400-metres-relay,relays,male,senior
-966,3:01.94,,Bahamas,,BAH,1,Rio de Janeiro (BRA),28 JUL 2007,1167,4x400-metres-relay,relays,male,senior
-966,3:01.94,,Japan,,JPN,3,Jakarta (INA),30 AUG 2018,1167,4x400-metres-relay,relays,male,senior
-969,3:01.95,,Russia,,RUS,2,Fukuoka (JPN),03 SEP 1995,1167,4x400-metres-relay,relays,male,senior
-969,3:01.95,,Russia,,RUS,4h2,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1167,4x400-metres-relay,relays,male,senior
-969,3:01.95,,Russia,,RUS,4h2,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1167,4x400-metres-relay,relays,male,senior
-969,3:01.95,,Great Britain & NI,,GBR,1h3,"Olympiastadion, Helsinki (FIN)",13 AUG 2005,1167,4x400-metres-relay,relays,male,senior
-973,3:01.96,,Italy,,ITA,4,"Stadio Luigi Ridolfi, Firenze (ITA)",19 JUN 2005,1167,4x400-metres-relay,relays,male,senior
-973,3:01.96,,United States,,USA,1,"Fayetteville, AR (USA) (i)",11 FEB 2006,1221,4x400-metres-relay,relays,male,senior
-973,3:01.96,,Venezuela,,VEN,2h1,"T. Robinson Stadium, Nassau (BAH)",24 MAY 2014,1167,4x400-metres-relay,relays,male,senior
-973,3:01.96,,Louisiana State,,INT,1,"Eugene, OR (USA)",12 JUN 2015,1167,4x400-metres-relay,relays,male,senior
-973,3:01.96,,Great Britain & NI,,GBR,4h1,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019,1167,4x400-metres-relay,relays,male,senior
-973,3:01.96,,Germany,,GER,1,"Stadion Manfort, Leverkusen (GER)",27 JUN 2021,1167,4x400-metres-relay,relays,male,senior
-973,3:01.96,,Belgium,,BEL,1h2,"Hayward Field, Eugene, OR (USA)",23 JUL 2022,1167,4x400-metres-relay,relays,male,senior
-980,3:01.97,,Louisiana State,,INT,2h2,"Des Moines, IA (USA)",07 JUN 2012,1167,4x400-metres-relay,relays,male,senior
-980,3:01.97,,Jamaica,,JAM,6,"CIBC, Toronto (CAN)",25 JUL 2015,1167,4x400-metres-relay,relays,male,senior
-980,3:01.97,,United States,,USA,2,"Arena Birmingham, Birmingham (GBR) (i)",04 MAR 2018,1221,4x400-metres-relay,relays,male,senior
-980,3:01.97,,Jamaica,,JAM,3,Gold Coast (AUS),14 APR 2018,1167,4x400-metres-relay,relays,male,senior
-984,3:01.98,,Federal Republic of Germany,,FRG,3,"Olympic Stadium, Montréal (CAN)",31 JUL 1976,1167,4x400-metres-relay,relays,male,senior
-984,3:01.98,,GW Exp,,INT,4f1,"Gainesville, FL (USA)",05 APR 2014,1167,4x400-metres-relay,relays,male,senior
-984,3:01.98,,Jamaica,,JAM,4h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1167,4x400-metres-relay,relays,male,senior
-984,3:01.98,,USC,,INT,1f1,"Clemson, SC (USA) (i)",10 FEB 2018,1221,4x400-metres-relay,relays,male,senior
-984,3:01.98,,Louisiana State,,INT,2f2,"Knoxville, TN (USA)",13 MAY 2018,1167,4x400-metres-relay,relays,male,senior
-989,3:01.99,,Poland,,POL,5,"Parc des Sports, Annecy (FRA)",23 JUN 2002,1166,4x400-metres-relay,relays,male,senior
-989,3:01.99,,United States Red,,USA,2,"Austin, TX (USA)",05 APR 2003,1166,4x400-metres-relay,relays,male,senior
-989,3:01.99,,Iowa,,INT,2sf1,"Austin, TX (USA)",05 JUN 2019,1166,4x400-metres-relay,relays,male,senior
-989,3:01.99,,Tiger Olympians,,INT,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",09 APR 2022,1166,4x400-metres-relay,relays,male,senior
-989,3:01.99,,Trinidad and Tobago,,TTO,1,San Salvador (ESA),07 JUL 2023,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Great Britain & NI,,GBR,5,"Olympic Stadium, Seoul (KOR)",01 OCT 1988,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Baylor,,USA,1,"Des Moines, IA (USA)",28 APR 2007,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Jamaica,,JAM,3,"Philadelphia, PA (USA)",26 APR 2008,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Kentucky,,INT,3,"Des Moines, IA (USA)",14 JUN 2008,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Jamaica,,JAM,3,Mayagüez (PUR),17 JUL 2011,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Georgia,,INT,1f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",15 APR 2023,1166,4x400-metres-relay,relays,male,senior
-994,3:02.00,,Jamaica,,JAM,31,"Tianhe Sports Center, Guangzhou (CHN)",11 MAY 2025,1166,4x400-metres-relay,relays,male,senior
+749,3:01.52,,South Florida,,INT,1h1,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",30 MAY 2025,1174,4x400-metres-relay,relays,male,senior
+756,3:01.53,,Japan,,JPN,2h1,"Hayward Field, Eugene, OR (USA)",23 JUL 2022,1173,4x400-metres-relay,relays,male,senior
+756,3:01.53,,Texas,,USA,2h3,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1173,4x400-metres-relay,relays,male,senior
+758,3:01.54,,Florida State,,INT,1,"Philadelphia, PA (USA)",25 APR 2009,1173,4x400-metres-relay,relays,male,senior
+758,3:01.54,,Bahamas,,BAH,3h2,"DS, Daegu (KOR)",01 SEP 2011,1173,4x400-metres-relay,relays,male,senior
+758,3:01.54,,Central TX All Stars,,INT,1,"Austin, TX (USA)",31 MAR 2012,1173,4x400-metres-relay,relays,male,senior
+758,3:01.54,,Trinidad and Tobago,,TTO,7h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",26 AUG 2023,1173,4x400-metres-relay,relays,male,senior
+762,3:01.55,,Texas A&M,,INT,1f1,"Austin, TX (USA)",03 APR 2010,1173,4x400-metres-relay,relays,male,senior
+762,3:01.55,,Baylor,,INT,1f3,"Clyde Hart Track & Field Stadium, Waco, TX (USA)",22 APR 2023,1173,4x400-metres-relay,relays,male,senior
+764,3:01.56,,Mississippi State,,INT,3,"Des Moines, IA (USA)",11 JUN 2011,1173,4x400-metres-relay,relays,male,senior
+764,3:01.56,,Australia,,AUS,4h2,"DS, Daegu (KOR)",01 SEP 2011,1173,4x400-metres-relay,relays,male,senior
+764,3:01.56,,Great Britain & NI,,GBR,2,"Olympiastadion, Helsinki (FIN)",01 JUL 2012,1173,4x400-metres-relay,relays,male,senior
+764,3:01.56,,Texas A&M,,USA,2f1,"Clemson, SC (USA) (i)",09 FEB 2019,1227,4x400-metres-relay,relays,male,senior
+764,3:01.56,,Sri Lanka,,SRI,1,"Supachalasai National Stadium, Bangkok (THA)",16 JUL 2023,1173,4x400-metres-relay,relays,male,senior
+764,3:01.56,,Arkansas,,USA,2sf2,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1173,4x400-metres-relay,relays,male,senior
+770,3:01.57,,Russia,,RUS,3,"Stade Charléty, Paris (FRA)",20 JUN 1999,1173,4x400-metres-relay,relays,male,senior
+770,3:01.57,,Jamaica,,JAM,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 SEP 2001,1173,4x400-metres-relay,relays,male,senior
+770,3:01.57,,Jamaica,,JAM,2f1,"International Stadium, Yokohama (JPN)",12 MAY 2019,1173,4x400-metres-relay,relays,male,senior
+770,3:01.57,,Netherlands,,NED,2h1,"Olympiastadion, München (GER)",19 AUG 2022,1173,4x400-metres-relay,relays,male,senior
+770,3:01.57,,Arizona State,,INT,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",14 MAY 2023,1173,4x400-metres-relay,relays,male,senior
+770,3:01.57,,LSU,,INT,7,"Hayward Field, Eugene, OR (USA)",07 JUN 2024,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,United States Red,,USA,1,"Austin, TX (USA)",02 APR 2004,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,Louisiana State,,INT,1,"Sacramento, CA (USA)",10 JUN 2006,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,Australia,,AUS,2,Daegu (KOR),16 MAY 2012,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,Penn State,,USA,4,"Des Moines, IA (USA)",09 JUN 2012,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,Trinidad and Tobago,,TTO,3h2,"CIBC, Toronto (CAN)",24 JUL 2015,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,India,,IND,1,"HOC Stadium, Hangzhou (CHN)",04 OCT 2023,1173,4x400-metres-relay,relays,male,senior
+776,3:01.58,,Texas Tech,,INT,3h3,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1173,4x400-metres-relay,relays,male,senior
+783,3:01.59,,Yugoslavia,,YUG,5sf2,"Olympic Stadium, Seoul (KOR)",30 SEP 1988,1173,4x400-metres-relay,relays,male,senior
+783,3:01.59,,Belgium,,BEL,1f1,Izmir (TUR),19 JUN 2011,1173,4x400-metres-relay,relays,male,senior
+783,3:01.59,,Poland,,POL,7,"Olympic Stadium, London (GBR)",13 AUG 2017,1173,4x400-metres-relay,relays,male,senior
+783,3:01.59,,North Carolina A&T,,INT,2h3,"Billy Hayes T& F Complex, Bloomington, IN (USA)",27 MAY 2022,1173,4x400-metres-relay,relays,male,senior
+783,3:01.59,,Jamaica,,JAM,3h1,"Hayward Field, Eugene, OR (USA)",23 JUL 2022,1173,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Barbados,,BAR,6,"Memorial Coliseum, Los Angeles, CA (USA)",11 AUG 1984,1172,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Nigeria,,NGR,2h2,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1172,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Louisiana State,,USA,3,"Eugene, OR (USA)",14 JUN 2014,1172,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Florida,,USA,1f2,"Starkville, MS (USA)",16 MAY 2015,1172,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Italy,,ITA,3h1,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019,1172,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Italy,,ITA,5f1,"The Bahamas National Stadium, Nassau (BAH)",05 MAY 2024,1172,4x400-metres-relay,relays,male,senior
+788,3:01.60,,Spain,,ESP,6h2,"Stade de France, Paris (FRA)",09 AUG 2024,1172,4x400-metres-relay,relays,male,senior
+795,3:01.61,,Soviet Union,,URS,3sf1,"Stadio Olimpico, Roma (ITA)",05 SEP 1987,1172,4x400-metres-relay,relays,male,senior
+795,3:01.61,,Brazil,,BRA,4,"Estadio Olímpico, Barcelona (ESP)",08 AUG 1992,1172,4x400-metres-relay,relays,male,senior
+795,3:01.61,,Bulgaria,,BUL,2h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1172,4x400-metres-relay,relays,male,senior
+795,3:01.61,,Florida,,INT,3h1,"Eugene, OR (USA)",06 JUN 2018,1172,4x400-metres-relay,relays,male,senior
+799,3:01.62,,Russia,,RUS,5,"Yanmar Stadium Nagai, Osaka (JPN)",02 SEP 2007,1172,4x400-metres-relay,relays,male,senior
+799,3:01.62,,Great Britain & NI,,GBR,1h1,"Olympiastadion, Berlin (GER)",10 AUG 2018,1172,4x400-metres-relay,relays,male,senior
+799,3:01.62,,Italy,,ITA,1,"Stade Municipal, Annecy (FRA)",11 JUN 2023,1172,4x400-metres-relay,relays,male,senior
+799,3:01.62,,Virginia Tech,,USA,2,"Percy Beard Track, Gainesville, FL (USA)",30 MAR 2024,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Mississippi State,,USA,5,"Sacramento, CA (USA)",11 JUN 2005,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Great Britain & NI,,GBR,2,"Ullevi Stadium, Göteborg (SWE)",13 AUG 2006,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Bahamas,,BAH,2,"Philadelphia, PA (USA)",25 APR 2015,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Louisiana State,,INT,2f2,"Starkville, MS (USA)",16 MAY 2015,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Great Britain & NI,,GBR,1h1,"Olympisch Stadion, Amsterdam (NED)",09 JUL 2016,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Czech Republic,,CZE,8,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1172,4x400-metres-relay,relays,male,senior
+803,3:01.63,,Baylor,,INT,6,"Mike A. Myers Stadium, Austin, TX (USA)",09 JUN 2023,1172,4x400-metres-relay,relays,male,senior
+810,3:01.64,,Texas A&M,,INT,3,"Hayward Field, Eugene, OR (USA)",11 JUN 2021,1172,4x400-metres-relay,relays,male,senior
+811,3:01.65,,France,,FRA,3h2,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1172,4x400-metres-relay,relays,male,senior
+811,3:01.65,,France,,FRA,3,"Stadio Luigi Ridolfi, Firenze (ITA)",19 JUN 2005,1172,4x400-metres-relay,relays,male,senior
+811,3:01.65,,France,,FRA,2h1,"Olympiastadion, Berlin (GER)",22 AUG 2009,1172,4x400-metres-relay,relays,male,senior
+811,3:01.65,,Trinidad and Tobago,,TTO,2,Mayagüez (PUR),17 JUL 2011,1172,4x400-metres-relay,relays,male,senior
+815,3:01.66,,Louisiana State,,INT,1h,"Eugene, OR (USA)",31 MAY 2001,1171,4x400-metres-relay,relays,male,senior
+815,3:01.66,,Baylor,,USA,1f2,"Des Moines, IA (USA)",26 MAY 2007,1171,4x400-metres-relay,relays,male,senior
+815,3:01.66,,Mississippi State,,INT,2,"Eugene, OR (USA)",12 JUN 2010,1171,4x400-metres-relay,relays,male,senior
+815,3:01.66,,Brazil,,BRA,4h2,"CIBC, Toronto (CAN)",24 JUL 2015,1171,4x400-metres-relay,relays,male,senior
+819,3:01.67,,Kenya,,KEN,5,"Stadio Olimpico, Roma (ITA)",06 SEP 1987,1171,4x400-metres-relay,relays,male,senior
+819,3:01.67,,Bahamas,,BAH,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 SEP 2001,1171,4x400-metres-relay,relays,male,senior
+819,3:01.67,,Ireland,,IRL,4,"Letzigrund, Zürich (SUI)",17 AUG 2014,1171,4x400-metres-relay,relays,male,senior
+819,3:01.67,,Venezuela,,VEN,2,Medellín (COL),10 JUL 2016,1171,4x400-metres-relay,relays,male,senior
+819,3:01.67,,France,,FRA,2h1,"Olympiastadion, Berlin (GER)",10 AUG 2018,1171,4x400-metres-relay,relays,male,senior
+819,3:01.67,,LSU,,USA,3sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1171,4x400-metres-relay,relays,male,senior
+825,3:01.68,,Jamaica,,JAM,1,Mayagüez (PUR),30 JUL 2010,1171,4x400-metres-relay,relays,male,senior
+825,3:01.68,,Texas A&M,,INT,5,"Des Moines, IA (USA)",09 JUN 2012,1171,4x400-metres-relay,relays,male,senior
+825,3:01.68,,Kentucky,,INT,4sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1171,4x400-metres-relay,relays,male,senior
+825,3:01.68,,Gainesville Elite,,USA,1,"Percy Beard Track, Gainesville, FL (USA)",30 MAR 2024,1171,4x400-metres-relay,relays,male,senior
+825,3:01.68,,LSU,,INT,3f1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",30 MAR 2024,1171,4x400-metres-relay,relays,male,senior
+825,3:01.68,,Italy,,ITA,13,"The Bahamas National Stadium, Nassau (BAH)",04 MAY 2024,1171,4x400-metres-relay,relays,male,senior
+831,3:01.69,,Africa,,INT,2,"CM, Madrid (ESP)",21 SEP 2002,1171,4x400-metres-relay,relays,male,senior
+831,3:01.69,,Texas Tech,,INT,1h3,"Sacramento, CA (USA)",08 JUN 2005,1171,4x400-metres-relay,relays,male,senior
+831,3:01.69,,Texas,,INT,4,"Hayward Field, Eugene, OR (USA)",10 JUN 2022,1171,4x400-metres-relay,relays,male,senior
+831,3:01.69,,Great Britain & NI,,GBR,1h1,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Jamaica,,JAM,3h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,France,,FRA,2h2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Japan,,JPN,1,Bangkok (THA),19 DEC 1998,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,South Africa,,RSA,3h3,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Japan,,JPN,1,Osaka (JPN),08 MAY 2004,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Poland,,POL,1,"Olympiastadion, München (GER)",24 JUN 2007,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Venezuela,,VEN,2,Barquisimeto (VEN),10 JUN 2012,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Belgium,,BEL,4h1,"Olympic Stadium, London (GBR)",09 AUG 2012,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Germany,,GER,5,"Letzigrund, Zürich (SUI)",17 AUG 2014,1171,4x400-metres-relay,relays,male,senior
+835,3:01.70,,Nigeria,,NGR,22,"The Bahamas National Stadium, Nassau (BAH)",04 MAY 2024,1171,4x400-metres-relay,relays,male,senior
+845,3:01.71,,Nigeria,,NGR,5,"Estadio Olímpico, Barcelona (ESP)",08 AUG 1992,1171,4x400-metres-relay,relays,male,senior
+845,3:01.71,,Russia,,RUS,4f1,"Olympic Stadium, Cheboksary (RUS)",21 JUN 2015,1171,4x400-metres-relay,relays,male,senior
+845,3:01.71,,Kentucky,,INT,1,"Cushing Stadium, College Station, TX (USA)",15 MAY 2021,1171,4x400-metres-relay,relays,male,senior
+848,3:01.72,,Senegal,,SEN,2sf1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1171,4x400-metres-relay,relays,male,senior
+848,3:01.72,,Russia,,RUS,1f1,"Fana Stadion, Bergen (NOR)",20 JUN 2010,1171,4x400-metres-relay,relays,male,senior
+848,3:01.72,,Spain,,ESP,1h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1171,4x400-metres-relay,relays,male,senior
+848,3:01.72,,United States,,USA,2,"Estadio Atlético de la VIDENA, Lima (PER)",10 AUG 2019,1171,4x400-metres-relay,relays,male,senior
+848,3:01.72,,Texas A&M,,INT,5,"Hayward Field, Eugene, OR (USA)",10 JUN 2022,1171,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Kenya,,KEN,3sf1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Kenya,,KEN,3,Johannesburg (RSA),18 SEP 1999,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Louisiana State,,INT,1,"Houston, TX (USA)",31 MAR 2001,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Poland,,POL,3,"Ullevi Stadium, Göteborg (SWE)",13 AUG 2006,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Texas A&M,,INT,1f1,"Philadelphia, PA (USA)",30 APR 2011,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Poland,,POL,5h2,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Dominican Republic,,DOM,4,San José (CRC),09 AUG 2015,1170,4x400-metres-relay,relays,male,senior
+853,3:01.73,,Texas A&M,,INT,2,"Cushing Stadium, College Station, TX (USA)",15 MAY 2021,1170,4x400-metres-relay,relays,male,senior
+861,3:01.74,,Bahamas,,BAH,3h2,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1170,4x400-metres-relay,relays,male,senior
+861,3:01.74,,Trinidad and Tobago,,TTO,5,"Luzhniki Stadion, Moskva (RUS)",16 AUG 2013,1170,4x400-metres-relay,relays,male,senior
+861,3:01.74,,Texas A&M,,USA,1,"Austin, TX (USA)",01 APR 2017,1170,4x400-metres-relay,relays,male,senior
+861,3:01.74,,LSU,,INT,1h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",24 MAY 2024,1170,4x400-metres-relay,relays,male,senior
+861,3:01.74,,The HOP ( Hanany Oly Project,,USA,1,"Larry K. Durham Track at Kidd Field at the University of Texas, El Paso, TX (USA)",11 APR 2025,1170,4x400-metres-relay,relays,male,senior
+866,3:01.75,,Italy,,ITA,2sf3,"Olympic Stadium, Athina (GRE)",09 AUG 1997,1170,4x400-metres-relay,relays,male,senior
+867,3:01.76,,France,,FRA,2sf1,"Olympic Stadium, Athina (GRE)",09 AUG 1997,1170,4x400-metres-relay,relays,male,senior
+867,3:01.76,,Great Britain & NI,,GBR,1,"Stadio Olimpico, Roma (ITA)",31 MAY 2012,1170,4x400-metres-relay,relays,male,senior
+867,3:01.76,,Dominican Republic,,DOM,5h2,"Estádio Olímpico, Rio de Janeiro (BRA)",19 AUG 2016,1170,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Santa Monica Track Club,,USA,1,Linz (AUT),09 JUL 1997,1170,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Arizona State,,INT,1,"Northridge, CA (USA)",29 MAY 2004,1170,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Germany,,GER,2,"Olympiastadion, München (GER)",24 JUN 2007,1170,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Baylor,,INT,2f2,"Austin, TX (USA)",09 APR 2011,1170,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Germany,,GER,3,"Olympiastadion, Helsinki (FIN)",01 JUL 2012,1170,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Poland,,POL,1,"Arena Birmingham, Birmingham (GBR) (i)",04 MAR 2018,1224,4x400-metres-relay,relays,male,senior
+870,3:01.77,,Texas A&M,,USA,1f2,"Fayetteville, AR (USA)",11 MAY 2019,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Italy,,ITA,4,"Poljud Stadion, Split (CRO)",01 SEP 1990,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Germany,,GER,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUN 2004,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Jamaica,,JAM,1,Cartagena de Indias (COL),29 JUL 2006,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Texas A&M,,USA,2,"Des Moines, IA (USA)",14 JUN 2008,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Florida,,USA,1f1,"Gainesville, FL (USA)",04 APR 2015,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Poland,,POL,2h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Botswana,,BOT,1,Gold Coast (AUS),14 APR 2018,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Alabama,,INT,1f2,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",25 FEB 2023,1224,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Florida,,INT,1sf1,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1170,4x400-metres-relay,relays,male,senior
+877,3:01.78,,Portugal,,POR,22,"Tianhe Sports Center, Guangzhou (CHN)",10 MAY 2025,1170,4x400-metres-relay,relays,male,senior
+887,3:01.79,,Great Britain & NI,,GBR,1h1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1169,4x400-metres-relay,relays,male,senior
+887,3:01.79,,Cuba,,CUB,4,Winnipeg (CAN),30 JUL 1999,1169,4x400-metres-relay,relays,male,senior
+887,3:01.79,,Poland,,POL,1,"Weserstadion, Bremen (GER)",24 JUN 2001,1169,4x400-metres-relay,relays,male,senior
+887,3:01.79,,France,,FRA,1h3,"Stade de France, Paris-St-Denis (FRA)",30 AUG 2003,1169,4x400-metres-relay,relays,male,senior
+887,3:01.79,,Iowa,,USA,5sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1169,4x400-metres-relay,relays,male,senior
+887,3:01.79,,United States,,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",21 AUG 2022,1169,4x400-metres-relay,relays,male,senior
+887,3:01.79,,Arizona State,,INT,1f2,"Potts Field, Boulder, CO (USA)",12 MAY 2024,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,World International,,INT,1f1,"Austin, TX (USA)",03 APR 1999,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,Vector Sports Management,,USA,1,"Tempe, AZ (USA)",10 APR 1999,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,Minnesota,,INT,2,"Austin, TX (USA)",12 JUN 2004,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,Venezuela,,VEN,2,Veracruz (MEX),28 NOV 2014,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,Germany,,GER,3h1,"Olympiastadion, München (GER)",19 AUG 2022,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,Belgium,,BEL,4h1,"Olympiastadion, München (GER)",19 AUG 2022,1169,4x400-metres-relay,relays,male,senior
+894,3:01.80,,India,,IND,2,"Supachalasai National Stadium, Bangkok (THA)",16 JUL 2023,1169,4x400-metres-relay,relays,male,senior
+901,3:01.81,,Jamaica,,JAM,1f2,Santo Domingo (DOM),09 AUG 2003,1169,4x400-metres-relay,relays,male,senior
+902,3:01.82,,Cuba,,CUB,2sf2,"Ullevi Stadium, Göteborg (SWE)",12 AUG 1995,1169,4x400-metres-relay,relays,male,senior
+902,3:01.82,,United States Blue,,USA,3,"Philadelphia, PA (USA)",28 APR 2001,1169,4x400-metres-relay,relays,male,senior
+902,3:01.82,,Bahamas,,BAH,2,Mayagüez (PUR),30 JUL 2010,1169,4x400-metres-relay,relays,male,senior
+902,3:01.82,,USATF High Performance B,,USA,2f1,"Gainesville, FL (USA)",30 MAR 2019,1169,4x400-metres-relay,relays,male,senior
+902,3:01.82,,Czech Republic,,CZE,6,"Olympiastadion, München (GER)",20 AUG 2022,1169,4x400-metres-relay,relays,male,senior
+902,3:01.82,,Arkansas,,INT,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2025,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,Federal Republic of Germany,,FRG,2,"Olympiastadion, Helsinki (FIN)",14 AUG 1983,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,South Africa,,RSA,4,Manchester (GBR),31 JUL 2002,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,Baylor,,USA,6,"Sacramento, CA (USA)",11 JUN 2005,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,Belgium,,BEL,5,"Olympic Stadium, London (GBR)",10 AUG 2012,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,Louisiana State,,INT,1,"Austin, TX (USA)",02 APR 2016,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,Florida,,INT,4,"Eugene, OR (USA)",08 JUN 2018,1169,4x400-metres-relay,relays,male,senior
+908,3:01.83,,Arkansas,,USA,1h1,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,Baylor,,INT,1,"Columbia, MO (USA)",17 MAY 1998,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,South Africa,,RSA,2,Melbourne (AUS),25 MAR 2006,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,Poland,,POL,5h2,"DS, Daegu (KOR)",01 SEP 2011,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,Colombia,,COL,6h1,"Estádio Olímpico, Rio de Janeiro (BRA)",19 AUG 2016,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,Arkansas,,USA,2,"Eugene, OR (USA)",09 JUN 2017,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,Arkansas,,INT,2,"Eugene, OR (USA)",09 JUN 2017,1169,4x400-metres-relay,relays,male,senior
+915,3:01.84,,Nigeria,,NGR,3,"University of Ghana Sports Stadium, Accra (GHA)",22 MAR 2024,1169,4x400-metres-relay,relays,male,senior
+922,3:01.85,,Italy,,ITA,4h3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1169,4x400-metres-relay,relays,male,senior
+922,3:01.85,,India,,IND,2,Jakarta (INA),30 AUG 2018,1169,4x400-metres-relay,relays,male,senior
+922,3:01.85,,LSU,,USA,1f1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",24 APR 2021,1169,4x400-metres-relay,relays,male,senior
+922,3:01.85,,Botswana,,BOT,2,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1169,4x400-metres-relay,relays,male,senior
+922,3:01.85,,Oklahoma,,USA,3sf2,"Mike A. Myers Stadium, Austin, TX (USA)",07 JUN 2023,1169,4x400-metres-relay,relays,male,senior
+922,3:01.85,,Arizona State,,USA,2,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2025,1169,4x400-metres-relay,relays,male,senior
+928,3:01.86,,Wales,,GBR,3,Kuala Lumpur (MAS),21 SEP 1998,1168,4x400-metres-relay,relays,male,senior
+928,3:01.86,,Brazil,,BRA,13,"The Bahamas National Stadium, Nassau (BAH)",05 MAY 2024,1168,4x400-metres-relay,relays,male,senior
+930,3:01.87,,United States,,USA,2f2,Santo Domingo (DOM),09 AUG 2003,1168,4x400-metres-relay,relays,male,senior
+930,3:01.87,,Baylor,,USA,1h3,"Austin, TX (USA)",10 JUN 2004,1168,4x400-metres-relay,relays,male,senior
+930,3:01.87,,Florida,,USA,3,"Eugene, OR (USA)",12 JUN 2010,1168,4x400-metres-relay,relays,male,senior
+930,3:01.87,,PR of China,,CHN,21,"Tianhe Sports Center, Guangzhou (CHN)",10 MAY 2025,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Africa,,INT,3,"Estadio Olímpico, Barcelona (ESP)",10 SEP 1989,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,World Express AC,,INT,1,"Atlanta, GA (USA)",23 MAY 1998,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Russia,,RUS,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUN 2004,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Bahamas,,BAH,6,"Olympic Stadium, Athina (GRE)",28 AUG 2004,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Belgium,,BEL,4,"Olympiastadion, Berlin (GER)",23 AUG 2009,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Venezuela,,VEN,1,Rio de Janeiro (BRA),20 MAY 2012,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Japan,,JPN,1,Incheon (KOR),02 OCT 2014,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Colombia,,COL,1,Rio de Janeiro (BRA),16 MAY 2016,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Cuba,,CUB,3h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1168,4x400-metres-relay,relays,male,senior
+934,3:01.88,,Alabama,,INT,1sf3,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1168,4x400-metres-relay,relays,male,senior
+944,3:01.89,,Georgia Tech,,INT,1,"Amherst, MA (USA)",05 JUN 1998,1168,4x400-metres-relay,relays,male,senior
+944,3:01.89,,Texas A&M,,INT,1f1,"Austin, TX (USA)",29 MAY 2010,1168,4x400-metres-relay,relays,male,senior
+944,3:01.89,,Botswana,,BOT,1,"Le Grand Stade, Marrakech (MAR)",14 AUG 2014,1168,4x400-metres-relay,relays,male,senior
+944,3:01.89,,India,,IND,1h,Patiala (IND),25 JUN 2021,1168,4x400-metres-relay,relays,male,senior
+944,3:01.89,,Portugal,,POR,6,"Stadio Olimpico, Roma (ITA)",12 JUN 2024,1168,4x400-metres-relay,relays,male,senior
+944,3:01.89,,Great Britain & NI,,GBR,7,"Stadio Olimpico, Roma (ITA)",12 JUN 2024,1168,4x400-metres-relay,relays,male,senior
+950,3:01.90,,United States U20,,USA,1,"Olympic Stadium, Athina (GRE)",20 JUL 1986,1168,4x400-metres-relay,relays,male,senior
+950,3:01.90,,Texas,,INT,4sf2,"Mike A. Myers Stadium, Austin, TX (USA)",07 JUN 2023,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Federal Republic of Germany,,FRG,1,Torino (ITA),05 AUG 1979,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Australia,,AUS,3sf2,"Olympic Stadium, Sydney (AUS)",29 SEP 2000,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,United States Red,,USA,1,"Austin, TX (USA)",09 APR 2005,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Trinidad and Tobago,,TTO,2h2,"Olympiastadion, Helsinki (FIN)",13 AUG 2005,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Great Britain & NI,,GBR,3h1,"Olympiastadion, Berlin (GER)",22 AUG 2009,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Iowa,,USA,3,"Eugene, OR (USA)",09 JUN 2017,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Iowa,,USA,3,"Eugene, OR (USA)",09 JUN 2017,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Campbell,,INT,2h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",24 MAY 2024,1168,4x400-metres-relay,relays,male,senior
+952,3:01.91,,Portugal,,POR,5h2,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1168,4x400-metres-relay,relays,male,senior
+961,3:01.92,,Nigeria,,NGR,4sf1,"Stadio Olimpico, Roma (ITA)",05 SEP 1987,1167,4x400-metres-relay,relays,male,senior
+961,3:01.92,,Poland,,POL,2h1,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1167,4x400-metres-relay,relays,male,senior
+961,3:01.92,,Japan,,JPN,3sf2,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1167,4x400-metres-relay,relays,male,senior
+961,3:01.92,,Great Britain & NI,,GBR,3,"Olympiastadion, München (GER)",24 JUN 2007,1167,4x400-metres-relay,relays,male,senior
+961,3:01.92,,Bahamas,,BAH,2,Gold Coast (AUS),14 APR 2018,1167,4x400-metres-relay,relays,male,senior
+966,3:01.93,,San Antonio Elite,,USA,1,"Austin, TX (USA)",30 MAR 2013,1167,4x400-metres-relay,relays,male,senior
+967,3:01.94,,Jamaica,,JAM,3,Melbourne (AUS),25 MAR 2006,1167,4x400-metres-relay,relays,male,senior
+967,3:01.94,,Bahamas,,BAH,1,Rio de Janeiro (BRA),28 JUL 2007,1167,4x400-metres-relay,relays,male,senior
+967,3:01.94,,Japan,,JPN,3,Jakarta (INA),30 AUG 2018,1167,4x400-metres-relay,relays,male,senior
+970,3:01.95,,Russia,,RUS,2,Fukuoka (JPN),03 SEP 1995,1167,4x400-metres-relay,relays,male,senior
+970,3:01.95,,Russia,,RUS,4h2,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1167,4x400-metres-relay,relays,male,senior
+970,3:01.95,,Russia,,RUS,4h2,"Commonwealth Stadium, Edmonton (CAN)",11 AUG 2001,1167,4x400-metres-relay,relays,male,senior
+970,3:01.95,,Great Britain & NI,,GBR,1h3,"Olympiastadion, Helsinki (FIN)",13 AUG 2005,1167,4x400-metres-relay,relays,male,senior
+974,3:01.96,,Italy,,ITA,4,"Stadio Luigi Ridolfi, Firenze (ITA)",19 JUN 2005,1167,4x400-metres-relay,relays,male,senior
+974,3:01.96,,United States,,USA,1,"Fayetteville, AR (USA) (i)",11 FEB 2006,1221,4x400-metres-relay,relays,male,senior
+974,3:01.96,,Venezuela,,VEN,2h1,"T. Robinson Stadium, Nassau (BAH)",24 MAY 2014,1167,4x400-metres-relay,relays,male,senior
+974,3:01.96,,Louisiana State,,INT,1,"Eugene, OR (USA)",12 JUN 2015,1167,4x400-metres-relay,relays,male,senior
+974,3:01.96,,Great Britain & NI,,GBR,4h1,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019,1167,4x400-metres-relay,relays,male,senior
+974,3:01.96,,Germany,,GER,1,"Stadion Manfort, Leverkusen (GER)",27 JUN 2021,1167,4x400-metres-relay,relays,male,senior
+974,3:01.96,,Belgium,,BEL,1h2,"Hayward Field, Eugene, OR (USA)",23 JUL 2022,1167,4x400-metres-relay,relays,male,senior
+981,3:01.97,,Louisiana State,,INT,2h2,"Des Moines, IA (USA)",07 JUN 2012,1167,4x400-metres-relay,relays,male,senior
+981,3:01.97,,Jamaica,,JAM,6,"CIBC, Toronto (CAN)",25 JUL 2015,1167,4x400-metres-relay,relays,male,senior
+981,3:01.97,,United States,,USA,2,"Arena Birmingham, Birmingham (GBR) (i)",04 MAR 2018,1221,4x400-metres-relay,relays,male,senior
+981,3:01.97,,Jamaica,,JAM,3,Gold Coast (AUS),14 APR 2018,1167,4x400-metres-relay,relays,male,senior
+985,3:01.98,,Federal Republic of Germany,,FRG,3,"Olympic Stadium, Montréal (CAN)",31 JUL 1976,1167,4x400-metres-relay,relays,male,senior
+985,3:01.98,,GW Exp,,INT,4f1,"Gainesville, FL (USA)",05 APR 2014,1167,4x400-metres-relay,relays,male,senior
+985,3:01.98,,Jamaica,,JAM,4h1,"Olympic Stadium, London (GBR)",12 AUG 2017,1167,4x400-metres-relay,relays,male,senior
+985,3:01.98,,USC,,INT,1f1,"Clemson, SC (USA) (i)",10 FEB 2018,1221,4x400-metres-relay,relays,male,senior
+985,3:01.98,,Louisiana State,,INT,2f2,"Knoxville, TN (USA)",13 MAY 2018,1167,4x400-metres-relay,relays,male,senior
+990,3:01.99,,Poland,,POL,5,"Parc des Sports, Annecy (FRA)",23 JUN 2002,1166,4x400-metres-relay,relays,male,senior
+990,3:01.99,,United States Red,,USA,2,"Austin, TX (USA)",05 APR 2003,1166,4x400-metres-relay,relays,male,senior
+990,3:01.99,,Iowa,,INT,2sf1,"Austin, TX (USA)",05 JUN 2019,1166,4x400-metres-relay,relays,male,senior
+990,3:01.99,,Tiger Olympians,,INT,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",09 APR 2022,1166,4x400-metres-relay,relays,male,senior
+990,3:01.99,,Trinidad and Tobago,,TTO,1,San Salvador (ESA),07 JUL 2023,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Great Britain & NI,,GBR,5,"Olympic Stadium, Seoul (KOR)",01 OCT 1988,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Baylor,,USA,1,"Des Moines, IA (USA)",28 APR 2007,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Jamaica,,JAM,3,"Philadelphia, PA (USA)",26 APR 2008,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Kentucky,,INT,3,"Des Moines, IA (USA)",14 JUN 2008,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Jamaica,,JAM,3,Mayagüez (PUR),17 JUL 2011,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Georgia,,INT,1f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",15 APR 2023,1166,4x400-metres-relay,relays,male,senior
+995,3:02.00,,Jamaica,,JAM,31,"Tianhe Sports Center, Guangzhou (CHN)",11 MAY 2025,1166,4x400-metres-relay,relays,male,senior
