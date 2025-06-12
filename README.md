@@ -23,11 +23,11 @@ Note: Datasets here were generated on 26-05-2025
 - Install requirements from requirements.txt
 - Run file "run.py"
 
-# 🏃‍♀️ Athletics Performance Dataset Description
+# Athletics Performance Dataset Description
 
 This dataset contains structured performance records from international athletics competitions. Each row corresponds to an athlete's performance in a single event.
 
-## 📄 Columns
+## Columns
 
 | Column Name           | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
