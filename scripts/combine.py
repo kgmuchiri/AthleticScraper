@@ -18,5 +18,7 @@ combined_df = pd.concat(all_dataframes, ignore_index=True)
 
 # Save to a new CSV
 combined_df.to_csv("datasets/all_disciplines_combined.csv", index=False)
-
 print("✅ Combined CSV saved as 'all_disciplines_combined.csv'")
+
+combined_df.to_json("datasets/json_all_displines.json", index=False, orient='records')
+print("✅ Combined JSON saved as 'json_all_displines.json'")

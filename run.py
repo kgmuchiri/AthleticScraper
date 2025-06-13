@@ -2,10 +2,10 @@ import subprocess
 
 # List your scripts in the order you want them to run
 scripts = [
-    "scripts/scraper_final.py",
-    "scripts/preprocessing.py",
+    #"scripts/scraper_final.py",
+    #"scripts/preprocessing.py",
     "scripts/combine.py",
-    "scripts/split_by_type.py",
+    #"scripts/split_by_type.py",
 ]
 
 for script in scripts:
