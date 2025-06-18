@@ -85,43 +85,45 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 84,7786,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,1,Budapest (HUN),10 SEP 1995,,decathlon-u20,combined-events,male,u20
 85,7780,,Roman KONDRATYEV,15 MAY 1995,RUS,5,"Hayward Field, Eugene, OR (USA)",23 JUL 2014,,decathlon-u20,combined-events,male,u20
 86,7778,,Tim NOWAK,13 AUG 1995,GER,3,"Stadio Guidobaldi, Rieti (ITA)",21 JUL 2013,,decathlon-u20,combined-events,male,u20
-87,7770,,Jacob THELANDER,14 JUN 2003,SWE,2,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,,decathlon-u20,combined-events,male,u20
-88,7769,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,1,"Karađorđe Stadium, Novi Sad (SRB)",24 JUL 2009,,decathlon-u20,combined-events,male,u20
-89,7766,,Eduard MIKHAN,07 JUN 1989,BLR,1f,Minsk (BLR),08 JUN 2007,,decathlon-u20,combined-events,male,u20
-90,7764,,Karsten WARHOLM,28 FEB 1996,NOR,2,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,,decathlon-u20,combined-events,male,u20
-91,7763,,Petter OLSON,14 FEB 1991,SWE,1,Huddinge (SWE),05 SEP 2010,,decathlon-u20,combined-events,male,u20
-92,7762,,Felipe DOS SANTOS,30 JUL 1994,BRA,1,Medellín (COL),24 AUG 2013,,decathlon-u20,combined-events,male,u20
-93,7760,,Gunnar NIXON,13 JAN 1993,USA,1,"Bloomington, IN (USA)",16 JUN 2012,,decathlon-u20,combined-events,male,u20
-93,7760,,Harrison WILLIAMS,07 MAR 1996,USA,6,"Hayward Field, Eugene, OR (USA)",23 JUL 2014,,decathlon-u20,combined-events,male,u20
-95,7755,,Melchior TREFFERS,21 APR 2004,NED,1,"Sportpark Ter Specke, Lisse (NED)",09 JUL 2023,,decathlon-u20,combined-events,male,u20
-96,7753,,Johannes ERM,26 MAR 1998,EST,2,Filderstadt (GER),11 JUN 2017,,decathlon-u20,combined-events,male,u20
-97,7751,,Matthias PREY,09 AUG 1988,GER,1f,Ratingen (GER),17 JUN 2007,,decathlon-u20,combined-events,male,u20
-97,7751,,Marcus NILSSON,03 MAY 1991,SWE,3,"Croix-Bleue Medavie Stadium, Moncton (CAN)",21 JUL 2010,,decathlon-u20,combined-events,male,u20
-99,7750,,Malik DIAKITE,13 MAR 2000,GER,2,"Bernhausen, Filderstadt (GER)",02 JUN 2019,,decathlon-u20,combined-events,male,u20
-100,7748,,Gunnar NIXON,13 JAN 1993,USA,2,"Eugene, OR (USA)",24 JUN 2011,,decathlon-u20,combined-events,male,u20
-101,7740,,Ashley MOLONEY,13 MAR 2000,AUS,1,Melbourne (AUS),04 MAR 2018,,decathlon-u20,combined-events,male,u20
-102,7738,,Jonathan HERTWIG-ØDEGAARD,28 JUL 2005,NOR,,"Sannerudsvallen, Kil (SWE)",14 JUL 2024,,decathlon-u20,combined-events,male,u20
-103,7736,,Jonathan HERTWIG-ØDEGAARD,28 JUL 2005,NOR,4,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,,decathlon-u20,combined-events,male,u20
-104,7734,,Petter OLSON,14 FEB 1991,SWE,2,"Karađorđe Stadium, Novi Sad (SRB)",24 JUL 2009,,decathlon-u20,combined-events,male,u20
-104,7734,,Harrison WILLIAMS,07 MAR 1996,USA,1,"Sacramento, CA (USA)",26 JUN 2014,,decathlon-u20,combined-events,male,u20
-106,7730,,Xiaohong CHEN,09 FEB 1997,CHN,1f,Fuzhou (CHN),26 OCT 2015,,decathlon-u20,combined-events,male,u20
-107,7726,,José MENDIETA,16 OCT 1991,CUB,1f,La Habana (CUB),18 JUN 2010,,decathlon-u20,combined-events,male,u20
-108,7725,,Mark JACOBS,20 APR 1992,NED,4,"Kadrioru staadion, Tallinn (EST)",24 JUL 2011,,decathlon-u20,combined-events,male,u20
-108,7725,,Dmitriy SOLOMATIN,15 APR 1998,RUS,1,"Adler, Sochi (RUS)",14 MAY 2017,,decathlon-u20,combined-events,male,u20
-110,7723,,Gary HAASBROEK,15 MAR 1999,AUS,2,Melbourne (AUS),04 MAR 2018,,decathlon-u20,combined-events,male,u20
-111,7722,,Téo BASTIEN,03 OCT 2002,FRA,3,"Kadrioru staadion, Tallinn (EST)",18 JUL 2021,,decathlon-u20,combined-events,male,u20
-112,7721,,Alexandre MONTAGNE,09 JAN 2005,FRA,5,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,,decathlon-u20,combined-events,male,u20
-113,7717,,Manuel EITEL,28 JAN 1997,GER,1f,"Bernhausen, Filderstadt (GER)",07 JUN 2015,,decathlon-u20,combined-events,male,u20
-113,7717,,Maksim ANDRALOITS,17 JUN 1997,BLR,3,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,,decathlon-u20,combined-events,male,u20
-113,7717,,Finley GAIO,15 APR 1999,SUI,1,Landquart (SUI),20 MAY 2018,,decathlon-u20,combined-events,male,u20
-116,7715,,Jake STEIN,17 JAN 1994,AUS,1f,"Campbelltown Athletics Centre, Sydney (AUS)",08 DEC 2013,,decathlon-u20,combined-events,male,u20
-117,7713,,Maximilian VOLLMER,12 MAR 1998,GER,5,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,,decathlon-u20,combined-events,male,u20
-117,7713,,Leo GÖRANSSON,05 AUG 2005,SWE,1,"Sunnerbovallen, Ljungby (SWE)",26 MAY 2024,,decathlon-u20,combined-events,male,u20
-119,7710,,Ludovic BESSON,27 JAN 1998,FRA,1,St-Renan (FRA),18 JUN 2017,,decathlon-u20,combined-events,male,u20
-120,7706,,Sybren BLOK,25 JUN 1996,NED,4,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,,decathlon-u20,combined-events,male,u20
-121,7704,,Yury YEREMICH,25 OCT 1995,BLR,1f,Brest (BLR),25 JUN 2014,,decathlon-u20,combined-events,male,u20
-121,7704,,Matas ADAMONIS,26 JUN 1998,LTU,1,Rakvere (EST),21 MAY 2017,,decathlon-u20,combined-events,male,u20
-121,7704,,Maxime MOITIE-CHARNOIS,15 APR 2004,FRA,4,"Givat Ram Stadium, Jerusalem (ISR)",10 AUG 2023,,decathlon-u20,combined-events,male,u20
-124,7702,,Mathias BRUGGER,06 AUG 1992,GER,1,Büdelsdorf (GER),15 MAY 2011,,decathlon-u20,combined-events,male,u20
-125,7701,,Rik TAAM,17 JAN 1997,NED,1f,Alphen aan den Rijn (NED),15 MAY 2016,,decathlon-u20,combined-events,male,u20
-126,7700,,Leon MAK,05 SEP 2000,NED,2,"Ryavallen, Borås (SWE)",20 JUL 2019,,decathlon-u20,combined-events,male,u20
+87,7774,,Elias KAPELL,22 JUN 2006,SWE,1,"Slottsskogsvallen, Göteborg (SWE)",15 JUN 2025,,decathlon-u20,combined-events,male,u20
+88,7770,,Jacob THELANDER,14 JUN 2003,SWE,2,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,,decathlon-u20,combined-events,male,u20
+89,7769,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,1,"Karađorđe Stadium, Novi Sad (SRB)",24 JUL 2009,,decathlon-u20,combined-events,male,u20
+89,7769,,Liam Belo DA SILVA,29 JUN 2007,SWE,2,"Slottsskogsvallen, Göteborg (SWE)",15 JUN 2025,,decathlon-u20,combined-events,male,u20
+91,7766,,Eduard MIKHAN,07 JUN 1989,BLR,1f,Minsk (BLR),08 JUN 2007,,decathlon-u20,combined-events,male,u20
+92,7764,,Karsten WARHOLM,28 FEB 1996,NOR,2,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,,decathlon-u20,combined-events,male,u20
+93,7763,,Petter OLSON,14 FEB 1991,SWE,1,Huddinge (SWE),05 SEP 2010,,decathlon-u20,combined-events,male,u20
+94,7762,,Felipe DOS SANTOS,30 JUL 1994,BRA,1,Medellín (COL),24 AUG 2013,,decathlon-u20,combined-events,male,u20
+95,7760,,Gunnar NIXON,13 JAN 1993,USA,1,"Bloomington, IN (USA)",16 JUN 2012,,decathlon-u20,combined-events,male,u20
+95,7760,,Harrison WILLIAMS,07 MAR 1996,USA,6,"Hayward Field, Eugene, OR (USA)",23 JUL 2014,,decathlon-u20,combined-events,male,u20
+97,7755,,Melchior TREFFERS,21 APR 2004,NED,1,"Sportpark Ter Specke, Lisse (NED)",09 JUL 2023,,decathlon-u20,combined-events,male,u20
+98,7753,,Johannes ERM,26 MAR 1998,EST,2,Filderstadt (GER),11 JUN 2017,,decathlon-u20,combined-events,male,u20
+99,7751,,Matthias PREY,09 AUG 1988,GER,1f,Ratingen (GER),17 JUN 2007,,decathlon-u20,combined-events,male,u20
+99,7751,,Marcus NILSSON,03 MAY 1991,SWE,3,"Croix-Bleue Medavie Stadium, Moncton (CAN)",21 JUL 2010,,decathlon-u20,combined-events,male,u20
+101,7750,,Malik DIAKITE,13 MAR 2000,GER,2,"Bernhausen, Filderstadt (GER)",02 JUN 2019,,decathlon-u20,combined-events,male,u20
+102,7748,,Gunnar NIXON,13 JAN 1993,USA,2,"Eugene, OR (USA)",24 JUN 2011,,decathlon-u20,combined-events,male,u20
+103,7740,,Ashley MOLONEY,13 MAR 2000,AUS,1,Melbourne (AUS),04 MAR 2018,,decathlon-u20,combined-events,male,u20
+104,7738,,Jonathan HERTWIG-ØDEGAARD,28 JUL 2005,NOR,,"Sannerudsvallen, Kil (SWE)",14 JUL 2024,,decathlon-u20,combined-events,male,u20
+105,7736,,Jonathan HERTWIG-ØDEGAARD,28 JUL 2005,NOR,4,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,,decathlon-u20,combined-events,male,u20
+106,7734,,Petter OLSON,14 FEB 1991,SWE,2,"Karađorđe Stadium, Novi Sad (SRB)",24 JUL 2009,,decathlon-u20,combined-events,male,u20
+106,7734,,Harrison WILLIAMS,07 MAR 1996,USA,1,"Sacramento, CA (USA)",26 JUN 2014,,decathlon-u20,combined-events,male,u20
+108,7730,,Xiaohong CHEN,09 FEB 1997,CHN,1f,Fuzhou (CHN),26 OCT 2015,,decathlon-u20,combined-events,male,u20
+109,7726,,José MENDIETA,16 OCT 1991,CUB,1f,La Habana (CUB),18 JUN 2010,,decathlon-u20,combined-events,male,u20
+110,7725,,Mark JACOBS,20 APR 1992,NED,4,"Kadrioru staadion, Tallinn (EST)",24 JUL 2011,,decathlon-u20,combined-events,male,u20
+110,7725,,Dmitriy SOLOMATIN,15 APR 1998,RUS,1,"Adler, Sochi (RUS)",14 MAY 2017,,decathlon-u20,combined-events,male,u20
+112,7723,,Gary HAASBROEK,15 MAR 1999,AUS,2,Melbourne (AUS),04 MAR 2018,,decathlon-u20,combined-events,male,u20
+113,7722,,Téo BASTIEN,03 OCT 2002,FRA,3,"Kadrioru staadion, Tallinn (EST)",18 JUL 2021,,decathlon-u20,combined-events,male,u20
+114,7721,,Alexandre MONTAGNE,09 JAN 2005,FRA,5,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,,decathlon-u20,combined-events,male,u20
+115,7717,,Manuel EITEL,28 JAN 1997,GER,1f,"Bernhausen, Filderstadt (GER)",07 JUN 2015,,decathlon-u20,combined-events,male,u20
+115,7717,,Maksim ANDRALOITS,17 JUN 1997,BLR,3,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,,decathlon-u20,combined-events,male,u20
+115,7717,,Finley GAIO,15 APR 1999,SUI,1,Landquart (SUI),20 MAY 2018,,decathlon-u20,combined-events,male,u20
+118,7715,,Jake STEIN,17 JAN 1994,AUS,1f,"Campbelltown Athletics Centre, Sydney (AUS)",08 DEC 2013,,decathlon-u20,combined-events,male,u20
+119,7713,,Maximilian VOLLMER,12 MAR 1998,GER,5,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,,decathlon-u20,combined-events,male,u20
+119,7713,,Leo GÖRANSSON,05 AUG 2005,SWE,1,"Sunnerbovallen, Ljungby (SWE)",26 MAY 2024,,decathlon-u20,combined-events,male,u20
+121,7710,,Ludovic BESSON,27 JAN 1998,FRA,1,St-Renan (FRA),18 JUN 2017,,decathlon-u20,combined-events,male,u20
+122,7706,,Sybren BLOK,25 JUN 1996,NED,4,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,,decathlon-u20,combined-events,male,u20
+123,7704,,Yury YEREMICH,25 OCT 1995,BLR,1f,Brest (BLR),25 JUN 2014,,decathlon-u20,combined-events,male,u20
+123,7704,,Matas ADAMONIS,26 JUN 1998,LTU,1,Rakvere (EST),21 MAY 2017,,decathlon-u20,combined-events,male,u20
+123,7704,,Maxime MOITIE-CHARNOIS,15 APR 2004,FRA,4,"Givat Ram Stadium, Jerusalem (ISR)",10 AUG 2023,,decathlon-u20,combined-events,male,u20
+126,7702,,Mathias BRUGGER,06 AUG 1992,GER,1,Büdelsdorf (GER),15 MAY 2011,,decathlon-u20,combined-events,male,u20
+127,7701,,Rik TAAM,17 JAN 1997,NED,1f,Alphen aan den Rijn (NED),15 MAY 2016,,decathlon-u20,combined-events,male,u20
+128,7700,,Leon MAK,05 SEP 2000,NED,2,"Ryavallen, Borås (SWE)",20 JUL 2019,,decathlon-u20,combined-events,male,u20

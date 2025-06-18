@@ -1282,299 +1282,301 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1218,13:56,,Yuto HANANOKI,25 SEP 2005,JPN,19,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1013,5-kilometres,road-running,male,senior
 1218,13:56,,Thomas FAFARD,06 DEC 1998,CAN,7,"Boston, MA (USA)",19 APR 2025,1013,5-kilometres,road-running,male,senior
 1218,13:56,,Leonard BOR,08 AUG 2003,KEN,5,"Stade Pierre de Coubertin, Lausanne (SUI)",03 MAY 2025,1013,5-kilometres,road-running,male,senior
-1284,13:57,,Matt TEGENKAMP,19 JAN 1982,USA,1,"Providence, RI (USA)",20 SEP 2009,1013,5-kilometres,road-running,male,senior
-1285,13:57,,Alan WEBB,13 JAN 1983,USA,7,San José (USA),28 NOV 2013,1012,5-kilometres,road-running,male,senior
-1286,13:57,,Diego ESTRADA,19 DEC 1989,USA,1,"Providence, RI (USA)",21 SEP 2014,1012,5-kilometres,road-running,male,senior
-1286,13:57,,Benjamin FLANAGAN,11 JAN 1995,CAN,1,Toronto (CAN),09 SEP 2018,1012,5-kilometres,road-running,male,senior
-1288,13:57,,John SCHERER,03 NOV 1966,USA,3,"Chicago, IL (USA)",31 OCT 1993,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Wander DO PRADO MOURA,22 FEB 1969,BRA,17,"Carlsbad, CA (USA)",27 MAR 1994,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Reuben REINA,16 NOV 1967,USA,18,"Carlsbad, CA (USA)",27 MAR 1994,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Isaac GARCÍA,29 OCT 1960,MEX,19,"Carlsbad, CA (USA)",27 MAR 1994,1010,5-kilometres,road-running,male,senior
-1288,13:57,,John GREGOREK,15 APR 1960,USA,5,"Providence, RI (USA)",16 OCT 1994,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Michał BARTOSZAK,21 JUN 1970,POL,15,"Carlsbad, CA (USA)",31 MAR 1996,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Mike TANSELY,26 JUN 1971,USA,12,"Carlsbad, CA (USA)",29 MAR 1998,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Deresse DENBOBA,15 MAY 1982,ETH,10,"Carlsbad, CA (USA)",26 MAR 2000,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Janko BENŠA,28 JUN 1977,YUG,4,"Gardena, CA (USA)",04 JUN 2000,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Matthew BIRIR,05 JUL 1972,KEN,11,"Carlsbad, CA (USA)",01 APR 2001,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Simeon SAWE,23 MAR 1974,KEN,6,"Gardena, CA (USA)",02 JUN 2002,1010,5-kilometres,road-running,male,senior
-1288,13:57,,James Kimutai KOSKEI,23 NOV 1968,KEN,3,"Austin, TX (USA)",25 APR 2004,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Andrew GRAFFIN,20 DEC 1977,GBR,7,Balmoral (GBR),08 MAY 2004,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Linus Kipkosgei MAIYO,26 FEB 1983,KEN,4,"New Milford, CT (USA)",01 JUN 2007,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Andrew CARLSON,27 APR 1982,USA,8,"Providence, RI (USA)",16 SEP 2007,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Christian HESCH,06 JAN 1979,USA,1,Armagh (GBR),21 FEB 2008,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Dennis Musembi NDISO,31 DEC 1983,KEN,1,"Minneapolis, MN (USA)",02 AUG 2008,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Collis BIRMINGHAM,27 DEC 1984,AUS,1,Noosa (AUS),01 NOV 2008,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Phillip REID,25 NOV 1985,USA,7,"San José, CA (USA)",24 NOV 2011,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Giliat GHEBRAY,05 FEB 1984,USA,8,"San José, CA (USA)",24 NOV 2011,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Isaac Kemboi KIMAIYO,28 NOV 1978,KEN,2,Mazatlán (MEX),03 DEC 2011,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Jonathan MELLOR,27 DEC 1986,GBR,3,Armagh (GBR),09 FEB 2012,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Isaac Kemboi KIMAIYO,28 NOV 1978,KEN,2,Mazatlán (MEX),01 DEC 2012,1010,5-kilometres,road-running,male,senior
-1288,13:57,,German FERNANDEZ,02 NOV 1990,USA,2,"Providence, RI (USA)",21 SEP 2014,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Phillip REID,25 NOV 1985,USA,6,San José (USA),27 NOV 2014,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Isaias HARO,07 FEB 1985,MEX,2,Mazatlán (MEX),29 NOV 2014,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Mourad MAROUFIT,26 JAN 1982,MAR,3,San José (USA),26 NOV 2015,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Ryan HILL,31 JAN 1990,USA,1,"Providence, RI (USA)",18 SEP 2016,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Aaron BRAUN,28 MAY 1987,USA,1,"Phoenix, AZ (USA)",06 NOV 2016,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Brian SHRADER,22 JUL 1991,USA,12,"Boston, MA (USA)",15 APR 2017,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Jeromy ANDREAS,28 FEB 1992,RSA,1,Johannesburg (RSA),11 JUN 2017,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Shadrack KIPCHIRCHIR,22 FEB 1989,USA,1,"New York, NY (USA)",04 NOV 2017,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Linton TAYLOR,20 JAN 1995,GBR,11,Ipswich (GBR),11 MAY 2019,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Joshua GRACE,11 MAY 1993,GBR,12,Ipswich (GBR),11 MAY 2019,1010,5-kilometres,road-running,male,senior
-1288,13:57,,James NGANDU,02 APR 1990,KEN,3,"Wheeling, WV (USA)",04 AUG 2019,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Brian BARRAZA,16 MAY 1995,USA,6,"New York, NY (USA)",02 NOV 2019,1010,5-kilometres,road-running,male,senior
-1288,13:57,,David Kiprotich BETT,18 OCT 1992,KEN,2,"San José, CA (USA)",28 NOV 2019,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Brian BARRAZA,16 MAY 1995,USA,3,"San José, CA (USA)",28 NOV 2019,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Linton TAYLOR,20 JAN 1995,GBR,15,Armagh (GBR),13 FEB 2020,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Ryan FORSYTH,07 JUL 1996,IRL,16,Armagh (GBR),13 FEB 2020,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Thijs NIJHUIS,20 SEP 1992,DEN,1f1,Flakkebjerg (DEN),20 JUN 2020,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Roy HOORNWEG,08 MAY 1989,NED,8,Nijmegen (NED),19 JUL 2020,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Adam CLARKE,03 APR 1991,GBR,2,Wigan (GBR),05 OCT 2020,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Aarón LAS HERAS,22 JUN 2000,ESP,8,Barcelona (ESP),31 DEC 2020,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Kieran CLEMENTS,20 NOV 1993,GBR,8f7,Barrowford (GBR),03 APR 2021,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Valentin BRESC,27 MAY 2001,FRA,7,Angers (FRA),24 APR 2021,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Jacob Sommer SIMONSEN,01 JAN 1995,DEN,6,Monaco (MON),13 FEB 2022,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Arthur GERVAIS,28 FEB 2000,FRA,6,Lille (FRA),20 MAR 2022,1010,5-kilometres,road-running,male,senior
-1288,13:57,,James Gitahi RUNGARU,14 JAN 1993,KEN,8,Fukuoka (JPN),12 NOV 2022,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Victor Kipkirui KORIR,14 AUG 2002,KEN,9,Fukuoka (JPN),12 NOV 2022,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Yusuke TAMURA,23 DEC 1998,JPN,10,Fukuoka (JPN),12 NOV 2022,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Victor BOUDIN,28 JUN 1997,FRA,15,Lille (FRA),19 MAR 2023,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Kiseki SHIOZAWA,17 DEC 1998,JPN,3,Tokyo (JPN),26 MAR 2023,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Alexis MIELLET,05 MAY 1995,FRA,13,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",29 APR 2023,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Ashenafi EMANA,15 MAR 2005,ETH,8,Lille (FRA),18 NOV 2023,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Anis BENSTITI,22 SEP 1998,ALG,14,Monaco (MON),11 FEB 2024,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Shumpei YAMAGUCHI,15 JAN 2006,JPN,2f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Riku HIROTA,05 JAN 2005,JPN,3f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Abbabiya SIMBASSA,30 JUN 1993,USA,9,"New York, NY (USA)",02 NOV 2024,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Damián VÍCH,14 AUG 1998,CZE,7,Monaco (MON),09 FEB 2025,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,29f1,Leicester (GBR),15 MAR 2025,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Zen KURODA,23 AUG 2005,JPN,20,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Morgan BEADLESCOMB,01 JUN 1998,USA,16,Herzogenaurach (GER),26 APR 2025,1010,5-kilometres,road-running,male,senior
-1288,13:57,,Daniel SCHAFFER,05 FEB 1998,USA,11,"Indianapolis, IN (USA)",03 MAY 2025,1010,5-kilometres,road-running,male,senior
-1352,13:58,,Maverick DARLING,09 JUN 1989,USA,3,"Providence, RI (USA)",21 SEP 2014,1008,5-kilometres,road-running,male,senior
-1353,13:58,,Bolota ASMEROM,12 OCT 1978,USA,2,"Providence, RI (USA)",20 SEP 2009,1008,5-kilometres,road-running,male,senior
-1354,13:58,,Vince DRADDY,19 APR 1961,USA,13,"Carlsbad, CA (USA)",27 MAR 1988,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Salvador GARCÍA,29 OCT 1960,MEX,14,"Carlsbad, CA (USA)",27 MAR 1988,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Sean WADE,03 FEB 1966,IRL,12,"Carlsbad, CA (USA)",25 MAR 1990,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Matt GIUSTO,25 OCT 1966,USA,15,"Carlsbad, CA (USA)",14 APR 1991,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Lahoussine SIBA,15 FEB 1973,MAR,6,"Providence, RI (USA)",16 OCT 1994,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Steven BRACE,07 JUL 1961,GBR,10,London (GBR),23 APR 1995,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Pete JULIAN,11 MAY 1971,USA,16,"Carlsbad, CA (USA)",31 MAR 1996,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Khalid KHANNOUCHI,22 DEC 1971,MAR,17,"Carlsbad, CA (USA)",31 MAR 1996,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Andrew PEARSON,14 SEP 1971,GBR,4,Portsmouth (GBR),13 APR 1996,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Simon KARORI,25 AUG 1959,KEN,11,"Carlsbad, CA (USA)",26 MAR 2000,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Sean KALEY,26 FEB 1975,CAN,2,"Dallas, TX (USA)",17 JUN 2000,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Kibet CHEROP,11 JUL 1974,KEN,3,"Austin, TX (USA)",21 APR 2002,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Shaun CREIGHTON,14 MAY 1967,AUS,7,"Gardena, CA (USA)",02 JUN 2002,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Mark MILES,24 MAR 1977,GBR,2,Horwich (GBR),26 JUN 2005,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Paul MORRISON,25 SEP 1980,CAN,1,"Chula Vista, CA (USA)",23 OCT 2005,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Haron LAGAT,15 AUG 1983,KEN,4,"San José, CA (USA)",23 NOV 2006,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Worku BEYI,25 FEB 1987,ETH,5,"Binghamton, NY (USA)",24 AUG 2008,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Luke KIPKOSGEI,27 NOV 1975,KEN,3,"Providence, RI (USA)",21 SEP 2008,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Mark CARROLL,15 JAN 1972,IRL,3,Armagh (GBR),19 FEB 2009,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Stephen PIFER,07 DEC 1984,USA,11,"Carlsbad, CA (USA)",05 APR 2009,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Chris THOMPSON,17 APR 1981,GBR,3,London (GBR),13 SEP 2009,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Fadil MOHAMED,15 NOV 1981,MAR,1,Mazatlán (MEX),05 DEC 2009,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Nick MCCORMICK,11 SEP 1981,GBR,1,Armagh (GBR),25 FEB 2010,1006,5-kilometres,road-running,male,senior
-1354,13:58,,David MCCARTHY,03 AUG 1988,IRL,2,Armagh (GBR),25 FEB 2010,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Tabor MENGISTU NEBSI,1977,ETH,1,"Brooklyn, NY (USA)",24 MAR 2012,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Ben BRUCE,10 SEP 1982,USA,7,"Providence, RI (USA)",16 SEP 2012,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Matt ELLIOTT,08 SEP 1985,USA,2,"Charlotte, NC (USA)",20 OCT 2012,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Collis BIRMINGHAM,27 DEC 1984,AUS,1,Noosa (AUS),02 NOV 2013,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Riley MASTERS,05 APR 1990,USA,7,San José (USA),27 NOV 2014,1006,5-kilometres,road-running,male,senior
-1354,13:58,,German FERNANDEZ,02 NOV 1990,USA,8,San José (USA),27 NOV 2014,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Matthew CLOWES,29 SEP 1989,GBR,9,San José (USA),27 NOV 2014,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jose Luis DUARTE,19 MAY 1989,MEX,3,Mazatlán (MEX),29 NOV 2014,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Erik OLSON,15 MAR 1992,USA,4,San José (USA),26 NOV 2015,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Lawi LALANG,15 JUN 1991,KEN,8,"Carlsbad, CA (USA)",03 APR 2016,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Shadrack KIPCHIRCHIR,22 FEB 1989,USA,2,"Providence, RI (USA)",18 SEP 2016,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Samuel CHELANGA,23 FEB 1985,USA,3,"Providence, RI (USA)",18 SEP 2016,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Phillip REID,25 NOV 1985,USA,12,San José (USA),24 NOV 2016,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Dewi GRIFFITHS,09 AUG 1991,GBR,3,Armagh (GBR),18 FEB 2017,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Joseph MULLEN,,USA,3,"Louisville, KY (USA)",05 MAR 2017,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Thomas CURTIN,08 AUG 1993,USA,2,"New York, NY (USA)",04 NOV 2017,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Kirubel ERASSA,17 JUN 1993,USA,3,"New York, NY (USA)",04 NOV 2017,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Paul CHELIMO,27 OCT 1990,USA,4,"New York, NY (USA)",04 NOV 2017,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Lawi LALANG,15 JUN 1991,KEN,8,San José (USA),23 NOV 2017,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Joe STILIN,05 DEC 1989,USA,11,"Boston, MA (USA)",14 APR 2018,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Charles Karanja KAMAU,05 AUG 1997,KEN,7,San José (USA),22 NOV 2018,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jacob THOMSON,29 NOV 1994,USA,6,"Boston, MA (USA)",13 APR 2019,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jeff THIES,25 FEB 1995,USA,7,"New York, NY (USA)",02 NOV 2019,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Joshua COWPERTHWAITE,09 APR 2001,GBR,17,Armagh (GBR),13 FEB 2020,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Cameron STRACHAN,02 AUG 1991,GBR,18,Armagh (GBR),13 FEB 2020,1006,5-kilometres,road-running,male,senior
-1354,13:58,,James HUNT,28 APR 1996,GBR,19,Armagh (GBR),13 FEB 2020,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Chris PERRY,01 MAR 1990,GBR,11,Barrowford (GBR),08 AUG 2020,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Julian RANC,14 SEP 1996,FRA,9,Barcelona (ESP),31 DEC 2020,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Samuel BARATA,19 JUL 1993,POR,1,Lisboa (POR),09 JAN 2021,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jonathan HOPKINS,03 JUN 1992,GBR,9f7,Barrowford (GBR),03 APR 2021,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Abbabiya SIMBASSA,30 JUN 1993,USA,9,"New York, NY (USA)",06 NOV 2021,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Gebregewergs TEKLAY,13 JAN 2001,ETH,8,Barcelona (ESP),31 DEC 2021,1006,5-kilometres,road-running,male,senior
-1354,13:58,,John GAY,07 NOV 1996,CAN,2,Moncton (CAN),11 SEP 2022,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Henrik INGEBRIGTSEN,24 FEB 1991,NOR,8,Barcelona (ESP),31 DEC 2022,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Steven CASTEELE,11 JUL 1994,BEL,16,Lille (FRA),19 MAR 2023,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Issei SATO,21 JUL 2001,JPN,4,Tokyo (JPN),26 MAR 2023,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Clement TOUATI,02 OCT 2000,FRA,4,St. Omer (FRA),22 OCT 2023,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Richard ETIR,12 DEC 2003,KEN,2,Tokyo (JPN),23 FEB 2024,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Tebello RAMAKONGOANA,13 OCT 1996,LES,9,"Boston, MA (USA)",13 APR 2024,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jonathan ESCALANTE-PHILLIPS,28 JUL 1992,GBR,2f1,Gateshead (GBR),07 AUG 2024,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Scott BEATTIE,04 DEC 1998,GBR,2,"Quayside, Newcastle upon Tyne (GBR)",06 SEP 2024,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Vegard VESTERHAUG WARNES,16 MAY 2003,NOR,2,"Friidrettsstadion, Jessheim (NOR)",28 SEP 2024,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Renato OGATA,07 FEB 2004,JPN,5f1,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jeremy DEMPSEY,17 DEC 1999,GBR,30f1,Leicester (GBR),15 MAR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Rowan MIELL-INGRAM,29 MAY 2004,GBR,31f1,Leicester (GBR),15 MAR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Aduna BIRUK,,ETH,32f1,Leicester (GBR),15 MAR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Itsuki TAKAISHI,23 MAY 2006,JPN,21,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Akito NODA,03 MAR 2005,JPN,22,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Joey BERRIATUA,16 JUN 1995,USA,8,"Boston, MA (USA)",19 APR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Jan FRIŠ,19 DEC 1995,CZE,17,Herzogenaurach (GER),26 APR 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Tanner CHADA,,USA,12,"Indianapolis, IN (USA)",03 MAY 2025,1006,5-kilometres,road-running,male,senior
-1354,13:58,,Tuomas HEIKKILÄ,08 FEB 1998,FIN,1,Helsinki (FIN),17 MAY 2025,1006,5-kilometres,road-running,male,senior
-1430,13:59,,Anthony FAMIGLIETTI,08 NOV 1978,USA,3,"Providence, RI (USA)",20 SEP 2009,1006,5-kilometres,road-running,male,senior
-1431,13:59,,Brian SHRADER,22 JUL 1991,USA,4,"Providence, RI (USA)",21 SEP 2014,1005,5-kilometres,road-running,male,senior
-1432,13:59,,Joe STILIN,05 DEC 1989,USA,1,Armagh (GBR),22 FEB 2015,1005,5-kilometres,road-running,male,senior
-1433,13:59,,Jordan HORN,17 APR 1984,USA,4,"Providence, RI (USA)",20 SEP 2009,1004,5-kilometres,road-running,male,senior
-1434,13:59,,Benny MCINTOSH,14 SEP 1966,USA,6,"Fort Myers, FL (USA)",16 FEB 1991,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ignacio FRAGOSO,06 FEB 1968,MEX,16,"Carlsbad, CA (USA)",14 APR 1991,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ashley JOHNSON,31 DEC 1961,USA,4,"Chicago, IL (USA)",31 OCT 1993,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Tim REDMAN,05 JUL 1960,GBR,11,London (GBR),23 APR 1995,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Gary STAINES,03 JUL 1963,GBR,5,Portsmouth (GBR),13 APR 1996,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Yasuaki YAMAMOTO,05 AUG 1972,JPN,,"Boulder, CO (USA)",01 SEP 1997,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Keith DOWLING,04 JUL 1969,USA,13,"Carlsbad, CA (USA)",29 MAR 1998,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Mbarak HUSSEIN,04 APR 1965,KEN,8,"Gardena, CA (USA)",01 JUN 2003,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Henry KIPCHIRCHIR,31 MAY 1983,KEN,4,"Austin, TX (USA)",25 APR 2004,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Rafael SÁNCHEZ,03 JAN 1980,MEX,2,"Chula Vista, CA (USA)",24 OCT 2004,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Douglas MUMANYI,30 DEC 1980,KEN,4,"Binghamton, NY (USA)",28 AUG 2005,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ryan SHAY,04 MAY 1979,USA,6,"Providence, RI (USA)",11 SEP 2005,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Yuriy HICHUN,10 FEB 1977,UKR,1,Pulawy (POL),11 NOV 2005,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ryan SHAY,04 MAY 1979,USA,4,"Providence, RI (USA)",17 SEP 2006,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Doane ALIAMU,,ETH,5,"New Milford, CT (USA)",01 JUN 2007,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Jonathon RILEY,29 DEC 1978,USA,9,"Providence, RI (USA)",16 SEP 2007,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Mark CARROLL,15 JAN 1972,IRL,2,Armagh (GBR),21 FEB 2008,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Demese TEFERA,15 DEC 1982,ETH,7,"New Milford, CT (USA)",06 JUN 2008,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Jeremy ROFF,22 NOV 1983,AUS,2,Noosa (AUS),01 NOV 2008,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Mariusz GIŻYŃSKI,26 JUN 1981,POL,4,Armagh (GBR),19 FEB 2009,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Yosef GHEBRAY,18 MAY 1987,USA,7,San José (USA),26 NOV 2009,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Juan Carlos ROMERO BERNAL,15 DEC 1977,MEX,2,Mazatlán (MEX),05 DEC 2009,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Fadil MOHAMED,15 NOV 1981,MAR,1,"Little Rock, AR (USA)",04 JUL 2011,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ben ST. LAWRENCE,07 NOV 1981,AUS,2,Noosa (AUS),29 OCT 2011,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Brandon BETHKE,19 JAN 1987,USA,4,"New York, NY (USA)",05 NOV 2011,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Abiyot ENDALE,03 MAY 1986,ETH,9,"San José, CA (USA)",24 NOV 2011,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ben ST. LAWRENCE,07 NOV 1981,AUS,8,"Boston, MA (USA)",15 APR 2012,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Jacob RILEY,02 NOV 1988,USA,8,"Providence, RI (USA)",16 SEP 2012,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Julius Kiptoo BOR,23 JAN 1986,USA,3,San José (USA),22 NOV 2012,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Harbert OKUTI,25 OCT 1985,UGA,4,"Binghamton, NY (USA)",25 AUG 2013,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Bobby CURTIS,28 NOV 1984,USA,10,"Carlsbad, CA (USA)",30 MAR 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Nelson MAKORI,22 JUL 1992,KEN,1,"Des Moines, IA (USA)",27 APR 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Anthony FAMIGLIETTI,08 NOV 1978,USA,1,"Charlotte, NC (USA)",18 OCT 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Erik OLSON,15 MAR 1992,USA,10,San José (USA),27 NOV 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Leonard KORIR,10 DEC 1986,KEN,11,San José (USA),27 NOV 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Andrew WHEATING,21 NOV 1987,USA,12,San José (USA),27 NOV 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Alejandro SUÁREZ,30 NOV 1980,MEX,4,Mazatlán (MEX),29 NOV 2014,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Haron LAGAT,15 AUG 1983,KEN,7,"Carlsbad, CA (USA)",29 MAR 2015,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Daniel HULING,16 JUL 1983,USA,2,"Providence, RI (USA)",20 SEP 2015,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Geoffrey KENISI,1987,KEN,5,San José (USA),26 NOV 2015,1003,5-kilometres,road-running,male,senior
-1434,13:59,,George ALEX,20 JAN 1990,USA,6,San José (USA),26 NOV 2015,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Simion CHIRCHIR,,KEN,1,"Wheeling, WV (USA)",06 AUG 2016,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Mbongeni Amos NGXAZAZO,02 FEB 1980,RSA,1,Johannesburg (RSA),28 AUG 2016,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Mbongeni Amos NGXAZAZO,02 FEB 1980,RSA,1,Johannesburg (RSA),28 AUG 2016,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Martin HEHIR,19 DEC 1992,USA,2,"Phoenix, AZ (USA)",06 NOV 2016,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Jack RAYNER,19 DEC 1995,AUS,6,"Carlsbad, CA (USA)",02 APR 2017,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Abbabiya SIMBASSA,30 JUN 1993,USA,5,"New York, NY (USA)",04 NOV 2017,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Ben TRUE,29 DEC 1985,USA,6,"New York, NY (USA)",04 NOV 2017,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Patrick CASEY,23 MAY 1990,USA,9,San José (USA),23 NOV 2017,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Sam STABLER,17 MAY 1992,GBR,1,Armagh (GBR),15 FEB 2018,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Daniel Lemashon SALEL,11 DEC 1990,KEN,12,"Boston, MA (USA)",14 APR 2018,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Brandon DOUGHTY,14 MAY 1993,USA,13,"Boston, MA (USA)",14 APR 2018,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Daniel KEMOI,12 SEP 1986,KEN,1,"Lancaster, PA (USA)",28 APR 2018,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Patrick CASEY,23 MAY 1990,USA,8,San José (USA),22 NOV 2018,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Krystian ZALEWSKI,11 APR 1989,POL,11,Armagh (GBR),14 FEB 2019,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Matthew BERGIN,02 MAR 1993,IRL,12,Armagh (GBR),14 FEB 2019,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Cathal DOYLE,12 NOV 1997,IRL,20,Armagh (GBR),13 FEB 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Micheal POWER,27 JAN 1999,IRL,21,Armagh (GBR),13 FEB 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Joel Ibler LILLESØ,17 NOV 2003,DEN,2f1,Flakkebjerg (DEN),20 JUN 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Nathan JONES,03 OCT 1994,GBR,12,Barrowford (GBR),08 AUG 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Jean-Simon DESGAGNÉS,26 JUL 1998,CAN,1,Québec (CAN),13 SEP 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Yassin BOUIH,24 NOV 1996,ITA,8,Bolzano (ITA),31 DEC 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Abderrahmane ANOU,29 JAN 1991,ALG,10,Barcelona (ESP),31 DEC 2020,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Daniel BEBBINGTON,08 JUN 1996,GBR,10f7,Barrowford (GBR),03 APR 2021,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Johnathan RENIEWICKI,03 OCT 1995,USA,10,"Boston, MA (USA)",16 APR 2022,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Louis GILAVERT,01 JAN 1998,FRA,6,Málaga (ESP),24 APR 2022,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Vidar JOHANSSON,08 OCT 1996,SWE,8,Monaco (MON),12 FEB 2023,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Shunya UDAGAWA,29 JUL 2003,JPN,5,Tokyo (JPN),26 MAR 2023,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Eduardo MENACHO,25 NOV 1999,ESP,2,Santander (ESP),14 MAY 2023,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Barry KEANE,19 NOV 1997,IRL,10,"Boston, MA (USA)",13 APR 2024,1003,5-kilometres,road-running,male,senior
-1434,13:59,,John Nahhay WELE,12 NOV 2006,TAN,6,Oelde (GER),08 JUN 2024,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Hiroki YAMANAKA,05 APR 2002,JPN,4f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Morgan BEADLESCOMB,01 JUN 1998,USA,10,"New York, NY (USA)",02 NOV 2024,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Joshua LAY,11 APR 2000,GBR,8,Monaco (MON),09 FEB 2025,1003,5-kilometres,road-running,male,senior
-1434,13:59,,George WATSON,05 JAN 1999,GBR,33f1,Leicester (GBR),15 MAR 2025,1003,5-kilometres,road-running,male,senior
-1434,13:59,,Pablo ALBA,05 SEP 2002,ESP,16,Lille (FRA),16 MAR 2025,1003,5-kilometres,road-running,male,senior
-1510,14:00,,Samuel CHELANGA,23 FEB 1985,KEN,5,"Providence, RI (USA)",22 SEP 2013,1003,5-kilometres,road-running,male,senior
-1511,14:00,,Andrew LEMONCELLO,12 OCT 1982,GBR,5,"Providence, RI (USA)",20 SEP 2009,1002,5-kilometres,road-running,male,senior
-1512,14:00,,Daniel CLIFFE,23 DEC 1990,GBR,2,Armagh (GBR),22 FEB 2015,1001,5-kilometres,road-running,male,senior
-1513,14:00,,Jim SPISAK,18 NOV 1990,USA,5,"Providence, RI (USA)",21 SEP 2014,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Matt GIUSTO,25 OCT 1966,USA,13,"Carlsbad, CA (USA)",25 MAR 1990,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Dan REESE,15 OCT 1963,USA,14,"Carlsbad, CA (USA)",25 MAR 1990,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Carl Edward THACKERY,14 OCT 1962,GBR,12,London (GBR),23 APR 1995,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Martin JONES,21 APR 1967,GBR,6,Portsmouth (GBR),13 APR 1996,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Gideon MUTISYA,17 JAN 1967,KEN,20,"Providence, RI (USA)",14 SEP 1997,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Néstor GARCÍA,06 JUL 1975,URU,12,"Carlsbad, CA (USA)",26 MAR 2000,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Abel ANTÓN,24 OCT 1962,ESP,1,Soria (ESP),28 SEP 2001,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Mbarak HUSSEIN,04 APR 1965,KEN,8,"Gardena, CA (USA)",02 JUN 2002,1000,5-kilometres,road-running,male,senior
-1514,14:00,,David MORRIS,17 MAY 1970,USA,9,"Gardena, CA (USA)",02 JUN 2002,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Francis KOMU,28 JUN 1974,KEN,7,"Syracuse, NY (USA)",06 OCT 2002,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Kevin SULLIVAN,20 MAR 1974,CAN,3,"Chula Vista, CA (USA)",27 OCT 2002,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Josphat BOIT,28 DEC 1982,KEN,1,"Little Rock, AR (USA)",04 JUL 2006,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Reuben KIBET CHEBII,09 SEP 1982,KEN,1,"Binghamton, NY (USA)",27 AUG 2006,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Rod KOBORSI,04 OCT 1983,USA,5,"Providence, RI (USA)",17 SEP 2006,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Philip KOECH,06 FEB 1987,KEN,8,"New Milford, CT (USA)",06 JUN 2008,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Nicholas KURGAT,1979,KEN,6,"Binghamton, NY (USA)",24 AUG 2008,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Christopher BARNICLE,31 MAR 1987,USA,5,Armagh (GBR),19 FEB 2009,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Jussi UTRIAINEN,28 NOV 1978,FIN,6,Armagh (GBR),19 FEB 2009,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Ben BRUCE,10 SEP 1982,USA,3,Armagh (GBR),25 FEB 2010,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Robert CHESERET,08 OCT 1983,KEN,1,"Providence, RI (USA)",19 SEP 2010,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Andrew BUMBALOUGH,14 MAR 1987,USA,5,"New York, NY (USA)",05 NOV 2011,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Landon PEACOCK,17 NOV 1987,USA,4,Armagh (GBR),09 FEB 2012,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Ali ABDOSH,25 AUG 1987,ETH,9,"Boston, MA (USA)",15 APR 2012,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Brett GOTCHER,01 SEP 1984,USA,10,"Boston, MA (USA)",15 APR 2012,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Scott BAUHS,11 MAY 1986,USA,4,San José (USA),22 NOV 2012,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Jose Antonio URIBE MARINO,03 JAN 1986,MEX,1,Mazatlán (MEX),30 NOV 2013,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Israel AGUILAR HERNÁNDEZ,06 JUL 1978,MEX,5,Mazatlán (MEX),29 NOV 2014,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Chris THOMPSON,17 APR 1981,GBR,7,San José (USA),26 NOV 2015,1000,5-kilometres,road-running,male,senior
-1514,14:00,,John Karanja WANJIKU,,KEN,2,"Wheeling, WV (USA)",06 AUG 2016,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Kirubel ERASSA,17 JUN 1993,USA,4,"Providence, RI (USA)",18 SEP 2016,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Petros SURAFEL,12 JAN 1997,GBR,4,Armagh (GBR),18 FEB 2017,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Carl STONES,01 NOV 1989,USA,4,"Louisville, KY (USA)",05 MAR 2017,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Collis BIRMINGHAM,27 DEC 1984,AUS,7,"Carlsbad, CA (USA)",02 APR 2017,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Thomas CURTIN,08 AUG 1993,USA,13,"Boston, MA (USA)",15 APR 2017,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Eric AVILA,03 OCT 1989,USA,10,San José (USA),23 NOV 2017,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Geoffrey KOECH,28 AUG 1993,KEN,1,Napoli (ITA),04 FEB 2018,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Charlie HULSON,07 MAR 1993,GBR,2,Armagh (GBR),15 FEB 2018,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Eric JENKINS,24 NOV 1991,USA,4,"New York, NY (USA)",03 NOV 2018,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Willy FINK,07 MAR 1994,USA,7,"Boston, MA (USA)",13 APR 2019,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Stanley Kipkoech KEBENEI,06 NOV 1989,USA,8,"New York, NY (USA)",02 NOV 2019,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Emil DANIELSSON,05 SEP 1997,SWE,22,Armagh (GBR),13 FEB 2020,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Hamish ARMITT,24 JUN 2002,GBR,23,Armagh (GBR),13 FEB 2020,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Michał ROZMYS,13 MAR 1995,POL,24,Armagh (GBR),13 FEB 2020,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Adam CLARKE,03 APR 1991,GBR,13,Barrowford (GBR),08 AUG 2020,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Abdessamad OUKHELFEN,18 DEC 1998,ESP,1,Santa Cristina d’Aro (ESP),29 AUG 2020,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Luke DUFFY,14 NOV 2000,GBR,11f7,Barrowford (GBR),03 APR 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,James HUNT,28 APR 1996,GBR,12f7,Barrowford (GBR),03 APR 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Isaac HEYNE,24 JAN 2000,AUS,1,Adelaide (AUS),19 SEP 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Isaac HEYNE,24 JAN 2000,AUS,1,Adelaide (AUS),19 SEP 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Topi RAITANEN,07 FEB 1996,FIN,1,Helsinki (FIN),02 OCT 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Willy FINK,07 MAR 1994,USA,10,"New York, NY (USA)",06 NOV 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Kasey KNEVELBAARD,02 SEP 1996,USA,11,"New York, NY (USA)",06 NOV 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Ben EIDENSCHINK,27 JUL 1996,USA,12,"New York, NY (USA)",06 NOV 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Brian KIBOR,01 JAN 2001,KEN,7,Lille (FRA),06 NOV 2021,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Mohamed-Amine KODAD,10 SEP 1999,FRA,7,Málaga (ESP),24 APR 2022,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Quentin TISON,16 APR 1996,FRA,17,Lille (FRA),19 MAR 2023,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Brian BARRAZA,16 MAY 1995,USA,20,"Boston, MA (USA)",15 APR 2023,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Tom MORTIMER,07 JAN 1999,GBR,2,Newcastle upon Tyne (GBR),08 SEP 2023,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Miguel Angel MARTÍNEZ,22 MAY 2002,ESP,14f1,Leicester (GBR),16 MAR 2024,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Kosei ATOMURA,31 AUG 2004,JPN,15,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",27 APR 2024,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Iori ODA,31 MAY 2004,JPN,6f1,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Eiki KOGURE,15 DEC 2002,JPN,7f1,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Taisei KOBAYASHI,24 JUL 2002,JPN,5f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Antonin MARQUANT,12 MAY 2002,FRA,3,St. Omer (FRA),27 OCT 2024,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Conall MCCLEAN,23 APR 2001,IRL,34f1,Leicester (GBR),15 MAR 2025,1000,5-kilometres,road-running,male,senior
-1514,14:00,,Osian PERRIN,21 JAN 2003,GBR,11f8,Nijmegen (NED),05 APR 2025,1000,5-kilometres,road-running,male,senior
+1218,13:56,,Edward MARKS,23 DEC 2001,AUS,1,"Albert Park, Melbourne (AUS)",15 JUN 2025,1013,5-kilometres,road-running,male,senior
+1285,13:57,,Matt TEGENKAMP,19 JAN 1982,USA,1,"Providence, RI (USA)",20 SEP 2009,1013,5-kilometres,road-running,male,senior
+1286,13:57,,Alan WEBB,13 JAN 1983,USA,7,San José (USA),28 NOV 2013,1012,5-kilometres,road-running,male,senior
+1287,13:57,,Diego ESTRADA,19 DEC 1989,USA,1,"Providence, RI (USA)",21 SEP 2014,1012,5-kilometres,road-running,male,senior
+1287,13:57,,Benjamin FLANAGAN,11 JAN 1995,CAN,1,Toronto (CAN),09 SEP 2018,1012,5-kilometres,road-running,male,senior
+1289,13:57,,John SCHERER,03 NOV 1966,USA,3,"Chicago, IL (USA)",31 OCT 1993,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Wander DO PRADO MOURA,22 FEB 1969,BRA,17,"Carlsbad, CA (USA)",27 MAR 1994,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Reuben REINA,16 NOV 1967,USA,18,"Carlsbad, CA (USA)",27 MAR 1994,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Isaac GARCÍA,29 OCT 1960,MEX,19,"Carlsbad, CA (USA)",27 MAR 1994,1010,5-kilometres,road-running,male,senior
+1289,13:57,,John GREGOREK,15 APR 1960,USA,5,"Providence, RI (USA)",16 OCT 1994,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Michał BARTOSZAK,21 JUN 1970,POL,15,"Carlsbad, CA (USA)",31 MAR 1996,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Mike TANSELY,26 JUN 1971,USA,12,"Carlsbad, CA (USA)",29 MAR 1998,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Deresse DENBOBA,15 MAY 1982,ETH,10,"Carlsbad, CA (USA)",26 MAR 2000,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Janko BENŠA,28 JUN 1977,YUG,4,"Gardena, CA (USA)",04 JUN 2000,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Matthew BIRIR,05 JUL 1972,KEN,11,"Carlsbad, CA (USA)",01 APR 2001,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Simeon SAWE,23 MAR 1974,KEN,6,"Gardena, CA (USA)",02 JUN 2002,1010,5-kilometres,road-running,male,senior
+1289,13:57,,James Kimutai KOSKEI,23 NOV 1968,KEN,3,"Austin, TX (USA)",25 APR 2004,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Andrew GRAFFIN,20 DEC 1977,GBR,7,Balmoral (GBR),08 MAY 2004,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Linus Kipkosgei MAIYO,26 FEB 1983,KEN,4,"New Milford, CT (USA)",01 JUN 2007,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Andrew CARLSON,27 APR 1982,USA,8,"Providence, RI (USA)",16 SEP 2007,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Christian HESCH,06 JAN 1979,USA,1,Armagh (GBR),21 FEB 2008,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Dennis Musembi NDISO,31 DEC 1983,KEN,1,"Minneapolis, MN (USA)",02 AUG 2008,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Collis BIRMINGHAM,27 DEC 1984,AUS,1,Noosa (AUS),01 NOV 2008,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Phillip REID,25 NOV 1985,USA,7,"San José, CA (USA)",24 NOV 2011,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Giliat GHEBRAY,05 FEB 1984,USA,8,"San José, CA (USA)",24 NOV 2011,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Isaac Kemboi KIMAIYO,28 NOV 1978,KEN,2,Mazatlán (MEX),03 DEC 2011,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Jonathan MELLOR,27 DEC 1986,GBR,3,Armagh (GBR),09 FEB 2012,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Isaac Kemboi KIMAIYO,28 NOV 1978,KEN,2,Mazatlán (MEX),01 DEC 2012,1010,5-kilometres,road-running,male,senior
+1289,13:57,,German FERNANDEZ,02 NOV 1990,USA,2,"Providence, RI (USA)",21 SEP 2014,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Phillip REID,25 NOV 1985,USA,6,San José (USA),27 NOV 2014,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Isaias HARO,07 FEB 1985,MEX,2,Mazatlán (MEX),29 NOV 2014,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Mourad MAROUFIT,26 JAN 1982,MAR,3,San José (USA),26 NOV 2015,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Ryan HILL,31 JAN 1990,USA,1,"Providence, RI (USA)",18 SEP 2016,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Aaron BRAUN,28 MAY 1987,USA,1,"Phoenix, AZ (USA)",06 NOV 2016,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Brian SHRADER,22 JUL 1991,USA,12,"Boston, MA (USA)",15 APR 2017,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Jeromy ANDREAS,28 FEB 1992,RSA,1,Johannesburg (RSA),11 JUN 2017,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Shadrack KIPCHIRCHIR,22 FEB 1989,USA,1,"New York, NY (USA)",04 NOV 2017,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Linton TAYLOR,20 JAN 1995,GBR,11,Ipswich (GBR),11 MAY 2019,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Joshua GRACE,11 MAY 1993,GBR,12,Ipswich (GBR),11 MAY 2019,1010,5-kilometres,road-running,male,senior
+1289,13:57,,James NGANDU,02 APR 1990,KEN,3,"Wheeling, WV (USA)",04 AUG 2019,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Brian BARRAZA,16 MAY 1995,USA,6,"New York, NY (USA)",02 NOV 2019,1010,5-kilometres,road-running,male,senior
+1289,13:57,,David Kiprotich BETT,18 OCT 1992,KEN,2,"San José, CA (USA)",28 NOV 2019,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Brian BARRAZA,16 MAY 1995,USA,3,"San José, CA (USA)",28 NOV 2019,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Linton TAYLOR,20 JAN 1995,GBR,15,Armagh (GBR),13 FEB 2020,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Ryan FORSYTH,07 JUL 1996,IRL,16,Armagh (GBR),13 FEB 2020,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Thijs NIJHUIS,20 SEP 1992,DEN,1f1,Flakkebjerg (DEN),20 JUN 2020,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Roy HOORNWEG,08 MAY 1989,NED,8,Nijmegen (NED),19 JUL 2020,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Adam CLARKE,03 APR 1991,GBR,2,Wigan (GBR),05 OCT 2020,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Aarón LAS HERAS,22 JUN 2000,ESP,8,Barcelona (ESP),31 DEC 2020,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Kieran CLEMENTS,20 NOV 1993,GBR,8f7,Barrowford (GBR),03 APR 2021,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Valentin BRESC,27 MAY 2001,FRA,7,Angers (FRA),24 APR 2021,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Jacob Sommer SIMONSEN,01 JAN 1995,DEN,6,Monaco (MON),13 FEB 2022,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Arthur GERVAIS,28 FEB 2000,FRA,6,Lille (FRA),20 MAR 2022,1010,5-kilometres,road-running,male,senior
+1289,13:57,,James Gitahi RUNGARU,14 JAN 1993,KEN,8,Fukuoka (JPN),12 NOV 2022,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Victor Kipkirui KORIR,14 AUG 2002,KEN,9,Fukuoka (JPN),12 NOV 2022,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Yusuke TAMURA,23 DEC 1998,JPN,10,Fukuoka (JPN),12 NOV 2022,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Victor BOUDIN,28 JUN 1997,FRA,15,Lille (FRA),19 MAR 2023,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Kiseki SHIOZAWA,17 DEC 1998,JPN,3,Tokyo (JPN),26 MAR 2023,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Alexis MIELLET,05 MAY 1995,FRA,13,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",29 APR 2023,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Ashenafi EMANA,15 MAR 2005,ETH,8,Lille (FRA),18 NOV 2023,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Anis BENSTITI,22 SEP 1998,ALG,14,Monaco (MON),11 FEB 2024,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Shumpei YAMAGUCHI,15 JAN 2006,JPN,2f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Riku HIROTA,05 JAN 2005,JPN,3f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Abbabiya SIMBASSA,30 JUN 1993,USA,9,"New York, NY (USA)",02 NOV 2024,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Damián VÍCH,14 AUG 1998,CZE,7,Monaco (MON),09 FEB 2025,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,29f1,Leicester (GBR),15 MAR 2025,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Zen KURODA,23 AUG 2005,JPN,20,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Morgan BEADLESCOMB,01 JUN 1998,USA,16,Herzogenaurach (GER),26 APR 2025,1010,5-kilometres,road-running,male,senior
+1289,13:57,,Daniel SCHAFFER,05 FEB 1998,USA,11,"Indianapolis, IN (USA)",03 MAY 2025,1010,5-kilometres,road-running,male,senior
+1353,13:58,,Maverick DARLING,09 JUN 1989,USA,3,"Providence, RI (USA)",21 SEP 2014,1008,5-kilometres,road-running,male,senior
+1354,13:58,,Bolota ASMEROM,12 OCT 1978,USA,2,"Providence, RI (USA)",20 SEP 2009,1008,5-kilometres,road-running,male,senior
+1355,13:58,,Vince DRADDY,19 APR 1961,USA,13,"Carlsbad, CA (USA)",27 MAR 1988,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Salvador GARCÍA,29 OCT 1960,MEX,14,"Carlsbad, CA (USA)",27 MAR 1988,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Sean WADE,03 FEB 1966,IRL,12,"Carlsbad, CA (USA)",25 MAR 1990,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Matt GIUSTO,25 OCT 1966,USA,15,"Carlsbad, CA (USA)",14 APR 1991,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Lahoussine SIBA,15 FEB 1973,MAR,6,"Providence, RI (USA)",16 OCT 1994,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Steven BRACE,07 JUL 1961,GBR,10,London (GBR),23 APR 1995,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Pete JULIAN,11 MAY 1971,USA,16,"Carlsbad, CA (USA)",31 MAR 1996,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Khalid KHANNOUCHI,22 DEC 1971,MAR,17,"Carlsbad, CA (USA)",31 MAR 1996,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Andrew PEARSON,14 SEP 1971,GBR,4,Portsmouth (GBR),13 APR 1996,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Simon KARORI,25 AUG 1959,KEN,11,"Carlsbad, CA (USA)",26 MAR 2000,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Sean KALEY,26 FEB 1975,CAN,2,"Dallas, TX (USA)",17 JUN 2000,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Kibet CHEROP,11 JUL 1974,KEN,3,"Austin, TX (USA)",21 APR 2002,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Shaun CREIGHTON,14 MAY 1967,AUS,7,"Gardena, CA (USA)",02 JUN 2002,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Mark MILES,24 MAR 1977,GBR,2,Horwich (GBR),26 JUN 2005,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Paul MORRISON,25 SEP 1980,CAN,1,"Chula Vista, CA (USA)",23 OCT 2005,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Haron LAGAT,15 AUG 1983,KEN,4,"San José, CA (USA)",23 NOV 2006,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Worku BEYI,25 FEB 1987,ETH,5,"Binghamton, NY (USA)",24 AUG 2008,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Luke KIPKOSGEI,27 NOV 1975,KEN,3,"Providence, RI (USA)",21 SEP 2008,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Mark CARROLL,15 JAN 1972,IRL,3,Armagh (GBR),19 FEB 2009,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Stephen PIFER,07 DEC 1984,USA,11,"Carlsbad, CA (USA)",05 APR 2009,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Chris THOMPSON,17 APR 1981,GBR,3,London (GBR),13 SEP 2009,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Fadil MOHAMED,15 NOV 1981,MAR,1,Mazatlán (MEX),05 DEC 2009,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Nick MCCORMICK,11 SEP 1981,GBR,1,Armagh (GBR),25 FEB 2010,1006,5-kilometres,road-running,male,senior
+1355,13:58,,David MCCARTHY,03 AUG 1988,IRL,2,Armagh (GBR),25 FEB 2010,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Tabor MENGISTU NEBSI,1977,ETH,1,"Brooklyn, NY (USA)",24 MAR 2012,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Ben BRUCE,10 SEP 1982,USA,7,"Providence, RI (USA)",16 SEP 2012,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Matt ELLIOTT,08 SEP 1985,USA,2,"Charlotte, NC (USA)",20 OCT 2012,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Collis BIRMINGHAM,27 DEC 1984,AUS,1,Noosa (AUS),02 NOV 2013,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Riley MASTERS,05 APR 1990,USA,7,San José (USA),27 NOV 2014,1006,5-kilometres,road-running,male,senior
+1355,13:58,,German FERNANDEZ,02 NOV 1990,USA,8,San José (USA),27 NOV 2014,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Matthew CLOWES,29 SEP 1989,GBR,9,San José (USA),27 NOV 2014,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jose Luis DUARTE,19 MAY 1989,MEX,3,Mazatlán (MEX),29 NOV 2014,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Erik OLSON,15 MAR 1992,USA,4,San José (USA),26 NOV 2015,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Lawi LALANG,15 JUN 1991,KEN,8,"Carlsbad, CA (USA)",03 APR 2016,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Shadrack KIPCHIRCHIR,22 FEB 1989,USA,2,"Providence, RI (USA)",18 SEP 2016,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Samuel CHELANGA,23 FEB 1985,USA,3,"Providence, RI (USA)",18 SEP 2016,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Phillip REID,25 NOV 1985,USA,12,San José (USA),24 NOV 2016,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Dewi GRIFFITHS,09 AUG 1991,GBR,3,Armagh (GBR),18 FEB 2017,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Joseph MULLEN,,USA,3,"Louisville, KY (USA)",05 MAR 2017,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Thomas CURTIN,08 AUG 1993,USA,2,"New York, NY (USA)",04 NOV 2017,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Kirubel ERASSA,17 JUN 1993,USA,3,"New York, NY (USA)",04 NOV 2017,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Paul CHELIMO,27 OCT 1990,USA,4,"New York, NY (USA)",04 NOV 2017,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Lawi LALANG,15 JUN 1991,KEN,8,San José (USA),23 NOV 2017,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Joe STILIN,05 DEC 1989,USA,11,"Boston, MA (USA)",14 APR 2018,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Charles Karanja KAMAU,05 AUG 1997,KEN,7,San José (USA),22 NOV 2018,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jacob THOMSON,29 NOV 1994,USA,6,"Boston, MA (USA)",13 APR 2019,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jeff THIES,25 FEB 1995,USA,7,"New York, NY (USA)",02 NOV 2019,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Joshua COWPERTHWAITE,09 APR 2001,GBR,17,Armagh (GBR),13 FEB 2020,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Cameron STRACHAN,02 AUG 1991,GBR,18,Armagh (GBR),13 FEB 2020,1006,5-kilometres,road-running,male,senior
+1355,13:58,,James HUNT,28 APR 1996,GBR,19,Armagh (GBR),13 FEB 2020,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Chris PERRY,01 MAR 1990,GBR,11,Barrowford (GBR),08 AUG 2020,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Julian RANC,14 SEP 1996,FRA,9,Barcelona (ESP),31 DEC 2020,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Samuel BARATA,19 JUL 1993,POR,1,Lisboa (POR),09 JAN 2021,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jonathan HOPKINS,03 JUN 1992,GBR,9f7,Barrowford (GBR),03 APR 2021,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Abbabiya SIMBASSA,30 JUN 1993,USA,9,"New York, NY (USA)",06 NOV 2021,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Gebregewergs TEKLAY,13 JAN 2001,ETH,8,Barcelona (ESP),31 DEC 2021,1006,5-kilometres,road-running,male,senior
+1355,13:58,,John GAY,07 NOV 1996,CAN,2,Moncton (CAN),11 SEP 2022,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Henrik INGEBRIGTSEN,24 FEB 1991,NOR,8,Barcelona (ESP),31 DEC 2022,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Steven CASTEELE,11 JUL 1994,BEL,16,Lille (FRA),19 MAR 2023,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Issei SATO,21 JUL 2001,JPN,4,Tokyo (JPN),26 MAR 2023,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Clement TOUATI,02 OCT 2000,FRA,4,St. Omer (FRA),22 OCT 2023,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Richard ETIR,12 DEC 2003,KEN,2,Tokyo (JPN),23 FEB 2024,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Tebello RAMAKONGOANA,13 OCT 1996,LES,9,"Boston, MA (USA)",13 APR 2024,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jonathan ESCALANTE-PHILLIPS,28 JUL 1992,GBR,2f1,Gateshead (GBR),07 AUG 2024,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Scott BEATTIE,04 DEC 1998,GBR,2,"Quayside, Newcastle upon Tyne (GBR)",06 SEP 2024,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Vegard VESTERHAUG WARNES,16 MAY 2003,NOR,2,"Friidrettsstadion, Jessheim (NOR)",28 SEP 2024,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Renato OGATA,07 FEB 2004,JPN,5f1,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jeremy DEMPSEY,17 DEC 1999,GBR,30f1,Leicester (GBR),15 MAR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Rowan MIELL-INGRAM,29 MAY 2004,GBR,31f1,Leicester (GBR),15 MAR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Aduna BIRUK,,ETH,32f1,Leicester (GBR),15 MAR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Itsuki TAKAISHI,23 MAY 2006,JPN,21,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Akito NODA,03 MAR 2005,JPN,22,"Meijijingu Gaien area, Tokyo (JPN)",13 APR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Joey BERRIATUA,16 JUN 1995,USA,8,"Boston, MA (USA)",19 APR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Jan FRIŠ,19 DEC 1995,CZE,17,Herzogenaurach (GER),26 APR 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Tanner CHADA,,USA,12,"Indianapolis, IN (USA)",03 MAY 2025,1006,5-kilometres,road-running,male,senior
+1355,13:58,,Tuomas HEIKKILÄ,08 FEB 1998,FIN,1,Helsinki (FIN),17 MAY 2025,1006,5-kilometres,road-running,male,senior
+1431,13:59,,Anthony FAMIGLIETTI,08 NOV 1978,USA,3,"Providence, RI (USA)",20 SEP 2009,1006,5-kilometres,road-running,male,senior
+1432,13:59,,Brian SHRADER,22 JUL 1991,USA,4,"Providence, RI (USA)",21 SEP 2014,1005,5-kilometres,road-running,male,senior
+1433,13:59,,Joe STILIN,05 DEC 1989,USA,1,Armagh (GBR),22 FEB 2015,1005,5-kilometres,road-running,male,senior
+1434,13:59,,Jordan HORN,17 APR 1984,USA,4,"Providence, RI (USA)",20 SEP 2009,1004,5-kilometres,road-running,male,senior
+1435,13:59,,Benny MCINTOSH,14 SEP 1966,USA,6,"Fort Myers, FL (USA)",16 FEB 1991,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ignacio FRAGOSO,06 FEB 1968,MEX,16,"Carlsbad, CA (USA)",14 APR 1991,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ashley JOHNSON,31 DEC 1961,USA,4,"Chicago, IL (USA)",31 OCT 1993,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Tim REDMAN,05 JUL 1960,GBR,11,London (GBR),23 APR 1995,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Gary STAINES,03 JUL 1963,GBR,5,Portsmouth (GBR),13 APR 1996,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Yasuaki YAMAMOTO,05 AUG 1972,JPN,,"Boulder, CO (USA)",01 SEP 1997,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Keith DOWLING,04 JUL 1969,USA,13,"Carlsbad, CA (USA)",29 MAR 1998,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Mbarak HUSSEIN,04 APR 1965,KEN,8,"Gardena, CA (USA)",01 JUN 2003,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Henry KIPCHIRCHIR,31 MAY 1983,KEN,4,"Austin, TX (USA)",25 APR 2004,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Rafael SÁNCHEZ,03 JAN 1980,MEX,2,"Chula Vista, CA (USA)",24 OCT 2004,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Douglas MUMANYI,30 DEC 1980,KEN,4,"Binghamton, NY (USA)",28 AUG 2005,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ryan SHAY,04 MAY 1979,USA,6,"Providence, RI (USA)",11 SEP 2005,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Yuriy HICHUN,10 FEB 1977,UKR,1,Pulawy (POL),11 NOV 2005,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ryan SHAY,04 MAY 1979,USA,4,"Providence, RI (USA)",17 SEP 2006,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Doane ALIAMU,,ETH,5,"New Milford, CT (USA)",01 JUN 2007,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Jonathon RILEY,29 DEC 1978,USA,9,"Providence, RI (USA)",16 SEP 2007,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Mark CARROLL,15 JAN 1972,IRL,2,Armagh (GBR),21 FEB 2008,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Demese TEFERA,15 DEC 1982,ETH,7,"New Milford, CT (USA)",06 JUN 2008,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Jeremy ROFF,22 NOV 1983,AUS,2,Noosa (AUS),01 NOV 2008,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Mariusz GIŻYŃSKI,26 JUN 1981,POL,4,Armagh (GBR),19 FEB 2009,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Yosef GHEBRAY,18 MAY 1987,USA,7,San José (USA),26 NOV 2009,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Juan Carlos ROMERO BERNAL,15 DEC 1977,MEX,2,Mazatlán (MEX),05 DEC 2009,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Fadil MOHAMED,15 NOV 1981,MAR,1,"Little Rock, AR (USA)",04 JUL 2011,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ben ST. LAWRENCE,07 NOV 1981,AUS,2,Noosa (AUS),29 OCT 2011,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Brandon BETHKE,19 JAN 1987,USA,4,"New York, NY (USA)",05 NOV 2011,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Abiyot ENDALE,03 MAY 1986,ETH,9,"San José, CA (USA)",24 NOV 2011,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ben ST. LAWRENCE,07 NOV 1981,AUS,8,"Boston, MA (USA)",15 APR 2012,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Jacob RILEY,02 NOV 1988,USA,8,"Providence, RI (USA)",16 SEP 2012,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Julius Kiptoo BOR,23 JAN 1986,USA,3,San José (USA),22 NOV 2012,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Harbert OKUTI,25 OCT 1985,UGA,4,"Binghamton, NY (USA)",25 AUG 2013,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Bobby CURTIS,28 NOV 1984,USA,10,"Carlsbad, CA (USA)",30 MAR 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Nelson MAKORI,22 JUL 1992,KEN,1,"Des Moines, IA (USA)",27 APR 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Anthony FAMIGLIETTI,08 NOV 1978,USA,1,"Charlotte, NC (USA)",18 OCT 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Erik OLSON,15 MAR 1992,USA,10,San José (USA),27 NOV 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Leonard KORIR,10 DEC 1986,KEN,11,San José (USA),27 NOV 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Andrew WHEATING,21 NOV 1987,USA,12,San José (USA),27 NOV 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Alejandro SUÁREZ,30 NOV 1980,MEX,4,Mazatlán (MEX),29 NOV 2014,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Haron LAGAT,15 AUG 1983,KEN,7,"Carlsbad, CA (USA)",29 MAR 2015,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Daniel HULING,16 JUL 1983,USA,2,"Providence, RI (USA)",20 SEP 2015,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Geoffrey KENISI,1987,KEN,5,San José (USA),26 NOV 2015,1003,5-kilometres,road-running,male,senior
+1435,13:59,,George ALEX,20 JAN 1990,USA,6,San José (USA),26 NOV 2015,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Simion CHIRCHIR,,KEN,1,"Wheeling, WV (USA)",06 AUG 2016,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Mbongeni Amos NGXAZAZO,02 FEB 1980,RSA,1,Johannesburg (RSA),28 AUG 2016,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Mbongeni Amos NGXAZAZO,02 FEB 1980,RSA,1,Johannesburg (RSA),28 AUG 2016,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Martin HEHIR,19 DEC 1992,USA,2,"Phoenix, AZ (USA)",06 NOV 2016,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Jack RAYNER,19 DEC 1995,AUS,6,"Carlsbad, CA (USA)",02 APR 2017,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Abbabiya SIMBASSA,30 JUN 1993,USA,5,"New York, NY (USA)",04 NOV 2017,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Ben TRUE,29 DEC 1985,USA,6,"New York, NY (USA)",04 NOV 2017,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Patrick CASEY,23 MAY 1990,USA,9,San José (USA),23 NOV 2017,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Sam STABLER,17 MAY 1992,GBR,1,Armagh (GBR),15 FEB 2018,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Daniel Lemashon SALEL,11 DEC 1990,KEN,12,"Boston, MA (USA)",14 APR 2018,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Brandon DOUGHTY,14 MAY 1993,USA,13,"Boston, MA (USA)",14 APR 2018,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Daniel KEMOI,12 SEP 1986,KEN,1,"Lancaster, PA (USA)",28 APR 2018,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Patrick CASEY,23 MAY 1990,USA,8,San José (USA),22 NOV 2018,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Krystian ZALEWSKI,11 APR 1989,POL,11,Armagh (GBR),14 FEB 2019,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Matthew BERGIN,02 MAR 1993,IRL,12,Armagh (GBR),14 FEB 2019,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Cathal DOYLE,12 NOV 1997,IRL,20,Armagh (GBR),13 FEB 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Micheal POWER,27 JAN 1999,IRL,21,Armagh (GBR),13 FEB 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Joel Ibler LILLESØ,17 NOV 2003,DEN,2f1,Flakkebjerg (DEN),20 JUN 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Nathan JONES,03 OCT 1994,GBR,12,Barrowford (GBR),08 AUG 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Jean-Simon DESGAGNÉS,26 JUL 1998,CAN,1,Québec (CAN),13 SEP 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Yassin BOUIH,24 NOV 1996,ITA,8,Bolzano (ITA),31 DEC 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Abderrahmane ANOU,29 JAN 1991,ALG,10,Barcelona (ESP),31 DEC 2020,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Daniel BEBBINGTON,08 JUN 1996,GBR,10f7,Barrowford (GBR),03 APR 2021,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Johnathan RENIEWICKI,03 OCT 1995,USA,10,"Boston, MA (USA)",16 APR 2022,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Louis GILAVERT,01 JAN 1998,FRA,6,Málaga (ESP),24 APR 2022,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Vidar JOHANSSON,08 OCT 1996,SWE,8,Monaco (MON),12 FEB 2023,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Shunya UDAGAWA,29 JUL 2003,JPN,5,Tokyo (JPN),26 MAR 2023,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Eduardo MENACHO,25 NOV 1999,ESP,2,Santander (ESP),14 MAY 2023,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Barry KEANE,19 NOV 1997,IRL,10,"Boston, MA (USA)",13 APR 2024,1003,5-kilometres,road-running,male,senior
+1435,13:59,,John Nahhay WELE,12 NOV 2006,TAN,6,Oelde (GER),08 JUN 2024,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Hiroki YAMANAKA,05 APR 2002,JPN,4f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Morgan BEADLESCOMB,01 JUN 1998,USA,10,"New York, NY (USA)",02 NOV 2024,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Joshua LAY,11 APR 2000,GBR,8,Monaco (MON),09 FEB 2025,1003,5-kilometres,road-running,male,senior
+1435,13:59,,George WATSON,05 JAN 1999,GBR,33f1,Leicester (GBR),15 MAR 2025,1003,5-kilometres,road-running,male,senior
+1435,13:59,,Pablo ALBA,05 SEP 2002,ESP,16,Lille (FRA),16 MAR 2025,1003,5-kilometres,road-running,male,senior
+1511,14:00,,Samuel CHELANGA,23 FEB 1985,KEN,5,"Providence, RI (USA)",22 SEP 2013,1003,5-kilometres,road-running,male,senior
+1512,14:00,,Andrew LEMONCELLO,12 OCT 1982,GBR,5,"Providence, RI (USA)",20 SEP 2009,1002,5-kilometres,road-running,male,senior
+1513,14:00,,Daniel CLIFFE,23 DEC 1990,GBR,2,Armagh (GBR),22 FEB 2015,1001,5-kilometres,road-running,male,senior
+1514,14:00,,Jim SPISAK,18 NOV 1990,USA,5,"Providence, RI (USA)",21 SEP 2014,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Matt GIUSTO,25 OCT 1966,USA,13,"Carlsbad, CA (USA)",25 MAR 1990,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Dan REESE,15 OCT 1963,USA,14,"Carlsbad, CA (USA)",25 MAR 1990,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Carl Edward THACKERY,14 OCT 1962,GBR,12,London (GBR),23 APR 1995,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Martin JONES,21 APR 1967,GBR,6,Portsmouth (GBR),13 APR 1996,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Gideon MUTISYA,17 JAN 1967,KEN,20,"Providence, RI (USA)",14 SEP 1997,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Néstor GARCÍA,06 JUL 1975,URU,12,"Carlsbad, CA (USA)",26 MAR 2000,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Abel ANTÓN,24 OCT 1962,ESP,1,Soria (ESP),28 SEP 2001,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Mbarak HUSSEIN,04 APR 1965,KEN,8,"Gardena, CA (USA)",02 JUN 2002,1000,5-kilometres,road-running,male,senior
+1515,14:00,,David MORRIS,17 MAY 1970,USA,9,"Gardena, CA (USA)",02 JUN 2002,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Francis KOMU,28 JUN 1974,KEN,7,"Syracuse, NY (USA)",06 OCT 2002,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Kevin SULLIVAN,20 MAR 1974,CAN,3,"Chula Vista, CA (USA)",27 OCT 2002,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Josphat BOIT,28 DEC 1982,KEN,1,"Little Rock, AR (USA)",04 JUL 2006,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Reuben KIBET CHEBII,09 SEP 1982,KEN,1,"Binghamton, NY (USA)",27 AUG 2006,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Rod KOBORSI,04 OCT 1983,USA,5,"Providence, RI (USA)",17 SEP 2006,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Philip KOECH,06 FEB 1987,KEN,8,"New Milford, CT (USA)",06 JUN 2008,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Nicholas KURGAT,1979,KEN,6,"Binghamton, NY (USA)",24 AUG 2008,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Christopher BARNICLE,31 MAR 1987,USA,5,Armagh (GBR),19 FEB 2009,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Jussi UTRIAINEN,28 NOV 1978,FIN,6,Armagh (GBR),19 FEB 2009,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Ben BRUCE,10 SEP 1982,USA,3,Armagh (GBR),25 FEB 2010,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Robert CHESERET,08 OCT 1983,KEN,1,"Providence, RI (USA)",19 SEP 2010,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Andrew BUMBALOUGH,14 MAR 1987,USA,5,"New York, NY (USA)",05 NOV 2011,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Landon PEACOCK,17 NOV 1987,USA,4,Armagh (GBR),09 FEB 2012,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Ali ABDOSH,25 AUG 1987,ETH,9,"Boston, MA (USA)",15 APR 2012,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Brett GOTCHER,01 SEP 1984,USA,10,"Boston, MA (USA)",15 APR 2012,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Scott BAUHS,11 MAY 1986,USA,4,San José (USA),22 NOV 2012,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Jose Antonio URIBE MARINO,03 JAN 1986,MEX,1,Mazatlán (MEX),30 NOV 2013,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Israel AGUILAR HERNÁNDEZ,06 JUL 1978,MEX,5,Mazatlán (MEX),29 NOV 2014,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Chris THOMPSON,17 APR 1981,GBR,7,San José (USA),26 NOV 2015,1000,5-kilometres,road-running,male,senior
+1515,14:00,,John Karanja WANJIKU,,KEN,2,"Wheeling, WV (USA)",06 AUG 2016,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Kirubel ERASSA,17 JUN 1993,USA,4,"Providence, RI (USA)",18 SEP 2016,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Petros SURAFEL,12 JAN 1997,GBR,4,Armagh (GBR),18 FEB 2017,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Carl STONES,01 NOV 1989,USA,4,"Louisville, KY (USA)",05 MAR 2017,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Collis BIRMINGHAM,27 DEC 1984,AUS,7,"Carlsbad, CA (USA)",02 APR 2017,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Thomas CURTIN,08 AUG 1993,USA,13,"Boston, MA (USA)",15 APR 2017,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Eric AVILA,03 OCT 1989,USA,10,San José (USA),23 NOV 2017,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Geoffrey KOECH,28 AUG 1993,KEN,1,Napoli (ITA),04 FEB 2018,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Charlie HULSON,07 MAR 1993,GBR,2,Armagh (GBR),15 FEB 2018,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Eric JENKINS,24 NOV 1991,USA,4,"New York, NY (USA)",03 NOV 2018,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Willy FINK,07 MAR 1994,USA,7,"Boston, MA (USA)",13 APR 2019,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Stanley Kipkoech KEBENEI,06 NOV 1989,USA,8,"New York, NY (USA)",02 NOV 2019,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Emil DANIELSSON,05 SEP 1997,SWE,22,Armagh (GBR),13 FEB 2020,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Hamish ARMITT,24 JUN 2002,GBR,23,Armagh (GBR),13 FEB 2020,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Michał ROZMYS,13 MAR 1995,POL,24,Armagh (GBR),13 FEB 2020,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Adam CLARKE,03 APR 1991,GBR,13,Barrowford (GBR),08 AUG 2020,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Abdessamad OUKHELFEN,18 DEC 1998,ESP,1,Santa Cristina d’Aro (ESP),29 AUG 2020,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Luke DUFFY,14 NOV 2000,GBR,11f7,Barrowford (GBR),03 APR 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,James HUNT,28 APR 1996,GBR,12f7,Barrowford (GBR),03 APR 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Isaac HEYNE,24 JAN 2000,AUS,1,Adelaide (AUS),19 SEP 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Isaac HEYNE,24 JAN 2000,AUS,1,Adelaide (AUS),19 SEP 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Topi RAITANEN,07 FEB 1996,FIN,1,Helsinki (FIN),02 OCT 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Willy FINK,07 MAR 1994,USA,10,"New York, NY (USA)",06 NOV 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Kasey KNEVELBAARD,02 SEP 1996,USA,11,"New York, NY (USA)",06 NOV 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Ben EIDENSCHINK,27 JUL 1996,USA,12,"New York, NY (USA)",06 NOV 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Brian KIBOR,01 JAN 2001,KEN,7,Lille (FRA),06 NOV 2021,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Mohamed-Amine KODAD,10 SEP 1999,FRA,7,Málaga (ESP),24 APR 2022,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Quentin TISON,16 APR 1996,FRA,17,Lille (FRA),19 MAR 2023,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Brian BARRAZA,16 MAY 1995,USA,20,"Boston, MA (USA)",15 APR 2023,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Tom MORTIMER,07 JAN 1999,GBR,2,Newcastle upon Tyne (GBR),08 SEP 2023,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Miguel Angel MARTÍNEZ,22 MAY 2002,ESP,14f1,Leicester (GBR),16 MAR 2024,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Kosei ATOMURA,31 AUG 2004,JPN,15,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",27 APR 2024,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Iori ODA,31 MAY 2004,JPN,6f1,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Eiki KOGURE,15 DEC 2002,JPN,7f1,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Taisei KOBAYASHI,24 JUL 2002,JPN,5f2,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)",29 SEP 2024,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Antonin MARQUANT,12 MAY 2002,FRA,3,St. Omer (FRA),27 OCT 2024,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Conall MCCLEAN,23 APR 2001,IRL,34f1,Leicester (GBR),15 MAR 2025,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Osian PERRIN,21 JAN 2003,GBR,11f8,Nijmegen (NED),05 APR 2025,1000,5-kilometres,road-running,male,senior
+1515,14:00,,Charles BARRETT,23 MAY 2007,AUS,2,"Albert Park, Melbourne (AUS)",15 JUN 2025,1000,5-kilometres,road-running,male,senior
