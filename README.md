@@ -9,7 +9,7 @@ Inspired by: https://github.com/thomascamminady/world-athletics-database/
 
 Used the options.json file from that repo to help
 
-Note: Datasets here were generated on: 2025-06-12
+Note: Datasets here were generated on: 2025-06-24
 
 ### Repo Structure
  - Output: Folder for the csv files created as a result of scraping
@@ -21,7 +21,12 @@ Note: Datasets here were generated on: 2025-06-12
 
 ### To Run
 - Install requirements from requirements.txt
+    
+    pip install -r requirements.txt
+
 - Run file "run.py"
+
+    python3 run.py
 
 # Athletics Performance Dataset Description
 
