@@ -1,7 +1,7 @@
 # Python Scraper for World Athletics Database
 
 ## About
-This is a python project that takes the large dataset that is the top athletic performance for the most common track and field events and turns it into a csv file.
+This is a python project that scrapes data from the World Athletics website and turns it into a large track and field csv dataset.
 
 When run it will take the current date as the end date and gather all the results for each track and field discipline. 
 
