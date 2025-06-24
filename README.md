@@ -20,12 +20,10 @@ Note: Datasets here were generated on: 2025-06-24
  - Scripts: Contains all the scripts necessary to generate the datasets.
 
 ### To Run
-- Install requirements from requirements.txt
-    
+Install requirements from requirements.txt:
     pip install -r requirements.txt
 
-- Run file "run.py"
-
+Run file "run.py":
     python3 run.py
 
 # Athletics Performance Dataset Description
