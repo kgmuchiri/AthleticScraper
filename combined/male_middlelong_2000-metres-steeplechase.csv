@@ -1,0 +1,453 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,5:10.68,,Mahiedine MEKHISSI,1985-03-15,FRA,1,Reims (FRA),2010-06-30,1248,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,310.68,FRA,25.0,2010
+2,5:13.47,,Bouabdellah TAHRI,1978-12-20,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2010-06-25,1228,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,313.47,FRA,31.0,2010
+3,5:14.06,,Soufiane EL BAKKALI,1996-01-07,MAR,1,"Sports Park Mladost, Zagreb (CRO)",2022-09-11,1224,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,314.06,CRO,26.0,2022
+4,5:14.43,,Julius KARIUKI,1961-06-12,KEN,1,Rovereto (ITA),1990-08-21,1221,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,314.43,ITA,29.0,1990
+5,5:14.53,,Saif Saaeed SHAHEEN,1982-10-15,QAT,1,Doha (QAT),2005-05-13,1220,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,314.53,QAT,22.0,2005
+6,5:15.36,,Bouabdellah TAHRI,1978-12-20,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2009-06-26,1215,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,315.36,FRA,30.0,2009
+7,5:15.96,,Bouabdellah TAHRI,1978-12-20,FRA,1,"Tomblaine, Nancy (FRA)",2002-06-19,1210,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,315.96,FRA,23.0,2002
+8,5:16.22,,Philip BARKUTWO,1966-10-06,KEN,2,Rovereto (ITA),1990-08-21,1209,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,316.22,ITA,23.0,1990
+9,5:16.46,,Wesley KIPROTICH,1979-08-01,KEN,2,Doha (QAT),2005-05-13,1207,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,316.46,QAT,25.0,2005
+10,5:16.85,,Eliud BARNGETUNY,1973-05-20,KEN,1,Parma (ITA),1995-06-13,1204,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,316.85,ITA,22.0,1995
+11,5:16.92,,Víctor RUIZ,1993-06-24,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2023-06-14,1204,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,316.92,ESP,29.0,2023
+12,5:17.19,,Bouabdellah TAHRI,1978-12-20,FRA,1,Strasbourg (FRA),2007-06-28,1202,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,317.19,FRA,28.0,2007
+13,5:18.28,,Richard KOSGEI,1970-12-29,KEN,2,Parma (ITA),1995-06-13,1194,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.28,ITA,24.0,1995
+14,5:18.36,,Alessandro LAMBRUSCHINI,1965-01-07,ITA,1,Verona (ITA),1989-09-12,1194,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.36,ITA,24.0,1989
+15,5:18.38,,Azzedine BRAHMI,1966-09-13,ALG,1,Verona (ITA),1992-06-17,1193,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.38,ITA,25.0,1992
+16,5:18.51,,John LANGAT,1974-11-27,KEN,1,Rovereto (ITA),2001-08-29,1192,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.51,ITA,26.0,2001
+17,5:18.60,,Stanley KIBIWOTT,1969-08-08,KEN,2,Rovereto (ITA),2001-08-29,1192,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.6,ITA,32.0,2001
+18,5:18.61,,John LANGAT,1974-11-27,KEN,1,Padova (ITA),2001-08-26,1192,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.61,ITA,26.0,2001
+19,5:18.65,,Antonio David JIMÉNEZ,1977-02-18,ESP,1,Huelva (ESP),2005-06-07,1191,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.65,ESP,28.0,2005
+20,5:18.67,,Eliud BARNGETUNY,1973-05-20,KEN,1,Rovereto (ITA),1995-08-23,1191,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.67,ITA,22.0,1995
+20,5:18.67,,Benjamin KIGEN,1993-07-05,KEN,1,Andújar (ESP),2017-06-02,1191,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.67,ESP,23.0,2017
+22,5:18.68,,Alessandro LAMBRUSCHINI,1965-01-07,ITA,3,Rovereto (ITA),1990-08-21,1191,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.68,ITA,25.0,1990
+23,5:18.88,,Alessandro LAMBRUSCHINI,1965-01-07,ITA,1,Parma (ITA),1992-07-23,1190,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,318.88,ITA,27.0,1992
+24,5:19.05,,Richard KOSGEI,1970-12-29,KEN,2,Rovereto (ITA),1995-08-23,1189,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.05,ITA,24.0,1995
+25,5:19.21,,Joseph KETER,1969-06-13,KEN,3,Rovereto (ITA),1995-08-23,1188,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.21,ITA,26.0,1995
+26,5:19.33,,Bouabdellah TAHRI,1978-12-20,FRA,1,Nancy (FRA),2001-09-02,1187,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.33,FRA,22.0,2001
+27,5:19.44,,Alessandro LAMBRUSCHINI,1965-01-07,ITA,2,Verona (ITA),1992-06-17,1186,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.44,ITA,27.0,1992
+28,5:19.68,,Samson OBWOCHA,1954-10-07,KEN,1,Birmingham (GBR),1986-07-19,1184,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.68,GBR,31.0,1986
+28,5:19.68,,Duncan HAMILTON,2000-07-14,USA,1,"Østerbro Stadium, Copenhagen (DEN)",2024-09-03,1184,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.68,DEN,24.0,2024
+30,5:19.78,,Paul Malakwen KOSGEI,1978-04-22,KEN,1,La Spezia (ITA),1998-06-20,1184,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.78,ITA,20.0,1998
+31,5:19.86,,Mark ROWLAND,1963-03-07,GBR,1,London (GBR),1988-08-28,1183,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.86,GBR,25.0,1988
+32,5:19.96,,Roba GARI,1982-04-12,ETH,1,Herrera (ESP),2007-05-19,1182,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.96,ESP,25.0,2007
+33,5:19.99,,Meresa KAHSAY,1996-05-23,ETH,1,Donetsk (UKR),2013-07-12,1182,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,319.99,UKR,17.0,2013
+1,5:19.99,,Meresa KAHSAY,1996-05-23,ETH,1,Donetsk (UKR),2013-07-12,1182,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,319.99,UKR,17.0,2013
+34,5:20.00,,Krzysztof WESOŁOWSKI,1956-12-09,POL,1,Oslo (NOR),1984-06-28,1182,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.0,NOR,27.0,1984
+35,5:20.03,,Karl BEBENDORF,1996-05-07,GER,1,"Heinz-Steyer-Stadion, Dresden (GER)",2025-05-24,1182,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.03,GER,29.0,2025
+36,5:20.07,,Antonio David JIMÉNEZ,1977-02-18,ESP,1,Andújar (ESP),2001-09-05,1182,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.07,ESP,24.0,2001
+37,5:20.12,,Luciano DI PARDO,1975-02-03,ITA,2,La Spezia (ITA),1998-06-20,1181,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.12,ITA,23.0,1998
+38,5:20.13,,Ali Thamer KAMAL,1988-11-12,QAT,2,Reims (FRA),2010-06-30,1181,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.13,FRA,21.0,2010
+39,5:20.25,,Julius KORIR,1963-12-05,KEN,2,Birmingham (GBR),1986-07-19,1180,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.25,GBR,22.0,1986
+40,5:20.38,,Matthew BIRIR,1972-07-05,KEN,1,Padova (ITA),1996-07-07,1179,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.38,ITA,24.0,1996
+41,5:20.42,,Laid BESSOU,1976-02-05,ALG,1,Padova (ITA),2000-08-27,1179,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.42,ITA,24.0,2000
+42,5:20.44,,Ronald Kipchumba RUTTO,1987-10-08,KEN,3,Doha (QAT),2005-05-13,1179,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.44,QAT,17.0,2005
+2,5:20.44,,Ronald Kipchumba RUTTO,1987-10-08,KEN,3,Doha (QAT),2005-05-13,1179,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,320.44,QAT,17.0,2005
+43,5:20.52,,Luis Miguel MARTÍN,1972-01-11,ESP,1,Laguna (ESP),2002-09-14,1178,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.52,ESP,30.0,2002
+44,5:20.56,,Mark ROWLAND,1963-03-07,GBR,1,Gateshead (GBR),1990-08-17,1178,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.56,GBR,27.0,1990
+45,5:20.60,,Stanley KIBIWOTT,1969-08-08,KEN,2,Padova (ITA),2001-08-26,1178,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.6,ITA,32.0,2001
+46,5:20.81,,Bogusław MAMIŃSKI,1955-12-18,POL,2,Oslo (NOR),1984-06-28,1176,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.81,NOR,28.0,1984
+3,5:20.92,,Nicholas Kiptonui BETT,1996-12-20,KEN,2,Donetsk (UKR),2013-07-12,1176,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,320.92,UKR,16.0,2013
+47,5:20.92,,Nicholas Kiptonui BETT,1996-12-20,KEN,2,Donetsk (UKR),2013-07-12,1176,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,320.92,UKR,16.0,2013
+48,5:21.13,,Lotfi TURKI,1975-03-06,TUN,2,Padova (ITA),2000-08-27,1174,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.13,ITA,25.0,2000
+49,5:21.14,,Azzedine BRAHMI,1966-09-13,ALG,1,Caserta (ITA),1992-06-11,1174,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.14,ITA,25.0,1992
+50,5:21.2h,,Eshetu TURA,1950-01-19,ETH,1,Montréal (CAN),1976-07-14,1174,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.2,CAN,26.0,1976
+51,5:21.23,,Angelo CAROSI,1964-01-20,ITA,4,Rovereto (ITA),1990-08-21,1174,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.23,ITA,26.0,1990
+52,5:21.26,,Benson KOECH,1974-11-10,KEN,3,Padova (ITA),2001-08-26,1173,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.26,ITA,26.0,2001
+4,5:21.36,,Nabil OUHADI,1989-08-18,MAR,1,Rabat (MAR),2006-07-15,1173,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,321.36,MAR,16.0,2006
+53,5:21.36,,Nabil OUHADI,1989-08-18,MAR,1,Rabat (MAR),2006-07-15,1173,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.36,MAR,16.0,2006
+54,5:21.45,,Julius KARIUKI,1961-06-12,KEN,2,Gateshead (GBR),1990-08-17,1172,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.45,GBR,29.0,1990
+55,5:21.49,,Julius KARIUKI,1961-06-12,KEN,4,Rovereto (ITA),1995-08-23,1172,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.49,ITA,34.0,1995
+56,5:21.77,,Thomas HANLON,1967-05-20,GBR,1,Caserta (ITA),1992-06-11,1170,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.77,ITA,25.0,1992
+57,5:21.78,,Osama ZOGHLAMI,1994-06-19,ITA,1,"Stadio Guidobaldi, Rieti (ITA)",2022-05-21,1170,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.78,ITA,27.0,2022
+58,5:21.94,,Alessandro LAMBRUSCHINI,1965-01-07,ITA,2,Padova (ITA),1996-07-07,1169,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.94,ITA,31.0,1996
+59,5:21.96,,Farley GERBER,1960-04-25,USA,3,Oslo (NOR),1984-06-28,1168,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.96,NOR,24.0,1984
+60,5:21.97,,Richard KOSGEI,1970-12-29,KEN,1,Formia (ITA),1998-07-12,1168,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.97,ITA,27.0,1998
+60,5:21.97,,Graeme FELL,1959-03-19,CAN,1,Auckland (NZL),1990-01-20,1168,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,321.97,NZL,30.0,1990
+62,5:22.10,,Barnabas KIPYEGO,1995-06-12,KEN,2,Andújar (ESP),2017-06-02,1168,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.1,ESP,21.0,2017
+63,5:22.2h,,Yohannes MOHAMED,1948-01-21,ETH,2,Montréal (CAN),1976-07-14,1167,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.2,CAN,28.0,1976
+63,5:22.2h,,Mariano SCARTEZZINI,1954-11-07,ITA,1,Udine (ITA),1981-09-20,1167,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.2,ITA,26.0,1981
+65,5:22.24,,William VAN DIJCK,1961-01-24,BEL,1,Hechtel (BEL),1987-08-08,1167,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.24,BEL,26.0,1987
+66,5:22.32,,Mirosław ŻERKOWSKI,1956-08-20,POL,1,Formia (ITA),1991-07-08,1166,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.32,ITA,34.0,1991
+67,5:22.35,,Julius KARIUKI,1961-06-12,KEN,1,Gateshead (GBR),1991-08-09,1166,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.35,GBR,30.0,1991
+68,5:22.37,,Mark ROWLAND,1963-03-07,GBR,1,Sheffield (GBR),1990-09-16,1166,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.37,GBR,27.0,1990
+69,5:22.52,,Samson OBWOCHA,1954-10-07,KEN,1,Birmingham (GBR),1986-08-19,1165,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.52,GBR,31.0,1986
+70,5:22.58,,Vidar JOHANSSON,1996-10-08,SWE,2,"Østerbro Stadium, Copenhagen (DEN)",2024-09-03,1164,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.58,DEN,27.0,2024
+71,5:22.62,,Philip BARKUTWO,1966-10-06,KEN,3,Gateshead (GBR),1990-08-17,1164,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.62,GBR,23.0,1990
+72,5:22.93,,Eliseo MARTÍN,1973-11-05,ESP,2,Andújar (ESP),2001-09-05,1162,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.93,ESP,27.0,2001
+73,5:22.96,,Thomas HANLON,1967-05-20,GBR,2,Sheffield (GBR),1990-09-16,1162,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.96,GBR,23.0,1990
+74,5:22.97,,Tim BROE,1977-06-20,USA,4,Padova (ITA),2001-08-26,1162,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,322.97,ITA,24.0,2001
+75,5:23.02,,Abdelkader HACHLAF,1979-07-03,MAR,2,Herrera (ESP),2007-05-19,1161,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.02,ESP,27.0,2007
+76,5:23.04,,José Luis BLANCO,1975-06-03,ESP,1,Barcelona (ESP),2003-07-11,1161,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.04,ESP,28.0,2003
+77,5:23.14,,Abdelaziz SAHERE,1967-09-18,MAR,1,Padova (ITA),1997-06-08,1160,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.14,ITA,29.0,1997
+78,5:23.15,,Leonardo FELETTO,1995-06-26,ITA,2,"Sports Park Mladost, Zagreb (CRO)",2022-09-11,1160,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.15,CRO,27.0,2022
+79,5:23.18,,Abderrahim OUGRA,1999-11-26,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2023-06-14,1160,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.18,ESP,23.0,2023
+80,5:23.49,,Matthew BIRIR,1972-07-05,KEN,2,Caserta (ITA),1992-06-11,1158,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.49,ITA,19.0,1992
+81,5:23.56,,Thomas BUCKNER,1963-04-16,GBR,1,Gateshead (GBR),1992-07-17,1157,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.56,GBR,29.0,1992
+82,5:23.6h,,Roger HACKNEY,1957-09-02,GBR,1,Birmingham (GBR),1982-06-10,1157,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.6,GBR,24.0,1982
+83,5:23.68,,Elijah CHELIMO,1987-04-20,KEN,3,Herrera (ESP),2007-05-19,1157,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.68,ESP,20.0,2007
+84,5:23.71,,Colin WALKER,1962-10-29,GBR,2,London (GBR),1988-08-28,1156,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.71,GBR,25.0,1988
+85,5:23.87,,Colin REITZ,1960-04-06,GBR,4,Oslo (NOR),1984-06-28,1155,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.87,NOR,24.0,1984
+86,5:23.91,,Philip BARKUTWO,1966-10-06,KEN,2,Gateshead (GBR),1992-07-17,1155,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.91,GBR,25.0,1992
+87,5:23.93,,Angelo CAROSI,1964-01-20,ITA,5,Rovereto (ITA),1995-08-23,1155,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,323.93,ITA,31.0,1995
+88,5:24.06,,Peter RENNER,1959-10-27,NZL,3,Birmingham (GBR),1986-07-19,1154,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.06,GBR,26.0,1986
+89,5:24.11,,William MUTWOL,1967-10-10,KEN,3,Sheffield (GBR),1990-09-16,1154,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.11,GBR,22.0,1990
+90,5:24.12,,Bernard BARMASAI,1974-05-06,KEN,1,Kerkrade (NED),1998-05-24,1154,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.12,NED,24.0,1998
+91,5:24.18,,Jorge BELLO,1963-03-28,ESP,1,Barcelona (ESP),1986-08-16,1153,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.18,ESP,23.0,1986
+92,5:24.19,,Béla VÁGÓ,1963-10-03,HUN,2,Formia (ITA),1991-07-08,1153,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.19,ITA,27.0,1991
+93,5:24.39,,José Luis BLANCO,1975-06-03,ESP,1,Barcelona (ESP),2004-07-09,1152,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.39,ESP,29.0,2004
+94,5:24.41,,Colin WALKER,1962-10-29,GBR,2,Auckland (NZL),1990-01-20,1152,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.41,NZL,27.0,1990
+95,5:24.43,,José Luis BLANCO,1975-06-03,ESP,3,Andújar (ESP),2001-09-05,1151,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.43,ESP,26.0,2001
+96,5:24.47,,Stefano CIALLELLA,1974-04-22,ITA,3,La Spezia (ITA),1998-06-20,1151,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.47,ITA,24.0,1998
+97,5:24.54,,William VAN DIJCK,1961-01-24,BEL,2,Verona (ITA),1989-09-12,1151,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.54,ITA,28.0,1989
+98,5:24.64,,Joshua KIPKEMBOI,1959-02-22,KEN,2,Birmingham (GBR),1986-08-19,1150,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.64,GBR,27.0,1986
+5,5:24.69,,Abel Kiprop MUTAI,1988-10-02,KEN,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1150,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,324.69,MAR,16.0,2005
+99,5:24.69,,Abel Kiprop MUTAI,1988-10-02,KEN,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1150,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.69,MAR,16.0,2005
+100,5:24.75,,Richard KOSGEI,1970-12-29,KEN,1,Rovereto (ITA),1994-07-24,1149,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.75,ITA,23.0,1994
+100,5:24.75,,Konstantin PLOKHOTNIKOV,1997-03-24,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",2023-07-08,1149,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.75,RUS,26.0,2023
+102,5:24.79,,Eliseo MARTÍN,1973-11-05,ESP,2,Huelva (ESP),2005-06-07,1149,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.79,ESP,31.0,2005
+103,5:24.87,,Bisluke Kipkorir KIPLAGAT,1988-08-08,KEN,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.87,MAR,16.0,2005
+6,5:24.87,,Bisluke Kipkorir KIPLAGAT,1988-08-08,KEN,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1148,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,324.87,MAR,16.0,2005
+104,5:24.91,,Eddie WEDDERBURN,1960-12-06,GBR,3,Birmingham (GBR),1986-08-19,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.91,GBR,25.0,1986
+104,5:24.91,,Philip BARKUTWO,1966-10-06,KEN,2,Gateshead (GBR),1991-08-09,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.91,GBR,24.0,1991
+106,5:24.92,,Pascal DOBERT,1974-04-08,USA,2,Rovereto (ITA),1998-08-26,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.92,ITA,24.0,1998
+107,5:24.93,,Abderrahmane DAAS,1973-12-08,ALG,2,Formia (ITA),1998-07-12,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.93,ITA,24.0,1998
+107,5:24.93,,Ala ZOGHLAMI,1994-06-19,ITA,2,"Stadio Guidobaldi, Rieti (ITA)",2022-05-21,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.93,ITA,27.0,2022
+109,5:24.99,,Gábor MARKÓ,1960-02-07,HUN,5,Oslo (NOR),1984-06-28,1148,2000-metres-steeplechase,middlelong,male,senior,2000-metres-steeplechase,track,324.99,NOR,24.0,1984
+7,5:25.01,,Arsenios TSIMINOS,1961-01-19,GRE,1,Athina (GRE),1980-10-02,1147,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,325.01,GRE,19.0,1980
+8,5:25.17,,John KOSGEI,1973-07-15,KEN,2,Parma (ITA),1992-07-23,1146,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,325.17,ITA,19.0,1992
+9,5:25.33,,Hillary Kipsang YEGO,1992-04-02,KEN,1,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-12,1145,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,325.33,ITA,17.0,2009
+10,5:26.52,,Abdelghani AIT BAHMED,1989-07-28,MAR,3,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1137,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,326.52,MAR,15.0,2005
+11,5:26.59,,Peter Kibet LAGAT,1992-05-26,KEN,2,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-12,1137,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,326.59,ITA,17.0,2009
+12,5:27.17,,Vincent KIPYEGON,1998-12-31,KEN,1,Nairobi (KEN),2015-06-17,1133,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,327.17,KEN,16.0,2015
+13,5:27.44,,Gaetano ERBA,1960-01-02,ITA,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1131,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,327.44,POL,19.0,1979
+14,5:27.58,,Vincent KIPYEGON,1998-12-31,KEN,1,"Pascual Guerrero Stadium, Cali (COL)",2015-07-19,1130,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,327.58,COL,16.0,2015
+15,5:27.64,,Ronald Kipchumba RUTTO,1987-10-08,KEN,3,Naimette-Xhovémont (BEL),2003-09-02,1130,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,327.64,BEL,15.0,2003
+16,5:28.14,,Frank BAUMGARTL,1955-05-29,GDR,1,"Wedaustadion, Duisburg (GER)",1973-08-26,1126,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.14,GER,18.0,1973
+17,5:28.15,,Nikolay MATYUSHENKO,1966-01-04,URS,1,Debrecen (HUN),1984-08-18,1126,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.15,HUN,18.0,1984
+18,5:28.2h,,Vincent KIPYEGON,1998-12-31,KEN,1,Nairobi (KEN),2015-04-01,1126,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.2,KEN,16.0,2015
+19,5:28.31,,Nikolay MATYUSHENKO,1966-01-04,URS,1,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-24,1125,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.31,GDR,19.0,1985
+20,5:28.36,,Vladimir KANEV,1954-02-06,BUL,2,"Wedaustadion, Duisburg (GER)",1973-08-26,1125,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.36,GER,19.0,1973
+21,5:28.48,,Jacob ARAPTANY,1992-02-11,UGA,1,Pliezhausen (GER),2011-05-22,1124,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.48,GER,19.0,2011
+22,5:28.52,,Leonard Kipkemoi BETT,2000-11-03,KEN,1,Nairobi (KEN),2017-06-14,1124,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.52,KEN,16.0,2017
+23,5:28.56,,Jon AZKUETA,1967-07-02,ESP,1,"Olympic Stadium, Athina (GRE)",1986-07-20,1123,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.56,GRE,19.0,1986
+24,5:28.65,,Conseslus KIPRUTO,1994-12-08,KEN,1,Lille (FRA),2011-07-08,1123,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.65,FRA,16.0,2011
+25,5:28.78,,Justus Kipchirchir KIPRONO,1987-02-28,KEN,5,Naimette-Xhovémont (BEL),2003-09-02,1122,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.78,BEL,16.0,2003
+26,5:28.97,,Bisluke Kipkorir KIPLAGAT,1988-08-08,KEN,5,Herrera (ESP),2007-05-19,1121,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,328.97,ESP,18.0,2007
+27,5:29.1h,,Vincent KIPYEGON,1998-12-31,KEN,1h1,Nairobi (KEN),2015-06-17,1120,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.1,KEN,16.0,2015
+28,5:29.2h,,Nicholas Kiptonui BETT,1996-12-20,KEN,1h1,Nairobi (KEN),2013-06-11,1119,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.2,KEN,16.0,2013
+29,5:29.3h,,Conseslus KIPRUTO,1994-12-08,KEN,1,Nairobi (KEN),2011-06-08,1118,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.3,KEN,16.0,2011
+30,5:29.41,,Wogene Sebisibe SIDAMO,1998-06-23,ETH,2,"Pascual Guerrero Stadium, Cali (COL)",2015-07-19,1118,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.41,COL,17.0,2015
+31,5:29.51,,Nahom Mesfin TARIKU,1989-06-03,ETH,4,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1117,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.51,MAR,16.0,2005
+32,5:29.56,,Johnstone KIPKOECH,1968-12-20,KEN,2,"Olympic Stadium, Athina (GRE)",1986-07-20,1117,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.56,GRE,17.0,1986
+33,5:29.60,,Jens VOLKMANN,1967-05-31,FRG,3,"Olympic Stadium, Athina (GRE)",1986-07-20,1116,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.6,GRE,19.0,1986
+34,5:29.61,,Colin REITZ,1960-04-06,GBR,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1116,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.61,POL,19.0,1979
+35,5:29.66,,Desta ALEMU,1992-02-18,ETH,3,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-12,1116,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.66,ITA,17.0,2009
+36,5:29.71,,Justus Kipchirchir KIPRONO,1987-02-28,KEN,1,Palermo (ITA),2003-09-21,1116,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.71,ITA,16.0,2003
+37,5:29.91,,Gyula BALOGH,1961-02-15,HUN,1,Budapest (HUN),1980-09-05,1114,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,329.91,HUN,19.0,1980
+38,5:30.0h,,Gilbert KIRUI,1994-01-22,KEN,2,Nairobi (KEN),2011-06-08,1114,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.0,KEN,17.0,2011
+38,5:30.00,,Justus LAGAT,1996-05-20,KEN,3,Donetsk (UKR),2013-07-12,1114,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.0,UKR,17.0,2013
+38,5:30.0h,,Nickson KIPLANGAT,1998-04-09,KEN,2,Nairobi (KEN),2015-04-01,1114,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.0,KEN,16.0,2015
+41,5:30.04,,Kelvin KIPYEGON,,KEN,2,Nairobi (KEN),2017-06-14,1113,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.04,KEN,,2017
+42,5:30.16,,Geoffrey ROTICH,1998-10-28,KEN,3,"Pascual Guerrero Stadium, Cali (COL)",2015-07-19,1112,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.16,COL,16.0,2015
+43,5:30.2h,,Domingo RAMON,1958-03-10,ESP,1,Dôle (FRA),1977-08-07,1112,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.2,FRA,19.0,1977
+43,5:30.2h,,Vesa LAUKKANEN,1958-04-09,FIN,1,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1112,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.2,URS,19.0,1977
+45,5:30.27,,Ronald Kipchumba RUTTO,1987-10-08,KEN,1,Sherbrooke (CAN),2003-07-13,1112,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.27,CAN,15.0,2003
+46,5:30.49,,Gilbert KIRUI,1994-01-22,KEN,2,Lille (FRA),2011-07-08,1110,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.49,FRA,17.0,2011
+47,5:30.51,,Abdellah DACHA,1992-01-26,MAR,4,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-12,1110,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.51,ITA,17.0,2009
+48,5:30.59,,Geoffrey ROTICH,1998-10-28,KEN,2,Nairobi (KEN),2015-06-17,1110,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.59,KEN,16.0,2015
+49,5:30.73,,Radosław POPŁAWSKI,1983-01-16,POL,1,Wrocław (POL),2002-05-19,1109,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.73,POL,19.0,2002
+50,5:30.81,,Legesse LAMISO,1990-01-13,ETH,1,Ostrava (CZE),2007-07-13,1108,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.81,CZE,17.0,2007
+51,5:30.85,,Eliud BARNGETUNY,1973-05-20,KEN,3,Padova (ITA),1992-08-30,1108,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.85,ITA,19.0,1992
+52,5:30.91,,Nikolay MATYUSHENKO,1966-01-04,URS,1,Plovdiv (BUL),1984-08-04,1107,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,330.91,BUL,18.0,1984
+53,5:31.1h,,Hagen MELZER,1959-06-16,GDR,1,Halle (GER),1978-08-16,1106,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.1,GER,19.0,1978
+54,5:31.12,,Paul DAVIES-HALE,1962-06-21,GBR,1,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-22,1106,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.12,NED,19.0,1981
+55,5:31.2h,,Francesco PANETTA,1963-01-10,ITA,1,Saronno (ITA),1982-05-22,1105,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.2,ITA,19.0,1982
+56,5:31.22,,Bisluke Kipkorir KIPLAGAT,1988-08-08,KEN,3,Strasbourg (FRA),2007-06-28,1105,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.22,FRA,18.0,2007
+57,5:31.24,,Justus Kipchirchir KIPRONO,1987-02-28,KEN,2,Sherbrooke (CAN),2003-07-13,1105,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.24,CAN,16.0,2003
+58,5:31.27,,Conseslus KIPRUTO,1994-12-08,KEN,1h2,Lille (FRA),2011-07-06,1105,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.27,FRA,16.0,2011
+59,5:31.31,,Wogene Sebisibe SIDAMO,1998-06-23,ETH,1h2,"Pascual Guerrero Stadium, Cali (COL)",2015-07-17,1105,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.31,COL,17.0,2015
+60,5:31.54,,Nikolay MATYUSHENKO,1966-01-04,URS,1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1103,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.54,AUT,17.0,1983
+61,5:31.56,,Hailemariyam AMARE,1997-02-22,ETH,1,Poitiers (FRA),2014-09-13,1103,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.56,FRA,17.0,2014
+62,5:31.6h,,Justus LAGAT,1996-05-20,KEN,2h1,Nairobi (KEN),2013-06-11,1103,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.6,KEN,17.0,2013
+63,5:31.80,,Michael INWOOD,1965-12-18,AUS,1,Adelaide (AUS),1983-12-11,1101,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.8,AUS,17.0,1983
+64,5:31.89,,Stephen CHERONO,1982-10-15,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1999-07-17,1101,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,331.89,POL,16.0,1999
+65,5:32.00,,Geoffrey ROTICH,1998-10-28,KEN,2h2,"Pascual Guerrero Stadium, Cali (COL)",2015-07-17,1100,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.0,COL,16.0,2015
+66,5:32.48,,Michael LÄNGLER,1960-01-19,FRG,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1097,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.48,POL,19.0,1979
+67,5:32.52,,Leonard Kipkemoi BETT,2000-11-03,KEN,1,"Kasarani, Nairobi (KEN)",2017-07-16,1097,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.52,KEN,16.0,2017
+68,5:32.58,,Frank FISCHER,1963-06-25,GDR,1,Leningrad (URS),1982-06-19,1096,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.58,URS,18.0,1982
+69,5:32.61,,Luleseged WALE,1982-05-29,ETH,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1999-07-17,1096,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.61,POL,17.0,1999
+70,5:32.66,,Magnus TELLANDER,1954-03-19,SWE,3,"Wedaustadion, Duisburg (GER)",1973-08-26,1096,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.65999999999997,GER,19.0,1973
+71,5:32.72,,Tareq Mubarak TAHER,1986-12-01,BRN,1,Manama (BRN),2005-04-28,1095,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.72,BRN,18.0,2005
+72,5:32.75,,Peter DAENENS,1960-11-23,BEL,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1095,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.75,POL,18.0,1979
+73,5:32.84,,Thomas HANLON,1967-05-20,GBR,4,"Olympic Stadium, Athina (GRE)",1986-07-20,1094,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.84000000000003,GRE,19.0,1986
+74,5:32.88,,Silas Kosgei KITUM,1990-05-25,KEN,2,Ostrava (CZE),2007-07-13,1094,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.88,CZE,17.0,2007
+75,5:32.92,,Hicham CHAMLAL,1997-12-02,MAR,4,Donetsk (UKR),2013-07-12,1094,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,332.92,UKR,15.0,2013
+76,5:33.02,,Frank RÜHKIECK,1961-11-23,GDR,5,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1093,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.02,POL,17.0,1979
+77,5:33.07,,Cleophas Kandie MEYAN,2000-08-14,KEN,2,"Kasarani, Nairobi (KEN)",2017-07-16,1093,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.07,KEN,16.0,2017
+78,5:33.2h,,Kevin KIMUTAI,1998-05-11,KEN,2h1,Nairobi (KEN),2015-06-17,1092,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.2,KEN,17.0,2015
+79,5:33.40,,David KIRWA,1985-08-01,KEN,1,Debrecen (HUN),2001-07-15,1091,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.4,HUN,15.0,2001
+80,5:33.58,,Nikolay MATYUSHENKO,1966-01-04,URS,1,Leningrad (URS),1983-08-10,1090,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.58,URS,17.0,1983
+81,5:33.59,,Kidanemariam DESSIE,1999-09-12,ETH,1,Assela (ETH),2017-06-15,1089,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.59000000000003,ETH,17.0,2017
+82,5:33.6h,,Geoffrey ROTICH,1998-10-28,KEN,3,Nairobi (KEN),2015-04-01,1089,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.6,KEN,16.0,2015
+83,5:33.63,,Legesse LAMISO,1990-01-13,ETH,1h2,Ostrava (CZE),2007-07-11,1089,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.63,CZE,17.0,2007
+84,5:33.66,,Nahom Mesfin TARIKU,1989-06-03,ETH,1h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-13,1089,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.65999999999997,MAR,16.0,2005
+85,5:33.83,,José Luis CIVERA,1967-02-10,ESP,5,"Olympic Stadium, Athina (GRE)",1986-07-20,1088,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.83,GRE,19.0,1986
+86,5:33.88,,Burkhard DAHM,1965-10-08,FRG,2,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1088,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,333.88,AUT,17.0,1983
+87,5:34.1h,,Domingo RAMON,1958-03-10,ESP,2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1086,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.1,URS,19.0,1977
+88,5:34.13,,Hillary Kipsang YEGO,1992-04-02,KEN,1h1,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-10,1086,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.13,ITA,17.0,2009
+89,5:34.24,,Wogene Sebisibe SIDAMO,1998-06-23,ETH,1h,"Olympic Stadium, Nanjing (CHN)",2014-08-21,1085,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.24,CHN,16.0,2014
+90,5:34.49,,Abdellah DACHA,1992-01-26,MAR,3,Ostrava (CZE),2007-07-13,1083,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.49,CZE,15.0,2007
+91,5:34.52,,Vincent KIPYEGON,1998-12-31,KEN,1h1,"Pascual Guerrero Stadium, Cali (COL)",2015-07-17,1083,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.52,COL,16.0,2015
+92,5:34.53,,Marcin CHABOWSKI,1986-06-28,POL,1,Gdansk (POL),2005-05-14,1083,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.53,POL,18.0,2005
+93,5:34.61,,Nickson KIPLANGAT,1998-04-09,KEN,3,Nairobi (KEN),2015-06-17,1083,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.61,KEN,17.0,2015
+94,5:34.68,,Birhan GETAHUN,1991-09-05,ETH,5,"Stade Raymond Petit, Tomblaine (FRA)",2010-06-25,1082,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.68,FRA,18.0,2010
+95,5:34.8h,,Mickey MORRIS,1956-12-11,GBR,1,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-24,1081,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.8,GRE,18.0,1975
+95,5:34.8h,,Paul NOTHACKER,1958-11-19,FRG,3,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1081,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.8,URS,18.0,1977
+95,5:34.8h,,Geoffrey ROTICH,1998-10-28,KEN,1h2,Nairobi (KEN),2015-06-17,1081,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.8,KEN,16.0,2015
+98,5:34.85,,Grzegorz WALASZEK,1981-04-28,POL,1,Wrocław (POL),2000-08-28,1081,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.85,POL,19.0,2000
+99,5:34.86,,Vyacheslav KOSELEV,1968-01-20,URS,6,"Olympic Stadium, Athina (GRE)",1986-07-20,1081,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.86,GRE,18.0,1986
+100,5:34.9h,,Tegenu MENGISTU,1998-04-29,ETH,1,Assela (ETH),2015-05-15,1081,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.9,ETH,17.0,2015
+101,5:34.94,,Abrham SIME,2001-11-07,ETH,1h1,Buenos Aires (ARG),2018-10-12,1080,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.94,ARG,16.0,2018
+102,5:34.98,,Sándor SERFÖZŐ,1966-04-29,HUN,2,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-24,1080,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.98,GDR,19.0,1985
+102,5:34.98,,Gilbert KIRUI,1994-01-22,KEN,1h1,Lille (FRA),2011-07-06,1080,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,334.98,FRA,17.0,2011
+104,5:35.0h,,Ronald Kipchumba RUTTO,1987-10-08,KEN,1,Nairobi (KEN),2003-06-18,1080,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.0,KEN,15.0,2003
+105,5:35.05,,Jaouad CHEMLAL,1994-04-11,MAR,,Rabat (MAR),2011-04-27,1080,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.05,MAR,17.0,2011
+106,5:35.10,,Ilkka ÄYRÄVÄINEN,1960-02-28,FIN,6,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1079,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.1,POL,19.0,1979
+107,5:35.11,,Hansjörg KUNZE,1959-12-28,GDR,1,Erfurt (GDR),1976-07-18,1079,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.11,GDR,16.0,1976
+108,5:35.22,,Justus LAGAT,1996-05-20,KEN,1h3,Donetsk (UKR),2013-07-10,1079,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.22,UKR,17.0,2013
+109,5:35.33,,Mehari TSEGAY,1999-02-12,ERI,,Khartoum (SUD),2015-06-13,1078,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.33,SUD,16.0,2015
+110,5:35.36,,Ruben SCHWARZ,1984-01-31,GER,1,Fulda (GER),2003-07-05,1078,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.36,GER,19.0,2003
+111,5:35.4h,,Francisco SÁNCHEZ,1958-05-18,ESP,4,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1077,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.4,URS,19.0,1977
+112,5:35.47,,Tadese TAKELE,2002-08-03,ETH,1,Abidjan (CIV),2019-04-17,1077,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.47,CIV,16.0,2019
+113,5:35.5h,,Justine MOSETI,1999-06-07,KEN,2h2,Nairobi (KEN),2015-06-17,1077,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.5,KEN,16.0,2015
+114,5:35.82,,Xiaocheng DONG,,CHN,1,Yantai (CHN),2006-10-12,1075,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.82,CHN,,2006
+115,5:35.83,,Marián HUNČÍK,1966-01-30,TCH,3,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-24,1075,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.83,GDR,19.0,1985
+116,5:35.86,,Wogene Sebisibe SIDAMO,1998-06-23,ETH,1,"National Stadium, Gaborone (BOT)",2014-05-31,1074,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.86,BOT,15.0,2014
+117,5:35.99,,Angel RODRÍGUEZ,1967-10-14,CUB,7,"Olympic Stadium, Athina (GRE)",1986-07-20,1073,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,335.99,GRE,18.0,1986
+118,5:36.0h,,Raymond Kipkorir YATOR,1981-04-07,KEN,1,Nairobi (KEN),1999-07-02,1073,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.0,KEN,18.0,1999
+118,5:36.0h,,Peter Matheka MUTUKU,1994-01-12,KEN,3,Nairobi (KEN),2011-06-08,1073,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.0,KEN,17.0,2011
+120,5:36.1h,,Paolo FATTORI,1958-04-24,ITA,5,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1073,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.1,URS,19.0,1977
+120,5:36.1h,,Hagen MELZER,1959-06-16,GDR,6,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1073,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.1,URS,18.0,1977
+122,5:36.2h,,Cleophas Kandie MEYAN,2000-08-14,KEN,1,Eldoret (KEN),2017-05-26,1072,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.2,KEN,16.0,2017
+123,5:36.22,,Vadim SLOBODENYUK,1981-03-17,UKR,3,Palafrugell (ESP),2000-05-27,1072,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.22,ESP,19.0,2000
+124,5:36.37,,Zak SEDDON,1994-06-28,GBR,1,Eltham (GBR),2013-06-19,1071,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.37,GBR,18.0,2013
+125,5:36.39,,Abdelghani AIT BAHMED,1989-07-28,MAR,2,Bottrop (GER),2007-05-24,1071,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.39,GER,17.0,2007
+126,5:36.5h,,Nickson KIPLANGAT,1998-04-09,KEN,3h1,Nairobi (KEN),2015-06-17,1070,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.5,KEN,17.0,2015
+127,5:36.52,,Jaouad CHEMLAL,1994-04-11,MAR,1,Marrakech (MAR),2010-04-25,1070,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.52,MAR,16.0,2010
+128,5:36.58,,Arsenios TSIMINOS,1961-01-19,GRE,7,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1070,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.58,POL,18.0,1979
+129,5:36.63,,Nikolay MATYUSHENKO,1966-01-04,URS,1h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1069,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.63,AUT,17.0,1983
+130,5:36.64,,Micheale ATSBAHA,1997-06-27,ETH,5,Donetsk (UKR),2013-07-12,1069,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.64,UKR,16.0,2013
+131,5:36.8h,,Krasimir KANEV,1959-03-10,BUL,7,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1068,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.8,URS,18.0,1977
+131,5:36.80,,Steve CORNWELL,1967-06-10,CAN,8,"Olympic Stadium, Athina (GRE)",1986-07-20,1068,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.8,GRE,19.0,1986
+133,5:36.81,,Brimin Kiprop KIPRUTO,1985-07-31,KEN,2,Debrecen (HUN),2001-07-15,1068,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.81,HUN,15.0,2001
+134,5:36.82,,Brian KIPKORIR,2000-08-19,KEN,3,Nairobi (KEN),2017-06-14,1068,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.82,KEN,16.0,2017
+135,5:36.86,,Lorenzo HIDALGO,1965-01-07,ESP,3,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1068,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.86,AUT,18.0,1983
+136,5:36.90,,Justine MOSETI,1999-06-07,KEN,4,Nairobi (KEN),2015-06-17,1067,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,336.9,KEN,16.0,2015
+137,5:37.00,,Mustafa MOHAMED,1979-03-01,SWE,1,Karlskrona (SWE),1998-08-14,1067,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.0,SWE,19.0,1998
+137,5:37.0h,,Robert Kipchirchir MWEI,1998-11-04,KEN,4h1,Nairobi (KEN),2015-06-17,1067,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.0,KEN,16.0,2015
+139,5:37.05,,Vincent KIPYEGON,1998-12-31,KEN,1,Réduit (MRI),2015-04-24,1066,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.05,MRI,16.0,2015
+140,5:37.08,,Sándor SERFÖZŐ,1966-04-29,HUN,2,Debrecen (HUN),1984-08-18,1066,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.08,HUN,18.0,1984
+141,5:37.10,,Yoann KOWAL,1987-05-28,FRA,1,Les Sables d'Olonne (FRA),2006-07-30,1066,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.1,FRA,19.0,2006
+142,5:37.16,,Viorel POPESCU,,ROU,2h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1066,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.15999999999997,AUT,,1983
+143,5:37.2h,,Konstadínos SAKALIS,1957-10-01,GRE,2,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-24,1065,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.2,GRE,17.0,1975
+144,5:37.22,,Marcin CHABOWSKI,1986-06-28,POL,1,Białystok (POL),2004-06-26,1065,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.22,POL,18.0,2004
+145,5:37.30,,Jonathan Muia NDIKU,1991-09-18,KEN,4,Ostrava (CZE),2007-07-13,1065,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.3,CZE,15.0,2007
+146,5:37.31,,Johnstone KIPKOECH,1968-12-20,KEN,1h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1065,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.31,GRE,17.0,1986
+146,5:37.31,,Desta ALEMU,1992-02-18,ETH,2h1,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-10,1065,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.31,ITA,17.0,2009
+148,5:37.32,,Berhanu SHIFERAW,1993-05-31,ETH,5,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-12,1065,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.32,ITA,16.0,2009
+149,5:37.36,,Kibet CHEPKWONY,,KEN,2,Abidjan (CIV),2019-04-17,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.36,CIV,,2019
+150,5:37.38,,Michael WILMS,,GER,1f1,Pliezhausen (GER),2012-05-06,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.38,GER,,2012
+151,5:37.40,,Jānis IESALNIEKS,,URS,,Moskva (URS),1974-01-01,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.4,URS,,1974
+151,5:37.4h,,Christer STRÖM,1956-12-01,SWE,3,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-24,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.4,GRE,18.0,1975
+153,5:37.41,,Jakub CZAJA,1980-09-12,POL,1,Białystok (POL),1999-07-20,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.40999999999997,POL,18.0,1999
+154,5:37.44,,Sándor SERFÖZŐ,1966-04-29,HUN,1,Łódź (POL),1985-08-11,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.44,POL,19.0,1985
+155,5:37.49,,Peter Kibet LAGAT,1992-05-26,KEN,1h2,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-10,1064,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.49,ITA,17.0,2009
+156,5:37.52,,Yousif Idress MUSA,1988-06-17,SUD,6,Doha (QAT),2005-05-13,1063,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.52,QAT,16.0,2005
+157,5:37.60,,Csaba SZŰCS,1965-01-29,HUN,2,Plovdiv (BUL),1983-08-15,1063,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.6,BUL,18.0,1983
+158,5:37.63,,Peter Matheka MUTUKU,1994-01-12,KEN,1f2,Singapore (SGP),2010-08-23,1063,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.63,SGP,16.0,2010
+158,5:37.63,,Hicham CHAMLAL,1997-12-02,MAR,2,"National Stadium, Gaborone (BOT)",2014-05-31,1063,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.63,BOT,16.0,2014
+160,5:37.68,,David KIRWA,1985-08-01,KEN,2,Torrevieja (ESP),2003-04-26,1062,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.68,ESP,17.0,2003
+161,5:37.76,,Abraham KEBETO,,ETH,3,Debrecen (HUN),2001-07-15,1062,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.76,HUN,,2001
+162,5:37.8h,,Konstadínos SAKALIS,1957-10-01,GRE,1h1,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1062,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.8,GRE,17.0,1975
+162,5:37.80,,Ali Ahmed AL AMRI,1987-12-28,KSA,1,Jeddah (KSA),2004-10-02,1062,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.8,KSA,16.0,2004
+164,5:37.82,,Kevin KIMUTAI,1998-05-11,KEN,5,Nairobi (KEN),2015-06-17,1061,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.82,KEN,17.0,2015
+165,5:37.83,,Alessandro LAMBRUSCHINI,1965-01-07,ITA,4,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1061,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.83,AUT,18.0,1983
+166,5:37.86,,Nikolay MATYUSHENKO,1966-01-04,URS,1h1,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-22,1061,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.86,GDR,19.0,1985
+167,5:37.88,,Aleksandr BEKLEMESHEV,1954-07-23,URS,4,"Wedaustadion, Duisburg (GER)",1973-08-26,1061,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.88,GER,19.0,1973
+168,5:37.93,,Peter LINDTNER,1954-01-09,AUT,5,"Wedaustadion, Duisburg (GER)",1973-08-26,1061,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.93,GER,19.0,1973
+169,5:37.98,,Zakaria KIPROTICH,1994-02-28,UGA,3,Lille (FRA),2011-07-08,1060,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,337.98,FRA,17.0,2011
+170,5:38.0h,,Frank BAUMGARTL,1955-05-29,GDR,1h1,"Wedaustadion, Duisburg (GER)",1973-08-24,1060,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.0,GER,18.0,1973
+170,5:38.0h,,Festus KIPROP,1999-04-27,KEN,5h1,Nairobi (KEN),2015-06-17,1060,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.0,KEN,16.0,2015
+172,5:38.02,,Gilbert JÜCHERT,1962-08-26,GDR,2,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-22,1060,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.02,NED,19.0,1981
+173,5:38.03,,Ronald Kipchumba RUTTO,1987-10-08,KEN,1h2,Sherbrooke (CAN),2003-07-11,1060,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.03,CAN,15.0,2003
+174,5:38.1h,,Nelson KOSGEI,,KEN,3,Nairobi (KEN),2009-06-16,1060,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.1,KEN,,2009
+175,5:38.14,,Jozef VÝBOŠŤOK,1964-12-06,TCH,5,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1059,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.14,AUT,18.0,1983
+176,5:38.18,,Thomas HANLON,1967-05-20,GBR,2h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1059,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.18,GRE,19.0,1986
+177,5:38.20,,László TÓTH,1987-09-15,HUN,3,Dubnica nad Váhom (SVK),2006-08-29,1059,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.2,SVK,18.0,2006
+177,5:38.2h,,Zbigniew KRZYSIEK,1956-03-11,POL,4,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-24,1059,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.2,GRE,19.0,1975
+179,5:38.26,,Jaouad CHEMLAL,1994-04-11,MAR,4,Lille (FRA),2011-07-08,1058,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.26,FRA,17.0,2011
+180,5:38.27,,Burkhard DAHM,1965-10-08,FRG,3h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1058,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.27,AUT,17.0,1983
+181,5:38.30,,Gerhard KRAMER,1954-05-03,FRG,6,"Wedaustadion, Duisburg (GER)",1973-08-26,1058,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.3,GER,19.0,1973
+181,5:38.3h,,Justus Kipchirchir KIPRONO,1987-02-28,KEN,2,Nairobi (KEN),2003-06-18,1058,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.3,KEN,16.0,2003
+183,5:38.32,,David KIBET,,KEN,6,Laguna (ESP),2002-09-14,1058,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.32,ESP,,2002
+184,5:38.42,,Wogene Sebisibe SIDAMO,1998-06-23,ETH,1f1,"Olympic Stadium, Nanjing (CHN)",2014-08-25,1057,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.42,CHN,16.0,2014
+185,5:38.5h,,Rodgers Kipchirchir MUREI,2002-04-27,KEN,3h2,Nairobi (KEN),2015-06-17,1057,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.5,KEN,13.0,2015
+186,5:38.55,,Hailemariyam AMARE,1997-02-22,ETH,1h1,"National Stadium, Gaborone (BOT)",2014-05-29,1057,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.55,BOT,17.0,2014
+187,5:38.58,,Pascal DEBACKER,1960-04-08,FRA,8,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.58,POL,19.0,1979
+188,5:38.59,,Lorenzo HIDALGO,1965-01-07,ESP,4h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.59000000000003,AUT,18.0,1983
+189,5:38.6h,,Aleksandr BOLOTO,1956-05-10,URS,2h1,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.6,GRE,19.0,1975
+189,5:38.6h,,Allan KIPLIMO,,KEN,2,Eldoret (KEN),2017-05-26,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.6,KEN,,2017
+191,5:38.61,,Lev GLINSKIKH,1962-07-25,URS,3,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-22,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.61,NED,19.0,1981
+192,5:38.62,,Habtamu FAYISA,1993-04-19,ETH,1h,Singapore (SGP),2010-08-18,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.62,SGP,17.0,2010
+193,5:38.64,,Jens VOLKMANN,1967-05-31,FRG,3h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.64,GRE,19.0,1986
+194,5:38.65,,Birhan GETAHUN,1991-09-05,ETH,7,Reims (FRA),2010-06-30,1056,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.65,FRA,18.0,2010
+195,5:38.72,,Peter Matheka MUTUKU,1994-01-12,KEN,2h,Singapore (SGP),2010-08-18,1055,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.72,SGP,16.0,2010
+195,5:38.72,,Alemu KITESSA,2000-12-28,ETH,2,Assela (ETH),2017-06-15,1055,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.72,ETH,16.0,2017
+197,5:38.74,,Angel RODRÍGUEZ,1967-10-14,CUB,4h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1055,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.74,GRE,18.0,1986
+198,5:38.79,,Jaroslaw FOLTA,1967-04-01,POL,5h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1055,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.79,GRE,19.0,1986
+199,5:38.8h,,Edwin KIPKEMOI,1998-10-02,KEN,4h2,Nairobi (KEN),2015-06-17,1055,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.8,KEN,16.0,2015
+200,5:38.88,,Georgios LOUKAIDIS,1972-03-05,CYP,1,Larnaca (CYP),1991-08-26,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.88,CYP,19.0,1991
+201,5:38.9h,,Gábor MARKÓ,1960-02-07,HUN,1,Constanta (ROU),1979-09-02,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.9,ROU,19.0,1979
+202,5:38.91,,Viktor SHEVLYAKOV,1967-11-09,URS,6h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.90999999999997,GRE,18.0,1986
+203,5:38.92,,Said EL MEDOULY,,MAR,2,Jeddah (KSA),2004-10-02,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.92,KSA,,2004
+204,5:38.99,,Grigoriy MISHURNIY,1962-08-22,URS,4,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-22,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.99,NED,19.0,1981
+204,5:38.99,,Sławomir GURNY,1964-09-02,POL,6,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.99,AUT,18.0,1983
+204,5:38.99,,José Luis CIVERA,1967-02-10,ESP,7h1,"Olympic Stadium, Athina (GRE)",1986-07-18,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.99,GRE,19.0,1986
+204,5:38.99,,Tegenu MENGISTU,1998-04-29,ETH,4,"Pascual Guerrero Stadium, Cali (COL)",2015-07-19,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,338.99,COL,17.0,2015
+208,5:39.0h,,Anders CARLSSON,1959-04-17,SWE,8,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.0,URS,18.0,1977
+208,5:39.00,,Mohamed MEZIANE,1995-05-14,MAR,3,Jeddah (KSA),2004-10-02,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.0,KSA,9.0,2004
+210,5:39.01,,Ciprian BORZ,,ROU,,Bucureşti (ROU),2000-07-26,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.01,ROU,,2000
+210,5:39.01,,Jorge GARCÍA,1961-05-02,ESP,9,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1054,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.01,POL,18.0,1979
+212,5:39.04,,Hubert POKROP,1985-11-02,POL,2,Białystok (POL),2004-06-26,1053,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.04,POL,18.0,2004
+213,5:39.05,,Abrham SIME,2001-11-07,ETH,1,Algiers (ALG),2018-07-25,1053,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.05,ALG,16.0,2018
+214,5:39.10,,Habtamu FAYISA,1993-04-19,ETH,2f2,Singapore (SGP),2010-08-23,1053,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.1,SGP,17.0,2010
+215,5:39.21,,Svetlin STRASHILOV,1964-05-23,BUL,5h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1052,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.21,AUT,19.0,1983
+215,5:39.21,,Tomasz SZYMKOWIAK,1983-07-05,POL,1,Bydgoszcz (POL),2002-05-19,1052,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.21,POL,18.0,2002
+215,5:39.21,,Ronald Kipngetich MUTAI,2002-06-15,KEN,3,Abidjan (CIV),2019-04-17,1052,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.21,CIV,16.0,2019
+218,5:39.23,,Amos KIRUI,1998-02-09,KEN,3,"National Stadium, Gaborone (BOT)",2014-05-31,1052,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.23,BOT,16.0,2014
+219,5:39.27,,Ryuji MIURA,2002-02-11,JPN,1,Hiroshima (JPN),2019-04-28,1052,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.27,JPN,17.0,2019
+220,5:39.3h,,Amos KIRUI,1998-02-09,KEN,1f,Nairobi (KEN),2014-05-08,1052,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.3,KEN,16.0,2014
+221,5:39.4h,,Tilahun MULATU,1998-09-23,ETH,2,Assela (ETH),2015-05-15,1051,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.4,ETH,16.0,2015
+221,5:39.4h,,Aleksandr BEKLEMESHEV,1954-07-23,URS,1h2,"Wedaustadion, Duisburg (GER)",1973-08-24,1051,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.4,GER,19.0,1973
+221,5:39.4h,,Christer STRÖM,1956-12-01,SWE,3h1,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1051,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.4,GRE,18.0,1975
+224,5:39.43,,Thomas HANLON,1967-05-20,GBR,4,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-24,1051,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.43,GDR,18.0,1985
+225,5:39.46,,Kurt LAUER,2003-10-30,GER,1,"Donaustadion, Ulm (GER)",2022-07-15,1051,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.46,GER,18.0,2022
+226,5:39.5h,,Emmanuel KIMUTAI,1999-03-26,KEN,6h1,Nairobi (KEN),2015-06-17,1050,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.5,KEN,16.0,2015
+226,5:39.5h,,Davis KORIR,,KEN,1,Nakuru (KEN),2017-06-03,1050,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.5,KEN,,2017
+228,5:39.59,,Youssef BOUTAYEB,2004-07-26,FRA,1,"Stade Jacques Forestier, Aix-les-Bains (FRA)",2023-10-22,1050,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.59000000000003,FRA,19.0,2023
+229,5:39.6h,,Magnus TELLANDER,1954-03-19,SWE,2h2,"Wedaustadion, Duisburg (GER)",1973-08-24,1050,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.6,GER,19.0,1973
+229,5:39.6h,,Dimitar MINCHEV,1956-05-11,BUL,4h1,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1050,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.6,GRE,19.0,1975
+229,5:39.60,,Hicham CHAMLAL,1997-12-02,MAR,2h,"Olympic Stadium, Nanjing (CHN)",2014-08-21,1050,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.6,CHN,16.0,2014
+232,5:39.64,,Volker WERNER,1966-03-09,FRG,5,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-24,1049,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.64,GDR,19.0,1985
+232,5:39.64,,Jan FÖRSTER,1982-02-25,GER,1,Dresden (GER),2000-07-15,1049,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.64,GER,18.0,2000
+234,5:39.66,,Michael LÄNGLER,1960-01-19,FRG,1h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1049,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.65999999999997,POL,19.0,1979
+234,5:39.66,,Berhanu SHIFERAW,1993-05-31,ETH,2h2,"Bressanone, Trentino-Alto Adige (ITA)",2009-07-10,1049,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.65999999999997,ITA,16.0,2009
+236,5:39.7h,,Frank FERMUMM,1958-08-14,GDR,9,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1049,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.7,URS,19.0,1977
+237,5:39.74,,Béla VÁGÓ,1963-10-03,HUN,5,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-22,1049,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.74,NED,17.0,1981
+238,5:39.78,,Wolfgang FRITZ,1968-04-03,AUT,1,Griesheim (GER),1985-07-17,1048,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.78,GER,17.0,1985
+239,5:39.92,,Sergey VERSHININ,,URS,10,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1048,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.92,POL,,1979
+240,5:39.97,,Micheale ATSBAHA,1997-06-27,ETH,2h3,Donetsk (UKR),2013-07-10,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,339.97,UKR,16.0,2013
+241,5:40.00,,Raymond PANNIER,1961-02-12,FRA,11,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.0,POL,18.0,1979
+241,5:40.0h,,Conseslus KIPRUTO,1994-12-08,KEN,1,Asmara (ERI),2011-04-29,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.0,ERI,16.0,2011
+241,5:40.0h,,Nicholas KIPTANUI,1994-02-04,KEN,4,Nairobi (KEN),2011-06-08,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.0,KEN,17.0,2011
+244,5:40.01,,Gaetano ERBA,1960-01-02,ITA,1h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.01,POL,19.0,1979
+244,5:40.01,,Peter DAENENS,1960-11-23,BEL,2h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.01,POL,18.0,1979
+246,5:40.05,,Abel Boniface SIKOWO,1999-02-27,UGA,5,"Pascual Guerrero Stadium, Cali (COL)",2015-07-19,1047,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.05,COL,16.0,2015
+247,5:40.10,,Róbert BANAI,1967-02-28,HUN,2,Plovdiv (BUL),1984-08-04,1046,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.1,BUL,17.0,1984
+248,5:40.17,,Gregorz WOJTCZAK,1983-02-07,POL,2,Zielona Góra (POL),2001-05-19,1046,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.17,POL,18.0,2001
+249,5:40.2h,,David KIRWA,1985-08-01,KEN,1,Nairobi (KEN),2001-06-29,1046,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.2,KEN,15.0,2001
+249,5:40.2h,,Vladimir KANEV,1954-02-06,BUL,2h1,"Wedaustadion, Duisburg (GER)",1973-08-24,1046,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.2,GER,19.0,1973
+249,5:40.2h,,Domingo RAMON,1958-03-10,ESP,1h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1046,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.2,URS,19.0,1977
+252,5:40.23,,Patrick KARL,1996-05-03,GER,1,Jena (GER),2015-08-01,1046,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.23,GER,19.0,2015
+253,5:40.26,,Osman YAHYA,1990-07-25,SUD,5,"Sidi Youssef Ben Ali, Marrakech (MAR)",2005-07-15,1045,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.26,MAR,14.0,2005
+254,5:40.29,,Amos KIRUI,1998-02-09,KEN,2f1,"Olympic Stadium, Nanjing (CHN)",2014-08-25,1045,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.29,CHN,16.0,2014
+255,5:40.3h,,Paul NOTHACKER,1958-11-19,FRG,2h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1045,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.3,URS,18.0,1977
+255,5:40.3h,,Amos KIPROP,1998-08-06,KEN,5h2,Nairobi (KEN),2015-06-17,1045,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.3,KEN,16.0,2015
+257,5:40.34,,Raymond PANNIER,1961-02-12,FRA,2h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1045,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.34000000000003,POL,18.0,1979
+258,5:40.4h,,Dimitar MINCHEV,1956-05-11,BUL,5,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-24,1044,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.4,GRE,19.0,1975
+258,5:40.40,,Igor ZIMIN,1966-03-17,URS,6,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-24,1044,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.4,GDR,19.0,1985
+260,5:40.46,,Silas Kosgei KITUM,1990-05-25,KEN,1h,Ostrava (CZE),2007-07-11,1044,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.46,CZE,17.0,2007
+261,5:40.5h,,Brimin Kiprop KIPRUTO,1985-07-31,KEN,2,Nairobi (KEN),2001-06-29,1044,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.5,KEN,15.0,2001
+261,5:40.5h,,James Ndiwa BUNUKA,1997-11-01,KEN,3h1,Nairobi (KEN),2013-06-11,1044,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.5,KEN,15.0,2013
+263,5:40.51,,Martin GRAU,1992-03-26,GER,1,Jena (GER),2011-08-06,1044,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.51,GER,19.0,2011
+264,5:40.55,,Pascal DEBACKER,1960-04-08,FRA,3h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1043,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.55,POL,19.0,1979
+265,5:40.6h,,Vesa LAUKKANEN,1958-04-09,FIN,3h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1043,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.6,URS,19.0,1977
+266,5:40.62,,Zak SEDDON,1994-06-28,GBR,5,Lille (FRA),2011-07-08,1043,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.62,FRA,17.0,2011
+267,5:40.70,,Festus KIPROP,1999-04-27,KEN,6,Nairobi (KEN),2015-06-17,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.7,KEN,16.0,2015
+267,5:40.7h,,Hagen MELZER,1959-06-16,GDR,1,Erfurt (GER),1977-07-09,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.7,GER,18.0,1977
+269,5:40.74,,Richard EVEREST,1990-02-25,AUS,1,Adelaide (AUS),2009-02-21,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.74,AUS,19.0,2009
+270,5:40.80,,James Ndiwa BUNUKA,1997-11-01,KEN,2h1,"National Stadium, Gaborone (BOT)",2014-05-29,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.8,BOT,16.0,2014
+271,5:40.82,,Kevin PAULSEN,1980-03-28,FRA,1,Albertville (FRA),1999-07-24,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.82,FRA,19.0,1999
+272,5:40.83,,Sergio DEL BARRIO,2005-02-04,ESP,5,"Estadio Ciudad de Málaga, Málaga (ESP)",2023-06-22,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.83,ESP,18.0,2023
+273,5:40.84,,Frank RÜHKIECK,1961-11-23,GDR,4h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1042,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.84000000000003,POL,17.0,1979
+274,5:40.87,,Oskar HUBER,1954-10-30,FRG,7,"Wedaustadion, Duisburg (GER)",1973-08-26,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.87,GER,18.0,1973
+274,5:40.87,,Andrew RODGERS,1965-05-31,GBR,6h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.87,AUT,18.0,1983
+276,5:40.89,,Leonard KIPNGETICH,2000-03-04,KEN,4,Nairobi (KEN),2017-06-14,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.89,KEN,17.0,2017
+277,5:40.91,,Mickaël ANDRE,1981-06-03,FRA,2,Albertville (FRA),1999-07-24,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.90999999999997,FRA,18.0,1999
+278,5:40.94,,Hicham CHAMLAL,1997-12-02,MAR,3f1,"Olympic Stadium, Nanjing (CHN)",2014-08-25,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.94,CHN,16.0,2014
+278,5:40.94,,Said EL MEDOULY,,MAR,1,Rabat (MAR),2004-07-31,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.94,MAR,,2004
+280,5:40.95,,Taoufik BOUKROUMA,1967-01-08,TUN,9,"Olympic Stadium, Athina (GRE)",1986-07-20,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.95,GRE,19.0,1986
+281,5:40.96,,Abdelmaleh AMANALLAH,,MAR,10,"Olympic Stadium, Athina (GRE)",1986-07-20,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.96,GRE,,1986
+282,5:40.97,,Béla VÁGÓ,1963-10-03,HUN,2,Debrecen (HUN),1981-08-01,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.97,HUN,17.0,1981
+283,5:40.98,,Kjetil RAMSTAD,1979-09-20,NOR,1,Stjørdal (NOR),1998-08-14,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.98,NOR,18.0,1998
+283,5:40.98,,Karl BEBENDORF,1996-05-07,GER,2,Jena (GER),2015-08-01,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,340.98,GER,19.0,2015
+285,5:41.0h,,Aleksandr BOLOTO,1956-05-10,URS,6,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-24,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.0,GRE,19.0,1975
+285,5:41.0h,,Gyula BALOGH,1961-02-15,HUN,3,Constanta (ROU),1979-09-02,1041,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.0,ROU,18.0,1979
+287,5:41.02,,Patrick KARL,1996-05-03,GER,4f1,Pliezhausen (GER),2015-05-17,1040,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.02,GER,19.0,2015
+288,5:41.03,,Henrik INGEBRIGTSEN,1991-02-24,NOR,1,Bærum (NOR),2009-08-29,1040,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.03,NOR,18.0,2009
+289,5:41.07,,Attila KAZSIMÉR,1966-01-10,HUN,2,Łódź (POL),1985-08-11,1040,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.07,POL,19.0,1985
+290,5:41.12,,Mohammed Ali AL BANAI,1985-09-13,KSA,4,Debrecen (HUN),2001-07-15,1040,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.12,HUN,15.0,2001
+291,5:41.13,,Krzysztof PRABUCKI,1985-07-06,POL,3,Białystok (POL),2004-06-26,1040,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.13,POL,18.0,2004
+292,5:41.2h,,Luciano INTROINI,,ITA,1,Milano (ITA),1978-07-01,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.2,ITA,,1978
+293,5:41.21,,Peter KRÜGER,1964-08-29,GDR,7h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.21,AUT,19.0,1983
+294,5:41.24,,Azat RAKIPOV,1968-11-25,URS,,Chelyabinsk (URS),1985-01-01,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.24,URS,16.0,1985
+295,5:41.25,,Zakaria KIPROTICH,1994-02-28,UGA,3f2,Singapore (SGP),2010-08-23,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.25,SGP,16.0,2010
+296,5:41.27,,Dave LONG,1954-03-16,GBR,8,"Wedaustadion, Duisburg (GER)",1973-08-26,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.27,GER,19.0,1973
+297,5:41.28,,Zbigniew TOMASIK,1960-01-19,POL,12,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.28,POL,19.0,1979
+297,5:41.28,,Nickson KIPLANGAT,1998-04-09,KEN,2,Réduit (MRI),2015-04-24,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.28,MRI,17.0,2015
+299,5:41.29,,Jens VOLKMANN,1967-05-31,FRG,1,Miskolc (HUN),1986-06-15,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.29,HUN,19.0,1986
+300,5:41.30,,Peter KRÜGER,1964-08-29,GDR,7,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1039,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.3,AUT,19.0,1983
+301,5:41.4h,,Vladimír CERNÝ,1958-05-07,TCH,1h1,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1038,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.4,URS,19.0,1977
+301,5:41.4h,,Vincent KIPYEGON,1998-12-31,KEN,4h1,Nairobi (KEN),2013-06-11,1038,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.4,KEN,14.0,2013
+303,5:41.41,,Arsenios TSIMINOS,1961-01-19,GRE,3h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1038,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.40999999999997,POL,18.0,1979
+304,5:41.43,,Horst VANGERMAIN,1970-09-13,GDR,1,Nyíregyháza (HUN),1988-08-13,1038,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.43,HUN,17.0,1988
+305,5:41.46,,Girma KEJELA,2000-07-17,ETH,3,Assela (ETH),2017-06-15,1038,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.46,ETH,16.0,2017
+306,5:41.47,,Torsten TILLER,1962-02-27,FRG,1h2,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-20,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.47,NED,19.0,1981
+307,5:41.5h,,Paul CAMPBELL,1958-01-31,GBR,4h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.5,URS,19.0,1977
+307,5:41.5h,,Dariusz JANCZEWSKI,1958-07-14,POL,10,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-21,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.5,URS,19.0,1977
+309,5:41.55,,Vladimir GOLIAS,1971-01-25,URS,2,Nyíregyháza (HUN),1988-08-13,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.55,HUN,17.0,1988
+310,5:41.59,,Paul DAVIES-HALE,1962-06-21,GBR,2h2,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-20,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.59000000000003,NED,19.0,1981
+310,5:41.59,,Shadrack KIPLAGAT,2001-05-05,KEN,5,Nairobi (KEN),2017-06-14,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.59000000000003,KEN,16.0,2017
+312,5:41.6h,,Gilbert SANG,,KEN,3,Eldoret (KEN),2017-05-26,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.6,KEN,,2017
+312,5:41.6h,,Zbigniew KRZYSIEK,1956-03-11,POL,1h2,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.6,GRE,19.0,1975
+312,5:41.6h,,Mickey MORRIS,1956-12-11,GBR,5h1,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.6,GRE,18.0,1975
+312,5:41.6h,,Peter LINDTNER,1954-01-09,AUT,3h1,"Wedaustadion, Duisburg (GER)",1973-08-24,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.6,GER,19.0,1973
+312,5:41.6h,,Oskar HUBER,1954-10-30,FRG,4h1,"Wedaustadion, Duisburg (GER)",1973-08-24,1037,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.6,GER,18.0,1973
+317,5:41.64,,Ilkka ÄYRÄVÄINEN,1960-02-28,FIN,5h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-16,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.64,POL,19.0,1979
+318,5:41.67,,Bailey ROTH,1996-01-17,USA,1f2,"Greensboro, NC (USA)",2014-06-14,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.67,USA,18.0,2014
+319,5:41.68,,Emilio ROGEL,1961-07-14,ESP,13,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-18,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.68,POL,18.0,1979
+319,5:41.68,,Jozef VÝBOŠŤOK,1964-12-06,TCH,8h1,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-25,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.68,AUT,18.0,1983
+321,5:41.70,,Amos KIRUI,1998-02-09,KEN,3h,"Olympic Stadium, Nanjing (CHN)",2014-08-21,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.7,CHN,16.0,2014
+321,5:41.70,,Mark BUCKINGHAM,1985-05-04,GBR,1,Manchester (GBR),2004-07-03,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.7,GBR,19.0,2004
+321,5:41.70,,Jakab LAMUTH,1964-05-08,HUN,4,Plovdiv (BUL),1983-08-15,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.7,BUL,19.0,1983
+321,5:41.7h,,Khristo KALAYDZHIEV,,BUL,5h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.7,URS,,1977
+321,5:41.7h,,Francisco SÁNCHEZ,1958-05-18,ESP,2h1,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.7,URS,19.0,1977
+321,5:41.7h,,Dariusz JANCZEWSKI,1958-07-14,POL,6h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.7,URS,19.0,1977
+327,5:41.71,,Patryk SZWAJNOCH,1980-04-24,POL,2,Białystok (POL),1999-07-20,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.71,POL,19.0,1999
+328,5:41.73,,Ahmed Kenzi SAIDIA,1997-01-12,ALG,4h,"Olympic Stadium, Nanjing (CHN)",2014-08-21,1036,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.73,CHN,17.0,2014
+329,5:41.77,,Philip SIMBOLEI,1983-11-04,KEN,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1999-07-17,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.77,POL,15.0,1999
+329,5:41.77,,Michael WILMS,,GER,2,Pliezhausen (GER),2013-05-12,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.77,GER,,2013
+331,5:41.8h,,Frank FERMUMM,1958-08-14,GDR,7h2,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.8,URS,19.0,1977
+331,5:41.8h,,Riccardo CURASI,1956-03-12,ITA,2h2,"Georgios Karaiskakis Stadium, Athina (GRE)",1975-08-22,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.8,GRE,19.0,1975
+331,5:41.8h,,Krasimir KANEV,1959-03-10,BUL,3h1,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.8,URS,18.0,1977
+331,5:41.8h,,Justus NGENO,1994-05-12,KEN,5,Nairobi (KEN),2011-06-08,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.8,KEN,17.0,2011
+335,5:41.81,,Zak SEDDON,1994-06-28,GBR,1,Douglas (GBR),2011-09-10,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.81,GBR,17.0,2011
+335,5:41.81,,Soufien CHERNI,1997-01-08,TUN,5h,"Olympic Stadium, Nanjing (CHN)",2014-08-21,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.81,CHN,17.0,2014
+337,5:41.91,,Vyacheslav KOSELEV,1968-01-20,URS,1h2,"Olympic Stadium, Athina (GRE)",1986-07-18,1035,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.90999999999997,GRE,18.0,1986
+338,5:41.96,,Marcin GRZEGORZEWSKI,1978-06-05,POL,1,Poznan (POL),1997-07-12,1034,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.96,POL,19.0,1997
+338,5:41.96,,Tomasz SIKORSKI,1977-03-28,POL,1,Warszawa (POL),1996-06-08,1034,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,341.96,POL,19.0,1996
+340,5:42.0h,,Hagen MELZER,1959-06-16,GDR,5h1,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1034,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,342.0,URS,18.0,1977
+340,5:42.0h,,Czesław MOJŻYSZ,1958-08-03,POL,4h1,"RSC Olimpiyskiy, Donetsk (URS)",1977-08-19,1034,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,342.0,URS,19.0,1977
+340,5:42.0h,,Stefan NORDWIG,1955-04-04,GDR,3h2,"Wedaustadion, Duisburg (GER)",1973-08-24,1034,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,342.0,GER,18.0,1973
+340,5:42.00,,Csaba SZŰCS,1965-01-29,HUN,8,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-27,1034,2000-metres-steeplechase,middlelong,male,u20,2000-metres-steeplechase,track,342.0,AUT,18.0,1983

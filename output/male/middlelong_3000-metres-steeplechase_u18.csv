@@ -1,0 +1,45 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
+1,8:12.28,,Getnet WALE,16 JUL 2000,ETH,1,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1201,3000-metres-steeplechase,middlelong,male,u18
+2,8:13.16,,Getnet WALE,16 JUL 2000,ETH,2,"Mestský Stadion, Ostrava (CZE)",28 JUN 2017,1197,3000-metres-steeplechase,middlelong,male,u18
+3,8:14.88,,Tadese TAKELE,03 AUG 2002,ETH,2,Hengelo (NED),17 JUL 2019,1190,3000-metres-steeplechase,middlelong,male,u18
+4,8:15.28,,Edmund SEREM,27 DEC 2007,KEN,1,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1188,3000-metres-steeplechase,middlelong,male,u18
+5,8:17.28,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1179,3000-metres-steeplechase,middlelong,male,u18
+6,8:18.51,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,13,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2004,1173,3000-metres-steeplechase,middlelong,male,u18
+7,8:19.63,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,6,Heusden-Zolder (BEL),31 JUL 2004,1168,3000-metres-steeplechase,middlelong,male,u18
+8,8:20.05,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,3,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1166,3000-metres-steeplechase,middlelong,male,u18
+8,8:20.05,,Edmund SEREM,27 DEC 2007,KEN,1f1,"Nyayo National Stadium, Nairobi (KEN)",22 MAY 2024,1166,3000-metres-steeplechase,middlelong,male,u18
+10,8:20.06,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,3,Linz (AUT),02 AUG 2004,1166,3000-metres-steeplechase,middlelong,male,u18
+11,8:20.27,,Samuel FIREWU,03 MAY 2004,ETH,1,"Olympiastadion, Stockholm (SWE)",04 JUL 2021,1165,3000-metres-steeplechase,middlelong,male,u18
+12,8:20.29,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,6,Heusden-Zolder (BEL),22 JUL 2006,1165,3000-metres-steeplechase,middlelong,male,u18
+13,8:21.30,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1,Yamagata (JPN),02 AUG 2017,1161,3000-metres-steeplechase,middlelong,male,u18
+14,8:21.94,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,5,"Stadio Olimpico, Roma (ITA)",02 JUL 2004,1158,3000-metres-steeplechase,middlelong,male,u18
+14,8:21.94,,Edmund SEREM,27 DEC 2007,KEN,2,"Stade Omnisport de JAPOMA, Douala (CMR)",23 JUN 2024,1158,3000-metres-steeplechase,middlelong,male,u18
+16,8:22.83,,Getnet WALE,16 JUL 2000,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1154,3000-metres-steeplechase,middlelong,male,u18
+17,8:23.00,,Getnet WALE,16 JUL 2000,ETH,3h1,"Olympic Stadium, London (GBR)",06 AUG 2017,1153,3000-metres-steeplechase,middlelong,male,u18
+18,8:23.32,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,1,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1152,3000-metres-steeplechase,middlelong,male,u18
+19,8:23.62,,Samuel FIREWU,03 MAY 2004,ETH,4,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1150,3000-metres-steeplechase,middlelong,male,u18
+20,8:23.69,,Albert Kiptoo YATOR,06 SEP 1993,KEN,5,"Boudewijnstadion, Bruxelles (BEL)",27 AUG 2010,1150,3000-metres-steeplechase,middlelong,male,u18
+21,8:23.91,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,5,Rabat (MAR),17 JUN 2006,1149,3000-metres-steeplechase,middlelong,male,u18
+22,8:23.96,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,1,Algiers (ALG),24 JUN 2004,1149,3000-metres-steeplechase,middlelong,male,u18
+23,8:24.08,,Hailu AYALEW,21 JAN 2008,ETH,3,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1148,3000-metres-steeplechase,middlelong,male,u18
+24,8:24.50,,Edmund SEREM,27 DEC 2007,KEN,4,"Nyayo National Stadium, Nairobi (KEN)",15 JUN 2024,1146,3000-metres-steeplechase,middlelong,male,u18
+25,8:24.54,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,3,Linz (AUT),31 JUL 2003,1146,3000-metres-steeplechase,middlelong,male,u18
+26,8:25.00,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,2,Sollentuna (SWE),08 JUL 2004,1144,3000-metres-steeplechase,middlelong,male,u18
+27,8:25.03,,Gilbert KIRUI,22 JAN 1994,KEN,1,Gaborone (BOT),12 MAY 2011,1144,3000-metres-steeplechase,middlelong,male,u18
+28,8:25.28,,Getnet WALE,16 JUL 2000,ETH,1,Djibouti (DJI),25 MAR 2017,1143,3000-metres-steeplechase,middlelong,male,u18
+28,8:25.28,,Getnet WALE,16 JUL 2000,ETH,9,"Olympic Stadium, London (GBR)",08 AUG 2017,1143,3000-metres-steeplechase,middlelong,male,u18
+30,8:26.20,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Gavá (ESP),04 JUN 2006,1139,3000-metres-steeplechase,middlelong,male,u18
+31,8:26.31,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5,Barcelona (ESP),10 JUN 2006,1138,3000-metres-steeplechase,middlelong,male,u18
+32,8:26.51,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1f1,Okayama (JPN),25 JUN 2017,1138,3000-metres-steeplechase,middlelong,male,u18
+33,8:26.52,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,Nairobi (KEN),11 JUN 2018,1137,3000-metres-steeplechase,middlelong,male,u18
+34,8:26.62,,Wogene Sebisibe SIDAMO,23 JUN 1998,ETH,4,Brazzaville (CGO),13 SEP 2015,1137,3000-metres-steeplechase,middlelong,male,u18
+35,8:26.81,,Jakob INGEBRIGTSEN,19 SEP 2000,NOR,1,Kortrijk (BEL),08 JUL 2017,1136,3000-metres-steeplechase,middlelong,male,u18
+36,8:27.06,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,8,Herakleion (GRE),04 JUL 2004,1135,3000-metres-steeplechase,middlelong,male,u18
+37,8:27.30,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Königs Wusterhausen (GER),09 SEP 2011,1134,3000-metres-steeplechase,middlelong,male,u18
+38,8:27.73,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Barakaldo (ESP),24 JUN 2006,1132,3000-metres-steeplechase,middlelong,male,u18
+39,8:28.29,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,4,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1130,3000-metres-steeplechase,middlelong,male,u18
+40,8:28.33,,Conseslus KIPRUTO,08 DEC 1994,KEN,4,Dubnica nad Váhom (SVK),15 SEP 2011,1129,3000-metres-steeplechase,middlelong,male,u18
+41,8:28.36,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,7,Algiers (ALG),22 JUN 2006,1129,3000-metres-steeplechase,middlelong,male,u18
+42,8:29.8h,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2,Nairobi (KEN),18 JUN 2008,1123,3000-metres-steeplechase,middlelong,male,u18
+43,8:29.92,,Meresa KAHSAY,23 MAY 1996,ETH,11,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1122,3000-metres-steeplechase,middlelong,male,u18
+44,8:29.99,,Julius Kipling CHELULE,25 DEC 1978,KEN,2,Cape Town (RSA),06 MAY 1995,1122,3000-metres-steeplechase,middlelong,male,u18

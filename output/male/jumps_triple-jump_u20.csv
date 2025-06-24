@@ -9,20 +9,20 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8,17.56,-0.3,Jaydon HIBBERT,17 JAN 2005,JAM,1,"Mike A. Myers Stadium, Austin, TX (USA)",09 JUN 2023,1225,triple-jump,jumps,male,u20
 9,17.54,,Jaydon HIBBERT,17 JAN 2005,JAM,1,"Convention Center, Albuquerque, NM (USA) (i)",11 MAR 2023,1222,triple-jump,jumps,male,u20
 10,17.50,+0.4,Volker MAI,03 MAY 1966,GDR,1,Erfurt (GER),23 JUN 1985,1218,triple-jump,jumps,male,u20
-11,17.49,+0.1,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,Camagüey (CUB),03 JUL 2019,1217,triple-jump,jumps,male,u20
+11,17.49,+0.1,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,Camagüey (CUB),03 JUL 2019,1217,triple-jump,jumps,male,u20
 12,17.42,+1.3,Khristo MARKOV,27 JAN 1965,BUL,1,Sofia (BUL),19 MAY 1984,1209,triple-jump,jumps,male,u20
-13,17.41,+1.0,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,La Habana (CUB),08 JUN 2018,1208,triple-jump,jumps,male,u20
+13,17.41,+1.0,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,La Habana (CUB),08 JUN 2018,1208,triple-jump,jumps,male,u20
 14,17.40,+0.4,Pedro PÉREZ DUENAS,23 FEB 1952,CUB,1,Cali (COL),05 AUG 1971,1207,triple-jump,jumps,male,u20
 14,17.40,+0.8,Ernesto REVÉ,26 FEB 1992,CUB,1,La Habana (CUB),10 JUN 2011,1207,triple-jump,jumps,male,u20
-16,17.38,+0.1,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,2,"Estadio Atlético de la VIDENA, Lima (PER)",10 AUG 2019,1205,triple-jump,jumps,male,u20
-17,17.32,+0.5,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,La Habana (CUB),17 FEB 2018,1199,triple-jump,jumps,male,u20
+16,17.38,+0.1,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,2,"Estadio Atlético de la VIDENA, Lima (PER)",10 AUG 2019,1205,triple-jump,jumps,male,u20
+17,17.32,+0.5,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,La Habana (CUB),17 FEB 2018,1199,triple-jump,jumps,male,u20
 18,17.31,-0.2,David GIRAT,26 AUG 1984,CUB,1q1,"Stade de France, Paris-St-Denis (FRA)",23 AUG 2003,1199,triple-jump,jumps,male,u20
-19,17.30,+0.6,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,"Kasarani, Nairobi (KEN)",14 JUL 2017,1197,triple-jump,jumps,male,u20
+19,17.30,+0.6,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,"Kasarani, Nairobi (KEN)",14 JUL 2017,1197,triple-jump,jumps,male,u20
 20,17.29,-0.9,Khristo MARKOV,27 JAN 1965,BUL,3,Moskva (URS),18 AUG 1984,1201,triple-jump,jumps,male,u20
 20,17.29,+1.3,James BECKFORD,09 JAN 1975,JAM,1,"Tempe, AZ (USA)",02 APR 1994,1196,triple-jump,jumps,male,u20
-22,17.28,0.0,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,Camagüey (CUB),01 JUN 2018,1194,triple-jump,jumps,male,u20
+22,17.28,0.0,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,Camagüey (CUB),01 JUN 2018,1194,triple-jump,jumps,male,u20
 23,17.27,+1.6,Cristian NÁPOLES,27 NOV 1998,CUB,2,La Habana (CUB),17 MAR 2017,1193,triple-jump,jumps,male,u20
-23,17.27,+1.3,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,,Barranquilla (COL),02 AUG 2018,1193,triple-jump,jumps,male,u20
+23,17.27,+1.3,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,,Barranquilla (COL),02 AUG 2018,1193,triple-jump,jumps,male,u20
 23,17.27,0.0,Jaydon HIBBERT,17 JAN 2005,JAM,1,"Pascual Guerrero Stadium, Cali (COL)",05 AUG 2022,1193,triple-jump,jumps,male,u20
 26,17.26,+1.7,Volker MAI,03 MAY 1966,GDR,2,Moskva (URS),18 AUG 1985,1192,triple-jump,jumps,male,u20
 27,17.24,+1.3,David GIRAT,26 AUG 1984,CUB,1,Santiago de Cuba (CUB),05 AUG 2003,1190,triple-jump,jumps,male,u20
@@ -39,11 +39,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 38,17.18,+1.9,Yoelbi QUESADA,04 AUG 1973,CUB,6,"Estadio Olímpico, Barcelona (ESP)",03 AUG 1992,1184,triple-jump,jumps,male,u20
 39,17.17,+1.5,Jaydon HIBBERT,17 JAN 2005,JAM,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",29 APR 2023,1183,triple-jump,jumps,male,u20
 40,17.16,-0.1,Cristian NÁPOLES,27 NOV 1998,CUB,4,"Olympic Stadium, London (GBR)",10 AUG 2017,1182,triple-jump,jumps,male,u20
-41,17.15,-0.4,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,"Ratinan Stadion, Tampere (FIN)",14 JUL 2018,1183,triple-jump,jumps,male,u20
+41,17.15,-0.4,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,"Ratinan Stadion, Tampere (FIN)",14 JUL 2018,1183,triple-jump,jumps,male,u20
 42,17.14,,Volker MAI,03 MAY 1966,GDR,3,"Peace and Friendship Stadium, Piraeus (GRE) (i)",02 MAR 1985,1179,triple-jump,jumps,male,u20
-42,17.14,-0.3,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,Camagüey (CUB),26 MAY 2018,1180,triple-jump,jumps,male,u20
-42,17.14,-0.8,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,La Chaux-de-Fonds (SUI),01 JUL 2018,1183,triple-jump,jumps,male,u20
-42,17.14,+1.9,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1q1,Buenos Aires (ARG),13 OCT 2018,1179,triple-jump,jumps,male,u20
+42,17.14,-0.3,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,Camagüey (CUB),26 MAY 2018,1180,triple-jump,jumps,male,u20
+42,17.14,-0.8,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,La Chaux-de-Fonds (SUI),01 JUL 2018,1183,triple-jump,jumps,male,u20
+42,17.14,+1.9,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1q1,Buenos Aires (ARG),13 OCT 2018,1179,triple-jump,jumps,male,u20
 46,17.13,+1.4,Yoelbi QUESADA,04 AUG 1973,CUB,2q1,"National Stadium, Tokyo (JPN)",25 AUG 1991,1178,triple-jump,jumps,male,u20
 46,17.13,0.0,Shuo CAO,08 OCT 1991,CHN,1,Yulin (CHN),17 MAY 2009,1178,triple-jump,jumps,male,u20
 46,17.13,+0.7,Lázaro MARTÍNEZ,03 NOV 1997,CUB,1,"Hayward Field, Eugene, OR (USA)",27 JUL 2014,1178,triple-jump,jumps,male,u20
@@ -53,23 +53,23 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 51,17.11,,Lázaro MARTÍNEZ,03 NOV 1997,CUB,2,La Habana (CUB),20 MAR 2014,1176,triple-jump,jumps,male,u20
 53,17.10,,Khristo MARKOV,27 JAN 1965,BUL,1,Fürth (GER),09 JUN 1984,1175,triple-jump,jumps,male,u20
 53,17.10,,Jaydon HIBBERT,17 JAN 2005,JAM,1,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",25 FEB 2023,1175,triple-jump,jumps,male,u20
-55,17.09,+0.7,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1q2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1174,triple-jump,jumps,male,u20
+55,17.09,+0.7,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1q2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1174,triple-jump,jumps,male,u20
 56,17.07,,Volker MAI,03 MAY 1966,GDR,4,"Bruce Stadium, Canberra (AUS)",04 OCT 1985,1172,triple-jump,jumps,male,u20
 56,17.07,-0.2,Lázaro MARTÍNEZ,03 NOV 1997,CUB,3,"Stadio Olimpico, Roma (ITA)",05 JUN 2014,1173,triple-jump,jumps,male,u20
-56,17.07,,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,3,"Arena Stade Couvert, Liévin (FRA) (i)",19 FEB 2020,1172,triple-jump,jumps,male,u20
+56,17.07,,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,3,"Arena Stade Couvert, Liévin (FRA) (i)",19 FEB 2020,1172,triple-jump,jumps,male,u20
 59,17.06,+1.2,David GIRAT,26 AUG 1984,CUB,1,La Habana (CUB),13 JUN 2003,1171,triple-jump,jumps,male,u20
 59,17.06,-1.1,Lázaro MARTÍNEZ,03 NOV 1997,CUB,1,La Habana (CUB),10 MAY 2014,1177,triple-jump,jumps,male,u20
 59,17.06,-1.1,Lázaro MARTÍNEZ,03 NOV 1997,CUB,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1177,triple-jump,jumps,male,u20
 59,17.06,-0.4,Cristian NÁPOLES,27 NOV 1998,CUB,1q2,"Olympic Stadium, London (GBR)",07 AUG 2017,1173,triple-jump,jumps,male,u20
-59,17.06,+0.8,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,8,"Khalifa International Stadium, Doha (QAT)",29 SEP 2019,1171,triple-jump,jumps,male,u20
+59,17.06,+0.8,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,8,"Khalifa International Stadium, Doha (QAT)",29 SEP 2019,1171,triple-jump,jumps,male,u20
 64,17.05,,Khristo MARKOV,27 JAN 1965,BUL,1,Sofia (BUL) (i),11 FEB 1984,1170,triple-jump,jumps,male,u20
 64,17.05,+0.6,Ernesto REVÉ,26 FEB 1992,CUB,1,La Habana (CUB),17 FEB 2011,1170,triple-jump,jumps,male,u20
 66,17.04,+0.4,Yoelbi QUESADA,04 AUG 1973,CUB,1,"Olympic Stadium, Seoul (KOR)",19 SEP 1992,1169,triple-jump,jumps,male,u20
 66,17.04,+1.5,Nazim BABAYEV,08 OCT 1997,AZE,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,1169,triple-jump,jumps,male,u20
 66,17.04,,Melvin RAFFIN,09 AUG 1998,FRA,1,Aubiére (FRA) (i),07 JAN 2017,1169,triple-jump,jumps,male,u20
-66,17.04,+1.9,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1f1,Buenos Aires (ARG),16 OCT 2018,1169,triple-jump,jumps,male,u20
+66,17.04,+1.9,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1f1,Buenos Aires (ARG),16 OCT 2018,1169,triple-jump,jumps,male,u20
 70,17.03,+0.6,Osiris MORA,03 OCT 1973,CUB,2,"Olympic Stadium, Seoul (KOR)",19 SEP 1992,1168,triple-jump,jumps,male,u20
-70,17.03,-0.4,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,2,Camagüey (CUB),04 FEB 2018,1170,triple-jump,jumps,male,u20
+70,17.03,-0.4,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,2,Camagüey (CUB),04 FEB 2018,1170,triple-jump,jumps,male,u20
 72,17.01,0.0,Ethan OLIVIER,07 AUG 2005,NZL,1,"McArthur Stadium, Potchefstroom (RSA)",25 MAY 2024,1166,triple-jump,jumps,male,u20
 72,17.01,+1.4,Ethan OLIVIER,07 AUG 2005,NZL,1,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,1166,triple-jump,jumps,male,u20
 74,17.00,,Gustavo PLATT,29 JUL 1954,CUB,1,La Habana (CUB),05 MAY 1973,1165,triple-jump,jumps,male,u20
@@ -84,7 +84,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 83,16.97,+0.2,Igor PARYGIN,03 FEB 1967,URS,1,"Olympic Stadium, Athina (GRE)",20 JUL 1986,1161,triple-jump,jumps,male,u20
 83,16.97,+0.7,Martin LAMOU,13 MAY 1999,FRA,1,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,1161,triple-jump,jumps,male,u20
 85,16.96,+1.7,Godfrey Khotso MOKOENA,06 MAR 1985,RSA,1,Bloemfontein (RSA),03 APR 2004,1160,triple-jump,jumps,male,u20
-86,16.95,-1.3,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,2,La Habana (CUB),23 FEB 2018,1166,triple-jump,jumps,male,u20
+86,16.95,-1.3,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,2,La Habana (CUB),23 FEB 2018,1166,triple-jump,jumps,male,u20
 87,16.94,,Volker MAI,03 MAY 1966,GDR,1,Erfurt (GER),01 JUN 1984,1158,triple-jump,jumps,male,u20
 87,16.94,-0.4,Yoelbi QUESADA,04 AUG 1973,CUB,7,"National Stadium, Tokyo (JPN)",26 AUG 1991,1160,triple-jump,jumps,male,u20
 87,16.94,+0.6,Rene HERNÁNDEZ,18 MAY 1977,CUB,1,La Habana (CUB),14 JUN 1996,1158,triple-jump,jumps,male,u20
@@ -93,7 +93,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 87,16.94,+2.0,Will CLAYE,13 JUN 1991,USA,f2,"Lubbock, TX (USA)",17 MAY 2009,1158,triple-jump,jumps,male,u20
 93,16.93,-0.7,Volker MAI,03 MAY 1966,GDR,1,"Max-Reimann-Stadion, Cottbus (GDR)",25 AUG 1985,1161,triple-jump,jumps,male,u20
 93,16.93,-0.5,David GIRAT,26 AUG 1984,CUB,1,Bridgetown (BAR),20 JUL 2003,1160,triple-jump,jumps,male,u20
-93,16.93,0.0,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,3q2,"Khalifa International Stadium, Doha (QAT)",27 SEP 2019,1157,triple-jump,jumps,male,u20
+93,16.93,0.0,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,3q2,"Khalifa International Stadium, Doha (QAT)",27 SEP 2019,1157,triple-jump,jumps,male,u20
 96,16.92,0.0,Junjie GU,05 MAY 1985,CHN,1,Changsha (CHN),24 OCT 2003,1156,triple-jump,jumps,male,u20
 96,16.92,,Dennis FERNÁNDEZ,23 JAN 1986,CUB,1,Santiago de Cuba (CUB),24 MAY 2005,1156,triple-jump,jumps,male,u20
 96,16.92,+1.0,Alexey FYODOROV,25 MAY 1991,RUS,2,Moskva (RUS),29 JUN 2010,1156,triple-jump,jumps,male,u20
@@ -129,7 +129,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 126,16.83,0.0,Shujing ZHU,24 MAY 1985,CHN,2,Guilin (CHN),22 APR 2004,1146,triple-jump,jumps,male,u20
 126,16.83,+1.9,Will CLAYE,13 JUN 1991,USA,f2,"Eugene, OR (USA)",28 JUN 2009,1146,triple-jump,jumps,male,u20
 126,16.83,+1.0,Nazim BABAYEV,08 OCT 1997,AZE,1,Baku (AZE),04 JUN 2016,1146,triple-jump,jumps,male,u20
-126,16.83,-0.1,Jordan Alejandro DÍAZ FORTUN,23 FEB 2001,CUB,1,Toronto (CAN),10 AUG 2018,1146,triple-jump,jumps,male,u20
+126,16.83,-0.1,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,Toronto (CAN),10 AUG 2018,1146,triple-jump,jumps,male,u20
 126,16.83,+0.7,Ethan OLIVIER,07 AUG 2005,NZL,1,"Kuortaneen keskusurheilukenttä, Kuortane (FIN)",22 JUN 2024,1146,triple-jump,jumps,male,u20
 133,16.82,,Khristo MARKOV,27 JAN 1965,BUL,1,Lappeenranta (FIN),28 JUN 1984,1145,triple-jump,jumps,male,u20
 133,16.82,,Volker MAI,03 MAY 1966,GDR,1,Plovdiv (BUL),05 AUG 1984,1145,triple-jump,jumps,male,u20

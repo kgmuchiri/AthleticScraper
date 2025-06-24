@@ -18,39 +18,7 @@
     ],
     "defaultValue": "senior"
   },
-  {
-    "name": "environment",
-    "label": "Environment",
-    "values": [
-      {
-        "value": "indoor",
-        "label": "Indoor"
-      },
-      {
-        "value": "outdoor",
-        "label": "Outdoor"
-      }
-    ],
-    "defaultValue": "outdoor"
-  },
-  {
-    "name": "firstDay",
-    "label": "from",
-    "values": {
-      "from": "1896-04-06",
-      "to": "2023-07-01"
-    },
-    "defaultValue": "1900-01-01"
-  },
-  {
-    "name": "lastDay",
-    "label": "to",
-    "values": {
-      "from": "1896-04-06",
-      "to": "2023-07-01"
-    },
-    "defaultValue": "2023-07-01"
-  },
+  
   {
     "name": "regionType",
     "label": "Areas\/Countries",
@@ -1107,13 +1075,13 @@
             "value": "50",
             "disciplineNameUrlSlug": "50-metres",
             "typeNameUrlSlug": "sprints",
-            "label": "Men's 50m indoor"
+            "label": "Men's 50m "
           },
           {
             "value": "55",
             "disciplineNameUrlSlug": "55-metres",
             "typeNameUrlSlug": "sprints",
-            "label": "Men's 55m indoor"
+            "label": "Men's 55m "
           },
           {
             "value": "60",
@@ -1148,55 +1116,55 @@
           {
             "value": "600",
             "disciplineNameUrlSlug": "600-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 600m"
           },
           {
             "value": "800",
             "disciplineNameUrlSlug": "800-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 800m"
           },
           {
             "value": "1000",
             "disciplineNameUrlSlug": "1000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 1000m"
           },
           {
             "value": "1500",
             "disciplineNameUrlSlug": "1500-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 1500m"
           },
           {
             "value": "MILE",
             "disciplineNameUrlSlug": "one-mile",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's Mile"
           },
           {
             "value": "2000",
             "disciplineNameUrlSlug": "2000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 2000m"
           },
           {
             "value": "3000",
             "disciplineNameUrlSlug": "3000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 3000m"
           },
           {
             "value": "2MLS",
             "disciplineNameUrlSlug": "two-miles",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 2 Miles"
           },
           {
             "value": "5000",
             "disciplineNameUrlSlug": "5000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 5000m"
           },
           {
@@ -1208,7 +1176,7 @@
           {
             "value": "10K",
             "disciplineNameUrlSlug": "10000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 10,000m"
           },
           {
@@ -1250,13 +1218,13 @@
           {
             "value": "2KSC",
             "disciplineNameUrlSlug": "2000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 2000mSC"
           },
           {
             "value": "3KSC",
             "disciplineNameUrlSlug": "3000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 3000mSC"
           },
           {
@@ -1457,43 +1425,43 @@
           {
             "value": "800",
             "disciplineNameUrlSlug": "800-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 800m"
           },
           {
             "value": "1000",
             "disciplineNameUrlSlug": "1000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 1000m"
           },
           {
             "value": "1500",
             "disciplineNameUrlSlug": "1500-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 1500m"
           },
           {
             "value": "MILE",
             "disciplineNameUrlSlug": "one-mile",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's Mile"
           },
           {
             "value": "3000",
             "disciplineNameUrlSlug": "3000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 3000m"
           },
           {
             "value": "5000",
             "disciplineNameUrlSlug": "5000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 5000m"
           },
           {
             "value": "10K",
             "disciplineNameUrlSlug": "10000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 10,000m"
           },
           {
@@ -1511,13 +1479,13 @@
           {
             "value": "2KSC",
             "disciplineNameUrlSlug": "2000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 2000mSC"
           },
           {
             "value": "3KSC",
             "disciplineNameUrlSlug": "3000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 3000mSC"
           },
           {
@@ -1683,43 +1651,43 @@
           {
             "value": "800",
             "disciplineNameUrlSlug": "800-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 800m"
           },
           {
             "value": "1500",
             "disciplineNameUrlSlug": "1500-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 1500m"
           },
           {
             "value": "3000",
             "disciplineNameUrlSlug": "3000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 3000m"
           },
           {
             "value": "5000",
             "disciplineNameUrlSlug": "5000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 5000m"
           },
           {
             "value": "10K",
             "disciplineNameUrlSlug": "10000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 10,000m"
           },
           {
             "value": "2KSC84",
             "disciplineNameUrlSlug": "2000-metres-steeplechase-84",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 2000mSC (0.84)"
           },
           {
             "value": "3KSC",
             "disciplineNameUrlSlug": "3000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Men's 3000mSC"
           },
           {
@@ -1880,55 +1848,55 @@
           {
             "value": "600",
             "disciplineNameUrlSlug": "600-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 600m"
           },
           {
             "value": "800",
             "disciplineNameUrlSlug": "800-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 800m"
           },
           {
             "value": "1000",
             "disciplineNameUrlSlug": "1000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 1000m"
           },
           {
             "value": "1500",
             "disciplineNameUrlSlug": "1500-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 1500m"
           },
           {
             "value": "MILE",
             "disciplineNameUrlSlug": "one-mile",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's Mile"
           },
           {
             "value": "2000",
             "disciplineNameUrlSlug": "2000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 2000m"
           },
           {
             "value": "3000",
             "disciplineNameUrlSlug": "3000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 3000m"
           },
           {
             "value": "2MLS",
             "disciplineNameUrlSlug": "two-miles",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 2 Miles"
           },
           {
             "value": "5000",
             "disciplineNameUrlSlug": "5000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 5000m"
           },
           {
@@ -1940,7 +1908,7 @@
           {
             "value": "10K",
             "disciplineNameUrlSlug": "10000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 10,000m"
           },
           {
@@ -1982,13 +1950,13 @@
           {
             "value": "2KSC",
             "disciplineNameUrlSlug": "2000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 2000mSC"
           },
           {
             "value": "3KSC",
             "disciplineNameUrlSlug": "3000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 3000mSC"
           },
           {
@@ -2185,31 +2153,31 @@
           {
             "value": "800",
             "disciplineNameUrlSlug": "800-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 800m"
           },
           {
             "value": "1500",
             "disciplineNameUrlSlug": "1500-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 1500m"
           },
           {
             "value": "3000",
             "disciplineNameUrlSlug": "3000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 3000m"
           },
           {
             "value": "5000",
             "disciplineNameUrlSlug": "5000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 5000m"
           },
           {
             "value": "10K",
             "disciplineNameUrlSlug": "10000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 10,000m"
           },
           {
@@ -2227,13 +2195,13 @@
           {
             "value": "2KSC",
             "disciplineNameUrlSlug": "2000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 2000mSC"
           },
           {
             "value": "3KSC",
             "disciplineNameUrlSlug": "3000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 3000mSC"
           },
           {
@@ -2389,43 +2357,43 @@
           {
             "value": "800",
             "disciplineNameUrlSlug": "800-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 800m"
           },
           {
             "value": "1500",
             "disciplineNameUrlSlug": "1500-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 1500m"
           },
           {
             "value": "3000",
             "disciplineNameUrlSlug": "3000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 3000m"
           },
           {
             "value": "5000",
             "disciplineNameUrlSlug": "5000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 5000m"
           },
           {
             "value": "10K",
             "disciplineNameUrlSlug": "10000-metres",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 10,000m"
           },
           {
             "value": "2KSC",
             "disciplineNameUrlSlug": "2000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 2000mSC"
           },
           {
             "value": "3KSC",
             "disciplineNameUrlSlug": "3000-metres-steeplechase",
-            "typeNameUrlSlug": "middle-long",
+            "typeNameUrlSlug": "middlelong",
             "label": "Women's 3000mSC"
           },
           {

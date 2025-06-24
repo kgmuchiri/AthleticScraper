@@ -1,0 +1,99 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,5:19.70,,Jessica HULL,1996-10-22,AUS,1.0,"Stade Louis II, Monaco (MON)",2024-07-12,1252,2000-metres,middlelong,female,senior,2000-metres,track,319.7,MON,27,2024
+2,5:21.56,,Francine NIYONSABA,1993-05-05,BDI,1.0,"Sports Park Mladost, Zagreb (CRO)",2021-09-14,1241,2000-metres,middlelong,female,senior,2000-metres,track,321.56,CRO,28,2021
+3,5:23.75,,Genzebe DIBABA,1991-02-08,ETH,1.0,Sabadell (ESP) (i),2017-02-07,1257,2000-metres,middlelong,female,senior,2000-metres,track,323.75,ESP,26,2017
+4,5:25.36,,Sonia O'SULLIVAN,1969-11-28,IRL,1.0,Edinburgh (GBR),1994-07-08,1220,2000-metres,middlelong,female,senior,2000-metres,track,325.36,GBR,24,1994
+5,5:25.86,,Freweyni HAILU,2001-02-12,ETH,2.0,"Sports Park Mladost, Zagreb (CRO)",2021-09-14,1217,2000-metres,middlelong,female,senior,2000-metres,track,325.86,CRO,20,2021
+6,5:26.08,,Melissa COURTNEY-BRYANT,1993-08-30,GBR,2.0,"Stade Louis II, Monaco (MON)",2024-07-12,1215,2000-metres,middlelong,female,senior,2000-metres,track,326.08,MON,30,2024
+7,5:26.09,,Edinah JEBITOK,2001-11-10,KEN,3.0,"Stade Louis II, Monaco (MON)",2024-07-12,1215,2000-metres,middlelong,female,senior,2000-metres,track,326.09,MON,22,2024
+8,5:26.93,,Yvonne MURRAY,1964-10-04,GBR,2.0,Edinburgh (GBR),1994-07-08,1211,2000-metres,middlelong,female,senior,2000-metres,track,326.93,GBR,29,1994
+9,5:27.50,,Genzebe DIBABA,1991-02-08,ETH,1.0,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1207,2000-metres,middlelong,female,senior,2000-metres,track,327.5,CZE,23,2014
+10,5:27.73,,Genzebe DIBABA,1991-02-08,ETH,1.0,Montreuil (FRA),2018-06-19,1206,2000-metres,middlelong,female,senior,2000-metres,track,327.73,FRA,27,2018
+11,5:28.69,,Maricica PUICĂ,1950-07-29,ROU,1.0,London (GBR),1986-07-11,1200,2000-metres,middlelong,female,senior,2000-metres,track,328.69,GBR,35,1986
+12,5:28.72,,Tatyana KAZANKINA,1951-12-17,URS,1.0,Moskva (URS),1984-08-04,1200,2000-metres,middlelong,female,senior,2000-metres,track,328.72,URS,32,1984
+13,5:28.78,,Cory Ann MCGEE,1992-05-29,USA,4.0,"Stade Louis II, Monaco (MON)",2024-07-12,1200,2000-metres,middlelong,female,senior,2000-metres,track,328.78,MON,32,2024
+14,5:28.82,,Georgia GRIFFITH,1996-12-05,AUS,5.0,"Stade Louis II, Monaco (MON)",2024-07-12,1200,2000-metres,middlelong,female,senior,2000-metres,track,328.82,MON,27,2024
+15,5:29.42,,Genzebe DIBABA,1991-02-08,ETH,1.0,Sollentuna (SWE),2014-06-26,1196,2000-metres,middlelong,female,senior,2000-metres,track,329.42,SWE,23,2014
+16,5:29.58,,Yvonne MURRAY,1964-10-04,GBR,2.0,London (GBR),1986-07-11,1195,2000-metres,middlelong,female,senior,2000-metres,track,329.58,GBR,21,1986
+17,5:29.64,,Tetyana POZDNYAKOVA,1956-03-04,URS,2.0,Moskva (URS),1984-08-04,1195,2000-metres,middlelong,female,senior,2000-metres,track,329.64,URS,28,1984
+18,5:30.19,,Zola BUDD,1966-05-26,GBR,3.0,London (GBR),1986-07-11,1192,2000-metres,middlelong,female,senior,2000-metres,track,330.19,GBR,20,1986
+18,5:30.19,,Gelete BURKA,1986-01-23,ETH,1.0,"Boudewijnstadion, Bruxelles (BEL)",2009-09-04,1192,2000-metres,middlelong,female,senior,2000-metres,track,330.19,BEL,23,2009
+20,5:30.39,,Maricica PUICĂ,1950-07-29,ROU,1.0,Rieti (ITA),1985-09-04,1191,2000-metres,middlelong,female,senior,2000-metres,track,330.39,ITA,35,1985
+21,5:30.53,,Gabriela SZABO,1975-11-14,ROU,1.0,Sindelfingen (GER) (i),1998-03-08,1217,2000-metres,middlelong,female,senior,2000-metres,track,330.53,GER,22,1998
+22,5:30.92,,Galina ZAKHAROVA,1956-09-07,URS,3.0,Moskva (URS),1984-08-04,1188,2000-metres,middlelong,female,senior,2000-metres,track,330.92,URS,27,1984
+23,5:31.03,,Gulnara SAMITOVA-GALKINA,1978-07-09,RUS,1.0,Sochi (RUS),2007-05-27,1187,2000-metres,middlelong,female,senior,2000-metres,track,331.03,RUS,28,2007
+24,5:31.18,,Lucia STAFFORD,1998-08-17,CAN,6.0,"Stade Louis II, Monaco (MON)",2024-07-12,1186,2000-metres,middlelong,female,senior,2000-metres,track,331.18,MON,25,2024
+25,5:31.52,,Vivian Jepkemei CHERUIYOT,1983-09-11,KEN,1.0,"Eugene, OR (USA)",2009-06-07,1184,2000-metres,middlelong,female,senior,2000-metres,track,331.52,USA,25,2009
+26,5:31.88,,Maryam Yusuf JAMAL,1984-09-16,BRN,2.0,"Eugene, OR (USA)",2009-06-07,1182,2000-metres,middlelong,female,senior,2000-metres,track,331.88,USA,24,2009
+27,5:32.40,,Dawit SEYAUM,1996-07-27,ETH,3.0,"Sports Park Mladost, Zagreb (CRO)",2021-09-14,1179,2000-metres,middlelong,female,senior,2000-metres,track,332.4,CRO,25,2021
+28,5:32.63,,Agathe GUILLEMOT,1999-07-11,FRA,7.0,"Stade Louis II, Monaco (MON)",2024-07-12,1178,2000-metres,middlelong,female,senior,2000-metres,track,332.63,MON,25,2024
+29,5:32.7h,,Mary DECKER,1958-08-04,USA,1.0,"Eugene, OR (USA)",1984-08-03,1178,2000-metres,middlelong,female,senior,2000-metres,track,332.7,USA,26,1984
+30,5:32.83,,Roberta BRUNET,1965-05-20,ITA,,Torino (ITA),1996-09-14,1177,2000-metres,middlelong,female,senior,2000-metres,track,332.83,ITA,31,1996
+31,5:32.86,,Marta GARCÍA,1998-01-01,ESP,8.0,"Stade Louis II, Monaco (MON)",2024-07-12,1177,2000-metres,middlelong,female,senior,2000-metres,track,332.86,MON,26,2024
+32,5:33.15,,Zola BUDD,1966-05-26,GBR,1.0,London (GBR),1984-07-13,1175,2000-metres,middlelong,female,senior,2000-metres,track,333.15,GBR,18,1984
+33,5:33.43,,Linet Chepkwemoi MASAI,1989-12-05,KEN,3.0,"Eugene, OR (USA)",2009-06-07,1174,2000-metres,middlelong,female,senior,2000-metres,track,333.43,USA,19,2009
+34,5:33.76,,Genzebe DIBABA,1991-02-08,ETH,1.0,"Bregyó Athletic Center, Székesfehérvár (HUN)",2019-07-09,1172,2000-metres,middlelong,female,senior,2000-metres,track,333.76,HUN,28,2019
+35,5:33.83,,Elvan ABEYLEGESSE,1982-09-11,TUR,1.0,Istanbul (TUR),2003-06-07,1171,2000-metres,middlelong,female,senior,2000-metres,track,333.83,TUR,20,2003
+36,5:33.85,,Christina CAHILL,1957-03-25,GBR,2.0,London (GBR),1984-07-13,1171,2000-metres,middlelong,female,senior,2000-metres,track,333.85,GBR,27,1984
+37,5:34.27,,Senbere TEFERI,1995-05-03,ETH,2.0,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1169,2000-metres,middlelong,female,senior,2000-metres,track,334.27,CZE,19,2014
+38,5:34.49,,Angela CHALMERS,1963-09-06,CAN,1.0,Sheffield (GBR),1994-09-04,1168,2000-metres,middlelong,female,senior,2000-metres,track,334.49,GBR,31,1994
+39,5:34.52,,Mary SLANEY,1958-08-04,USA,1.0,"Los Angeles, CA (USA) (i)",1985-01-18,1195,2000-metres,middlelong,female,senior,2000-metres,track,334.52,USA,26,1985
+40,5:34.53,,Konstanze KLOSTERHALFEN,1997-02-18,GER,1.0,"Moselstadion, Trier (GER)",2021-09-17,1167,2000-metres,middlelong,female,senior,2000-metres,track,334.53,GER,24,2021
+41,5:34.99,,Axumawit EMBAYE,1994-10-18,ETH,9.0,"Stade Louis II, Monaco (MON)",2024-07-12,1165,2000-metres,middlelong,female,senior,2000-metres,track,334.99,MON,29,2024
+42,5:35.20,,Sally KIPYEGO,1985-12-19,KEN,4.0,"Eugene, OR (USA)",2009-06-07,1164,2000-metres,middlelong,female,senior,2000-metres,track,335.2,USA,23,2009
+43,5:35.38,,Yvonne MURRAY,1964-10-04,GBR,1.0,London (GBR),1991-07-12,1163,2000-metres,middlelong,female,senior,2000-metres,track,335.38,GBR,26,1991
+44,5:35.46,,Vivian Jepkemei CHERUIYOT,1983-09-11,KEN,2.0,"Boudewijnstadion, Bruxelles (BEL)",2009-09-04,1162,2000-metres,middlelong,female,senior,2000-metres,track,335.46,BEL,26,2009
+44,5:35.46,,Dawit SEYAUM,1996-07-27,ETH,1.0,"Reggie Lewis Center, Boston, MA (USA) (i)",2015-02-07,1189,2000-metres,middlelong,female,senior,2000-metres,track,335.46,USA,18,2015
+46,5:35.5h,,Maricica PUICĂ,1950-07-29,ROU,1.0,Bucureşti (ROU),1979-05-19,1162,2000-metres,middlelong,female,senior,2000-metres,track,335.5,ROU,28,1979
+47,5:35.53,,Yvonne MURRAY,1964-10-04,GBR,1.0,Sheffield (GBR),1990-09-16,1162,2000-metres,middlelong,female,senior,2000-metres,track,335.53,GBR,25,1990
+48,5:35.59,,Cornelia BÜRKI,1953-10-03,SUI,4.0,London (GBR),1986-07-11,1161,2000-metres,middlelong,female,senior,2000-metres,track,335.59000000000003,GBR,32,1986
+49,5:35.62,,Berhane ADERE,1973-11-23,ETH,1.0,Ostrava (CZE),2003-06-12,1161,2000-metres,middlelong,female,senior,2000-metres,track,335.62,CZE,29,2003
+50,5:35.65,,Mercy CHERONO,1991-05-07,KEN,3.0,"Boudewijnstadion, Bruxelles (BEL)",2009-09-04,1161,2000-metres,middlelong,female,senior,2000-metres,track,335.65,BEL,18,2009
+51,5:35.80,,Liliya SHOBUKHOVA,1977-11-13,RUS,2.0,Sochi (RUS),2007-05-27,1160,2000-metres,middlelong,female,senior,2000-metres,track,335.8,RUS,29,2007
+52,5:35.83,,Daniela YORDANOVA,1976-03-08,BUL,1.0,Sofia (BUL),2004-07-08,1160,2000-metres,middlelong,female,senior,2000-metres,track,335.83,BUL,28,2004
+53,5:36.03,,Yvonne MURRAY,1964-10-04,GBR,1.0,Sheffield (GBR),1993-08-29,1159,2000-metres,middlelong,female,senior,2000-metres,track,336.03,GBR,28,1993
+54,5:36.06,,Kristina MÄKI,1991-09-22,CZE,4.0,"Sports Park Mladost, Zagreb (CRO)",2021-09-14,1159,2000-metres,middlelong,female,senior,2000-metres,track,336.06,CRO,30,2021
+55,5:36.30,,Svetlana APLACHKINA,1992-11-28,ANA,5.0,"Sports Park Mladost, Zagreb (CRO)",2021-09-14,1157,2000-metres,middlelong,female,senior,2000-metres,track,336.3,CRO,28,2021
+56,5:36.52,,Natalya PANTELEYEVA,1983-09-10,RUS,3.0,Sochi (RUS),2007-05-27,1156,2000-metres,middlelong,female,senior,2000-metres,track,336.52,RUS,23,2007
+57,5:36.65,,Mary SLANEY,1958-08-04,USA,1.0,"San Diego, CA (USA)",1988-06-25,1156,2000-metres,middlelong,female,senior,2000-metres,track,336.65,USA,29,1988
+58,5:37.00,,Christine BENNING,1955-03-30,GBR,3.0,London (GBR),1984-07-13,1154,2000-metres,middlelong,female,senior,2000-metres,track,337.0,GBR,29,1984
+58,5:37.00,,Mercy CHERONO,1991-05-07,KEN,6.0,"Sports Park Mladost, Zagreb (CRO)",2021-09-14,1154,2000-metres,middlelong,female,senior,2000-metres,track,337.0,CRO,30,2021
+60,5:37.34,,Fernanda RIBEIRO,1969-06-23,POR,1.0,Valencia (ESP) (i),1996-02-28,1178,2000-metres,middlelong,female,senior,2000-metres,track,337.34000000000003,ESP,26,1996
+61,5:37.36,,Naomi MUGO,1977-01-02,KEN,2.0,Ostrava (CZE),2003-06-12,1152,2000-metres,middlelong,female,senior,2000-metres,track,337.36,CZE,26,2003
+62,5:37.55,,Zamira ZAYTSEVA,1953-02-16,URS,4.0,London (GBR),1984-08-04,1150,2000-metres,middlelong,female,senior,2000-metres,track,337.55,GBR,31,1984
+63,5:37.60,,Nadia BATTOCLETTI,2000-04-12,ITA,1.0,"Centro Sportivo, Cles (ITA)",2021-08-21,1150,2000-metres,middlelong,female,senior,2000-metres,track,337.6,ITA,21,2021
+64,5:37.62,,Ulrike BRUNS,1953-11-17,GDR,1.0,Berlin (GDR),1985-09-22,1150,2000-metres,middlelong,female,senior,2000-metres,track,337.62,GDR,31,1985
+65,5:37.71,,Benita WILLIS-JOHNSON,1979-05-06,AUS,3.0,Ostrava (CZE),2003-06-12,1150,2000-metres,middlelong,female,senior,2000-metres,track,337.71,CZE,24,2003
+66,5:37.86,,Lesley LEHANE,1963-03-12,USA,5.0,London (GBR),1986-07-11,1149,2000-metres,middlelong,female,senior,2000-metres,track,337.86,GBR,23,1986
+67,5:38.07,,Zola BUDD-PIETERSE,1966-05-26,RSA,1.0,Cape Town (RSA),1991-04-08,1148,2000-metres,middlelong,female,senior,2000-metres,track,338.07,RSA,24,1991
+68,5:38.11,,Pauline Chemning KORIKWIANG,1988-03-01,KEN,5.0,"Eugene, OR (USA)",2009-06-07,1147,2000-metres,middlelong,female,senior,2000-metres,track,338.11,USA,21,2009
+69,5:38.19,,Beyenu DEGEFA,1999-07-12,ETH,2.0,Montreuil (FRA),2018-06-19,1147,2000-metres,middlelong,female,senior,2000-metres,track,338.19,FRA,18,2018
+69,5:38.19,,Caster SEMENYA,1991-01-07,RSA,1.0,Montreuil (FRA),2019-06-11,1147,2000-metres,middlelong,female,senior,2000-metres,track,338.19,FRA,28,2019
+71,5:38.33,,Yvonne MURRAY,1964-10-04,GBR,2.0,Sheffield (GBR),1994-09-04,1146,2000-metres,middlelong,female,senior,2000-metres,track,338.33,GBR,29,1994
+72,5:38.34,,Amy YODER BEGLEY,1978-01-11,USA,6.0,"Eugene, OR (USA)",2009-06-07,1146,2000-metres,middlelong,female,senior,2000-metres,track,338.34000000000003,USA,31,2009
+73,5:38.37,,Susan KUIJKEN,1986-07-08,NED,1.0,Amsterdam (NED),2013-08-31,1146,2000-metres,middlelong,female,senior,2000-metres,track,338.37,NED,27,2013
+74,5:38.42,,Regina JACOBS,1963-08-28,USA,3.0,Edinburgh (GBR),1994-07-08,1146,2000-metres,middlelong,female,senior,2000-metres,track,338.42,GBR,30,1994
+75,5:38.44,,Lidia CHOJECKA,1977-01-25,POL,4.0,"Boudewijnstadion, Bruxelles (BEL)",2009-09-04,1146,2000-metres,middlelong,female,senior,2000-metres,track,338.44,BEL,32,2009
+76,5:38.50,,Alison WYETH,1964-05-26,GBR,2.0,Sheffield (GBR),1993-08-29,1145,2000-metres,middlelong,female,senior,2000-metres,track,338.5,GBR,29,1993
+77,5:38.51,,Angelika ZAUBER,1958-11-05,GDR,1.0,Potsdam (GDR),1985-08-18,1145,2000-metres,middlelong,female,senior,2000-metres,track,338.51,GDR,26,1985
+78,5:38.53,,Mimi BELETE,1988-06-09,BRN,2.0,Amsterdam (NED),2013-08-31,1145,2000-metres,middlelong,female,senior,2000-metres,track,338.53,NED,25,2013
+79,5:38.66,,Hawi FEYSA,1999-02-01,ETH,2.0,Montreuil (FRA),2019-06-11,1144,2000-metres,middlelong,female,senior,2000-metres,track,338.65999999999997,FRA,20,2019
+80,5:38.71,,Ulrike BRUNS,1953-11-17,GDR,1.0,Neubrandenburg (GDR),1985-06-07,1144,2000-metres,middlelong,female,senior,2000-metres,track,338.71,GDR,31,1985
+81,5:38.76,,Gabriela SZABO,1975-11-14,ROU,1.0,Liévin (FRA) (i),2000-02-13,1170,2000-metres,middlelong,female,senior,2000-metres,track,338.76,FRA,24,2000
+82,5:38.80,,Annette HAND-PETERS,1965-05-31,USA,1.0,"Eugene, OR (USA)",1992-06-06,1144,2000-metres,middlelong,female,senior,2000-metres,track,338.8,USA,27,1992
+83,5:38.95,,Mary SLANEY,1958-08-04,USA,2.0,London (GBR),1991-07-12,1143,2000-metres,middlelong,female,senior,2000-metres,track,338.95,GBR,32,1991
+84,5:39.0h,,Natalia MĂRĂŞESCU,1952-10-03,ROU,1.0,Auckland (NZL),1979-01-13,1142,2000-metres,middlelong,female,senior,2000-metres,track,339.0,NZL,26,1979
+84,5:39.00,,Annette SERGENT-PALLUY,1962-11-17,FRA,6.0,London (GBR),1986-07-11,1142,2000-metres,middlelong,female,senior,2000-metres,track,339.0,GBR,23,1986
+86,5:39.15,,Yelena KANALES,1976-02-07,RUS,1.0,Yekaterinburg (RUS) (i),2006-01-07,1168,2000-metres,middlelong,female,senior,2000-metres,track,339.15,RUS,29,2006
+87,5:39.17,,Zoe BUCKMAN,1988-12-21,AUS,3.0,Amsterdam (NED),2013-08-31,1141,2000-metres,middlelong,female,senior,2000-metres,track,339.17,NED,24,2013
+88,5:39.19,,Mary SLANEY,1958-08-04,USA,1.0,"Eugene, OR (USA)",1992-06-06,1141,2000-metres,middlelong,female,senior,2000-metres,track,339.19,USA,33,1992
+89,5:39.20,,Paula RADCLIFFE,1973-12-17,GBR,3.0,Sheffield (GBR),1993-08-29,1141,2000-metres,middlelong,female,senior,2000-metres,track,339.2,GBR,19,1993
+90,5:39.30,,Olga YEGOROVA,1972-03-28,RUS,2.0,Liévin (FRA) (i),2000-02-13,1167,2000-metres,middlelong,female,senior,2000-metres,track,339.3,FRA,27,2000
+91,5:39.36,,Violeta BECLEA-SZEKELY,1965-03-26,ROU,3.0,Liévin (FRA) (i),2000-02-13,1167,2000-metres,middlelong,female,senior,2000-metres,track,339.36,FRA,34,2000
+92,5:39.39,,Fatima MAAMA-YVELAIN,1969-12-31,FRA,1.0,Nancy (FRA),2000-09-03,1140,2000-metres,middlelong,female,senior,2000-metres,track,339.39,FRA,30,2000
+93,5:39.44,,Yamna BELKACEM,1974-02-20,FRA,1.0,Nancy (FRA),1999-09-12,1140,2000-metres,middlelong,female,senior,2000-metres,track,339.44,FRA,25,1999
+94,5:39.47,,Berhane ADERE,1973-11-23,ETH,1.0,Chemnitz (GER) (i),2002-02-22,1166,2000-metres,middlelong,female,senior,2000-metres,track,339.47,GER,28,2002
+95,5:39.52,,Elly VAN HULST,1959-06-09,NED,7.0,London (GBR),1986-07-11,1140,2000-metres,middlelong,female,senior,2000-metres,track,339.52,GBR,27,1986
+96,5:39.90,,Adanech ANBESA,1998-01-23,ETH,3.0,Montreuil (FRA),2019-06-11,1137,2000-metres,middlelong,female,senior,2000-metres,track,339.9,FRA,21,2019
+97,5:39.96,,Debbie SCOTT-BOWKER,1958-12-16,CAN,1.0,Gateshead (GBR),1986-08-05,1137,2000-metres,middlelong,female,senior,2000-metres,track,339.96,GBR,27,1986
+97,5:39.96,,Feyne GEMEDA,1992-06-28,ETH,3.0,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1137,2000-metres,middlelong,female,senior,2000-metres,track,339.96,CZE,21,2014

@@ -5021,7 +5021,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5020,2:10:02,,Tiidrek NURME,1985-11-18,EST,20,Sevilla (ESP),2020-02-23,1130,marathon,road-running,male,senior,marathon,track,7802.0,ESP,34.0,2020
 5020,2:10:02,,Henryk SZOST,1982-01-20,POL,6,Fukuoka (JPN),2014-12-07,1130,marathon,road-running,male,senior,marathon,track,7802.0,JPN,32.0,2014
 5020,2:10:02,,Alemayehu Ameta BELACHEW,1985-10-26,ETH,7,Seoul (KOR),2015-11-01,1130,marathon,road-running,male,senior,marathon,track,7802.0,KOR,30.0,2015
-5020,2:10:02,,Vincent Kipsegechi YATOR,1989-07-11,KEN,7,Wien (AUT),2019-04-07,1130,marathon,road-running,male,senior,marathon,track,7802.0,AUT,29.0,2019
+5020,2:10:02,,Albert KORIR,1994-03-02,KEN,1,"Houston, TX (USA)",2019-01-20,1130,marathon,road-running,male,senior,marathon,track,7802.0,USA,24.0,2019
 5020,2:10:02,,Ryu TAKAKU,1993-02-18,JPN,7,Hamburg (GER),2019-04-28,1130,marathon,road-running,male,senior,marathon,track,7802.0,GER,26.0,2019
 5020,2:10:02,,Camilo Raul SANTIAGO,1982-12-22,ESP,15,Valencia (ESP),2019-12-01,1130,marathon,road-running,male,senior,marathon,track,7802.0,ESP,36.0,2019
 5020,2:10:02,,Jacob RILEY,1988-11-02,USA,2,"Atlanta, GA (USA)",2020-02-29,1130,marathon,road-running,male,senior,marathon,track,7802.0,USA,31.0,2020
@@ -5034,7 +5034,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5020,2:10:02,,Alemayehu Ameta BELACHEW,1985-10-26,ETH,1,Łódź (POL),2013-04-14,1130,marathon,road-running,male,senior,marathon,track,7802.0,POL,27.0,2013
 5020,2:10:02,,Lawrence CHERONO,1988-08-07,KEN,4,"Odori Park, Sapporo (JPN)",2021-08-08,1130,marathon,road-running,male,senior,marathon,track,7802.0,JPN,33.0,2021
 5020,2:10:02,,Michael KIPYEGO,1983-10-02,KEN,13,"Chicago, IL (USA)",2012-10-07,1130,marathon,road-running,male,senior,marathon,track,7802.0,USA,29.0,2012
-5020,2:10:02,,Albert KORIR,1994-03-02,KEN,1,"Houston, TX (USA)",2019-01-20,1130,marathon,road-running,male,senior,marathon,track,7802.0,USA,24.0,2019
+5020,2:10:02,,Vincent Kipsegechi YATOR,1989-07-11,KEN,7,Wien (AUT),2019-04-07,1130,marathon,road-running,male,senior,marathon,track,7802.0,AUT,29.0,2019
 5020,2:10:02,,Ben Kipruto CHEBET,1982-02-22,KEN,2,Padova (ITA),2012-04-22,1130,marathon,road-running,male,senior,marathon,track,7802.0,ITA,30.0,2012
 5020,2:10:02,,Toshihiko SEKO,1956-07-15,JPN,1,London (GBR),1986-04-20,1130,marathon,road-running,male,senior,marathon,track,7802.0,GBR,29.0,1986
 5020,2:10:02,,Dionicio CERÓN,1965-10-09,MEX,2,Rotterdam (NED),1991-04-21,1130,marathon,road-running,male,senior,marathon,track,7802.0,NED,25.0,1991
@@ -5046,8 +5046,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5020,2:10:02,,António PINTO,1966-03-22,POR,1,London (GBR),1992-04-12,1130,marathon,road-running,male,senior,marathon,track,7802.0,GBR,26.0,1992
 5020,2:10:02,,Hillary KIPCHUMBA,,KEN,4,Casablanca (MAR),2010-10-24,1130,marathon,road-running,male,senior,marathon,track,7802.0,MAR,,2010
 5020,2:10:02,,Stephen CHEMLANY,1982-08-09,KEN,1,See Genezareth (ISR),2011-01-06,1130,marathon,road-running,male,senior,marathon,track,7802.0,ISR,28.0,2011
-5020,2:10:02,,Richard LIMO,1980-11-18,KEN,3,Reims (FRA),2011-10-16,1130,marathon,road-running,male,senior,marathon,track,7802.0,FRA,30.0,2011
 5020,2:10:02,,Levi Omari MATEBO,1989-11-03,KEN,12,"Chicago, IL (USA)",2012-10-07,1130,marathon,road-running,male,senior,marathon,track,7802.0,USA,22.0,2012
+5020,2:10:02,,Richard LIMO,1980-11-18,KEN,3,Reims (FRA),2011-10-16,1130,marathon,road-running,male,senior,marathon,track,7802.0,FRA,30.0,2011
 5020,2:10:02,,Maiyo Johnstone KIBET,1988-10-06,KEN,15,Frankfurt (GER),2011-10-30,1130,marathon,road-running,male,senior,marathon,track,7802.0,GER,23.0,2011
 5020,2:10:02,,Takehiro DEKI,1990-04-12,JPN,8,Otsu (JPN),2012-03-04,1130,marathon,road-running,male,senior,marathon,track,7802.0,JPN,21.0,2012
 5020,2:10:02,,Philip Sanga KIMUTAI,1983-09-10,KEN,2,Roma (ITA),2008-03-16,1130,marathon,road-running,male,senior,marathon,track,7802.0,ITA,24.0,2008
@@ -7542,8 +7542,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7506,2:11:07,,Sintayehu LEGESE,,ETH,10,Paris (FRA),2015-04-12,1110,marathon,road-running,male,senior,marathon,track,7867.0,FRA,,2015
 7506,2:11:07,,Daniel Kirwa TOO,1976-11-21,KEN,9,Eindhoven (NED),2003-10-12,1110,marathon,road-running,male,senior,marathon,track,7867.0,NED,26.0,2003
 7543,2:11:08,,Berga BIRHANU BEKELE,1981-04-20,ETH,5,Taiyuan (CHN),2019-09-08,1110,marathon,road-running,male,senior,marathon,track,7868.0,CHN,38.0,2019
-7543,2:11:08,,Alexander YEE,1998-02-18,GBR,14,London (GBR),2025-04-27,1110,marathon,road-running,male,senior,marathon,track,7868.0,GBR,27.0,2025
 7543,2:11:08,,Joel Kemboi KIMURER,1988-01-21,KEN,4,Istanbul (TUR),2018-11-11,1110,marathon,road-running,male,senior,marathon,track,7868.0,TUR,30.0,2018
+7543,2:11:08,,Alexander YEE,1998-02-18,GBR,14,London (GBR),2025-04-27,1110,marathon,road-running,male,senior,marathon,track,7868.0,GBR,27.0,2025
 7543,2:11:08,,Samwel MASWAI,1988-03-29,KEN,3,Wien (AUT),2018-04-22,1110,marathon,road-running,male,senior,marathon,track,7868.0,AUT,30.0,2018
 7543,2:11:08,,Michel BUTTER,1985-11-05,NED,11,Amsterdam (NED),2015-10-18,1110,marathon,road-running,male,senior,marathon,track,7868.0,NED,29.0,2015
 7543,2:11:08,,Afewerk MESFIN,1992-10-12,ETH,9,Seoul (KOR),2016-03-20,1110,marathon,road-running,male,senior,marathon,track,7868.0,KOR,23.0,2016
@@ -7566,7 +7566,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7543,2:11:08,,Jirata DINKI,,ETH,11,Dubai (UAE),2025-01-12,1110,marathon,road-running,male,senior,marathon,track,7868.0,UAE,,2025
 7543,2:11:08,,Shunjin YIN,1985-01-26,CHN,5,Taiyuan (CHN),2020-10-18,1110,marathon,road-running,male,senior,marathon,track,7868.0,CHN,35.0,2020
 7543,2:11:08,,Daniele MEUCCI,1985-10-07,ITA,1,"Letzigrund, Zürich (SUI)",2014-08-17,1110,marathon,road-running,male,senior,marathon,track,7868.0,SUI,28.0,2014
-7543,2:11:08,,Sammy KIBET,1982-02-02,KEN,3f1,Marrakech (MAR),2009-01-25,1110,marathon,road-running,male,senior,marathon,track,7868.0,MAR,26.0,2009
+7543,2:11:08,,Sammy CHUMBA,1978-08-09,KEN,4,Ljubljana (SLO),2009-10-25,1110,marathon,road-running,male,senior,marathon,track,7868.0,SLO,31.0,2009
 7543,2:11:08,,Dadi Yami GEMEDA,,ETH,4,"Houston, TX (USA)",2014-01-19,1110,marathon,road-running,male,senior,marathon,track,7868.0,USA,,2014
 7543,2:11:08,,Aleksey REUNKOV,1984-01-28,RUS,7,Wien (AUT),2014-04-13,1110,marathon,road-running,male,senior,marathon,track,7868.0,AUT,30.0,2014
 7543,2:11:08,,Bill RODGERS,1947-12-23,USA,1,Melbourne (AUS),1982-10-17,1110,marathon,road-running,male,senior,marathon,track,7868.0,AUS,34.0,1982
@@ -7587,7 +7587,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7543,2:11:08,,Maiyo Johnstone KIBET,1988-10-06,KEN,7,See Genezareth (ISR),2011-01-06,1110,marathon,road-running,male,senior,marathon,track,7868.0,ISR,22.0,2011
 7543,2:11:08,,Takaaki KODA,1984-03-27,JPN,7,Tokyo (JPN),2011-02-27,1110,marathon,road-running,male,senior,marathon,track,7868.0,JPN,26.0,2011
 7543,2:11:08,,Mushir Salim JAWHER,1978-06-13,KEN,8,Dubai (UAE),2010-01-22,1110,marathon,road-running,male,senior,marathon,track,7868.0,UAE,31.0,2010
-7543,2:11:08,,Sammy CHUMBA,1978-08-09,KEN,4,Ljubljana (SLO),2009-10-25,1110,marathon,road-running,male,senior,marathon,track,7868.0,SLO,31.0,2009
+7543,2:11:08,,Sammy KIBET,1982-02-02,KEN,3f1,Marrakech (MAR),2009-01-25,1110,marathon,road-running,male,senior,marathon,track,7868.0,MAR,26.0,2009
 7543,2:11:08,,Samuel Muturi MUGO,1986-05-02,KEN,1,Porto (POR),2008-10-26,1110,marathon,road-running,male,senior,marathon,track,7868.0,POR,22.0,2008
 7543,2:11:08,,Dejene YIRDAWE,1978-08-21,ETH,3,Dublin (IRL),2007-10-29,1110,marathon,road-running,male,senior,marathon,track,7868.0,IRL,29.0,2007
 7543,2:11:08,,John MUTAI,1987-11-23,KEN,6,See Genezareth (ISR),2011-01-06,1110,marathon,road-running,male,senior,marathon,track,7868.0,ISR,23.0,2011
@@ -8797,12 +8797,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8796,2:11:37,,Debele BELDA,1984-11-12,ETH,7,Castellón (ESP),2020-02-16,1101,marathon,road-running,male,senior,marathon,track,7897.0,ESP,35.0,2020
 8796,2:11:37,,Il Ryong HAN,2000-04-29,PRK,6,Beijing (CHN),2019-11-03,1101,marathon,road-running,male,senior,marathon,track,7897.0,CHN,19.0,2019
 8796,2:11:37,,Taiga ITO,1986-10-22,JPN,7,Chengdu (CHN),2019-10-27,1101,marathon,road-running,male,senior,marathon,track,7897.0,CHN,33.0,2019
-8796,2:11:37,,Jackson Kobut KIPKOECH,1988-02-12,KEN,3,Casablanca (MAR),2019-10-06,1101,marathon,road-running,male,senior,marathon,track,7897.0,MAR,31.0,2019
+8796,2:11:37,,Collins KEMBOI,1997-08-23,KEN,1,Genève (SUI),2025-05-11,1101,marathon,road-running,male,senior,marathon,track,7897.0,SUI,27.0,2025
 8796,2:11:37,,Abdela GODANA,1992-09-11,ETH,3,Barcelona (ESP),2015-03-15,1101,marathon,road-running,male,senior,marathon,track,7897.0,ESP,22.0,2015
 8796,2:11:37,,Samwel MASWAI,1988-03-29,KEN,3,Dongguan (CHN),2016-03-27,1101,marathon,road-running,male,senior,marathon,track,7897.0,CHN,28.0,2016
 8796,2:11:37,,Berhanu SHIFERAW,1993-05-31,ETH,2,Beijing (CHN),2015-09-20,1101,marathon,road-running,male,senior,marathon,track,7897.0,CHN,22.0,2015
 8796,2:11:37,,Mikael EKVALL,1989-06-18,SWE,32,Sevilla (ESP),2020-02-23,1101,marathon,road-running,male,senior,marathon,track,7897.0,ESP,30.0,2020
-8796,2:11:37,,Collins KEMBOI,1997-08-23,KEN,1,Genève (SUI),2025-05-11,1101,marathon,road-running,male,senior,marathon,track,7897.0,SUI,27.0,2025
+8796,2:11:37,,Monatcer ZAGHOU,1989-05-14,MAR,8,Rabat (MAR),2019-04-21,1101,marathon,road-running,male,senior,marathon,track,7897.0,MAR,29.0,2019
 8796,2:11:37,,Daiji KAWAI,1991-09-22,JPN,32,Tokyo (JPN),2020-03-01,1101,marathon,road-running,male,senior,marathon,track,7897.0,JPN,28.0,2020
 8796,2:11:37,,Shengo KEBEDE,1989-11-02,ETH,2,Beograd (SRB),2025-04-06,1101,marathon,road-running,male,senior,marathon,track,7897.0,SRB,35.0,2025
 8796,2:11:37,,Junichi TSUBOUCHI,1987-08-22,JPN,8,Hofu (JPN),2022-12-04,1101,marathon,road-running,male,senior,marathon,track,7897.0,JPN,35.0,2022
@@ -8817,7 +8817,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8796,2:11:37,,Tadesse ABRAHAM,1982-08-12,SUI,10,Seoul (KOR),2015-03-15,1101,marathon,road-running,male,senior,marathon,track,7897.0,KOR,32.0,2015
 8796,2:11:37,,Juan Luis BARRIOS,1983-06-24,MEX,16,London (GBR),2020-10-04,1101,marathon,road-running,male,senior,marathon,track,7897.0,GBR,37.0,2020
 8796,2:11:37,,Martin KIPRUGUT KOSGEY,1989-03-21,KEN,4,Hannover (GER),2014-04-27,1101,marathon,road-running,male,senior,marathon,track,7897.0,GER,25.0,2014
-8796,2:11:37,,Monatcer ZAGHOU,1989-05-14,MAR,8,Rabat (MAR),2019-04-21,1101,marathon,road-running,male,senior,marathon,track,7897.0,MAR,29.0,2019
+8796,2:11:37,,Jackson Kobut KIPKOECH,1988-02-12,KEN,3,Casablanca (MAR),2019-10-06,1101,marathon,road-running,male,senior,marathon,track,7897.0,MAR,31.0,2019
 8796,2:11:37,,Julius CHEPWONY,,KEN,6,Mumbai (IND),2014-01-19,1101,marathon,road-running,male,senior,marathon,track,7897.0,IND,,2014
 8796,2:11:37,,Stephen KIPROTICH,1989-02-27,UGA,12,London (GBR),2014-04-13,1101,marathon,road-running,male,senior,marathon,track,7897.0,GBR,25.0,2014
 8796,2:11:37,,Garry HENRY,1955-05-17,AUS,2,Montréal (CAN),1980-09-06,1101,marathon,road-running,male,senior,marathon,track,7897.0,CAN,25.0,1980
@@ -9824,13 +9824,13 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9803,2:11:56,,Dechasa ALEMU,1998-10-28,ETH,1,Taipei City (TPE),2023-12-17,1095,marathon,road-running,male,senior,marathon,track,7916.0,TPE,25.0,2023
 9803,2:11:56,,Noah Kiprotich KIGEN,1989-06-12,KEN,9,Wuhan (CHN),2024-03-24,1095,marathon,road-running,male,senior,marathon,track,7916.0,CHN,34.0,2024
 9803,2:11:56,,Cameron LEVINS,1989-03-28,CAN,36,"Stade de France, Paris (FRA)",2024-08-10,1095,marathon,road-running,male,senior,marathon,track,7916.0,FRA,35.0,2024
-9803,2:11:56,,Tesfaye DEMEKE,2001-01-15,ETH,3,Mumbai (IND),2025-01-19,1095,marathon,road-running,male,senior,marathon,track,7916.0,IND,24.0,2025
+9803,2:11:56,,Yohan DURAND,1985-05-14,FRA,49,Valencia (ESP),2024-12-01,1095,marathon,road-running,male,senior,marathon,track,7916.0,ESP,39.0,2024
 9803,2:11:56,,Yoshihiro MAEDA,2000-06-05,JPN,12,Oita (JPN),2025-02-02,1095,marathon,road-running,male,senior,marathon,track,7916.0,JPN,24.0,2025
 9803,2:11:56,,Tatsuya MARUYAMA,1994-07-29,JPN,3,Jiaxing (CHN),2025-03-30,1095,marathon,road-running,male,senior,marathon,track,7916.0,CHN,30.0,2025
 9803,2:11:56,,Khalid BOUMELILI,1978-04-10,MAR,5,Marrakech (MAR),2010-01-31,1095,marathon,road-running,male,senior,marathon,track,7916.0,MAR,31.0,2010
 9803,2:11:56,,Soji IKEDA,1986-12-22,JPN,35,Tokyo (JPN),2020-03-01,1095,marathon,road-running,male,senior,marathon,track,7916.0,JPN,33.0,2020
 9803,2:11:56,,Julius Kipyego KETER,1988-10-20,KEN,1,"Baltimore, MD (USA)",2008-10-11,1095,marathon,road-running,male,senior,marathon,track,7916.0,USA,19.0,2008
-9803,2:11:56,,Yohan DURAND,1985-05-14,FRA,49,Valencia (ESP),2024-12-01,1095,marathon,road-running,male,senior,marathon,track,7916.0,ESP,39.0,2024
+9803,2:11:56,,Tesfaye DEMEKE,2001-01-15,ETH,3,Mumbai (IND),2025-01-19,1095,marathon,road-running,male,senior,marathon,track,7916.0,IND,24.0,2025
 9803,2:11:56,,Geoffrey KIPLAGAT TERER,,KEN,5,Düsseldorf (GER),2008-05-04,1095,marathon,road-running,male,senior,marathon,track,7916.0,GER,,2008
 9803,2:11:56,,Hans-Joachim TRUPPEL,1951-03-24,GDR,3,Karl Marx Stadt (GDR),1980-05-03,1095,marathon,road-running,male,senior,marathon,track,7916.0,GDR,29.0,1980
 9803,2:11:56,,Teruo CHIBA,1957-08-03,JPN,4,Otsu (JPN),1985-03-10,1095,marathon,road-running,male,senior,marathon,track,7916.0,JPN,27.0,1985
@@ -9856,8 +9856,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9803,2:11:56,,Evans Kipkosgei RUTO,1984-01-14,KEN,6,Düsseldorf (GER),2008-05-04,1095,marathon,road-running,male,senior,marathon,track,7916.0,GER,24.0,2008
 9803,2:11:56,,Elly RONO,1970-08-10,KEN,1,"Sacramento, CA (USA)",2002-12-08,1095,marathon,road-running,male,senior,marathon,track,7916.0,USA,32.0,2002
 9803,2:11:56,,Simon LOPUYET,1972-12-24,KEN,1,Köln (GER),2001-10-07,1095,marathon,road-running,male,senior,marathon,track,7916.0,GER,28.0,2001
-9803,2:11:56,,Willy CHERUIYOT,1974-08-02,KEN,1,Praha (CZE),2003-05-18,1095,marathon,road-running,male,senior,marathon,track,7916.0,CZE,28.0,2003
 9803,2:11:56,,Benjamin ROTICH,,KEN,3,Frankfurt (GER),2000-10-29,1095,marathon,road-running,male,senior,marathon,track,7916.0,GER,,2000
+9803,2:11:56,,Willy CHERUIYOT,1974-08-02,KEN,1,Praha (CZE),2003-05-18,1095,marathon,road-running,male,senior,marathon,track,7916.0,CZE,28.0,2003
 9803,2:11:56,,John KIPKOSKEI,1968-12-12,KEN,2,"Cleveland, OH (USA)",1998-05-03,1095,marathon,road-running,male,senior,marathon,track,7916.0,USA,29.0,1998
 9803,2:11:56,,Abel GISEMBA,1971-07-07,KEN,2,Eindhoven (NED),1997-10-12,1095,marathon,road-running,male,senior,marathon,track,7916.0,NED,26.0,1997
 9803,2:11:56,,Xianhui MENG,1976-06-21,CHN,1,Tianjin (CHN),1996-04-14,1095,marathon,road-running,male,senior,marathon,track,7916.0,CHN,19.0,1996
@@ -9886,20 +9886,20 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9863,2:11:57,,Jake SMITH,1998-05-19,GBR,16,London (GBR),2025-04-27,1095,marathon,road-running,male,senior,marathon,track,7917.0,GBR,26.0,2025
 9863,2:11:57,,Emmanuel MUTAI,1984-10-12,KEN,9,Hamburg (GER),2018-04-29,1095,marathon,road-running,male,senior,marathon,track,7917.0,GER,33.0,2018
 9863,2:11:57,,Hailu ZEWDU,1995-05-02,ETH,5,Cape Town (RSA),2023-10-15,1095,marathon,road-running,male,senior,marathon,track,7917.0,RSA,28.0,2023
-9863,2:11:57,,Hillary Kipchirchir KIMAIYO,1981-04-30,KEN,6,Seoul (KOR),2007-11-04,1095,marathon,road-running,male,senior,marathon,track,7917.0,KOR,26.0,2007
-9863,2:11:57,,James ROTICH,1978-12-22,KEN,3,Seoul (KOR),2005-11-06,1095,marathon,road-running,male,senior,marathon,track,7917.0,KOR,26.0,2005
 9863,2:11:57,,Daniel YEGO,1979-08-28,KEN,7,Fukuoka (JPN),2007-12-02,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,28.0,2007
+9863,2:11:57,,James ROTICH,1978-12-22,KEN,3,Seoul (KOR),2005-11-06,1095,marathon,road-running,male,senior,marathon,track,7917.0,KOR,26.0,2005
+9863,2:11:57,,Hillary Kipchirchir KIMAIYO,1981-04-30,KEN,6,Seoul (KOR),2007-11-04,1095,marathon,road-running,male,senior,marathon,track,7917.0,KOR,26.0,2007
 9863,2:11:57,,Leonid MOSEYEV,1952-10-21,URS,2,Fukuoka (JPN),1977-12-04,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,25.0,1977
 9863,2:11:57,,Rodolfo GÓMEZ,1950-10-30,MEX,1,Rotterdam (NED),1982-05-22,1095,marathon,road-running,male,senior,marathon,track,7917.0,NED,31.0,1982
 9863,2:11:57,,Agapius MASONG,1960-04-12,TAN,4,"Chicago, IL (USA)",1983-10-16,1095,marathon,road-running,male,senior,marathon,track,7917.0,USA,23.0,1983
 9863,2:11:57,,Francisco PACHECO,1961-10-10,MEX,8,"Chicago, IL (USA)",1985-10-20,1095,marathon,road-running,male,senior,marathon,track,7917.0,USA,24.0,1985
-9863,2:11:57,,Shigemasa IKEDA,1957-05-27,JPN,3,Otsu (JPN),1987-03-08,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,29.0,1987
+9863,2:11:57,,Douglas WAKIIHURI,1963-09-26,KEN,7,Tokyo (JPN),1988-02-14,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,24.0,1988
 9863,2:11:57,,Fumiaki ABE,1958-07-31,JPN,6,Fukuoka (JPN),1988-12-04,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,30.0,1988
 9863,2:11:57,,Konrad DOBLER,1957-04-27,GER,11,London (GBR),1991-04-21,1095,marathon,road-running,male,senior,marathon,track,7917.0,GBR,34.0,1991
 9863,2:11:57,,Paul DAVIES-HALE,1962-06-21,GBR,4,Carpi (ITA),1991-10-27,1095,marathon,road-running,male,senior,marathon,track,7917.0,ITA,29.0,1991
 9863,2:11:57,,Jan HURUK,1960-01-27,POL,5,Otsu (JPN),1993-03-14,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,33.0,1993
 9863,2:11:57,,Karel DAVID,1964-02-08,CZE,3,Hamburg (GER),1993-05-23,1095,marathon,road-running,male,senior,marathon,track,7917.0,GER,29.0,1993
-9863,2:11:57,,Douglas WAKIIHURI,1963-09-26,KEN,7,Tokyo (JPN),1988-02-14,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,24.0,1988
+9863,2:11:57,,Shigemasa IKEDA,1957-05-27,JPN,3,Otsu (JPN),1987-03-08,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,29.0,1987
 9863,2:11:57,,Toshiyuki HAYATA,1968-05-02,JPN,2,Hiroshima (JPN),1994-10-09,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,26.0,1994
 9863,2:11:57,,Simon BOR,1969-02-13,KEN,1,Toronto (CAN),2005-09-25,1095,marathon,road-running,male,senior,marathon,track,7917.0,CAN,36.0,2005
 9863,2:11:57,,Tesfaye TAFA,1962-11-15,ETH,14,San Sebastián (ESP),1993-10-31,1095,marathon,road-running,male,senior,marathon,track,7917.0,ESP,30.0,1993
@@ -9907,26 +9907,26 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9863,2:11:57,,Yasuaki YAMAMOTO,1972-08-05,JPN,11,Otsu (JPN),2003-03-02,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,30.0,2003
 9863,2:11:57,,Abel ANTÓN,1962-10-24,ESP,8,London (GBR),2001-04-22,1095,marathon,road-running,male,senior,marathon,track,7917.0,GBR,38.0,2001
 9863,2:11:57,,Andrey GORDEYEV,1973-08-07,BLR,1,Hannover (GER),2002-05-05,1095,marathon,road-running,male,senior,marathon,track,7917.0,GER,28.0,2002
+9863,2:11:57,,William KIPLAGAT,1972-06-21,KEN,6,"Chicago, IL (USA)",2000-10-22,1095,marathon,road-running,male,senior,marathon,track,7917.0,USA,28.0,2000
 9863,2:11:57,,Kei YOKOYAMA,1974-09-19,JPN,6,Tokyo (JPN),1999-02-14,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,24.0,1999
 9863,2:11:57,,Eder FIALHO,1973-05-04,BRA,11,London (GBR),1997-04-13,1095,marathon,road-running,male,senior,marathon,track,7917.0,GBR,23.0,1997
 9863,2:11:57,,Domingos CASTRO,1963-11-22,POR,5,Fukuoka (JPN),1996-12-01,1095,marathon,road-running,male,senior,marathon,track,7917.0,JPN,33.0,1996
 9863,2:11:57,,Zbigniew NADOLSKI,1967-01-14,POL,1,Lisboa (POR),1994-11-27,1095,marathon,road-running,male,senior,marathon,track,7917.0,POR,27.0,1994
-9863,2:11:57,,William KIPLAGAT,1972-06-21,KEN,6,"Chicago, IL (USA)",2000-10-22,1095,marathon,road-running,male,senior,marathon,track,7917.0,USA,28.0,2000
-9914,2:11:58,,Paul KUIRA,1991-01-25,KEN,2,Sapporo (JPN),2018-08-26,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,27.0,2018
 9914,2:11:58,,Cosmas KYEVA,1985-06-25,KEN,1,Kraków (POL),2016-05-15,1095,marathon,road-running,male,senior,marathon,track,7918.0,POL,30.0,2016
+9914,2:11:58,,Paul KUIRA,1991-01-25,KEN,2,Sapporo (JPN),2018-08-26,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,27.0,2018
 9914,2:11:58,,Stanley BETT,1986-12-13,KEN,2,Toulouse (FRA),2017-10-22,1095,marathon,road-running,male,senior,marathon,track,7918.0,FRA,30.0,2017
 9914,2:11:58,,Khalil LAMCIYEH,1986-12-10,MAR,6,Oita (JPN),2017-02-05,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,30.0,2017
+9914,2:11:58,,Roba GEBRE,,ETH,3,Copenhagen (DEN),2019-05-19,1095,marathon,road-running,male,senior,marathon,track,7918.0,DEN,,2019
 9914,2:11:58,,Lani RUTTO,1989-03-29,KEN,7,Rotterdam (NED),2016-04-10,1095,marathon,road-running,male,senior,marathon,track,7918.0,NED,27.0,2016
 9914,2:11:58,,Stephen CHEMLANY,1982-08-09,KEN,2,"Hampden Park, Glasgow (GBR)",2014-07-27,1095,marathon,road-running,male,senior,marathon,track,7918.0,GBR,31.0,2014
 9914,2:11:58,,Jesús ESPAÑA,1978-08-21,ESP,6,Sevilla (ESP),2016-02-21,1095,marathon,road-running,male,senior,marathon,track,7918.0,ESP,37.0,2016
 9914,2:11:58,,John Kipkorir KOMEN,1977-08-28,KEN,2,Firenze (ITA),2015-11-29,1095,marathon,road-running,male,senior,marathon,track,7918.0,ITA,38.0,2015
 9914,2:11:58,,Kentaro NAKAMOTO,1982-12-07,JPN,12,Fukuoka (JPN),2014-12-07,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,32.0,2014
 9914,2:11:58,,Gebretsadik ABRAHA,1992-07-16,ETH,12,Amsterdam (NED),2013-10-20,1095,marathon,road-running,male,senior,marathon,track,7918.0,NED,21.0,2013
-9914,2:11:58,,Roba GEBRE,,ETH,3,Copenhagen (DEN),2019-05-19,1095,marathon,road-running,male,senior,marathon,track,7918.0,DEN,,2019
-9914,2:11:58,,Tesfa WOKNETH,1984-09-30,ETH,5,Dongguan (CHN),2016-03-27,1095,marathon,road-running,male,senior,marathon,track,7918.0,CHN,31.0,2016
 9914,2:11:58,,Gilbert YEGON,1988-08-06,KEN,3,Stockholm (SWE),2019-06-01,1095,marathon,road-running,male,senior,marathon,track,7918.0,SWE,30.0,2019
+9914,2:11:58,,Tesfa WOKNETH,1984-09-30,ETH,5,Dongguan (CHN),2016-03-27,1095,marathon,road-running,male,senior,marathon,track,7918.0,CHN,31.0,2016
+9914,2:11:58,,Joel REICHOW,1993-07-24,USA,1,"Two Harbors to Duluth,, Duluth, MN (USA)",2025-06-21,1095,marathon,road-running,male,senior,marathon,track,7918.0,USA,31.0,2025
 9914,2:11:58,,Tadesse TEMECHACHU,1991-09-08,ETH,5,Istanbul (TUR),2022-11-06,1095,marathon,road-running,male,senior,marathon,track,7918.0,TUR,31.0,2022
-9914,2:11:58,,Shohei OTSUKA,1994-08-13,JPN,4,Tokyo (JPN),2019-09-15,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,25.0,2019
 9914,2:11:58,,Tadesse ABRAHAM,1982-08-12,SUI,9,"Corniche, Doha (QAT)",2019-10-05,1095,marathon,road-running,male,senior,marathon,track,7918.0,QAT,37.0,2019
 9914,2:11:58,,Andrew Ben KIMTAI,1989-08-12,KEN,3,Venezia (ITA),2019-10-27,1095,marathon,road-running,male,senior,marathon,track,7918.0,ITA,30.0,2019
 9914,2:11:58,,Yuki NAKAMURA,1981-06-21,JPN,19,Oita (JPN),2020-02-02,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,38.0,2020
@@ -9938,10 +9938,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9914,2:11:58,,Deresa GELETA,1996-01-14,ETH,1,Lagos (NGR),2022-02-12,1095,marathon,road-running,male,senior,marathon,track,7918.0,NGR,26.0,2022
 9914,2:11:58,,David RONO,,KEN,2,Bregenz (AUT),2022-10-09,1095,marathon,road-running,male,senior,marathon,track,7918.0,AUT,,2022
 9914,2:11:58,,Segundo JAMI,1986-05-12,ECU,39,Sevilla (ESP),2023-02-19,1095,marathon,road-running,male,senior,marathon,track,7918.0,ESP,36.0,2023
-9914,2:11:58,,Ignacio CÁCERES,1976-06-18,ESP,9,Rotterdam (NED),2012-04-15,1095,marathon,road-running,male,senior,marathon,track,7918.0,NED,35.0,2012
 9914,2:11:58,,Wesley KIPTOO,1999-07-07,KEN,16,"New York, NY (USA)",2024-11-03,1095,marathon,road-running,male,senior,marathon,track,7918.0,USA,25.0,2024
+9914,2:11:58,,Ignacio CÁCERES,1976-06-18,ESP,9,Rotterdam (NED),2012-04-15,1095,marathon,road-running,male,senior,marathon,track,7918.0,NED,35.0,2012
+9914,2:11:58,,Shohei OTSUKA,1994-08-13,JPN,4,Tokyo (JPN),2019-09-15,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,25.0,2019
 9914,2:11:58,,Francis KIPTOO,1976-08-10,KEN,5,Nairobi (KEN),2011-10-30,1095,marathon,road-running,male,senior,marathon,track,7918.0,KEN,35.0,2011
-9914,2:11:58,,Samwel MARITIM,1965-02-10,KEN,1,"Cleveland, OH (USA)",1997-05-04,1095,marathon,road-running,male,senior,marathon,track,7918.0,USA,32.0,1997
+9914,2:11:58,,Stephan FREIGANG,1967-09-27,GER,1,Köln (GER),1997-10-05,1095,marathon,road-running,male,senior,marathon,track,7918.0,GER,30.0,1997
 9914,2:11:58,,William Chebon CHEBOR,1982-12-22,KEN,1,Gold Coast (AUS),2009-07-05,1095,marathon,road-running,male,senior,marathon,track,7918.0,AUS,26.0,2009
 9914,2:11:58,,Dereje TADESSE,1987-01-24,ETH,1,Danzhou (CHN),2010-12-18,1095,marathon,road-running,male,senior,marathon,track,7918.0,CHN,23.0,2010
 9914,2:11:58,,Ahmed SALAH,1956-12-31,DJI,1,Paris (FRA),1984-05-12,1095,marathon,road-running,male,senior,marathon,track,7918.0,FRA,27.0,1984
@@ -9958,7 +9959,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9914,2:11:58,,Osmiro DE SOUSA SILVA,1961-10-09,BRA,5,Tokyo (JPN),1997-02-09,1095,marathon,road-running,male,senior,marathon,track,7918.0,JPN,35.0,1997
 9914,2:11:58,,Leonid MOSEYEV,1952-10-21,URS,1,"Stadion Evžena Rošického, Praha (TCH)",1978-09-03,1095,marathon,road-running,male,senior,marathon,track,7918.0,TCH,25.0,1978
 9914,2:11:58,,Eder FIALHO,1973-05-04,BRA,11,"Chicago, IL (USA)",1997-10-19,1095,marathon,road-running,male,senior,marathon,track,7918.0,USA,24.0,1997
-9914,2:11:58,,Stephan FREIGANG,1967-09-27,GER,1,Köln (GER),1997-10-05,1095,marathon,road-running,male,senior,marathon,track,7918.0,GER,30.0,1997
+9914,2:11:58,,Samwel MARITIM,1965-02-10,KEN,1,"Cleveland, OH (USA)",1997-05-04,1095,marathon,road-running,male,senior,marathon,track,7918.0,USA,32.0,1997
 9914,2:11:58,,Teshome Etanat GELANA,1983-10-31,ETH,5,See Genezareth (ISR),2008-01-10,1095,marathon,road-running,male,senior,marathon,track,7918.0,ISR,24.0,2008
 9914,2:11:58,,Joseph NGURANE,,KEN,2,Porto (POR),2006-10-15,1095,marathon,road-running,male,senior,marathon,track,7918.0,POR,,2006
 9914,2:11:58,,Stephen KIOGORA,1974-11-10,KEN,1,"Las Vegas, NV (USA)",2005-12-04,1095,marathon,road-running,male,senior,marathon,track,7918.0,USA,31.0,2005
@@ -9971,111 +9972,111 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9914,2:11:58,,Carsten EICH,1970-01-09,GER,2,Köln (GER),1999-10-03,1095,marathon,road-running,male,senior,marathon,track,7918.0,GER,29.0,1999
 9914,2:11:58,,Mukhamet NAZIPOV,1961-09-10,RUS,11,Paris (FRA),1999-04-04,1095,marathon,road-running,male,senior,marathon,track,7918.0,FRA,37.0,1999
 9914,2:11:58,,Francis Robert NAALI,1971-04-01,TAN,1,Manchester (GBR),2002-07-28,1095,marathon,road-running,male,senior,marathon,track,7918.0,GBR,31.0,2002
-9973,2:11:59,,Turner WILEY,1993-04-17,USA,19,"Chicago, IL (USA)",2022-10-09,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,29.0,2022
-9973,2:11:59,,Gilbert MASAI,1989-12-16,KEN,5,La Rochelle (FRA),2021-11-28,1095,marathon,road-running,male,senior,marathon,track,7919.0,FRA,31.0,2021
-9973,2:11:59,,Bethwell KIPKEMBOI,1993-04-06,KEN,11,Praha (CZE),2019-05-05,1095,marathon,road-running,male,senior,marathon,track,7919.0,CZE,26.0,2019
-9973,2:11:59,,Bekele MULUNEH,2000-03-10,ETH,4,Changsha (CHN),2018-10-21,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,18.0,2018
-9973,2:11:59,,Takuya FUJIKAWA,1992-12-17,JPN,6,Oita (JPN),2018-02-04,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,25.0,2018
-9973,2:11:59,,Kipkemoi KIPSANG,1990-10-10,KEN,3,Rabat (MAR),2016-03-13,1095,marathon,road-running,male,senior,marathon,track,7919.0,MAR,25.0,2016
-9973,2:11:59,,Chesari Kirui JACOB,1984-04-06,KEN,5,Mumbai (IND),2016-01-17,1095,marathon,road-running,male,senior,marathon,track,7919.0,IND,31.0,2016
-9973,2:11:59,,Vincent Kiprop CHEPKOK,1988-07-05,KEN,7,Eindhoven (NED),2015-10-11,1095,marathon,road-running,male,senior,marathon,track,7919.0,NED,27.0,2015
-9973,2:11:59,,Geza SENEBETA,1993-09-13,ETH,3,Hong Kong (HKG),2023-02-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,HKG,29.0,2023
-9973,2:11:59,,Joel KIMUTAI,,KEN,2,Bucureşti (ROU),2018-10-14,1095,marathon,road-running,male,senior,marathon,track,7919.0,ROU,,2018
-9973,2:11:59,,Lungile GONGQA,1979-02-22,RSA,2,Cape Town (RSA),2015-09-20,1095,marathon,road-running,male,senior,marathon,track,7919.0,RSA,36.0,2015
-9973,2:11:59,,Wangjiang CEN,1990-10-12,CHN,17,Wuxi (CHN),2024-03-24,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,33.0,2024
-9973,2:11:59,,Erenjia JIA,1993-07-28,CHN,10,Shanghai (CHN),2023-11-26,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,30.0,2023
-9973,2:11:59,,Andrew Rotich KWEMOI,2000-09-01,UGA,7,Abu Dhabi (UAE),2023-12-16,1095,marathon,road-running,male,senior,marathon,track,7919.0,UAE,23.0,2023
-9973,2:11:59,,Wilfred Kirwa KIGEN,1986-01-21,KEN,2,Taipei City (TPE),2023-12-17,1095,marathon,road-running,male,senior,marathon,track,7919.0,TPE,37.0,2023
-9973,2:11:59,,Yousheng GUAN,1993-04-04,CHN,4,Fuzhou (CHN),2023-12-17,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,30.0,2023
-9973,2:11:59,,Peng GAO,1996-08-16,CHN,16,Wuxi (CHN),2024-03-24,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,27.0,2024
-9973,2:11:59,,Victor KIPLANGAT,1999-11-10,UGA,37,"Stade de France, Paris (FRA)",2024-08-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,FRA,24.0,2024
-9973,2:11:59,,Abel CHEBET,1993-09-09,UGA,8,Dublin (IRL),2024-10-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,IRL,31.0,2024
-9973,2:11:59,,Abayneh AYELE,1987-11-04,ETH,2,Suzhou (CHN),2024-12-01,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,37.0,2024
-9973,2:11:59,,Yemane HAILESELASSIE,1998-02-21,ERI,1,"Honolulu, HI (USA)",2024-12-08,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,26.0,2024
-9973,2:11:59,,Takayuki IIDA,1999-06-24,JPN,35,Tokyo (JPN),2025-03-02,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,25.0,2025
-9973,2:11:59,,Okubay TSEGAY,1986-01-01,ERI,1,Aveiro (POR),2025-04-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,POR,39.0,2025
-9973,2:11:59,,Rui YONEZAWA,1986-08-26,JPN,6,Otsu (JPN),2014-03-02,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,27.0,2014
-9973,2:11:59,,Patrick KIPCHIRCHIR,,KEN,4,Nairobi (KEN),2023-10-29,1095,marathon,road-running,male,senior,marathon,track,7919.0,KEN,,2023
-9973,2:11:59,,Ernest Kiprugut KEBENEI,1984-11-20,KEN,3,See Genezareth (ISR),2014-01-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,ISR,29.0,2014
-9973,2:11:59,,Mehdi FRÈRE,1996-07-27,FRA,17,"Hősök tere, Budapest (HUN)",2023-08-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,HUN,27.0,2023
-9973,2:11:59,,Linus Kipkosgei MAIYO,1983-02-26,KEN,6,Nairobi (KEN),2011-10-30,1095,marathon,road-running,male,senior,marathon,track,7919.0,KEN,28.0,2011
-9973,2:11:59,,Andualem BELAY,1992-04-05,ETH,1,Castellón (ESP),2013-12-08,1095,marathon,road-running,male,senior,marathon,track,7919.0,ESP,21.0,2013
-9973,2:11:59,,Nikolay PENZIN,1950-09-20,URS,2,"Stadion Evžena Rošického, Praha (TCH)",1978-09-03,1095,marathon,road-running,male,senior,marathon,track,7919.0,TCH,27.0,1978
-9973,2:11:59,,Alain LAZARE,1952-03-23,FRA,7,Tokyo (JPN),1984-02-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,31.0,1984
-9973,2:11:59,,Jacques BOXBERGER,1949-04-16,FRA,2,Paris (FRA),1984-05-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,FRA,35.0,1984
-9973,2:11:59,,Don JANICKI,1960-04-23,USA,2,St. Paul (USA),1986-10-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,26.0,1986
-9973,2:11:59,,Isamu SENNAI,1960-08-11,JPN,5,Fukuoka (JPN),1986-12-07,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,26.0,1986
-9973,2:11:59,,Belayneh DINSAMO,1965-06-28,ETH,5,Fukuoka (JPN),1987-12-06,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,22.0,1987
-9973,2:11:59,,Sam NGATIA,1959-08-05,KEN,1,"Columbus, OH (USA)",1989-11-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,30.0,1989
-9973,2:11:59,,Zehirun GIZAW,1965-03-21,ETH,2,Sevilla (ESP),1991-02-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,ESP,25.0,1991
-9973,2:11:59,,Kevin FORSTER,1958-09-27,GBR,10,Tokyo (JPN),1991-02-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,32.0,1991
-9973,2:11:59,,José Esteban MONTIEL,1962-09-20,ESP,12,London (GBR),1991-04-21,1095,marathon,road-running,male,senior,marathon,track,7919.0,GBR,28.0,1991
-9973,2:11:59,,Tuihaleni KAYELE,1964-02-12,NAM,2,Swakopmund (NAM),1992-04-25,1095,marathon,road-running,male,senior,marathon,track,7919.0,NAM,28.0,1992
-9973,2:11:59,,Michael HEILMANN,1961-10-26,GDR,7,Fukuoka (JPN),1988-12-04,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,27.0,1988
-9973,2:11:59,,Wan-ki KIM,1968-07-08,KOR,3,Chuncheon (KOR),1995-10-28,1095,marathon,road-running,male,senior,marathon,track,7919.0,KOR,27.0,1995
-9973,2:11:59,,Osmiro DE SOUSA SILVA,1961-10-09,BRA,8,Berlin (GER),1996-09-29,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,34.0,1996
-9973,2:11:59,,Antonio SERRANO,1965-03-08,ESP,1,Venezia (ITA),1997-10-26,1095,marathon,road-running,male,senior,marathon,track,7919.0,ITA,32.0,1997
-9973,2:11:59,,Stephen LANGAT,,KEN,6,Hamburg (GER),1998-04-19,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,,1998
-9973,2:11:59,,Christopher Kiprotich TOROITICH,1980-12-28,KEN,2,Monterrey (MEX),2008-12-14,1095,marathon,road-running,male,senior,marathon,track,7919.0,MEX,27.0,2008
-9973,2:11:59,,Barnabas RUTTO,1977-04-19,KEN,3,Hamburg (GER),2003-04-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,26.0,2003
-9973,2:11:59,,Pablo OLMEDO,1975-05-08,MEX,5,Otsu (JPN),2006-03-05,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,30.0,2006
-9973,2:11:59,,Edrees Kamal EISA,1984-04-17,ETH,11,Hamburg (GER),2007-04-29,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,23.0,2007
-9973,2:11:59,,Tomoya ADACHI,1985-12-18,JPN,1,Beppu (JPN),2008-02-03,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,22.0,2008
-9973,2:11:59,,Henryk SZOST,1982-01-20,POL,1,Debno (POL),2008-04-13,1095,marathon,road-running,male,senior,marathon,track,7919.0,POL,26.0,2008
-9973,2:11:59,,Dathan RITZENHEIN,1982-12-30,USA,9,"National Stadium, Beijing (CHN)",2008-08-24,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,25.0,2008
-9973,2:11:59,,Robert KEMPAINEN,1966-06-18,USA,2,"Los Angeles, CA (USA)",1995-03-05,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,28.0,1995
-10026,2:12:00,,Mathew KEMBOI,1993-03-06,KEN,11,Seoul (KOR),2015-03-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,22.0,2015
-10026,2:12:00,,Noriaki TAKAHASHI,1982-07-26,JPN,13,Fukuoka (JPN),2014-12-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,32.0,2014
-10026,2:12:00,,Yared SHEGUMO,1983-01-10,POL,2,"Letzigrund, Zürich (SUI)",2014-08-17,1094,marathon,road-running,male,senior,marathon,track,7920.0,SUI,31.0,2014
-10026,2:12:00,,Benjamin MALATY,1986-05-07,FRA,13,Paris (FRA),2013-04-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,FRA,26.0,2013
-10026,2:12:00,,Nahashon KIMAIYO,1983-05-04,KEN,1,Antwerpen (BEL),2010-04-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,BEL,26.0,2010
-10026,2:12:00,,Daniel Kipkurgat RONO,1978-07-13,KEN,5,Ottawa (CAN),2012-05-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,CAN,33.0,2012
-10026,2:12:00,,Feyera GEMEDA,,ETH,11,See Genezareth (ISR),2012-01-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,ISR,,2012
-10026,2:12:00,,Masakazu FUJIWARA,1981-03-06,JPN,9,Berlin (GER),2010-09-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,29.0,2010
-10026,2:12:00,,Moses TOO,1982-11-08,KEN,4,Barcelona (ESP),2015-03-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,32.0,2015
-10026,2:12:00,,Sammy Kipchoge KORIR,1971-12-12,KEN,11,Gongju (KOR),2012-10-21,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,40.0,2012
-10026,2:12:00,,Ezekiel CHEBII,1991-01-03,KEN,1,Madrid (ESP),2015-04-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,24.0,2015
-10026,2:12:00,,Ryu TAKAKU,1993-02-18,JPN,18,Tokyo (JPN),2023-10-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,30.0,2023
-10026,2:12:00,,Abdi Ibrahim ABDO,1997-04-24,BRN,1,Hefei (CHN),2017-11-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,CHN,20.0,2017
-10026,2:12:00,,Alemayehu Ameta BELACHEW,1985-10-26,ETH,2,La Rochelle (FRA),2017-11-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,FRA,32.0,2017
-10026,2:12:00,,Nicholas ROTICH,1996-12-29,KEN,4,Wien (AUT),2018-04-22,1094,marathon,road-running,male,senior,marathon,track,7920.0,AUT,21.0,2018
-10026,2:12:00,,Daniele MEUCCI,1985-10-07,ITA,15,Hamburg (GER),2019-04-28,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,33.0,2019
-10026,2:12:00,,Victor Kiplagat SEREM,,KEN,3,Nairobi (KEN),2019-10-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,KEN,,2019
-10026,2:12:00,,Felix KIMUTAI,1989-02-12,KEN,2,Istanbul (TUR),2020-11-08,1094,marathon,road-running,male,senior,marathon,track,7920.0,TUR,31.0,2020
-10026,2:12:00,,Jie HE,1998-12-27,CHN,8,Xuzhou (CHN),2021-04-11,1094,marathon,road-running,male,senior,marathon,track,7920.0,CHN,22.0,2021
-10026,2:12:00,,Evans KORIR,1987-07-10,KEN,16,Barcelona (ESP),2021-11-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,34.0,2021
-10026,2:12:00,,Olivier IRABARUTA,1990-08-25,BDI,32,"Autzen Complex, Eugene, OR (USA)",2022-07-17,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,31.0,2022
-10026,2:12:00,,Gantulga DAMBADARJAA,1989-02-03,MGL,19,Berlin (GER),2022-09-25,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,33.0,2022
-10026,2:12:00,,Javier GUERRA,1983-11-10,ESP,30,Valencia (ESP),2022-12-04,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,39.0,2022
-10026,2:12:00,,Tesfaye DEREJE,1985-09-30,ETH,4,Enschede (NED),2008-04-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,NED,22.0,2008
-10026,2:12:00,,Daniel Kiprop LIMO,1983-12-10,KEN,2,Stockholm (SWE),2016-06-05,1094,marathon,road-running,male,senior,marathon,track,7920.0,SWE,32.0,2016
-10026,2:12:00,,Tekeste NEKATIBEBE,1988-02-14,ETH,3,Enschede (NED),2008-04-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,NED,20.0,2008
-10026,2:12:00,,Bong-ju LEE,1970-10-11,KOR,4,Chuncheon (KOR),1995-10-28,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,25.0,1995
-10026,2:12:00,,Sylvester Kipyego CHEBII,1982-11-14,KEN,3,"San Diego, CA (USA)",2007-06-03,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,24.0,2007
-10026,2:12:00,,Okubay TSEGAY,1986-01-01,ERI,2,Taipei City (TPE),2024-12-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,TPE,38.0,2024
-10026,2:12:00,,Morio SHIGEMATU,1940-06-21,JPN,1,Tyswik (JPN),1965-06-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,24.0,1965
-10026,2:12:00,,Shivnath SINGH,1946-07-11,IND,1,Jullundur (IND),1978-05-28,1094,marathon,road-running,male,senior,marathon,track,7920.0,IND,31.0,1978
-10026,2:12:00,,Waldemar CIERPINSKI,1950-08-03,GDR,8,Tokyo (JPN),1984-02-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,33.0,1984
-10026,2:12:00,,Dave GORDON,1959-08-30,USA,4,"Buffalo, NY (USA)",1984-05-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,24.0,1984
-10026,2:12:00,,Kjell-Erik STAHL,1946-02-17,SWE,3,"Sacramento, CA (USA)",1984-12-02,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,38.0,1984
-10026,2:12:00,,Ken MARTIN,1958-09-10,USA,9,"Chicago, IL (USA)",1985-10-20,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,27.0,1985
-10026,2:12:00,,Sergey ROZUM,1962-04-19,URS,3,Uzhgorod (URS),1987-04-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,URS,24.0,1987
-10026,2:12:00,,Futoshi SHINOHARA,1962-04-14,JPN,2,Beppu (JPN),1988-02-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,25.0,1988
-10026,2:12:00,,Shuichi YONESHIGE,1961-06-24,JPN,2,Oita (JPN),1990-02-04,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,28.0,1990
-10026,2:12:00,,Ed EYESTONE,1961-06-15,USA,7,London (GBR),1990-04-22,1094,marathon,road-running,male,senior,marathon,track,7920.0,GBR,28.0,1990
-10026,2:12:00,,Wiesław PERSZKE,1960-02-18,POL,5,Berlin (GER),1991-09-29,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,31.0,1991
-10026,2:12:00,,Stephan FREIGANG,1967-09-27,GER,1,Palermo (ITA),1991-12-08,1094,marathon,road-running,male,senior,marathon,track,7920.0,ITA,24.0,1991
-10026,2:12:00,,Won-tak KIM,1964-07-21,KOR,2,Chuncheon (KOR),1992-11-06,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,28.0,1992
-10026,2:12:00,,Abebe MEKONNEN,1964-01-09,ETH,1,Tokyo (JPN),1993-02-14,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,29.0,1993
-10026,2:12:00,,Pat CARROLL,1961-08-17,AUS,4,Otsu (JPN),1996-03-03,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,34.0,1996
-10026,2:12:00,,Rolando VERA,1965-04-27,ECU,1,Oita (JPN),1997-02-02,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,31.0,1997
-10026,2:12:00,,Sung-keun OH,1975-10-03,KOR,2,Kongju (KOR),1999-03-21,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,23.0,1999
-10026,2:12:00,,David MORRIS,1970-05-17,USA,7,"Chicago, IL (USA)",2000-10-22,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,30.0,2000
-10026,2:12:00,,Andrew SAMBU,1972-10-05,TAN,2,Praha (CZE),2002-05-19,1094,marathon,road-running,male,senior,marathon,track,7920.0,CZE,29.0,2002
-10026,2:12:00,,Erick WAINAINA,1973-12-19,KEN,1,Nagano (JPN),2003-04-20,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,29.0,2003
-10026,2:12:00,,Derba BEDADE,,ETH,1,Beograd (SRB),2005-04-23,1094,marathon,road-running,male,senior,marathon,track,7920.0,SRB,,2005
-10026,2:12:00,,Jimmy Mwangangi MUINDI,1973-08-14,KEN,1,"Honolulu, HI (USA)",2005-12-11,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,32.0,2005
-10026,2:12:00,,Momanyi BASWETI,,KEN,1,Lisboa (POR),2006-04-16,1094,marathon,road-running,male,senior,marathon,track,7920.0,POR,,2006
-10026,2:12:00,,Harun TOROITICH,,KEN,4,Wien (AUT),2007-04-29,1094,marathon,road-running,male,senior,marathon,track,7920.0,AUT,,2007
-10026,2:12:00,,Arkadiusz SOWA,1979-03-02,POL,7,Berlin (GER),2007-09-30,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,28.0,2007
-10026,2:12:00,,Douglass Kimeli KIPRUGUT,1990-05-14,KEN,4,Dalian (CHN),2025-05-11,1094,marathon,road-running,male,senior,marathon,track,7920.0,CHN,35.0,2025
+9974,2:11:59,,Turner WILEY,1993-04-17,USA,19,"Chicago, IL (USA)",2022-10-09,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,29.0,2022
+9974,2:11:59,,Gilbert MASAI,1989-12-16,KEN,5,La Rochelle (FRA),2021-11-28,1095,marathon,road-running,male,senior,marathon,track,7919.0,FRA,31.0,2021
+9974,2:11:59,,Bethwell KIPKEMBOI,1993-04-06,KEN,11,Praha (CZE),2019-05-05,1095,marathon,road-running,male,senior,marathon,track,7919.0,CZE,26.0,2019
+9974,2:11:59,,Bekele MULUNEH,2000-03-10,ETH,4,Changsha (CHN),2018-10-21,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,18.0,2018
+9974,2:11:59,,Takuya FUJIKAWA,1992-12-17,JPN,6,Oita (JPN),2018-02-04,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,25.0,2018
+9974,2:11:59,,Kipkemoi KIPSANG,1990-10-10,KEN,3,Rabat (MAR),2016-03-13,1095,marathon,road-running,male,senior,marathon,track,7919.0,MAR,25.0,2016
+9974,2:11:59,,Chesari Kirui JACOB,1984-04-06,KEN,5,Mumbai (IND),2016-01-17,1095,marathon,road-running,male,senior,marathon,track,7919.0,IND,31.0,2016
+9974,2:11:59,,Vincent Kiprop CHEPKOK,1988-07-05,KEN,7,Eindhoven (NED),2015-10-11,1095,marathon,road-running,male,senior,marathon,track,7919.0,NED,27.0,2015
+9974,2:11:59,,Geza SENEBETA,1993-09-13,ETH,3,Hong Kong (HKG),2023-02-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,HKG,29.0,2023
+9974,2:11:59,,Joel KIMUTAI,,KEN,2,Bucureşti (ROU),2018-10-14,1095,marathon,road-running,male,senior,marathon,track,7919.0,ROU,,2018
+9974,2:11:59,,Lungile GONGQA,1979-02-22,RSA,2,Cape Town (RSA),2015-09-20,1095,marathon,road-running,male,senior,marathon,track,7919.0,RSA,36.0,2015
+9974,2:11:59,,Wangjiang CEN,1990-10-12,CHN,17,Wuxi (CHN),2024-03-24,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,33.0,2024
+9974,2:11:59,,Erenjia JIA,1993-07-28,CHN,10,Shanghai (CHN),2023-11-26,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,30.0,2023
+9974,2:11:59,,Andrew Rotich KWEMOI,2000-09-01,UGA,7,Abu Dhabi (UAE),2023-12-16,1095,marathon,road-running,male,senior,marathon,track,7919.0,UAE,23.0,2023
+9974,2:11:59,,Wilfred Kirwa KIGEN,1986-01-21,KEN,2,Taipei City (TPE),2023-12-17,1095,marathon,road-running,male,senior,marathon,track,7919.0,TPE,37.0,2023
+9974,2:11:59,,Yousheng GUAN,1993-04-04,CHN,4,Fuzhou (CHN),2023-12-17,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,30.0,2023
+9974,2:11:59,,Peng GAO,1996-08-16,CHN,16,Wuxi (CHN),2024-03-24,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,27.0,2024
+9974,2:11:59,,Victor KIPLANGAT,1999-11-10,UGA,37,"Stade de France, Paris (FRA)",2024-08-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,FRA,24.0,2024
+9974,2:11:59,,Abel CHEBET,1993-09-09,UGA,8,Dublin (IRL),2024-10-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,IRL,31.0,2024
+9974,2:11:59,,Abayneh AYELE,1987-11-04,ETH,2,Suzhou (CHN),2024-12-01,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,37.0,2024
+9974,2:11:59,,Yemane HAILESELASSIE,1998-02-21,ERI,1,"Honolulu, HI (USA)",2024-12-08,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,26.0,2024
+9974,2:11:59,,Takayuki IIDA,1999-06-24,JPN,35,Tokyo (JPN),2025-03-02,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,25.0,2025
+9974,2:11:59,,Okubay TSEGAY,1986-01-01,ERI,1,Aveiro (POR),2025-04-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,POR,39.0,2025
+9974,2:11:59,,Rui YONEZAWA,1986-08-26,JPN,6,Otsu (JPN),2014-03-02,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,27.0,2014
+9974,2:11:59,,Patrick KIPCHIRCHIR,,KEN,4,Nairobi (KEN),2023-10-29,1095,marathon,road-running,male,senior,marathon,track,7919.0,KEN,,2023
+9974,2:11:59,,Ernest Kiprugut KEBENEI,1984-11-20,KEN,3,See Genezareth (ISR),2014-01-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,ISR,29.0,2014
+9974,2:11:59,,Mehdi FRÈRE,1996-07-27,FRA,17,"Hősök tere, Budapest (HUN)",2023-08-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,HUN,27.0,2023
+9974,2:11:59,,Linus Kipkosgei MAIYO,1983-02-26,KEN,6,Nairobi (KEN),2011-10-30,1095,marathon,road-running,male,senior,marathon,track,7919.0,KEN,28.0,2011
+9974,2:11:59,,Andualem BELAY,1992-04-05,ETH,1,Castellón (ESP),2013-12-08,1095,marathon,road-running,male,senior,marathon,track,7919.0,ESP,21.0,2013
+9974,2:11:59,,Nikolay PENZIN,1950-09-20,URS,2,"Stadion Evžena Rošického, Praha (TCH)",1978-09-03,1095,marathon,road-running,male,senior,marathon,track,7919.0,TCH,27.0,1978
+9974,2:11:59,,Alain LAZARE,1952-03-23,FRA,7,Tokyo (JPN),1984-02-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,31.0,1984
+9974,2:11:59,,Jacques BOXBERGER,1949-04-16,FRA,2,Paris (FRA),1984-05-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,FRA,35.0,1984
+9974,2:11:59,,Don JANICKI,1960-04-23,USA,2,St. Paul (USA),1986-10-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,26.0,1986
+9974,2:11:59,,Isamu SENNAI,1960-08-11,JPN,5,Fukuoka (JPN),1986-12-07,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,26.0,1986
+9974,2:11:59,,Belayneh DINSAMO,1965-06-28,ETH,5,Fukuoka (JPN),1987-12-06,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,22.0,1987
+9974,2:11:59,,Sam NGATIA,1959-08-05,KEN,1,"Columbus, OH (USA)",1989-11-12,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,30.0,1989
+9974,2:11:59,,Zehirun GIZAW,1965-03-21,ETH,2,Sevilla (ESP),1991-02-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,ESP,25.0,1991
+9974,2:11:59,,Kevin FORSTER,1958-09-27,GBR,10,Tokyo (JPN),1991-02-10,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,32.0,1991
+9974,2:11:59,,José Esteban MONTIEL,1962-09-20,ESP,12,London (GBR),1991-04-21,1095,marathon,road-running,male,senior,marathon,track,7919.0,GBR,28.0,1991
+9974,2:11:59,,Tuihaleni KAYELE,1964-02-12,NAM,2,Swakopmund (NAM),1992-04-25,1095,marathon,road-running,male,senior,marathon,track,7919.0,NAM,28.0,1992
+9974,2:11:59,,Michael HEILMANN,1961-10-26,GDR,7,Fukuoka (JPN),1988-12-04,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,27.0,1988
+9974,2:11:59,,Wan-ki KIM,1968-07-08,KOR,3,Chuncheon (KOR),1995-10-28,1095,marathon,road-running,male,senior,marathon,track,7919.0,KOR,27.0,1995
+9974,2:11:59,,Osmiro DE SOUSA SILVA,1961-10-09,BRA,8,Berlin (GER),1996-09-29,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,34.0,1996
+9974,2:11:59,,Antonio SERRANO,1965-03-08,ESP,1,Venezia (ITA),1997-10-26,1095,marathon,road-running,male,senior,marathon,track,7919.0,ITA,32.0,1997
+9974,2:11:59,,Stephen LANGAT,,KEN,6,Hamburg (GER),1998-04-19,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,,1998
+9974,2:11:59,,Christopher Kiprotich TOROITICH,1980-12-28,KEN,2,Monterrey (MEX),2008-12-14,1095,marathon,road-running,male,senior,marathon,track,7919.0,MEX,27.0,2008
+9974,2:11:59,,Barnabas RUTTO,1977-04-19,KEN,3,Hamburg (GER),2003-04-27,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,26.0,2003
+9974,2:11:59,,Pablo OLMEDO,1975-05-08,MEX,5,Otsu (JPN),2006-03-05,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,30.0,2006
+9974,2:11:59,,Edrees Kamal EISA,1984-04-17,ETH,11,Hamburg (GER),2007-04-29,1095,marathon,road-running,male,senior,marathon,track,7919.0,GER,23.0,2007
+9974,2:11:59,,Tomoya ADACHI,1985-12-18,JPN,1,Beppu (JPN),2008-02-03,1095,marathon,road-running,male,senior,marathon,track,7919.0,JPN,22.0,2008
+9974,2:11:59,,Henryk SZOST,1982-01-20,POL,1,Debno (POL),2008-04-13,1095,marathon,road-running,male,senior,marathon,track,7919.0,POL,26.0,2008
+9974,2:11:59,,Dathan RITZENHEIN,1982-12-30,USA,9,"National Stadium, Beijing (CHN)",2008-08-24,1095,marathon,road-running,male,senior,marathon,track,7919.0,CHN,25.0,2008
+9974,2:11:59,,Robert KEMPAINEN,1966-06-18,USA,2,"Los Angeles, CA (USA)",1995-03-05,1095,marathon,road-running,male,senior,marathon,track,7919.0,USA,28.0,1995
+10027,2:12:00,,Mathew KEMBOI,1993-03-06,KEN,11,Seoul (KOR),2015-03-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,22.0,2015
+10027,2:12:00,,Noriaki TAKAHASHI,1982-07-26,JPN,13,Fukuoka (JPN),2014-12-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,32.0,2014
+10027,2:12:00,,Yared SHEGUMO,1983-01-10,POL,2,"Letzigrund, Zürich (SUI)",2014-08-17,1094,marathon,road-running,male,senior,marathon,track,7920.0,SUI,31.0,2014
+10027,2:12:00,,Benjamin MALATY,1986-05-07,FRA,13,Paris (FRA),2013-04-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,FRA,26.0,2013
+10027,2:12:00,,Nahashon KIMAIYO,1983-05-04,KEN,1,Antwerpen (BEL),2010-04-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,BEL,26.0,2010
+10027,2:12:00,,Daniel Kipkurgat RONO,1978-07-13,KEN,5,Ottawa (CAN),2012-05-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,CAN,33.0,2012
+10027,2:12:00,,Feyera GEMEDA,,ETH,11,See Genezareth (ISR),2012-01-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,ISR,,2012
+10027,2:12:00,,Masakazu FUJIWARA,1981-03-06,JPN,9,Berlin (GER),2010-09-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,29.0,2010
+10027,2:12:00,,Moses TOO,1982-11-08,KEN,4,Barcelona (ESP),2015-03-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,32.0,2015
+10027,2:12:00,,Sammy Kipchoge KORIR,1971-12-12,KEN,11,Gongju (KOR),2012-10-21,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,40.0,2012
+10027,2:12:00,,Ezekiel CHEBII,1991-01-03,KEN,1,Madrid (ESP),2015-04-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,24.0,2015
+10027,2:12:00,,Ryu TAKAKU,1993-02-18,JPN,18,Tokyo (JPN),2023-10-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,30.0,2023
+10027,2:12:00,,Abdi Ibrahim ABDO,1997-04-24,BRN,1,Hefei (CHN),2017-11-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,CHN,20.0,2017
+10027,2:12:00,,Alemayehu Ameta BELACHEW,1985-10-26,ETH,2,La Rochelle (FRA),2017-11-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,FRA,32.0,2017
+10027,2:12:00,,Nicholas ROTICH,1996-12-29,KEN,4,Wien (AUT),2018-04-22,1094,marathon,road-running,male,senior,marathon,track,7920.0,AUT,21.0,2018
+10027,2:12:00,,Daniele MEUCCI,1985-10-07,ITA,15,Hamburg (GER),2019-04-28,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,33.0,2019
+10027,2:12:00,,Victor Kiplagat SEREM,,KEN,3,Nairobi (KEN),2019-10-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,KEN,,2019
+10027,2:12:00,,Felix KIMUTAI,1989-02-12,KEN,2,Istanbul (TUR),2020-11-08,1094,marathon,road-running,male,senior,marathon,track,7920.0,TUR,31.0,2020
+10027,2:12:00,,Jie HE,1998-12-27,CHN,8,Xuzhou (CHN),2021-04-11,1094,marathon,road-running,male,senior,marathon,track,7920.0,CHN,22.0,2021
+10027,2:12:00,,Evans KORIR,1987-07-10,KEN,16,Barcelona (ESP),2021-11-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,34.0,2021
+10027,2:12:00,,Olivier IRABARUTA,1990-08-25,BDI,32,"Autzen Complex, Eugene, OR (USA)",2022-07-17,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,31.0,2022
+10027,2:12:00,,Gantulga DAMBADARJAA,1989-02-03,MGL,19,Berlin (GER),2022-09-25,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,33.0,2022
+10027,2:12:00,,Javier GUERRA,1983-11-10,ESP,30,Valencia (ESP),2022-12-04,1094,marathon,road-running,male,senior,marathon,track,7920.0,ESP,39.0,2022
+10027,2:12:00,,Tesfaye DEREJE,1985-09-30,ETH,4,Enschede (NED),2008-04-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,NED,22.0,2008
+10027,2:12:00,,Daniel Kiprop LIMO,1983-12-10,KEN,2,Stockholm (SWE),2016-06-05,1094,marathon,road-running,male,senior,marathon,track,7920.0,SWE,32.0,2016
+10027,2:12:00,,Tekeste NEKATIBEBE,1988-02-14,ETH,3,Enschede (NED),2008-04-27,1094,marathon,road-running,male,senior,marathon,track,7920.0,NED,20.0,2008
+10027,2:12:00,,Bong-ju LEE,1970-10-11,KOR,4,Chuncheon (KOR),1995-10-28,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,25.0,1995
+10027,2:12:00,,Sylvester Kipyego CHEBII,1982-11-14,KEN,3,"San Diego, CA (USA)",2007-06-03,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,24.0,2007
+10027,2:12:00,,Okubay TSEGAY,1986-01-01,ERI,2,Taipei City (TPE),2024-12-15,1094,marathon,road-running,male,senior,marathon,track,7920.0,TPE,38.0,2024
+10027,2:12:00,,Morio SHIGEMATU,1940-06-21,JPN,1,Tyswik (JPN),1965-06-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,24.0,1965
+10027,2:12:00,,Shivnath SINGH,1946-07-11,IND,1,Jullundur (IND),1978-05-28,1094,marathon,road-running,male,senior,marathon,track,7920.0,IND,31.0,1978
+10027,2:12:00,,Waldemar CIERPINSKI,1950-08-03,GDR,8,Tokyo (JPN),1984-02-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,33.0,1984
+10027,2:12:00,,Dave GORDON,1959-08-30,USA,4,"Buffalo, NY (USA)",1984-05-26,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,24.0,1984
+10027,2:12:00,,Kjell-Erik STAHL,1946-02-17,SWE,3,"Sacramento, CA (USA)",1984-12-02,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,38.0,1984
+10027,2:12:00,,Ken MARTIN,1958-09-10,USA,9,"Chicago, IL (USA)",1985-10-20,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,27.0,1985
+10027,2:12:00,,Sergey ROZUM,1962-04-19,URS,3,Uzhgorod (URS),1987-04-12,1094,marathon,road-running,male,senior,marathon,track,7920.0,URS,24.0,1987
+10027,2:12:00,,Futoshi SHINOHARA,1962-04-14,JPN,2,Beppu (JPN),1988-02-07,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,25.0,1988
+10027,2:12:00,,Shuichi YONESHIGE,1961-06-24,JPN,2,Oita (JPN),1990-02-04,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,28.0,1990
+10027,2:12:00,,Ed EYESTONE,1961-06-15,USA,7,London (GBR),1990-04-22,1094,marathon,road-running,male,senior,marathon,track,7920.0,GBR,28.0,1990
+10027,2:12:00,,Wiesław PERSZKE,1960-02-18,POL,5,Berlin (GER),1991-09-29,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,31.0,1991
+10027,2:12:00,,Stephan FREIGANG,1967-09-27,GER,1,Palermo (ITA),1991-12-08,1094,marathon,road-running,male,senior,marathon,track,7920.0,ITA,24.0,1991
+10027,2:12:00,,Won-tak KIM,1964-07-21,KOR,2,Chuncheon (KOR),1992-11-06,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,28.0,1992
+10027,2:12:00,,Abebe MEKONNEN,1964-01-09,ETH,1,Tokyo (JPN),1993-02-14,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,29.0,1993
+10027,2:12:00,,Pat CARROLL,1961-08-17,AUS,4,Otsu (JPN),1996-03-03,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,34.0,1996
+10027,2:12:00,,Rolando VERA,1965-04-27,ECU,1,Oita (JPN),1997-02-02,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,31.0,1997
+10027,2:12:00,,Sung-keun OH,1975-10-03,KOR,2,Kongju (KOR),1999-03-21,1094,marathon,road-running,male,senior,marathon,track,7920.0,KOR,23.0,1999
+10027,2:12:00,,David MORRIS,1970-05-17,USA,7,"Chicago, IL (USA)",2000-10-22,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,30.0,2000
+10027,2:12:00,,Andrew SAMBU,1972-10-05,TAN,2,Praha (CZE),2002-05-19,1094,marathon,road-running,male,senior,marathon,track,7920.0,CZE,29.0,2002
+10027,2:12:00,,Erick WAINAINA,1973-12-19,KEN,1,Nagano (JPN),2003-04-20,1094,marathon,road-running,male,senior,marathon,track,7920.0,JPN,29.0,2003
+10027,2:12:00,,Derba BEDADE,,ETH,1,Beograd (SRB),2005-04-23,1094,marathon,road-running,male,senior,marathon,track,7920.0,SRB,,2005
+10027,2:12:00,,Jimmy Mwangangi MUINDI,1973-08-14,KEN,1,"Honolulu, HI (USA)",2005-12-11,1094,marathon,road-running,male,senior,marathon,track,7920.0,USA,32.0,2005
+10027,2:12:00,,Momanyi BASWETI,,KEN,1,Lisboa (POR),2006-04-16,1094,marathon,road-running,male,senior,marathon,track,7920.0,POR,,2006
+10027,2:12:00,,Harun TOROITICH,,KEN,4,Wien (AUT),2007-04-29,1094,marathon,road-running,male,senior,marathon,track,7920.0,AUT,,2007
+10027,2:12:00,,Arkadiusz SOWA,1979-03-02,POL,7,Berlin (GER),2007-09-30,1094,marathon,road-running,male,senior,marathon,track,7920.0,GER,28.0,2007
+10027,2:12:00,,Douglass Kimeli KIPRUGUT,1990-05-14,KEN,4,Dalian (CHN),2025-05-11,1094,marathon,road-running,male,senior,marathon,track,7920.0,CHN,35.0,2025
