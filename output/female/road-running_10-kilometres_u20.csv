@@ -56,28 +56,29 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 54,32:14,,Asayech AYICHEW,03 APR 2005,ETH,1,Addis Abeba (ETH),17 NOV 2024,1127,10-kilometres,road-running,female,u20
 56,32:16,,Meskerem AMARE,01 OCT 1997,ETH,4,Houilles (FRA),27 DEC 2015,1125,10-kilometres,road-running,female,u20
 57,32:17,,Selam FENTE,28 JAN 2003,ETH,3,Durban (RSA),26 JUN 2022,1124,10-kilometres,road-running,female,u20
-58,32:18,,Rui AOYAMA,15 APR 1989,JPN,1,Yokohama (JPN),04 FEB 2007,1123,10-kilometres,road-running,female,u20
-58,32:18,,Ruth JEBET,17 NOV 1996,BRN,2,Houilles (FRA),28 DEC 2014,1123,10-kilometres,road-running,female,u20
-58,32:18,,Deborah CHEMUTAI,25 JUL 2005,KEN,2,Okayama (JPN),15 DEC 2024,1123,10-kilometres,road-running,female,u20
-61,32:19,,Almaz AYANA,21 NOV 1991,ETH,2,Luanda (ANG),31 DEC 2010,1122,10-kilometres,road-running,female,u20
-61,32:19,,Winnie CHEPKEMOI,09 OCT 1993,KEN,5,San Juan (PUR),26 FEB 2012,1122,10-kilometres,road-running,female,u20
-61,32:19,,Bertukan WELDE,10 MAY 2004,ETH,1,Cali (COL),20 AUG 2023,1122,10-kilometres,road-running,female,u20
-61,32:19,,Charity CHEROP,04 JUL 2007,UGA,2,Schoorl (NED),09 FEB 2025,1122,10-kilometres,road-running,female,u20
-65,32:20,,Silvia LA BARBERA,27 AUG 1984,ITA,2,Roma (ITA),26 OCT 2003,1121,10-kilometres,road-running,female,u20
-65,32:20,,Winfredah KEBASO,16 APR 1985,KEN,1,Okayama (JPN),23 DEC 2004,1121,10-kilometres,road-running,female,u20
-65,32:20,,Yemenu TEWABECH,1995,ETH,3,Houilles (FRA),28 DEC 2014,1121,10-kilometres,road-running,female,u20
-65,32:20,,Lemlem NIBRET,01 JAN 2005,ETH,3,Praha (CZE),07 SEP 2024,1121,10-kilometres,road-running,female,u20
-69,32:21,,Tsige HAILESLASE,21 SEP 2000,ETH,3,Langueux (FRA),15 JUN 2019,1121,10-kilometres,road-running,female,u20
-69,32:21,,Tsigie GEBRESELAMA,30 SEP 2000,ETH,2,Addis Abeba (ETH),17 NOV 2019,1121,10-kilometres,road-running,female,u20
-71,32:22,,Mary WANGUI,12 SEP 1999,KEN,2,"New Orleans, LA (USA)",15 APR 2017,1120,10-kilometres,road-running,female,u20
-71,32:22,,Bertukan WELDE,10 MAY 2004,ETH,7,Addis Abeba (ETH),23 JAN 2022,1120,10-kilometres,road-running,female,u20
-73,32:23,,Sule UTURA,08 FEB 1990,ETH,1,Houilles (FRA),27 DEC 2009,1119,10-kilometres,road-running,female,u20
-73,32:23,,Emebet ANTENEH,13 JAN 1992,ETH,1,Luanda (ANG),31 DEC 2011,1119,10-kilometres,road-running,female,u20
-73,32:23,,Hiwot GEBREKIDAN,11 MAY 1995,ETH,3,Langueux (FRA),14 JUN 2014,1119,10-kilometres,road-running,female,u20
-73,32:23,,Dibabe KUMA,14 SEP 1996,ETH,4,Tilburg (NED),06 SEP 2015,1119,10-kilometres,road-running,female,u20
-73,32:23,,Alem NIGUSSIE,2002,ETH,3,Addis Abeba (ETH),17 NOV 2019,1119,10-kilometres,road-running,female,u20
-78,32:24,,Jane Jepkosgei KIPTOO,08 AUG 1982,KEN,1,Den Bosch (NED),23 SEP 2001,1118,10-kilometres,road-running,female,u20
-78,32:24,,Tigist KIROS GEBRESELASSIE,08 JUN 1992,ETH,3,Luanda (ANG),31 DEC 2011,1118,10-kilometres,road-running,female,u20
-78,32:24,,Konstanze KLOSTERHALFEN,18 FEB 1997,GER,1,Leverkusen (GER),06 MAR 2016,1118,10-kilometres,road-running,female,u20
-78,32:24,,Diniya ABARAYA,28 NOV 2005,ETH,2,Cape Town (RSA),24 MAR 2024,1118,10-kilometres,road-running,female,u20
-82,32:25,,Nazumi TOMONAGA,13 MAR 1989,JPN,1,Tamana (JPN),02 MAR 2008,1117,10-kilometres,road-running,female,u20
+57,32:17,,Yenawa NBRET,18 MAY 2007,ETH,2,Addis Abeba (ETH),17 NOV 2024,1124,10-kilometres,road-running,female,u20
+59,32:18,,Rui AOYAMA,15 APR 1989,JPN,1,Yokohama (JPN),04 FEB 2007,1123,10-kilometres,road-running,female,u20
+59,32:18,,Ruth JEBET,17 NOV 1996,BRN,2,Houilles (FRA),28 DEC 2014,1123,10-kilometres,road-running,female,u20
+59,32:18,,Deborah CHEMUTAI,25 JUL 2005,KEN,2,Okayama (JPN),15 DEC 2024,1123,10-kilometres,road-running,female,u20
+62,32:19,,Almaz AYANA,21 NOV 1991,ETH,2,Luanda (ANG),31 DEC 2010,1122,10-kilometres,road-running,female,u20
+62,32:19,,Winnie CHEPKEMOI,09 OCT 1993,KEN,5,San Juan (PUR),26 FEB 2012,1122,10-kilometres,road-running,female,u20
+62,32:19,,Bertukan WELDE,10 MAY 2004,ETH,1,Cali (COL),20 AUG 2023,1122,10-kilometres,road-running,female,u20
+62,32:19,,Charity CHEROP,04 JUL 2007,UGA,2,Schoorl (NED),09 FEB 2025,1122,10-kilometres,road-running,female,u20
+66,32:20,,Silvia LA BARBERA,27 AUG 1984,ITA,2,Roma (ITA),26 OCT 2003,1121,10-kilometres,road-running,female,u20
+66,32:20,,Winfredah KEBASO,16 APR 1985,KEN,1,Okayama (JPN),23 DEC 2004,1121,10-kilometres,road-running,female,u20
+66,32:20,,Yemenu TEWABECH,1995,ETH,3,Houilles (FRA),28 DEC 2014,1121,10-kilometres,road-running,female,u20
+66,32:20,,Lemlem NIBRET,01 JAN 2005,ETH,3,Praha (CZE),07 SEP 2024,1121,10-kilometres,road-running,female,u20
+70,32:21,,Tsige HAILESLASE,21 SEP 2000,ETH,3,Langueux (FRA),15 JUN 2019,1121,10-kilometres,road-running,female,u20
+70,32:21,,Tsigie GEBRESELAMA,30 SEP 2000,ETH,2,Addis Abeba (ETH),17 NOV 2019,1121,10-kilometres,road-running,female,u20
+72,32:22,,Mary WANGUI,12 SEP 1999,KEN,2,"New Orleans, LA (USA)",15 APR 2017,1120,10-kilometres,road-running,female,u20
+72,32:22,,Bertukan WELDE,10 MAY 2004,ETH,7,Addis Abeba (ETH),23 JAN 2022,1120,10-kilometres,road-running,female,u20
+74,32:23,,Sule UTURA,08 FEB 1990,ETH,1,Houilles (FRA),27 DEC 2009,1119,10-kilometres,road-running,female,u20
+74,32:23,,Emebet ANTENEH,13 JAN 1992,ETH,1,Luanda (ANG),31 DEC 2011,1119,10-kilometres,road-running,female,u20
+74,32:23,,Hiwot GEBREKIDAN,11 MAY 1995,ETH,3,Langueux (FRA),14 JUN 2014,1119,10-kilometres,road-running,female,u20
+74,32:23,,Dibabe KUMA,14 SEP 1996,ETH,4,Tilburg (NED),06 SEP 2015,1119,10-kilometres,road-running,female,u20
+74,32:23,,Alem NIGUSSIE,2002,ETH,3,Addis Abeba (ETH),17 NOV 2019,1119,10-kilometres,road-running,female,u20
+79,32:24,,Jane Jepkosgei KIPTOO,08 AUG 1982,KEN,1,Den Bosch (NED),23 SEP 2001,1118,10-kilometres,road-running,female,u20
+79,32:24,,Tigist KIROS GEBRESELASSIE,08 JUN 1992,ETH,3,Luanda (ANG),31 DEC 2011,1118,10-kilometres,road-running,female,u20
+79,32:24,,Konstanze KLOSTERHALFEN,18 FEB 1997,GER,1,Leverkusen (GER),06 MAR 2016,1118,10-kilometres,road-running,female,u20
+79,32:24,,Diniya ABARAYA,28 NOV 2005,ETH,2,Cape Town (RSA),24 MAR 2024,1118,10-kilometres,road-running,female,u20
+83,32:25,,Nazumi TOMONAGA,13 MAR 1989,JPN,1,Tamana (JPN),02 MAR 2008,1117,10-kilometres,road-running,female,u20

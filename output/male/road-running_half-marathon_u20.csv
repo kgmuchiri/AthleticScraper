@@ -26,7 +26,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 25,1:00:15,,Stephen KIPROP,08 SEP 1999,KEN,1,Olomouc (CZE),23 JUN 2018,1176,half-marathon,road-running,male,u20
 25,1:00:15,,Chimdessa DEBELE,13 SEP 2003,ETH,1,Trento (ITA),03 OCT 2021,1176,half-marathon,road-running,male,u20
 27,1:00:17,,Gizealew AYANA,11 FEB 2003,ETH,2,Cardiff (GBR),02 OCT 2022,1175,half-marathon,road-running,male,u20
-27,1:00:17,,Dennis KIPRUTO,08 APR 2005,KEN,2,"Showa Park, Tachikawa (JPN)",14 OCT 2023,1175,half-marathon,road-running,male,u20
+27,1:00:17,,Dennis KIPRUTO,08 APR 2005,KEN,2,"Showa Kinen Park, Tachikawa (JPN)",14 OCT 2023,1175,half-marathon,road-running,male,u20
 29,1:00:18,,Chimdessa DEBELE,13 SEP 2003,ETH,3,Cardiff (GBR),02 OCT 2022,1174,half-marathon,road-running,male,u20
 30,1:00:20,,Eric NDIEMA,28 DEC 1992,KEN,2,Milano (ITA),27 MAR 2011,1173,half-marathon,road-running,male,u20
 31,1:00:22,,Terefa DEBELA,1998,ETH,2,Istanbul (TUR),30 APR 2017,1172,half-marathon,road-running,male,u20
@@ -99,7 +99,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 98,1:01:38,,Jonathan MAIYO,05 MAY 1988,KEN,2,Paderborn (GER),07 APR 2007,1121,half-marathon,road-running,male,u20
 98,1:01:38,,Kazura MUNAKATA,10 JAN 2005,JPN,1,Ageo (JPN),17 NOV 2024,1121,half-marathon,road-running,male,u20
 100,1:01:39,,Mehari TSEGAY,12 FEB 1999,ERI,5,Azpeitia (ESP),24 MAR 2018,1121,half-marathon,road-running,male,u20
-100,1:01:39,,Jonson MUGENI,28 MAR 2004,KEN,8,"Showa Park, Tachikawa (JPN)",14 OCT 2023,1121,half-marathon,road-running,male,u20
+100,1:01:39,,Jonson MUGENI,28 MAR 2004,KEN,8,"Showa Kinen Park, Tachikawa (JPN)",14 OCT 2023,1121,half-marathon,road-running,male,u20
 102,1:01:40,,Girma ASSEFA,20 JUN 1986,ETH,2,Sapporo (JPN),03 JUL 2005,1120,half-marathon,road-running,male,u20
 102,1:01:40,,Elliah MBOGO,1988,KEN,5,Reims (FRA),21 OCT 2007,1120,half-marathon,road-running,male,u20
 104,1:01:41,,Fabiano Joseph NAASI,24 DEC 1985,TAN,3,Ivry-sur-Seine (FRA),27 APR 2003,1119,half-marathon,road-running,male,u20
@@ -110,7 +110,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 104,1:01:41,,Boki DIRIBA,25 FEB 2004,ETH,9,Manama (BRN),12 DEC 2021,1119,half-marathon,road-running,male,u20
 110,1:01:42,,Benson Kipchumba CHERONO,30 JUN 1984,KEN,1,Córdoba (ESP),30 NOV 2003,1119,half-marathon,road-running,male,u20
 110,1:01:42,,Bira SEBOKA,16 NOV 1994,ETH,4,Marrakech (MAR),27 JAN 2013,1119,half-marathon,road-running,male,u20
-110,1:01:42,,Kazuma MAEDA,16 JAN 2005,JPN,9,"Showa Park, Tachikawa (JPN)",14 OCT 2023,1119,half-marathon,road-running,male,u20
+110,1:01:42,,Kazuma MAEDA,16 JAN 2005,JPN,9,"Showa Kinen Park, Tachikawa (JPN)",14 OCT 2023,1119,half-marathon,road-running,male,u20
 113,1:01:43,,Abayneh DEGU,01 DEC 1998,ETH,1,Verbania (ITA),06 MAR 2016,1118,half-marathon,road-running,male,u20
 113,1:01:43,,Ronald Kiprotich KIRUI,06 DEC 1998,KEN,4,New Delhi (IND),20 NOV 2016,1118,half-marathon,road-running,male,u20
 113,1:01:43,,Demeke KASAW,14 MAR 1998,ETH,9,Venlo (NED),26 MAR 2017,1118,half-marathon,road-running,male,u20
@@ -143,11 +143,10 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 140,1:01:54,,Bonsa DIDA,21 JAN 1995,ETH,7,Lille (FRA),31 AUG 2013,1111,half-marathon,road-running,male,u20
 143,1:01:55,,Terefa DEBELA,1998,ETH,5,"Houston, TX (USA)",17 JAN 2016,1110,half-marathon,road-running,male,u20
 144,1:01:56,,Bazu WORKU HAYLA,15 SEP 1990,ETH,1,Paris (FRA),08 MAR 2009,1110,half-marathon,road-running,male,u20
-145,1:01:58,,Dennis KIPRUTO,08 APR 2005,KEN,4,Trento (ITA),06 OCT 2024,1108,half-marathon,road-running,male,u20
-146,1:01:59,,Martin SULLE,28 DEC 1982,TAN,2,Seoul (KOR),04 NOV 2001,1108,half-marathon,road-running,male,u20
-146,1:01:59,,John Kyalo KYUI,20 OCT 1984,KEN,5,Lille (FRA),06 SEP 2003,1108,half-marathon,road-running,male,u20
-146,1:01:59,,Dereje ADERE,1984,ETH,1,Addis Abeba (ETH),21 SEP 2003,1108,half-marathon,road-running,male,u20
-146,1:01:59,,Sylvain RUKUNDO,20 DEC 1988,RWA,26,Udine (ITA),14 OCT 2007,1108,half-marathon,road-running,male,u20
-146,1:01:59,,Elijah Tarus MELI,1989,KEN,1,Torino (ITA),28 SEP 2008,1108,half-marathon,road-running,male,u20
-146,1:01:59,,Muthoni MUIRU,27 MAR 1998,KEN,3,Sendai (JPN),14 MAY 2017,1108,half-marathon,road-running,male,u20
-152,1:02:00,,Abel Maina NDEMI,1989,KEN,10,Lille (FRA),01 SEP 2007,1107,half-marathon,road-running,male,u20
+145,1:01:59,,Martin SULLE,28 DEC 1982,TAN,2,Seoul (KOR),04 NOV 2001,1108,half-marathon,road-running,male,u20
+145,1:01:59,,John Kyalo KYUI,20 OCT 1984,KEN,5,Lille (FRA),06 SEP 2003,1108,half-marathon,road-running,male,u20
+145,1:01:59,,Dereje ADERE,1984,ETH,1,Addis Abeba (ETH),21 SEP 2003,1108,half-marathon,road-running,male,u20
+145,1:01:59,,Sylvain RUKUNDO,20 DEC 1988,RWA,26,Udine (ITA),14 OCT 2007,1108,half-marathon,road-running,male,u20
+145,1:01:59,,Elijah Tarus MELI,1989,KEN,1,Torino (ITA),28 SEP 2008,1108,half-marathon,road-running,male,u20
+145,1:01:59,,Muthoni MUIRU,27 MAR 1998,KEN,3,Sendai (JPN),14 MAY 2017,1108,half-marathon,road-running,male,u20
+151,1:02:00,,Abel Maina NDEMI,1989,KEN,10,Lille (FRA),01 SEP 2007,1107,half-marathon,road-running,male,u20

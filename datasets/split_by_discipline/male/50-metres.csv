@@ -6,342 +6,343 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4,5.61,,Deji ALIU,1975-11-22,NGR,,Liévin (FRA) (i),1999-02-21,1234.0,50-metres,sprints,male,senior,50-metres,track,5.61,FRA,23.0,1999
 4,5.61,,Freddy MAYOLA,1977-11-01,CUB,,Madrid (ESP) (i),2000-02-16,1234.0,50-metres,sprints,male,senior,50-metres,track,5.61,ESP,22.0,2000
 4,5.61,,Jason GARDENER,1975-09-17,GBR,,Madrid (ESP) (i),2000-02-16,1234.0,50-metres,sprints,male,senior,50-metres,track,5.61,ESP,24.0,2000
-8,5.62,,Morne NAGEL,1978-03-23,RSA,,Liévin (FRA) (i),2002-02-24,1227.0,50-metres,sprints,male,senior,50-metres,track,5.62,FRA,23.0,2002
-8,5.62,,Andre CASON,1969-01-20,USA,1,"Los Angeles, CA (USA) (i)",1992-02-15,1227.0,50-metres,sprints,male,senior,50-metres,track,5.62,USA,23.0,1992
 8,5.62,,Emmit KING,1959-03-24,USA,1,Kobe (JPN) (i),1986-03-05,1227.0,50-metres,sprints,male,senior,50-metres,track,5.62,JPN,26.0,1986
+8,5.62,,Andre CASON,1969-01-20,USA,1,"Los Angeles, CA (USA) (i)",1992-02-15,1227.0,50-metres,sprints,male,senior,50-metres,track,5.62,USA,23.0,1992
+8,5.62,,Morne NAGEL,1978-03-23,RSA,,Liévin (FRA) (i),2002-02-24,1227.0,50-metres,sprints,male,senior,50-metres,track,5.62,FRA,23.0,2002
 11,5.63,,Stanley FLOYD,1961-06-23,USA,2,"San Diego, CA (USA) (i)",1981-02-20,1220.0,50-metres,sprints,male,senior,50-metres,track,5.63,USA,19.0,1981
-11,5.63,,Henry NEAL,1970-10-28,USA,1,"Reno, NV (USA) (i)",1995-02-10,1220.0,50-metres,sprints,male,senior,50-metres,track,5.63,USA,24.0,1995
 11,5.63,,Jon DRUMMOND,1968-09-09,USA,2,"Los Angeles, CA (USA) (i)",1999-02-13,1220.0,50-metres,sprints,male,senior,50-metres,track,5.63,USA,30.0,1999
 11,5.63,,Pascal MANCINI,1989-04-18,SUI,1f4,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2023-01-21,1220.0,50-metres,sprints,male,senior,50-metres,track,5.63,SUI,33.0,2023
 11,5.63,,Ronnie BAKER,1993-10-15,USA,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1220.0,50-metres,sprints,male,senior,50-metres,track,5.63,CZE,31.0,2025
-16,5.64,,Asafa POWELL,1982-11-23,JAM,1,"MSG, New York, NY (USA) (i)",2012-01-28,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,29.0,2012
-16,5.64,,Jeff LAYNES,1970-10-03,USA,1,"Los Angeles, CA (USA) (i)",2001-01-20,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,30.0,2001
-16,5.64,,Gerald WILLIAMS,1978-02-24,USA,1,"Los Angeles, CA (USA) (i)",2000-02-19,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,22.0,2000
+11,5.63,,Henry NEAL,1970-10-28,USA,1,"Reno, NV (USA) (i)",1995-02-10,1220.0,50-metres,sprints,male,senior,50-metres,track,5.63,USA,24.0,1995
 16,5.64,,Davidson EZINWA,1971-11-22,NGR,2,"Los Angeles, CA (USA) (i)",1992-02-15,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,20.0,1992
 16,5.64,,Bruny SURIN,1967-07-12,CAN,1,Moskva (RUS) (i),1995-01-27,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,RUS,27.0,1995
-16,5.64,,Aleksandr PORKHOMOVSKIY,1972-08-12,RUS,1,Moskva (RUS) (i),1994-02-04,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,RUS,21.0,1994
 16,5.64,,Ato BOLDON,1973-12-30,TTO,,Madrid (ESP) (i),2000-02-16,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,ESP,26.0,2000
+16,5.64,,Aleksandr PORKHOMOVSKIY,1972-08-12,RUS,1,Moskva (RUS) (i),1994-02-04,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,RUS,21.0,1994
+16,5.64,,Gerald WILLIAMS,1978-02-24,USA,1,"Los Angeles, CA (USA) (i)",2000-02-19,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,22.0,2000
+16,5.64,,Asafa POWELL,1982-11-23,JAM,1,"MSG, New York, NY (USA) (i)",2012-01-28,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,29.0,2012
+16,5.64,,Jeff LAYNES,1970-10-03,USA,1,"Los Angeles, CA (USA) (i)",2001-01-20,1214.0,50-metres,sprints,male,senior,50-metres,track,5.64,USA,30.0,2001
 23,5.65,,Marian WORONIN,1956-08-13,POL,1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1207.0,50-metres,sprints,male,senior,50-metres,track,5.65,FRA,24.0,1981
 23,5.65,,Stéphane CALI,1972-04-26,FRA,,Eaubonne (FRA) (i),1998-02-20,1207.0,50-metres,sprints,male,senior,50-metres,track,5.65,FRA,25.0,1998
 25,5.66,,Jason GARDENER,1975-09-17,GBR,,Liévin (FRA) (i),1999-02-21,1200.0,50-metres,sprints,male,senior,50-metres,track,5.66,FRA,23.0,1999
 26,5.67,,Ronald POGNON,1982-11-16,FRA,,Liévin (FRA) (i),2005-02-19,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,FRA,22.0,2005
-26,5.67,,Reynier MENA,1996-11-21,CUB,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CZE,28.0,2025
-26,5.67,,Blake SMITH,1993-05-28,USA,1,Saskatoon (CAN) (i),2018-01-26,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,24.0,2018
-26,5.67,,Nesta CARTER,1985-10-11,JAM,2,"MSG, New York, NY (USA) (i)",2012-01-28,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,26.0,2012
-26,5.67,,Sam EFFAH,1988-12-29,CAN,1,Saskatoon (CAN) (i),2011-02-03,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,22.0,2011
 26,5.67,,Venancio JOSÉ,1976-04-19,ESP,,Madrid (ESP) (i),2001-03-14,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,ESP,24.0,2001
-26,5.67,,Jon DRUMMOND,1968-09-09,USA,1,Hamilton (CAN) (i),1992-01-10,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,23.0,1992
-26,5.67,,Jeff LAYNES,1970-10-03,USA,2,"Los Angeles, CA (USA) (i)",2000-02-19,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,29.0,2000
-26,5.67,,Tim HARDEN,1974-01-27,USA,3,"Los Angeles, CA (USA) (i)",1999-02-13,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,25.0,1999
-26,5.67,,Robert ESMIE,1972-07-05,CAN,1f2,"Los Angeles, CA (USA) (i)",1994-02-19,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,21.0,1994
 26,5.67,,Bruny SURIN,1967-07-12,CAN,1,Hamilton (CAN) (i),1993-01-15,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,25.0,1993
-26,5.67,,Marian WORONIN,1956-08-13,POL,1sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,FRA,24.0,1981
+26,5.67,,Robert ESMIE,1972-07-05,CAN,1f2,"Los Angeles, CA (USA) (i)",1994-02-19,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,21.0,1994
+26,5.67,,Tim HARDEN,1974-01-27,USA,3,"Los Angeles, CA (USA) (i)",1999-02-13,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,25.0,1999
+26,5.67,,Jeff LAYNES,1970-10-03,USA,2,"Los Angeles, CA (USA) (i)",2000-02-19,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,29.0,2000
 26,5.67,,Kareem KELLY,1981-04-01,USA,3,"Los Angeles, CA (USA) (i)",2000-02-19,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,18.0,2000
-39,5.68,,Trell KIMMONS,1985-07-13,USA,3,"MSG, New York, NY (USA) (i)",2012-01-28,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,USA,26.0,2012
-39,5.68,,Freddy MAYOLA,1977-11-01,CUB,,Liévin (FRA) (i),2004-02-28,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,FRA,26.0,2004
+26,5.67,,Jon DRUMMOND,1968-09-09,USA,1,Hamilton (CAN) (i),1992-01-10,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,23.0,1992
+26,5.67,,Marian WORONIN,1956-08-13,POL,1sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,FRA,24.0,1981
+26,5.67,,Sam EFFAH,1988-12-29,CAN,1,Saskatoon (CAN) (i),2011-02-03,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,22.0,2011
+26,5.67,,Nesta CARTER,1985-10-11,JAM,2,"MSG, New York, NY (USA) (i)",2012-01-28,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,USA,26.0,2012
+26,5.67,,Blake SMITH,1993-05-28,USA,1,Saskatoon (CAN) (i),2018-01-26,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CAN,24.0,2018
+26,5.67,,Reynier MENA,1996-11-21,CUB,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1193.0,50-metres,sprints,male,senior,50-metres,track,5.67,CZE,28.0,2025
+39,5.68,,Wolfgang LÖBE,1953-10-22,GDR,1f3,Berlin (GER) (i),1974-02-03,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,GER,20.0,1974
+39,5.68,,Emmit KING,1959-03-24,USA,1h1,Kobe (JPN) (i),1986-03-05,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,JPN,26.0,1986
+39,5.68,,Lee MCRAE,1966-01-23,USA,1,Hamilton (CAN) (i),1989-01-13,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,CAN,22.0,1989
 39,5.68,,Jon DRUMMOND,1968-09-09,USA,2,Hamilton (CAN) (i),1993-01-15,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,CAN,24.0,1993
 39,5.68,,Michael GREEN,1970-11-07,JAM,1,Hamilton (CAN) (i),1995-01-13,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,CAN,24.0,1995
-39,5.68,,Emmit KING,1959-03-24,USA,1h1,Kobe (JPN) (i),1986-03-05,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,JPN,26.0,1986
-39,5.68,,Wolfgang LÖBE,1953-10-22,GDR,1f3,Berlin (GER) (i),1974-02-03,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,GER,20.0,1974
-39,5.68,,Lee MCRAE,1966-01-23,USA,1,Hamilton (CAN) (i),1989-01-13,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,CAN,22.0,1989
-46,5.69,,Mickey GRIMES,1976-10-10,USA,2,"Los Angeles, CA (USA) (i)",2001-01-20,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,24.0,2001
+39,5.68,,Freddy MAYOLA,1977-11-01,CUB,,Liévin (FRA) (i),2004-02-28,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,FRA,26.0,2004
+39,5.68,,Trell KIMMONS,1985-07-13,USA,3,"MSG, New York, NY (USA) (i)",2012-01-28,1187.0,50-metres,sprints,male,senior,50-metres,track,5.68,USA,26.0,2012
 46,5.69,,Romell GLAVE,1999-11-11,GBR,h1,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CZE,25.0,2025
-46,5.69,,Romell GLAVE,1999-11-11,GBR,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CZE,25.0,2025
-46,5.69,,Mickey GRIMES,1976-10-10,USA,2,Saskatoon (CAN) (i),2003-02-08,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,26.0,2003
-46,5.69,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2003-02-08,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,22.0,2003
-46,5.69,,Gennadiy CHERNOVOL,1976-06-06,KAZ,,Liévin (FRA) (i),2002-02-24,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,FRA,25.0,2002
-46,5.69,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2002-01-12,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,21.0,2002
-46,5.69,,Bruny SURIN,1967-07-12,CAN,1,Montréal (CAN) (i),2000-02-05,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,32.0,2000
-46,5.69,,Andre CASON,1969-01-20,USA,1,"Los Angeles, CA (USA) (i)",1991-01-18,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,22.0,1991
-46,5.69,,Ibrahim MEITÉ,1976-11-18,CIV,1,Grenoble (FRA) (i),1995-01-29,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,FRA,18.0,1995
-46,5.69,,Bryan HOWARD,1976-10-07,USA,1f3,"Los Angeles, CA (USA) (i)",1994-02-19,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,17.0,1994
-46,5.69,,Jon DRUMMOND,1968-09-09,USA,3f2,"Los Angeles, CA (USA) (i)",1994-02-19,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,25.0,1994
-46,5.69,,Davidson EZINWA,1971-11-22,NGR,2f2,"Los Angeles, CA (USA) (i)",1994-02-19,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,22.0,1994
-46,5.69,,Henry NEAL,1970-10-28,USA,1,Hamilton (CAN) (i),1994-01-14,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,23.0,1994
-46,5.69,,Raymond STEWART,1965-03-18,JAM,,Madrid (ESP) (i),1995-02-09,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,ESP,29.0,1995
 46,5.69,,Ben JOHNSON,1961-12-30,CAN,1,Toronto (CAN) (i),1984-02-25,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,22.0,1984
+46,5.69,,Andre CASON,1969-01-20,USA,1,"Los Angeles, CA (USA) (i)",1991-01-18,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,22.0,1991
+46,5.69,,Henry NEAL,1970-10-28,USA,1,Hamilton (CAN) (i),1994-01-14,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,23.0,1994
+46,5.69,,Davidson EZINWA,1971-11-22,NGR,2f2,"Los Angeles, CA (USA) (i)",1994-02-19,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,22.0,1994
+46,5.69,,Jon DRUMMOND,1968-09-09,USA,3f2,"Los Angeles, CA (USA) (i)",1994-02-19,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,25.0,1994
+46,5.69,,Bryan HOWARD,1976-10-07,USA,1f3,"Los Angeles, CA (USA) (i)",1994-02-19,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,17.0,1994
+46,5.69,,Ibrahim MEITÉ,1976-11-18,CIV,1,Grenoble (FRA) (i),1995-01-29,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,FRA,18.0,1995
+46,5.69,,Raymond STEWART,1965-03-18,JAM,,Madrid (ESP) (i),1995-02-09,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,ESP,29.0,1995
+46,5.69,,Bruny SURIN,1967-07-12,CAN,1,Montréal (CAN) (i),2000-02-05,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,32.0,2000
+46,5.69,,Mickey GRIMES,1976-10-10,USA,2,"Los Angeles, CA (USA) (i)",2001-01-20,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,24.0,2001
+46,5.69,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2002-01-12,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,21.0,2002
+46,5.69,,Gennadiy CHERNOVOL,1976-06-06,KAZ,,Liévin (FRA) (i),2002-02-24,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,FRA,25.0,2002
+46,5.69,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2003-02-08,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,22.0,2003
+46,5.69,,Mickey GRIMES,1976-10-10,USA,2,Saskatoon (CAN) (i),2003-02-08,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CAN,26.0,2003
+46,5.69,,Romell GLAVE,1999-11-11,GBR,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,CZE,25.0,2025
 46,5.69,,Ron BROWN,1961-03-31,USA,1,"San Diego, CA (USA) (i)",1984-02-17,1180.0,50-metres,sprints,male,senior,50-metres,track,5.69,USA,22.0,1984
-63,5.7,,Reynier MENA,1996-11-21,CUB,h1,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,CZE,28.0,2025
-63,5.7,,Blake SMITH,1993-05-28,USA,1h2,Saskatoon (CAN) (i),2018-01-26,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,CAN,24.0,2018
-63,5.7,,Bryce ROBINSON,1993-11-13,USA,2,Saskatoon (CAN) (i),2018-01-26,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,CAN,24.0,2018
-63,5.7,,Erol MUTLUSOY,1976-06-16,TUR,1,Izmir (TUR) (i),2011-02-04,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,TUR,34.0,2011
-63,5.7,,Calvin SMITH,1961-01-08,USA,1,"Rosemont, IL (USA) (i)",1984-01-29,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,USA,23.0,1984
-63,5.7,,Marian WORONIN,1956-08-13,POL,1h3,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,FRA,24.0,1981
 63,5.7,,Jobst HIRSCHT,1948-07-19,FRG,1sf2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,ESP,19.0,1968
+63,5.7,,Marian WORONIN,1956-08-13,POL,1h3,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,FRA,24.0,1981
+63,5.7,,Calvin SMITH,1961-01-08,USA,1,"Rosemont, IL (USA) (i)",1984-01-29,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,USA,23.0,1984
 63,5.7,,Andrey GRIGORYEV,1970-05-18,RUS,2,Moskva (RUS) (i),1994-02-04,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,RUS,23.0,1994
-71,5.71,,Demi OMOLE,1985-07-29,USA,1f1,Saskatoon (CAN) (i),2009-01-10,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,23.0,2009
-71,5.71,,Usheoritse ITSEKIRI,1998-01-31,NGR,1,"Field House, Saskatoon (CAN) (i)",2024-01-26,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,26.0,2024
-71,5.71,,Christophe LEMAITRE,1990-06-11,FRA,h1,Liévin (FRA) (i),2012-02-14,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,21.0,2012
+63,5.7,,Erol MUTLUSOY,1976-06-16,TUR,1,Izmir (TUR) (i),2011-02-04,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,TUR,34.0,2011
+63,5.7,,Bryce ROBINSON,1993-11-13,USA,2,Saskatoon (CAN) (i),2018-01-26,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,CAN,24.0,2018
+63,5.7,,Blake SMITH,1993-05-28,USA,1h2,Saskatoon (CAN) (i),2018-01-26,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,CAN,24.0,2018
+63,5.7,,Reynier MENA,1996-11-21,CUB,h1,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1173.0,50-metres,sprints,male,senior,50-metres,track,5.7,CZE,28.0,2025
 71,5.71,,Christophe LEMAITRE,1990-06-11,FRA,,Liévin (FRA) (i),2012-02-14,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,21.0,2012
-71,5.71,,Justin GATLIN,1982-02-10,USA,4,"MSG, New York, NY (USA) (i)",2012-01-28,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,USA,29.0,2012
+71,5.71,,Christophe LEMAITRE,1990-06-11,FRA,h1,Liévin (FRA) (i),2012-02-14,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,21.0,2012
+71,5.71,,Usheoritse ITSEKIRI,1998-01-31,NGR,1,"Field House, Saskatoon (CAN) (i)",2024-01-26,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,26.0,2024
 71,5.71,,Ronnie BAKER,1993-10-15,USA,h1,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CZE,31.0,2025
-71,5.71,,Lerone CLARKE,1981-07-07,JAM,,Liévin (FRA) (i),2010-03-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,28.0,2010
-71,5.71,,Harry AIKINES-ARYEETEY,1988-08-29,GBR,,Liévin (FRA) (i),2010-03-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,21.0,2010
-71,5.71,,Christophe LEMAITRE,1990-06-11,FRA,,Liévin (FRA) (i),2010-03-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,19.0,2010
-71,5.71,,Freddy MAYOLA,1977-11-01,CUB,h2,Liévin (FRA) (i),2004-02-28,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,26.0,2004
 71,5.71,,Sergiy OSOVICH,1973-12-16,UKR,2,Moskva (RUS) (i),1996-02-07,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,RUS,22.0,1996
-71,5.71,,Mickey GRIMES,1976-10-10,USA,4,"Los Angeles, CA (USA) (i)",2000-02-19,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,USA,23.0,2000
-71,5.71,,Roland NÉMETH,1974-09-19,HUN,1,Nyíregyháza (HUN) (i),2000-02-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,HUN,25.0,2000
-71,5.71,,Bruny SURIN,1967-07-12,CAN,1,Ottawa (CAN) (i),1999-01-22,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,31.0,1999
 71,5.71,,Bruny SURIN,1967-07-12,CAN,1,Windsor (CAN) (i),1999-01-16,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,31.0,1999
-71,5.71,,Frank FREDERICKS,1967-10-02,NAM,2,Grenoble (FRA) (i),1995-01-29,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,27.0,1995
-71,5.71,,Yuriy MIZERA,1966-02-26,RUS,4,Moskva (RUS) (i),1994-02-04,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,RUS,27.0,1994
-71,5.71,,Andrey FEDORIV,1963-08-11,RUS,3,Moskva (RUS) (i),1994-02-04,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,RUS,30.0,1994
-71,5.71,,Lee MCNEILL,1964-12-02,USA,2,Hamilton (CAN) (i),1989-01-13,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,24.0,1989
+71,5.71,,Bruny SURIN,1967-07-12,CAN,1,Ottawa (CAN) (i),1999-01-22,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,31.0,1999
+71,5.71,,Roland NÉMETH,1974-09-19,HUN,1,Nyíregyháza (HUN) (i),2000-02-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,HUN,25.0,2000
+71,5.71,,Mickey GRIMES,1976-10-10,USA,4,"Los Angeles, CA (USA) (i)",2000-02-19,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,USA,23.0,2000
 71,5.71,,Douglas BIGNALL,1974-10-20,GBR,3,"Los Angeles, CA (USA) (i)",2001-01-20,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,USA,26.0,2001
-91,5.72,,Anninos MARKOULLIDES,1971-02-08,CYP,2,Nyíregyháza (HUN) (i),2000-02-05,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,HUN,29.0,2000
-91,5.72,,Marcus ROWLAND,1990-03-11,USA,1,Saskatoon (CAN) (i),2014-01-31,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,23.0,2014
-91,5.72,,Peter EMELIEZE,1988-04-19,NGR,,Liévin (FRA) (i),2009-02-10,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,FRA,20.0,2009
-91,5.72,,Demi OMOLE,1985-07-29,USA,1h1,Saskatoon (CAN) (i),2009-01-09,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,23.0,2009
-91,5.72,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2006-02-04,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,25.0,2006
-91,5.72,,Vitaliy SAVIN,1966-01-23,KAZ,,Madrid (ESP) (i),1995-02-09,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,ESP,29.0,1995
+71,5.71,,Freddy MAYOLA,1977-11-01,CUB,h2,Liévin (FRA) (i),2004-02-28,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,26.0,2004
+71,5.71,,Demi OMOLE,1985-07-29,USA,1f1,Saskatoon (CAN) (i),2009-01-10,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,23.0,2009
+71,5.71,,Christophe LEMAITRE,1990-06-11,FRA,,Liévin (FRA) (i),2010-03-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,19.0,2010
+71,5.71,,Harry AIKINES-ARYEETEY,1988-08-29,GBR,,Liévin (FRA) (i),2010-03-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,21.0,2010
+71,5.71,,Lerone CLARKE,1981-07-07,JAM,,Liévin (FRA) (i),2010-03-05,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,28.0,2010
+71,5.71,,Justin GATLIN,1982-02-10,USA,4,"MSG, New York, NY (USA) (i)",2012-01-28,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,USA,29.0,2012
+71,5.71,,Lee MCNEILL,1964-12-02,USA,2,Hamilton (CAN) (i),1989-01-13,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,CAN,24.0,1989
+71,5.71,,Andrey FEDORIV,1963-08-11,RUS,3,Moskva (RUS) (i),1994-02-04,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,RUS,30.0,1994
+71,5.71,,Yuriy MIZERA,1966-02-26,RUS,4,Moskva (RUS) (i),1994-02-04,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,RUS,27.0,1994
+71,5.71,,Frank FREDERICKS,1967-10-02,NAM,2,Grenoble (FRA) (i),1995-01-29,1166.0,50-metres,sprints,male,senior,50-metres,track,5.71,FRA,27.0,1995
 91,5.72,,Jobst HIRSCHT,1948-07-19,FRG,1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,ESP,19.0,1968
-91,5.72,,Anvar KUCHMURADOV,1970-01-05,UZB,5,Moskva (RUS) (i),1994-02-04,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,RUS,24.0,1994
-91,5.72,,Sven MATTHES,1969-08-23,GDR,1,Berlin (GER) (i),1988-02-19,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,GER,18.0,1988
-91,5.72,,Carl LEWIS,1961-07-01,USA,2,"San Diego, CA (USA) (i)",1984-02-17,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,USA,22.0,1984
-91,5.72,,Emmit KING,1959-03-24,USA,1,Sherbrooke (CAN) (i),1984-01-15,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,24.0,1984
 91,5.72,,Ray JAMES,1959-10-14,USA,1,"Syracuse, NY (USA) (i)",1980-02-10,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,USA,20.0,1980
+91,5.72,,Emmit KING,1959-03-24,USA,1,Sherbrooke (CAN) (i),1984-01-15,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,24.0,1984
+91,5.72,,Carl LEWIS,1961-07-01,USA,2,"San Diego, CA (USA) (i)",1984-02-17,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,USA,22.0,1984
+91,5.72,,Sven MATTHES,1969-08-23,GDR,1,Berlin (GER) (i),1988-02-19,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,GER,18.0,1988
+91,5.72,,Anvar KUCHMURADOV,1970-01-05,UZB,5,Moskva (RUS) (i),1994-02-04,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,RUS,24.0,1994
 91,5.72,,Dmitriy BARTENYEV,1969-03-08,RUS,1h2,Moskva (RUS) (i),1994-02-04,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,RUS,24.0,1994
-104,5.73,,Shuhei TADA,1996-06-24,JPN,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CZE,28.0,2025
-104,5.73,,Joshua HARTMANN,1999-06-09,GER,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CZE,25.0,2025
-104,5.73,,Igor OBRAZTSOV,1995-10-21,RUS,1,"Znamenskikh Arena, Moskva (RUS) (i)",2021-12-24,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,RUS,26.0,2021
-104,5.73,,Umut UYSAL,2002-03-04,TUR,1,"Ataköy Arena, Istanbul (TUR) (i)",2020-01-18,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,TUR,17.0,2020
+91,5.72,,Vitaliy SAVIN,1966-01-23,KAZ,,Madrid (ESP) (i),1995-02-09,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,ESP,29.0,1995
+91,5.72,,Anninos MARKOULLIDES,1971-02-08,CYP,2,Nyíregyháza (HUN) (i),2000-02-05,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,HUN,29.0,2000
+91,5.72,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2006-02-04,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,25.0,2006
+91,5.72,,Demi OMOLE,1985-07-29,USA,1h1,Saskatoon (CAN) (i),2009-01-09,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,23.0,2009
+91,5.72,,Peter EMELIEZE,1988-04-19,NGR,,Liévin (FRA) (i),2009-02-10,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,FRA,20.0,2009
+91,5.72,,Marcus ROWLAND,1990-03-11,USA,1,Saskatoon (CAN) (i),2014-01-31,1160.0,50-metres,sprints,male,senior,50-metres,track,5.72,CAN,23.0,2014
 104,5.73,,Cordero GRAY,1989-05-09,USA,2,Saskatoon (CAN) (i),2014-01-31,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CAN,24.0,2014
-104,5.73,,Christophe LEMAITRE,1990-06-11,FRA,h1,Liévin (FRA) (i),2010-03-05,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,FRA,19.0,2010
-104,5.73,,Emmanuel NGOM PRISO,1984-12-15,FRA,,Liévin (FRA) (i),2009-02-20,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,FRA,24.0,2009
-104,5.73,,DaBryan BLANTON,1984-07-03,USA,3f1,Saskatoon (CAN) (i),2009-01-10,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CAN,24.0,2009
-104,5.73,,Nicolas MACROZONARIS,1980-08-22,CAN,2f1,Saskatoon (CAN) (i),2009-01-10,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CAN,28.0,2009
+104,5.73,,Umut UYSAL,2002-03-04,TUR,1,"Ataköy Arena, Istanbul (TUR) (i)",2020-01-18,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,TUR,17.0,2020
+104,5.73,,Igor OBRAZTSOV,1995-10-21,RUS,1,"Znamenskikh Arena, Moskva (RUS) (i)",2021-12-24,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,RUS,26.0,2021
+104,5.73,,Joshua HARTMANN,1999-06-09,GER,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CZE,25.0,2025
+104,5.73,,Shuhei TADA,1996-06-24,JPN,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CZE,28.0,2025
+104,5.73,,Steffen BRINGMANN,1964-03-11,GDR,3,Kobe (JPN) (i),1986-03-05,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,JPN,21.0,1986
+104,5.73,,Michael MARSH,1967-08-04,USA,1f1,"Los Angeles, CA (USA) (i)",1990-01-19,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,22.0,1990
+104,5.73,,Jiří VALÍK,1966-07-26,TCH,1,Praha (TCH) (i),1990-02-10,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,TCH,23.0,1990
+104,5.73,,Brian COOPER,1965-08-21,USA,1,"Cleveland, OH (USA) (i)",1990-02-17,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,24.0,1990
+104,5.73,,Mickey GRIMES,1976-10-10,USA,1,"Los Angeles, CA (USA) (i)",2002-02-23,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,25.0,2002
 104,5.73,,Jon DRUMMOND,1968-09-09,USA,2,"Los Angeles, CA (USA) (i)",2002-02-23,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,33.0,2002
 104,5.73,,Jeff LAYNES,1970-10-03,USA,2,Saskatoon (CAN) (i),2006-02-04,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CAN,35.0,2006
+104,5.73,,Nicolas MACROZONARIS,1980-08-22,CAN,2f1,Saskatoon (CAN) (i),2009-01-10,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CAN,28.0,2009
+104,5.73,,DaBryan BLANTON,1984-07-03,USA,3f1,Saskatoon (CAN) (i),2009-01-10,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,CAN,24.0,2009
+104,5.73,,Emmanuel NGOM PRISO,1984-12-15,FRA,,Liévin (FRA) (i),2009-02-20,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,FRA,24.0,2009
+104,5.73,,Christophe LEMAITRE,1990-06-11,FRA,h1,Liévin (FRA) (i),2010-03-05,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,FRA,19.0,2010
 104,5.73,,Wolfgang RABE,1952-05-14,GDR,1h,Berlin (GER) (i),1973-02-04,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,GER,20.0,1973
-104,5.73,,Brian COOPER,1965-08-21,USA,1,"Cleveland, OH (USA) (i)",1990-02-17,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,24.0,1990
-104,5.73,,Jiří VALÍK,1966-07-26,TCH,1,Praha (TCH) (i),1990-02-10,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,TCH,23.0,1990
-104,5.73,,Michael MARSH,1967-08-04,USA,1f1,"Los Angeles, CA (USA) (i)",1990-01-19,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,22.0,1990
-104,5.73,,Steffen BRINGMANN,1964-03-11,GDR,3,Kobe (JPN) (i),1986-03-05,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,JPN,21.0,1986
-104,5.73,,Harvey GLANCE,1957-03-28,USA,1h2,"Rosemont, IL (USA) (i)",1986-02-16,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,28.0,1986
-104,5.73,,Albert LAWRENCE,1961-04-26,JAM,1,Kobe (JPN) (i),1985-03-09,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,JPN,23.0,1985
-104,5.73,,František PTÁČNÍK,1962-02-27,TCH,1,Praha (TCH) (i),1985-01-26,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,TCH,22.0,1985
 104,5.73,,Vladimir MURAVYOV,1959-09-30,URS,2sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,FRA,21.0,1981
-104,5.73,,Mickey GRIMES,1976-10-10,USA,1,"Los Angeles, CA (USA) (i)",2002-02-23,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,25.0,2002
-125,5.74,,Ronald POGNON,1982-11-16,FRA,,Liévin (FRA) (i),2010-03-05,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,FRA,27.0,2010
-125,5.74,,Lerone CLARKE,1981-07-07,JAM,h2,Liévin (FRA) (i),2010-03-05,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,FRA,28.0,2010
-125,5.74,,Kimmari ROACH,1989-04-17,JAM,5,"MSG, New York, NY (USA) (i)",2012-01-28,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,USA,22.0,2012
-125,5.74,,Nikolaj HOMAN,1990-12-02,BLR,1h3,Minsk (BLR) (i),2009-12-23,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,BLR,19.0,2009
-125,5.74,,Igor OBRAZTSOV,1995-10-21,RUS,1h2,"Znamenskikh Arena, Moskva (RUS) (i)",2021-12-24,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,RUS,26.0,2021
-125,5.74,,Usheoritse ITSEKIRI,1998-01-31,NGR,1,"Field House, Saskatoon (CAN) (i)",2025-01-24,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,27.0,2025
-125,5.74,,Rikkoi BRATHWAITE,1999-02-13,IVB,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CZE,25.0,2025
-125,5.74,,Shuhei TADA,1996-06-24,JPN,h2,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CZE,28.0,2025
-125,5.74,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Hamilton (CAN) (i),2005-02-18,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,24.0,2005
-125,5.74,,Jason ROGERS,1991-08-31,SKN,3,Saskatoon (CAN) (i),2014-01-31,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,22.0,2014
-125,5.74,,Eric NKANSAH,1974-12-12,GHA,1,Sindelfingen (GER) (i),2001-03-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,GER,26.0,2001
+104,5.73,,František PTÁČNÍK,1962-02-27,TCH,1,Praha (TCH) (i),1985-01-26,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,TCH,22.0,1985
+104,5.73,,Albert LAWRENCE,1961-04-26,JAM,1,Kobe (JPN) (i),1985-03-09,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,JPN,23.0,1985
+104,5.73,,Harvey GLANCE,1957-03-28,USA,1h2,"Rosemont, IL (USA) (i)",1986-02-16,1153.0,50-metres,sprints,male,senior,50-metres,track,5.73,USA,28.0,1986
 125,5.74,,Klaus-Dieter KURRAT,1955-01-16,GDR,1,Berlin (GER) (i),1977-03-06,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,GER,22.0,1977
 125,5.74,,Ephraim SERRETTE,1957-10-06,TTO,1,Edmonton (CAN) (i),1980-02-16,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,22.0,1980
 125,5.74,,James BUTLER,1960-06-21,USA,2,"Rosemont, IL (USA) (i)",1983-01-15,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,USA,22.0,1983
 125,5.74,,Greg MOSES,1965-12-29,USA,2,"Cleveland, OH (USA) (i)",1990-02-17,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,USA,24.0,1990
+125,5.74,,Shuhei TADA,1996-06-24,JPN,h2,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CZE,28.0,2025
+125,5.74,,Rikkoi BRATHWAITE,1999-02-13,IVB,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CZE,25.0,2025
+125,5.74,,Usheoritse ITSEKIRI,1998-01-31,NGR,1,"Field House, Saskatoon (CAN) (i)",2025-01-24,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,27.0,2025
+125,5.74,,Igor OBRAZTSOV,1995-10-21,RUS,1h2,"Znamenskikh Arena, Moskva (RUS) (i)",2021-12-24,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,RUS,26.0,2021
+125,5.74,,Jason ROGERS,1991-08-31,SKN,3,Saskatoon (CAN) (i),2014-01-31,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,22.0,2014
+125,5.74,,Kimmari ROACH,1989-04-17,JAM,5,"MSG, New York, NY (USA) (i)",2012-01-28,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,USA,22.0,2012
+125,5.74,,Lerone CLARKE,1981-07-07,JAM,h2,Liévin (FRA) (i),2010-03-05,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,FRA,28.0,2010
+125,5.74,,Ronald POGNON,1982-11-16,FRA,,Liévin (FRA) (i),2010-03-05,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,FRA,27.0,2010
+125,5.74,,Nikolaj HOMAN,1990-12-02,BLR,1h3,Minsk (BLR) (i),2009-12-23,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,BLR,19.0,2009
+125,5.74,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Hamilton (CAN) (i),2005-02-18,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,24.0,2005
 125,5.74,,Heimo SIEGERT,1979-11-30,AUT,1,Schielleiten (AUT) (i),2004-01-10,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,AUT,24.0,2004
-125,5.74,,Marcel CARTER,1971-03-26,USA,3,"Reno, NV (USA) (i)",1995-02-10,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,USA,23.0,1995
-125,5.74,,Jeff LAYNES,1970-10-03,USA,1,Saskatoon (CAN) (i),2001-01-13,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,30.0,2001
+125,5.74,,Eric NKANSAH,1974-12-12,GHA,1,Sindelfingen (GER) (i),2001-03-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,GER,26.0,2001
 125,5.74,,Freddy MAYOLA,1977-11-01,CUB,1,Sindelfingen (GER) (i),2001-03-04,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,GER,23.0,2001
+125,5.74,,Jeff LAYNES,1970-10-03,USA,1,Saskatoon (CAN) (i),2001-01-13,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,CAN,30.0,2001
+125,5.74,,Marcel CARTER,1971-03-26,USA,3,"Reno, NV (USA) (i)",1995-02-10,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,USA,23.0,1995
 125,5.74,,Joel ISASI,1967-07-31,CUB,1,Grenoble (FRA) (i),1993-02-07,1146.0,50-metres,sprints,male,senior,50-metres,track,5.74,FRA,25.0,1993
-145,5.75,,Rikkoi BRATHWAITE,1999-02-13,IVB,h1,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CZE,25.0,2025
-145,5.75,,Nobuharu ASAHARA,1972-06-21,JPN,,Liévin (FRA) (i),2002-02-24,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,29.0,2002
-145,5.75,,Usheoritse ITSEKIRI,1998-01-31,NGR,1,"Field House, Saskatoon (CAN) (i)",2023-01-27,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,25.0,2023
-145,5.75,,Pascal MANCINI,1989-04-18,SUI,1h1,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2023-01-21,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,SUI,33.0,2023
-145,5.75,,Cordero GRAY,1989-05-09,USA,3,Saskatoon (CAN) (i),2018-01-26,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,28.0,2018
-145,5.75,,Daniel BAILEY,1986-09-09,ANT,6,"MSG, New York, NY (USA) (i)",2012-01-28,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,USA,25.0,2012
-145,5.75,,Michael GARVIN,1986-09-29,USA,2,Saskatoon (CAN) (i),2011-02-03,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,24.0,2011
-145,5.75,,Martin KRABBE,1985-07-09,DEN,1,Århus (DEN) (i),2010-02-18,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,DEN,24.0,2010
-145,5.75,,Vicente LENÍLSON,1977-06-04,BRA,h1,Liévin (FRA) (i),2009-02-10,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,31.0,2009
-145,5.75,,Simone COLLIO,1979-12-27,ITA,,Liévin (FRA) (i),2009-02-10,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,29.0,2009
-145,5.75,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2004-02-07,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,23.0,2004
-145,5.75,,Malachi MURRAY,2000-03-18,CAN,1h1,"Field House, Saskatoon (CAN) (i)",2025-01-24,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,24.0,2025
-145,5.75,,Donovan POWELL,1971-10-31,JAM,1,Saskatoon (CAN) (i),1999-01-09,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,27.0,1999
-145,5.75,,Michael BATES,1969-12-19,USA,3,"Los Angeles, CA (USA) (i)",1992-02-15,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,USA,22.0,1992
-145,5.75,,Dennis MITCHELL,1966-02-20,USA,4,"Reno, NV (USA) (i)",1995-02-10,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,USA,28.0,1995
 145,5.75,,Valeriy BORZOV,1949-10-20,URS,1,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,22.0,1972
 145,5.75,,Vasilos PAPAYEORGOPOULOS,1947-06-27,GRE,1h3,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,24.0,1972
 145,5.75,,Eugen RAY,1957-07-26,GDR,1h1,Berlin (GER) (i),1976-01-18,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,GER,18.0,1976
-145,5.75,,Ed PRESTON,1955-12-12,USA,2,Montréal (CAN) (i),1977-02-13,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,21.0,1977
 145,5.75,,Don QUARRIE,1951-02-25,JAM,1,Montréal (CAN) (i),1977-02-13,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,25.0,1977
+145,5.75,,Ed PRESTON,1955-12-12,USA,2,Montréal (CAN) (i),1977-02-13,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,21.0,1977
+145,5.75,,Marc GASPARONI,1959-07-15,FRA,1,Grenoble (FRA) (i),1981-02-07,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,21.0,1981
 145,5.75,,Desai WILLIAMS,1959-06-12,CAN,1,Edmonton (CAN) (i),1981-02-28,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,21.0,1981
 145,5.75,,Christian HAAS,1958-08-22,FRG,1,Dortmund (GER) (i),1983-02-19,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,GER,24.0,1983
 145,5.75,,Tony SHARPE,1961-06-28,CAN,1,Saskatoon (CAN) (i),1984-12-29,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,23.0,1984
 145,5.75,,Darwin COOK,1962-07-16,USA,4,Kobe (JPN) (i),1986-03-05,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,JPN,23.0,1986
 145,5.75,,Daron COUNCIL,1964-12-26,USA,1,Hamilton (CAN) (i),1991-01-11,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,26.0,1991
-145,5.75,,Marc GASPARONI,1959-07-15,FRA,1,Grenoble (FRA) (i),1981-02-07,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,21.0,1981
-171,5.76,,Joshua NORMAN,1980-07-26,USA,1,Saskatoon (CAN) (i),2005-02-06,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,24.0,2005
+145,5.75,,Michael BATES,1969-12-19,USA,3,"Los Angeles, CA (USA) (i)",1992-02-15,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,USA,22.0,1992
+145,5.75,,Dennis MITCHELL,1966-02-20,USA,4,"Reno, NV (USA) (i)",1995-02-10,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,USA,28.0,1995
+145,5.75,,Donovan POWELL,1971-10-31,JAM,1,Saskatoon (CAN) (i),1999-01-09,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,27.0,1999
+145,5.75,,Nobuharu ASAHARA,1972-06-21,JPN,,Liévin (FRA) (i),2002-02-24,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,29.0,2002
+145,5.75,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2004-02-07,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,23.0,2004
+145,5.75,,Simone COLLIO,1979-12-27,ITA,,Liévin (FRA) (i),2009-02-10,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,29.0,2009
+145,5.75,,Vicente LENÍLSON,1977-06-04,BRA,h1,Liévin (FRA) (i),2009-02-10,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,FRA,31.0,2009
+145,5.75,,Martin KRABBE,1985-07-09,DEN,1,Århus (DEN) (i),2010-02-18,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,DEN,24.0,2010
+145,5.75,,Michael GARVIN,1986-09-29,USA,2,Saskatoon (CAN) (i),2011-02-03,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,24.0,2011
+145,5.75,,Daniel BAILEY,1986-09-09,ANT,6,"MSG, New York, NY (USA) (i)",2012-01-28,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,USA,25.0,2012
+145,5.75,,Cordero GRAY,1989-05-09,USA,3,Saskatoon (CAN) (i),2018-01-26,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,28.0,2018
+145,5.75,,Pascal MANCINI,1989-04-18,SUI,1h1,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2023-01-21,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,SUI,33.0,2023
+145,5.75,,Usheoritse ITSEKIRI,1998-01-31,NGR,1,"Field House, Saskatoon (CAN) (i)",2023-01-27,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,25.0,2023
+145,5.75,,Malachi MURRAY,2000-03-18,CAN,1h1,"Field House, Saskatoon (CAN) (i)",2025-01-24,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CAN,24.0,2025
+145,5.75,,Rikkoi BRATHWAITE,1999-02-13,IVB,h1,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1140.0,50-metres,sprints,male,senior,50-metres,track,5.75,CZE,25.0,2025
 171,5.76,,Brian LEWIS,1974-12-05,USA,4,"Los Angeles, CA (USA) (i)",1999-02-13,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,24.0,1999
 171,5.76,,Troy DOS SANTOS,1974-02-14,CAN,1,Hamilton (CAN) (i),2000-02-25,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,26.0,2000
 171,5.76,,Olusoji Adetokunbo FASUBA,1984-07-09,NGR,h2,Liévin (FRA) (i),2004-02-28,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,19.0,2004
+171,5.76,,Joshua NORMAN,1980-07-26,USA,1,Saskatoon (CAN) (i),2005-02-06,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,24.0,2005
 171,5.76,,Sam EFFAH,1988-12-29,CAN,4f1,Saskatoon (CAN) (i),2009-01-10,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,20.0,2009
-171,5.76,,Brad MCCUAIG,1970-12-12,CAN,1,Hamilton (CAN) (i),1999-01-24,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,28.0,1999
-171,5.76,,Cordero GRAY,1989-05-09,USA,1,Saskatoon (CAN) (i),2012-02-02,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,22.0,2012
-171,5.76,,Eric CRAY,1988-11-06,PHI,1h2,Saskatoon (CAN) (i),2017-01-27,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,28.0,2017
-171,5.76,,JaVaughn MOORE,2000-01-05,USA,1h1,"Field House, Saskatoon (CAN) (i)",2024-01-26,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,24.0,2024
-171,5.76,,Malachi MURRAY,2000-03-18,CAN,2,"Field House, Saskatoon (CAN) (i)",2025-01-24,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,24.0,2025
 171,5.76,,Harry AIKINES-ARYEETEY,1988-08-29,GBR,h2,Liévin (FRA) (i),2010-03-05,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,21.0,2010
-171,5.76,,Laurent LECONTE,1968-03-03,FRA,1,Saumur (FRA) (i),1994-02-13,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,25.0,1994
-171,5.76,,Houston MCTEAR,1957-02-12,USA,1,"Daly City, CA (USA) (i)",1979-01-26,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,21.0,1979
-171,5.76,,Harvey GLANCE,1957-03-28,USA,1,"Rosemont, IL (USA) (i)",1985-01-27,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,27.0,1985
-171,5.76,,Bob FRITH,1944-06-16,GBR,1sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,ESP,23.0,1968
-171,5.76,,Eberhard WEISE,1953-08-03,GDR,2f1,Berlin (GER) (i),1974-02-03,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,GER,20.0,1974
-171,5.76,,František PTÁČNÍK,1962-02-27,TCH,1,Praha (TCH) (i),1987-01-25,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,TCH,24.0,1987
-171,5.76,,Jerome DEAL,1958-03-24,USA,2,Edmonton (CAN) (i),1980-02-16,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,21.0,1980
-171,5.76,,Philippe LE JONCOUR,1956-11-12,FRA,1sf1,Grenoble (FRA) (i),1981-02-07,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,24.0,1981
-171,5.76,,Steve WILLIAMS,1953-11-13,USA,1,Edmonton (CAN) (i),1979-02-03,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,25.0,1979
+171,5.76,,Vladimir MURAVYOV,1959-09-30,URS,2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,21.0,1981
 171,5.76,,Andrey SHLYAPNIKOV,1959-01-13,URS,1sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,22.0,1981
 171,5.76,,Darrell GREEN,1960-02-15,USA,3,"Rosemont, IL (USA) (i)",1983-01-15,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,22.0,1983
 171,5.76,,Selwyn CLARKE,1959-01-25,GBR,4,Dortmund (GER) (i),1983-02-19,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,GER,24.0,1983
 171,5.76,,Kelly REED,1965-09-21,USA,2,"Rosemont, IL (USA) (i)",1984-01-29,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,18.0,1984
-171,5.76,,Vladimir MURAVYOV,1959-09-30,URS,2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,21.0,1981
-196,5.77,,Justyn WARNER,1987-06-28,CAN,2,Saskatoon (CAN) (i),2012-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,2012
-196,5.77,,Arel GORDON,1985-08-01,USA,1,"New York, NY (USA) (i)",2003-03-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,17.0,2003
-196,5.77,,Ronald POGNON,1982-11-16,FRA,h1,Liévin (FRA) (i),2004-02-28,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,21.0,2004
-196,5.77,,Ángel David RODRÍGUEZ,1980-04-25,ESP,,Liévin (FRA) (i),2010-03-05,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,29.0,2010
-196,5.77,,Ronald POGNON,1982-11-16,FRA,h2,Liévin (FRA) (i),2010-03-05,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,27.0,2010
-196,5.77,,Marcus ROWLAND,1990-03-11,USA,1h,Saskatoon (CAN) (i),2014-01-31,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,23.0,2014
-196,5.77,,Joshua HARTMANN,1999-06-09,GER,h2,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CZE,25.0,2025
-196,5.77,,Cordero GRAY,1989-05-09,USA,1h3,Saskatoon (CAN) (i),2018-01-26,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,28.0,2018
-196,5.77,,Sean MCLEAN,1992-03-23,USA,1,Saskatoon (CAN) (i),2019-01-25,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,26.0,2019
-196,5.77,,Malachi MURRAY,2000-03-18,CAN,2,"Field House, Saskatoon (CAN) (i)",2024-01-26,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,23.0,2024
-196,5.77,,Gift LEOTLELA,1998-05-12,RSA,h2,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CZE,26.0,2025
-196,5.77,,Markus PÖYHÖNEN,1978-10-25,FIN,,Liévin (FRA) (i),2003-02-23,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,24.0,2003
-196,5.77,,Bryce ROBINSON,1993-11-13,USA,1h1,Saskatoon (CAN) (i),2018-01-26,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,2018
-196,5.77,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Hamilton (CAN) (i),2001-02-16,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,20.0,2001
-196,5.77,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2007-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,26.0,2007
-196,5.77,,Peter HARGRAVES,1972-08-30,USA,5,"Reno, NV (USA) (i)",1995-02-10,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,22.0,1995
-196,5.77,,Troy DOS SANTOS,1974-02-14,CAN,2,Hamilton (CAN) (i),1999-01-24,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,1999
-196,5.77,,Vasílios PAPAGEORGOPOULOS,1947-06-27,GRE,1sf1,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,24.0,1972
-196,5.77,,Valeriy BORZOV,1949-10-20,URS,1sf2,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,22.0,1972
-196,5.77,,Aleksandr AKSININ,1954-11-04,URS,1,Berlin (GER) (i),1978-02-19,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,GER,23.0,1978
-196,5.77,,Antoine RICHARD,1960-09-08,FRA,1sf2,Grenoble (FRA) (i),1981-02-07,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,20.0,1981
-196,5.77,,Andrey SHLYAPNIKOV,1959-01-13,URS,3,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,22.0,1981
-196,5.77,,Mark MCNEIL,1961-08-25,USA,4,"Rosemont, IL (USA) (i)",1983-01-15,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,21.0,1983
-196,5.77,,Gilles ECHEVIN,1948-09-01,FRA,1f2,Grenoble (FRA) (i),1980-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,31.0,1980
-196,5.77,,Rod RICHARDSON,1962-09-17,USA,3,"Rosemont, IL (USA) (i)",1984-01-29,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,21.0,1984
-196,5.77,,Thomas JEFFERSON,1962-06-08,USA,2,Ottawa (CAN) (i),1987-01-31,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,1987
-196,5.77,,Aleksandr PORKHOMOVSKIY,1972-08-12,RUS,1,Moskva (RUS) (i),1993-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,RUS,20.0,1993
-196,5.77,,Obinna EREGBU,1969-11-09,NGR,4,Hamilton (CAN) (i),1994-01-14,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,1994
-196,5.77,,Marcus REED,1972-07-17,USA,2f1,"Los Angeles, CA (USA) (i)",1994-02-19,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,21.0,1994
-196,5.77,,Ben JOHNSON,1961-12-30,CAN,2,Sherbrooke (CAN) (i),1984-01-15,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,22.0,1984
-226,5.78,,Nicolas MACROZONARIS,1980-08-22,CAN,2h1,Saskatoon (CAN) (i),2009-01-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,28.0,2009
-226,5.78,,Darrell RIDEAUX,1979-12-27,USA,4,"Los Angeles, CA (USA) (i)",2001-01-20,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,21.0,2001
-226,5.78,,Mickey GRIMES,1976-10-10,USA,2,Saskatoon (CAN) (i),2002-01-12,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,25.0,2002
-226,5.78,,Anson HENRY,1979-03-09,CAN,3,Saskatoon (CAN) (i),2003-02-08,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,23.0,2003
-226,5.78,,Arel GORDON,1985-08-01,USA,1sf1,"New York, NY (USA) (i)",2003-03-02,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,17.0,2003
-226,5.78,,Andrea RABINO,1978-04-23,ITA,h2,Liévin (FRA) (i),2004-02-28,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,25.0,2004
-226,5.78,,Nicolas MACROZONARIS,1980-08-22,CAN,1h1,Hamilton (CAN) (i),2005-02-18,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,2005
-226,5.78,,Tyree GAILES,1983-02-24,USA,3,Saskatoon (CAN) (i),2006-02-04,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,22.0,2006
-226,5.78,,Vicente LENÍLSON,1977-06-04,BRA,,Liévin (FRA) (i),2009-02-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,31.0,2009
-226,5.78,,Pascal MANCINI,1989-04-18,SUI,1f4,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2023-01-14,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,SUI,33.0,2023
-226,5.78,,Ryan MOSELEY,1982-10-08,AUT,,Liévin (FRA) (i),2010-03-05,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,27.0,2010
-226,5.78,,Abe MORLU,1981-05-01,LBR,,Liévin (FRA) (i),2010-03-05,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,28.0,2010
-226,5.78,,Cordero GRAY,1989-05-09,USA,1,Saskatoon (CAN) (i),2017-01-27,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,27.0,2017
-226,5.78,,Eric CRAY,1988-11-06,PHI,2,Saskatoon (CAN) (i),2017-01-27,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,28.0,2017
-226,5.78,,Maurice MITCHELL,1989-12-22,USA,3,Saskatoon (CAN) (i),2017-01-27,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,27.0,2017
-226,5.78,,Gift LEOTLELA,1998-05-12,RSA,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CZE,26.0,2025
-226,5.78,,JaVaughn MOORE,2000-01-05,USA,3,"Field House, Saskatoon (CAN) (i)",2024-01-26,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,2024
-226,5.78,,Usheoritse ITSEKIRI,1998-01-31,NGR,1h2,"Field House, Saskatoon (CAN) (i)",2024-01-26,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,26.0,2024
-226,5.78,,Donovan BAILEY,1967-12-16,CAN,2,Hamilton (CAN) (i),2000-02-25,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,32.0,2000
-226,5.78,,Rae Monzavous EDWARDS,1981-05-07,USA,,Liévin (FRA) (i),2009-02-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,27.0,2009
-226,5.78,,Jerome AVERY,1978-12-22,USA,5,"Los Angeles, CA (USA) (i)",2000-02-19,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,21.0,2000
-226,5.78,,Desmond LAWRENCE,1991-12-19,USA,4,Saskatoon (CAN) (i),2018-01-26,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,26.0,2018
-226,5.78,,Kareem STREETE-THOMPSON,1973-03-30,USA,5,"Los Angeles, CA (USA) (i)",1999-02-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,25.0,1999
-226,5.78,,Brad MCCUAIG,1970-12-12,CAN,1,Saskatoon (CAN) (i),2000-01-08,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,29.0,2000
-226,5.78,,Günther GOLLOS,1942-01-17,GDR,3,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,26.0,1968
-226,5.78,,Jobst HIRSCHT,1948-07-19,FRG,1h2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,19.0,1968
-226,5.78,,Günther GOLLOS,1942-01-17,GDR,2sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,26.0,1968
-226,5.78,,Krzysztof IWAŃSKI,1950-08-09,POL,3h,Berlin (GER) (i),1973-02-04,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,GER,22.0,1973
-226,5.78,,Johnny WILLIAMS,1954-07-23,USA,3,Montréal (CAN) (i),1977-02-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,22.0,1977
-226,5.78,,Johnny WILLIAMS,1954-07-23,USA,1h2,Montréal (CAN) (i),1977-02-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,22.0,1977
-226,5.78,,Hasely CRAWFORD,1950-08-16,TTO,1,Ottawa (CAN) (i),1979-02-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,28.0,1979
-226,5.78,,Antoine RICHARD,1960-09-08,FRA,4,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,20.0,1981
-226,5.78,,Andrey SHLYAPNIKOV,1959-01-13,URS,1h2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,22.0,1981
-226,5.78,,Bob FRITH,1944-06-16,GBR,2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,23.0,1968
-226,5.78,,Bo JACKSON,1962-11-30,USA,1h2,"Rosemont, IL (USA) (i)",1984-01-29,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,21.0,1984
-226,5.78,,Viktor BRYZGIN,1962-08-22,URS,h,Berlin (GER) (i),1986-01-25,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,GER,23.0,1986
-226,5.78,,Andrew MOWATT,1964-05-24,CAN,4,Hamilton (CAN) (i),1989-01-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,1989
-226,5.78,,Jiří HUDEC,1964-08-15,TCH,1,Praha (TCH) (i),1989-01-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,TCH,24.0,1989
-226,5.78,,Joe DELOACH,1967-06-05,USA,3,Hamilton (CAN) (i),1992-01-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,1992
-226,5.78,,Boris GOINS,1967-04-07,USA,1,Ottawa (CAN) (i),1992-01-18,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,1992
-226,5.78,,Jeff WILLIAMS,1965-12-31,USA,5,"Los Angeles, CA (USA) (i)",1992-02-15,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,26.0,1992
-226,5.78,,Tony MILLER,1969-03-15,USA,3f1,"Los Angeles, CA (USA) (i)",1994-02-19,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,24.0,1994
-226,5.78,,Antoine RICHARD,1960-09-08,FRA,2sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,20.0,1981
-226,5.78,,Mark MCKOY,1961-12-10,AUT,3,Moskva (RUS) (i),1996-02-07,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,RUS,34.0,1996
-270,5.79,,Jared CONNAUGHTON,1985-07-20,CAN,3,Saskatoon (CAN) (i),2012-02-02,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,26.0,2012
-270,5.79,,Anson HENRY,1979-03-09,CAN,2,Hamilton (CAN) (i),2005-02-18,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2005
-270,5.79,,Okiki AKINREMI,1975-06-29,CAN,2,Hamilton (CAN) (i),2001-02-16,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2001
-270,5.79,,Heimo SIEGERT,1979-11-30,AUT,1h1,Schielleiten (AUT) (i),2004-01-10,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,AUT,24.0,2004
-270,5.79,,Okiki AKINREMI,1975-06-29,CAN,1h,Hamilton (CAN) (i),2001-02-16,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2001
-270,5.79,,Cordero GRAY,1989-05-09,USA,1,Saskatoon (CAN) (i),2013-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,23.0,2013
-270,5.79,,Francis OBIKWELU,1978-11-22,POR,,Liévin (FRA) (i),2004-02-28,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,25.0,2004
-270,5.79,,Cordero GRAY,1989-05-09,USA,1h2,Saskatoon (CAN) (i),2013-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,23.0,2013
-270,5.79,,Sean MCLEAN,1992-03-23,USA,1h2,Saskatoon (CAN) (i),2019-01-25,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,26.0,2019
-270,5.79,,Jason ROGERS,1991-08-31,SKN,2h,Saskatoon (CAN) (i),2014-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,22.0,2014
-270,5.79,,Cordero GRAY,1989-05-09,USA,2h,Saskatoon (CAN) (i),2014-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,24.0,2014
-270,5.79,,Bryce ROBINSON,1993-11-13,USA,2,Saskatoon (CAN) (i),2019-01-25,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2019
-270,5.79,,Pascal MANCINI,1989-04-18,SUI,1f1,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2020-01-19,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,SUI,30.0,2020
-270,5.79,,Andrei Alexandru ZLATAN,1998-08-25,ITA,1f1,"Palalottici, Parma (ITA) (i)",2022-02-12,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ITA,23.0,2022
-270,5.79,,Michael Dwabena KYEREME,1997-06-04,ITA,2f1,"Palalottici, Parma (ITA) (i)",2022-02-12,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ITA,24.0,2022
-270,5.79,,Malachi MURRAY,2000-03-18,CAN,2h1,"Field House, Saskatoon (CAN) (i)",2024-01-26,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,23.0,2024
-270,5.79,,Ján VOLKO,1996-11-02,SVK,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CZE,28.0,2025
-270,5.79,,Gerald WILLIAMS,1978-02-24,USA,5,"Los Angeles, CA (USA) (i)",2001-01-20,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,USA,22.0,2001
-270,5.79,,Gavin SMELLIE,1986-06-26,CAN,2h,Saskatoon (CAN) (i),2014-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,27.0,2014
-270,5.79,,Nicolas MACROZONARIS,1980-08-22,CAN,2,Montréal (CAN) (i),2000-02-05,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,19.0,2000
-270,5.79,,Peter EMELIEZE,1988-04-19,NGR,,Liévin (FRA) (i),2010-03-05,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,21.0,2010
-270,5.79,,Volker SCHULZ,1964-07-08,GDR,sf,Berlin (GER) (i),1986-01-25,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,GER,21.0,1986
-270,5.79,,Aleksey KNOROZ,1970-07-25,RUS,3h2,Moskva (RUS) (i),1994-02-04,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,RUS,23.0,1994
-270,5.79,,Ivica KARASI,1945-04-13,YUG,5,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,22.0,1968
-270,5.79,,Vladislav SAPEYA,1943-06-11,URS,1h3,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,24.0,1968
-270,5.79,,Wiesław MANIAK,1938-05-22,POL,3sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,29.0,1968
-270,5.79,,Fyodor PANKRATOV,1943-11-25,URS,4sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,24.0,1968
-270,5.79,,Jobst HIRSCHT,1948-07-19,FRG,1,Kiel (GER) (i),1971-02-27,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,GER,22.0,1971
-270,5.79,,Steve RIDDICK,1951-09-18,USA,4,Montréal (CAN) (i),1977-02-13,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,1977
-270,5.79,,Sören SCHLEGEL,1960-12-28,GDR,1f1,Grenoble (FRA) (i),1980-02-02,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,19.0,1980
-270,5.79,,Bernard PETITBOIS,1954-07-19,FRA,1h3,Grenoble (FRA) (i),1981-02-07,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,26.0,1981
-270,5.79,,Wiesław MANIAK,1938-05-22,POL,4,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,29.0,1968
-270,5.79,,Marc GASPARONI,1959-07-15,FRA,1h1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,21.0,1981
-270,5.79,,Vladimir MURAVYOV,1959-09-30,URS,2h1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,21.0,1981
-270,5.79,,Philippe LE JONCOUR,1956-11-12,FRA,2h2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,24.0,1981
-270,5.79,,Philippe LE JONCOUR,1956-11-12,FRA,3sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,24.0,1981
-270,5.79,,Selwyn CLARKE,1959-01-25,GBR,3sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,22.0,1981
-270,5.79,,Josef LOMICKÝ,1958-02-19,TCH,1,Praha (TCH) (i),1982-02-13,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,TCH,24.0,1982
-270,5.79,,Mike MORRIS,1963-05-07,USA,2,Sherbrooke (CAN) (i),1985-01-13,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,21.0,1985
-270,5.79,,Philippe LE JONCOUR,1956-11-12,FRA,5,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,24.0,1981
-270,5.79,,Desai WILLIAMS,1959-06-12,CAN,2,"Rosemont, IL (USA) (i)",1985-01-27,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,USA,25.0,1985
-311,5.8,,Robert ESMIE,1972-07-05,CAN,2,Saskatoon (CAN) (i),1999-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,26.0,1999
-311,5.8,,Kenny BROKENBURR,1968-10-29,USA,3,Saskatoon (CAN) (i),1999-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,30.0,1999
-311,5.8,,Brad MCCUAIG,1970-12-12,CAN,4,Saskatoon (CAN) (i),1999-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,28.0,1999
-311,5.8,,Robert ESMIE,1972-07-05,CAN,2,Saskatoon (CAN) (i),2000-01-08,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,27.0,2000
-311,5.8,,Michael GREEN,1970-11-07,JAM,3,Saskatoon (CAN) (i),2000-01-08,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,29.0,2000
-311,5.8,,Rajeev BALAKRISHNAN,1971-03-31,IND,6,"Los Angeles, CA (USA) (i)",2000-02-19,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,28.0,2000
-311,5.8,,Troy DOS SANTOS,1974-02-14,CAN,3,Hamilton (CAN) (i),2001-02-16,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,27.0,2001
-311,5.8,,Andreas BAUMANN,1979-02-27,SUI,1,St. Gallen (SUI) (i),2006-02-05,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,SUI,26.0,2006
-311,5.8,,Erik WIJMEERSCH,1970-01-23,BEL,h1,Liévin (FRA) (i),2005-02-26,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,35.0,2005
-311,5.8,,Anthony FERRO,1980-12-12,BEL,h1,Liévin (FRA) (i),2005-02-26,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,24.0,2005
-311,5.8,,DaBryan BLANTON,1984-07-03,USA,3h1,Saskatoon (CAN) (i),2009-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,24.0,2009
-311,5.8,,Hank PALMER,1985-03-16,CAN,5f1,Saskatoon (CAN) (i),2009-01-10,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,23.0,2009
-311,5.8,,Emmanuel NGOM PRISO,1984-12-15,FRA,h1,Liévin (FRA) (i),2009-02-20,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,24.0,2009
-311,5.8,,Ben Youssef MEITÉ,1986-11-11,CIV,1h1,Saskatoon (CAN) (i),2011-02-03,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,24.0,2011
-311,5.8,,Pat JOHNSON,1976-08-10,USA,3f2,"Los Angeles, CA (USA) (i)",1995-02-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,18.0,1995
-311,5.8,,Nicolas MACROZONARIS,1980-08-22,CAN,2h,Hamilton (CAN) (i),2001-02-16,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,20.0,2001
-311,5.8,,Jamal CARR,,USA,2f1,"Los Angeles, CA (USA) (i)",1995-02-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,,1995
-311,5.8,,Luciano CARAVANI,1953-04-14,ITA,4sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,27.0,1981
-311,5.8,,Edvin IVANOV,1970-07-25,RUS,2,Grenoble (FRA) (i),1993-02-07,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,22.0,1993
-311,5.8,,D'Angelo CHERRY,1990-08-01,USA,3,Saskatoon (CAN) (i),2019-01-25,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,28.0,2019
-311,5.8,,Vladislav SAPEYA,1943-06-11,URS,6,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,ESP,24.0,1968
-311,5.8,,Fyodor PANKRATOV,1943-11-25,URS,1h1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,ESP,24.0,1968
-311,5.8,,Vladislav SAPEYA,1943-06-11,URS,2sf2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,ESP,24.0,1968
-311,5.8,,Aleksandr KORNELYUK,1950-06-28,URS,2h3,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,21.0,1972
-311,5.8,,Aleksandr KORNELYUK,1950-06-28,URS,2sf1,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,21.0,1972
-311,5.8,,Bernd BORTH,1948-07-25,GDR,1h,Berlin (GER) (i),1973-02-04,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,GER,24.0,1973
-311,5.8,,Cliff WILEY,1955-05-21,USA,2,Ottawa (CAN) (i),1980-02-02,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,24.0,1980
-311,5.8,,Ivaylo KARANYOTOV,1958-02-26,BUL,5sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,23.0,1981
-311,5.8,,Marc GASPARONI,1959-07-15,FRA,4sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,21.0,1981
-311,5.8,,Fabian WHYMNS,1961-06-11,BAH,2,Sherbrooke (CAN) (i),1983-01-16,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,21.0,1983
-311,5.8,,Richard JONES,1962-12-11,CAN,3,Saskatoon (CAN) (i),1985-12-29,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,23.0,1985
-311,5.8,,Ivo PIŠTĚK,1963-05-09,TCH,2,Praha (TCH) (i),1987-01-25,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,TCH,23.0,1987
-311,5.8,,Brian BRIDGEWATER,1970-09-07,USA,2f1,"Los Angeles, CA (USA) (i)",1990-01-19,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,19.0,1990
-311,5.8,,Kevin WILLIAMS,1970-02-17,USA,3f1,"Los Angeles, CA (USA) (i)",1990-01-19,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,19.0,1990
-311,5.8,,Paul TURNER,1975-04-27,USA,1f2,"Los Angeles, CA (USA) (i)",1993-02-20,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,17.0,1993
-311,5.8,,Bryce ROBINSON,1993-11-13,USA,1h1,Saskatoon (CAN) (i),2019-01-25,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,25.0,2019
+171,5.76,,Harvey GLANCE,1957-03-28,USA,1,"Rosemont, IL (USA) (i)",1985-01-27,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,27.0,1985
+171,5.76,,František PTÁČNÍK,1962-02-27,TCH,1,Praha (TCH) (i),1987-01-25,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,TCH,24.0,1987
+171,5.76,,Jiří VALÍK,1966-07-26,TCH,h,Praha (TCH) (i),1987-01-25,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,TCH,20.0,1987
+171,5.76,,Laurent LECONTE,1968-03-03,FRA,1,Saumur (FRA) (i),1994-02-13,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,25.0,1994
+171,5.76,,Brad MCCUAIG,1970-12-12,CAN,1,Hamilton (CAN) (i),1999-01-24,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,28.0,1999
+171,5.76,,Bob FRITH,1944-06-16,GBR,1sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,ESP,23.0,1968
+171,5.76,,Eberhard WEISE,1953-08-03,GDR,2f1,Berlin (GER) (i),1974-02-03,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,GER,20.0,1974
+171,5.76,,Houston MCTEAR,1957-02-12,USA,1,"Daly City, CA (USA) (i)",1979-01-26,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,USA,21.0,1979
+171,5.76,,Steve WILLIAMS,1953-11-13,USA,1,Edmonton (CAN) (i),1979-02-03,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,25.0,1979
+171,5.76,,Jerome DEAL,1958-03-24,USA,2,Edmonton (CAN) (i),1980-02-16,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,21.0,1980
+171,5.76,,Philippe LE JONCOUR,1956-11-12,FRA,1sf1,Grenoble (FRA) (i),1981-02-07,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,FRA,24.0,1981
+171,5.76,,Malachi MURRAY,2000-03-18,CAN,2,"Field House, Saskatoon (CAN) (i)",2025-01-24,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,24.0,2025
+171,5.76,,JaVaughn MOORE,2000-01-05,USA,1h1,"Field House, Saskatoon (CAN) (i)",2024-01-26,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,24.0,2024
+171,5.76,,Eric CRAY,1988-11-06,PHI,1h2,Saskatoon (CAN) (i),2017-01-27,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,28.0,2017
+171,5.76,,Cordero GRAY,1989-05-09,USA,1,Saskatoon (CAN) (i),2012-02-02,1133.0,50-metres,sprints,male,senior,50-metres,track,5.76,CAN,22.0,2012
+197,5.77,,Obinna EREGBU,1969-11-09,NGR,4,Hamilton (CAN) (i),1994-01-14,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,1994
+197,5.77,,Aleksandr PORKHOMOVSKIY,1972-08-12,RUS,1,Moskva (RUS) (i),1993-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,RUS,20.0,1993
+197,5.77,,Thomas JEFFERSON,1962-06-08,USA,2,Ottawa (CAN) (i),1987-01-31,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,1987
+197,5.77,,Rod RICHARDSON,1962-09-17,USA,3,"Rosemont, IL (USA) (i)",1984-01-29,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,21.0,1984
+197,5.77,,Gilles ECHEVIN,1948-09-01,FRA,1f2,Grenoble (FRA) (i),1980-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,31.0,1980
+197,5.77,,Aleksandr AKSININ,1954-11-04,URS,1,Berlin (GER) (i),1978-02-19,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,GER,23.0,1978
+197,5.77,,Valeriy BORZOV,1949-10-20,URS,1sf2,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,22.0,1972
+197,5.77,,Vasílios PAPAGEORGOPOULOS,1947-06-27,GRE,1sf1,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,24.0,1972
+197,5.77,,Ben JOHNSON,1961-12-30,CAN,2,Sherbrooke (CAN) (i),1984-01-15,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,22.0,1984
+197,5.77,,Mark MCNEIL,1961-08-25,USA,4,"Rosemont, IL (USA) (i)",1983-01-15,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,21.0,1983
+197,5.77,,Andrey SHLYAPNIKOV,1959-01-13,URS,3,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,22.0,1981
+197,5.77,,Antoine RICHARD,1960-09-08,FRA,1sf2,Grenoble (FRA) (i),1981-02-07,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,20.0,1981
+197,5.77,,Malachi MURRAY,2000-03-18,CAN,2,"Field House, Saskatoon (CAN) (i)",2024-01-26,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,23.0,2024
+197,5.77,,Sean MCLEAN,1992-03-23,USA,1,Saskatoon (CAN) (i),2019-01-25,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,26.0,2019
+197,5.77,,Cordero GRAY,1989-05-09,USA,1h3,Saskatoon (CAN) (i),2018-01-26,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,28.0,2018
+197,5.77,,Bryce ROBINSON,1993-11-13,USA,1h1,Saskatoon (CAN) (i),2018-01-26,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,2018
+197,5.77,,Marcus ROWLAND,1990-03-11,USA,1h,Saskatoon (CAN) (i),2014-01-31,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,23.0,2014
+197,5.77,,Justyn WARNER,1987-06-28,CAN,2,Saskatoon (CAN) (i),2012-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,2012
+197,5.77,,Ronald POGNON,1982-11-16,FRA,h2,Liévin (FRA) (i),2010-03-05,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,27.0,2010
+197,5.77,,Ángel David RODRÍGUEZ,1980-04-25,ESP,,Liévin (FRA) (i),2010-03-05,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,29.0,2010
+197,5.77,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Saskatoon (CAN) (i),2007-02-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,26.0,2007
+197,5.77,,Ronald POGNON,1982-11-16,FRA,h1,Liévin (FRA) (i),2004-02-28,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,21.0,2004
+197,5.77,,Arel GORDON,1985-08-01,USA,1,"New York, NY (USA) (i)",2003-03-02,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,17.0,2003
+197,5.77,,Markus PÖYHÖNEN,1978-10-25,FIN,,Liévin (FRA) (i),2003-02-23,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,FRA,24.0,2003
+197,5.77,,Nicolas MACROZONARIS,1980-08-22,CAN,1,Hamilton (CAN) (i),2001-02-16,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,20.0,2001
+197,5.77,,Troy DOS SANTOS,1974-02-14,CAN,2,Hamilton (CAN) (i),1999-01-24,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CAN,24.0,1999
+197,5.77,,Marcus REED,1972-07-17,USA,2f1,"Los Angeles, CA (USA) (i)",1994-02-19,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,21.0,1994
+197,5.77,,Peter HARGRAVES,1972-08-30,USA,5,"Reno, NV (USA) (i)",1995-02-10,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,USA,22.0,1995
+197,5.77,,Gift LEOTLELA,1998-05-12,RSA,h2,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CZE,26.0,2025
+197,5.77,,Joshua HARTMANN,1999-06-09,GER,h2,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1127.0,50-metres,sprints,male,senior,50-metres,track,5.77,CZE,25.0,2025
+227,5.78,,Andrey SHLYAPNIKOV,1959-01-13,URS,1h2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,22.0,1981
+227,5.78,,Antoine RICHARD,1960-09-08,FRA,2sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,20.0,1981
+227,5.78,,Bo JACKSON,1962-11-30,USA,1h2,"Rosemont, IL (USA) (i)",1984-01-29,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,21.0,1984
+227,5.78,,Viktor BRYZGIN,1962-08-22,URS,h,Berlin (GER) (i),1986-01-25,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,GER,23.0,1986
+227,5.78,,Andrew MOWATT,1964-05-24,CAN,4,Hamilton (CAN) (i),1989-01-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,1989
+227,5.78,,Jiří HUDEC,1964-08-15,TCH,1,Praha (TCH) (i),1989-01-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,TCH,24.0,1989
+227,5.78,,Joe DELOACH,1967-06-05,USA,3,Hamilton (CAN) (i),1992-01-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,1992
+227,5.78,,Boris GOINS,1967-04-07,USA,1,Ottawa (CAN) (i),1992-01-18,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,1992
+227,5.78,,Jeff WILLIAMS,1965-12-31,USA,5,"Los Angeles, CA (USA) (i)",1992-02-15,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,26.0,1992
+227,5.78,,Tony MILLER,1969-03-15,USA,3f1,"Los Angeles, CA (USA) (i)",1994-02-19,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,24.0,1994
+227,5.78,,Mark MCKOY,1961-12-10,AUT,3,Moskva (RUS) (i),1996-02-07,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,RUS,34.0,1996
+227,5.78,,Kareem STREETE-THOMPSON,1973-03-30,USA,5,"Los Angeles, CA (USA) (i)",1999-02-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,25.0,1999
+227,5.78,,Brad MCCUAIG,1970-12-12,CAN,1,Saskatoon (CAN) (i),2000-01-08,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,29.0,2000
+227,5.78,,Jerome AVERY,1978-12-22,USA,5,"Los Angeles, CA (USA) (i)",2000-02-19,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,21.0,2000
+227,5.78,,Donovan BAILEY,1967-12-16,CAN,2,Hamilton (CAN) (i),2000-02-25,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,32.0,2000
+227,5.78,,Darrell RIDEAUX,1979-12-27,USA,4,"Los Angeles, CA (USA) (i)",2001-01-20,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,21.0,2001
+227,5.78,,Mickey GRIMES,1976-10-10,USA,2,Saskatoon (CAN) (i),2002-01-12,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,25.0,2002
+227,5.78,,Anson HENRY,1979-03-09,CAN,3,Saskatoon (CAN) (i),2003-02-08,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,23.0,2003
+227,5.78,,Arel GORDON,1985-08-01,USA,1sf1,"New York, NY (USA) (i)",2003-03-02,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,USA,17.0,2003
+227,5.78,,Andrea RABINO,1978-04-23,ITA,h2,Liévin (FRA) (i),2004-02-28,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,25.0,2004
+227,5.78,,Nicolas MACROZONARIS,1980-08-22,CAN,1h1,Hamilton (CAN) (i),2005-02-18,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,2005
+227,5.78,,Tyree GAILES,1983-02-24,USA,3,Saskatoon (CAN) (i),2006-02-04,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,22.0,2006
+227,5.78,,Nicolas MACROZONARIS,1980-08-22,CAN,2h1,Saskatoon (CAN) (i),2009-01-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,28.0,2009
+227,5.78,,Vicente LENÍLSON,1977-06-04,BRA,,Liévin (FRA) (i),2009-02-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,31.0,2009
+227,5.78,,Rae Monzavous EDWARDS,1981-05-07,USA,,Liévin (FRA) (i),2009-02-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,27.0,2009
+227,5.78,,Ryan MOSELEY,1982-10-08,AUT,,Liévin (FRA) (i),2010-03-05,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,27.0,2010
+227,5.78,,Abe MORLU,1981-05-01,LBR,,Liévin (FRA) (i),2010-03-05,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,28.0,2010
+227,5.78,,Cordero GRAY,1989-05-09,USA,1,Saskatoon (CAN) (i),2017-01-27,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,27.0,2017
+227,5.78,,Eric CRAY,1988-11-06,PHI,2,Saskatoon (CAN) (i),2017-01-27,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,28.0,2017
+227,5.78,,Maurice MITCHELL,1989-12-22,USA,3,Saskatoon (CAN) (i),2017-01-27,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,27.0,2017
+227,5.78,,Desmond LAWRENCE,1991-12-19,USA,4,Saskatoon (CAN) (i),2018-01-26,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,26.0,2018
+227,5.78,,Pascal MANCINI,1989-04-18,SUI,1f4,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2023-01-14,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,SUI,33.0,2023
+227,5.78,,JaVaughn MOORE,2000-01-05,USA,3,"Field House, Saskatoon (CAN) (i)",2024-01-26,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,24.0,2024
+227,5.78,,Gift LEOTLELA,1998-05-12,RSA,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CZE,26.0,2025
+227,5.78,,Usheoritse ITSEKIRI,1998-01-31,NGR,1h2,"Field House, Saskatoon (CAN) (i)",2024-01-26,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,26.0,2024
+227,5.78,,Krzysztof IWAŃSKI,1950-08-09,POL,3h,Berlin (GER) (i),1973-02-04,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,GER,22.0,1973
+227,5.78,,Johnny WILLIAMS,1954-07-23,USA,3,Montréal (CAN) (i),1977-02-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,22.0,1977
+227,5.78,,Johnny WILLIAMS,1954-07-23,USA,1h2,Montréal (CAN) (i),1977-02-13,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,22.0,1977
+227,5.78,,Hasely CRAWFORD,1950-08-16,TTO,1,Ottawa (CAN) (i),1979-02-10,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,CAN,28.0,1979
+227,5.78,,Günther GOLLOS,1942-01-17,GDR,3,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,26.0,1968
+227,5.78,,Antoine RICHARD,1960-09-08,FRA,4,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,FRA,20.0,1981
+227,5.78,,Jobst HIRSCHT,1948-07-19,FRG,1h2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,19.0,1968
+227,5.78,,Günther GOLLOS,1942-01-17,GDR,2sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,26.0,1968
+227,5.78,,Bob FRITH,1944-06-16,GBR,2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1120.0,50-metres,sprints,male,senior,50-metres,track,5.78,ESP,23.0,1968
+271,5.79,,Bernard PETITBOIS,1954-07-19,FRA,1h3,Grenoble (FRA) (i),1981-02-07,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,26.0,1981
+271,5.79,,Vladimir MURAVYOV,1959-09-30,URS,2h1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,21.0,1981
+271,5.79,,Marc GASPARONI,1959-07-15,FRA,1h1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,21.0,1981
+271,5.79,,Philippe LE JONCOUR,1956-11-12,FRA,2h2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,24.0,1981
+271,5.79,,Francis OBIKWELU,1978-11-22,POR,,Liévin (FRA) (i),2004-02-28,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,25.0,2004
+271,5.79,,Okiki AKINREMI,1975-06-29,CAN,2,Hamilton (CAN) (i),2001-02-16,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2001
+271,5.79,,Okiki AKINREMI,1975-06-29,CAN,1h,Hamilton (CAN) (i),2001-02-16,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2001
+271,5.79,,Heimo SIEGERT,1979-11-30,AUT,1h1,Schielleiten (AUT) (i),2004-01-10,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,AUT,24.0,2004
+271,5.79,,Peter EMELIEZE,1988-04-19,NGR,,Liévin (FRA) (i),2010-03-05,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,21.0,2010
+271,5.79,,Anson HENRY,1979-03-09,CAN,2,Hamilton (CAN) (i),2005-02-18,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2005
+271,5.79,,Jared CONNAUGHTON,1985-07-20,CAN,3,Saskatoon (CAN) (i),2012-02-02,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,26.0,2012
+271,5.79,,Philippe LE JONCOUR,1956-11-12,FRA,5,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,24.0,1981
+271,5.79,,Jobst HIRSCHT,1948-07-19,FRG,1,Kiel (GER) (i),1971-02-27,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,GER,22.0,1971
+271,5.79,,Steve RIDDICK,1951-09-18,USA,4,Montréal (CAN) (i),1977-02-13,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,1977
+271,5.79,,Sören SCHLEGEL,1960-12-28,GDR,1f1,Grenoble (FRA) (i),1980-02-02,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,19.0,1980
+271,5.79,,Fyodor PANKRATOV,1943-11-25,URS,4sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,24.0,1968
+271,5.79,,Ivica KARASI,1945-04-13,YUG,5,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,22.0,1968
+271,5.79,,Vladislav SAPEYA,1943-06-11,URS,1h3,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,24.0,1968
+271,5.79,,Wiesław MANIAK,1938-05-22,POL,3sf1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,29.0,1968
+271,5.79,,Wiesław MANIAK,1938-05-22,POL,4,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ESP,29.0,1968
+271,5.79,,Pascal MANCINI,1989-04-18,SUI,1f1,"Salle du Centre Mondial du Cyclisme, Aigle (SUI) (i)",2020-01-19,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,SUI,30.0,2020
+271,5.79,,Cordero GRAY,1989-05-09,USA,1h2,Saskatoon (CAN) (i),2013-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,23.0,2013
+271,5.79,,Gavin SMELLIE,1986-06-26,CAN,2h,Saskatoon (CAN) (i),2014-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,27.0,2014
+271,5.79,,Jason ROGERS,1991-08-31,SKN,2h,Saskatoon (CAN) (i),2014-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,22.0,2014
+271,5.79,,Cordero GRAY,1989-05-09,USA,1,Saskatoon (CAN) (i),2013-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,23.0,2013
+271,5.79,,Bryce ROBINSON,1993-11-13,USA,2,Saskatoon (CAN) (i),2019-01-25,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,25.0,2019
+271,5.79,,Sean MCLEAN,1992-03-23,USA,1h2,Saskatoon (CAN) (i),2019-01-25,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,26.0,2019
+271,5.79,,Gerald WILLIAMS,1978-02-24,USA,5,"Los Angeles, CA (USA) (i)",2001-01-20,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,USA,22.0,2001
+271,5.79,,Nicolas MACROZONARIS,1980-08-22,CAN,2,Montréal (CAN) (i),2000-02-05,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,19.0,2000
+271,5.79,,Aleksey KNOROZ,1970-07-25,RUS,3h2,Moskva (RUS) (i),1994-02-04,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,RUS,23.0,1994
+271,5.79,,Volker SCHULZ,1964-07-08,GDR,sf,Berlin (GER) (i),1986-01-25,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,GER,21.0,1986
+271,5.79,,Desai WILLIAMS,1959-06-12,CAN,2,"Rosemont, IL (USA) (i)",1985-01-27,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,USA,25.0,1985
+271,5.79,,Mike MORRIS,1963-05-07,USA,2,Sherbrooke (CAN) (i),1985-01-13,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,21.0,1985
+271,5.79,,Josef LOMICKÝ,1958-02-19,TCH,1,Praha (TCH) (i),1982-02-13,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,TCH,24.0,1982
+271,5.79,,Selwyn CLARKE,1959-01-25,GBR,3sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,22.0,1981
+271,5.79,,Philippe LE JONCOUR,1956-11-12,FRA,3sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,FRA,24.0,1981
+271,5.79,,Andrei Alexandru ZLATAN,1998-08-25,ITA,1f1,"Palalottici, Parma (ITA) (i)",2022-02-12,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ITA,23.0,2022
+271,5.79,,Michael Dwabena KYEREME,1997-06-04,ITA,2f1,"Palalottici, Parma (ITA) (i)",2022-02-12,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,ITA,24.0,2022
+271,5.79,,Malachi MURRAY,2000-03-18,CAN,2h1,"Field House, Saskatoon (CAN) (i)",2024-01-26,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,23.0,2024
+271,5.79,,Ján VOLKO,1996-11-02,SVK,,"Atletická hala, Ostrava (CZE) (i)",2025-02-04,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CZE,28.0,2025
+271,5.79,,Cordero GRAY,1989-05-09,USA,2h,Saskatoon (CAN) (i),2014-01-31,1113.0,50-metres,sprints,male,senior,50-metres,track,5.79,CAN,24.0,2014
+312,5.8,,Troy DOS SANTOS,1974-02-14,CAN,3,Hamilton (CAN) (i),2001-02-16,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,27.0,2001
+312,5.8,,Nicolas MACROZONARIS,1980-08-22,CAN,2h,Hamilton (CAN) (i),2001-02-16,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,20.0,2001
+312,5.8,,Erik WIJMEERSCH,1970-01-23,BEL,h1,Liévin (FRA) (i),2005-02-26,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,35.0,2005
+312,5.8,,Anthony FERRO,1980-12-12,BEL,h1,Liévin (FRA) (i),2005-02-26,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,24.0,2005
+312,5.8,,Andreas BAUMANN,1979-02-27,SUI,1,St. Gallen (SUI) (i),2006-02-05,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,SUI,26.0,2006
+312,5.8,,DaBryan BLANTON,1984-07-03,USA,3h1,Saskatoon (CAN) (i),2009-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,24.0,2009
+312,5.8,,Hank PALMER,1985-03-16,CAN,5f1,Saskatoon (CAN) (i),2009-01-10,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,23.0,2009
+312,5.8,,Emmanuel NGOM PRISO,1984-12-15,FRA,h1,Liévin (FRA) (i),2009-02-20,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,24.0,2009
+312,5.8,,Ben Youssef MEITÉ,1986-11-11,CIV,1h1,Saskatoon (CAN) (i),2011-02-03,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,24.0,2011
+312,5.8,,D'Angelo CHERRY,1990-08-01,USA,3,Saskatoon (CAN) (i),2019-01-25,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,28.0,2019
+312,5.8,,Bryce ROBINSON,1993-11-13,USA,1h1,Saskatoon (CAN) (i),2019-01-25,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,25.0,2019
+312,5.8,,Kenny BROKENBURR,1968-10-29,USA,3,Saskatoon (CAN) (i),1999-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,30.0,1999
+312,5.8,,Brad MCCUAIG,1970-12-12,CAN,4,Saskatoon (CAN) (i),1999-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,28.0,1999
+312,5.8,,Robert ESMIE,1972-07-05,CAN,2,Saskatoon (CAN) (i),2000-01-08,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,27.0,2000
+312,5.8,,Michael GREEN,1970-11-07,JAM,3,Saskatoon (CAN) (i),2000-01-08,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,29.0,2000
+312,5.8,,Rajeev BALAKRISHNAN,1971-03-31,IND,6,"Los Angeles, CA (USA) (i)",2000-02-19,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,28.0,2000
+312,5.8,,Fyodor PANKRATOV,1943-11-25,URS,1h1,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,ESP,24.0,1968
+312,5.8,,Vladislav SAPEYA,1943-06-11,URS,2sf2,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,ESP,24.0,1968
+312,5.8,,Aleksandr KORNELYUK,1950-06-28,URS,2h3,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,21.0,1972
+312,5.8,,Vladislav SAPEYA,1943-06-11,URS,6,"Palacio de Deportes, Madrid (ESP) (i)",1968-03-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,ESP,24.0,1968
+312,5.8,,Robert ESMIE,1972-07-05,CAN,2,Saskatoon (CAN) (i),1999-01-09,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,26.0,1999
+312,5.8,,Jamal CARR,,USA,2f1,"Los Angeles, CA (USA) (i)",1995-02-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,,1995
+312,5.8,,Pat JOHNSON,1976-08-10,USA,3f2,"Los Angeles, CA (USA) (i)",1995-02-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,18.0,1995
+312,5.8,,Edvin IVANOV,1970-07-25,RUS,2,Grenoble (FRA) (i),1993-02-07,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,22.0,1993
+312,5.8,,Kevin WILLIAMS,1970-02-17,USA,3f1,"Los Angeles, CA (USA) (i)",1990-01-19,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,19.0,1990
+312,5.8,,Brian BRIDGEWATER,1970-09-07,USA,2f1,"Los Angeles, CA (USA) (i)",1990-01-19,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,19.0,1990
+312,5.8,,Paul TURNER,1975-04-27,USA,1f2,"Los Angeles, CA (USA) (i)",1993-02-20,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,USA,17.0,1993
+312,5.8,,Aleksandr KORNELYUK,1950-06-28,URS,2sf1,"Palais des Sports, Grenoble (FRA) (i)",1972-03-11,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,21.0,1972
+312,5.8,,Bernd BORTH,1948-07-25,GDR,1h,Berlin (GER) (i),1973-02-04,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,GER,24.0,1973
+312,5.8,,Cliff WILEY,1955-05-21,USA,2,Ottawa (CAN) (i),1980-02-02,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,24.0,1980
+312,5.8,,Luciano CARAVANI,1953-04-14,ITA,4sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,27.0,1981
+312,5.8,,Ivaylo KARANYOTOV,1958-02-26,BUL,5sf1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,23.0,1981
+312,5.8,,Marc GASPARONI,1959-07-15,FRA,4sf2,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,FRA,21.0,1981
+312,5.8,,Fabian WHYMNS,1961-06-11,BAH,2,Sherbrooke (CAN) (i),1983-01-16,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,21.0,1983
+312,5.8,,Richard JONES,1962-12-11,CAN,3,Saskatoon (CAN) (i),1985-12-29,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,CAN,23.0,1985
+312,5.8,,Ivo PIŠTĚK,1963-05-09,TCH,2,Praha (TCH) (i),1987-01-25,1107.0,50-metres,sprints,male,senior,50-metres,track,5.8,TCH,23.0,1987

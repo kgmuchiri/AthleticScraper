@@ -9,48 +9,52 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7,19:01,,Anton KUČMÍN,07 JUN 1984,SVK,1,Nitra (SVK),04 OCT 2013,1135,5-kilometres-race-walk,race-walks,male,senior
 9,19:02,,Kirill FROLOV,29 SEP 1993,RUS,3,Voronovo (RUS),24 AUG 2019,1133,5-kilometres-race-walk,race-walks,male,senior
 10,19:04,,Matej TÓTH,10 FEB 1983,SVK,2,Nitra (SVK),04 OCT 2013,1130,5-kilometres-race-walk,race-walks,male,senior
-11,19:09,,Tim SEAMAN,14 MAY 1972,USA,3,Hildesheim (GER),14 SEP 2003,1123,5-kilometres-race-walk,race-walks,male,senior
-11,19:09,,Isaac BEACROFT,18 JUL 2007,AUS,2,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1123,5-kilometres-race-walk,race-walks,male,senior
-13,19:14,,Salih KORKMAZ,01 JAN 1997,TUR,1,Van (TUR),03 SEP 2022,1116,5-kilometres-race-walk,race-walks,male,senior
-14,19:18,,Jiří MALYSA,14 AUG 1966,CZE,4,Hildesheim (GER),14 SEP 2003,1110,5-kilometres-race-walk,race-walks,male,senior
-15,19:20,,Miloš HOLUŠA,02 MAY 1965,CZE,5,Hildesheim (GER),14 SEP 2003,1107,5-kilometres-race-walk,race-walks,male,senior
-16,19:22,,Grzegorz SUDOŁ,28 AUG 1978,POL,1,Biala Podlaska (POL),31 AUG 2013,1104,5-kilometres-race-walk,race-walks,male,senior
-16,19:22,,Grzegorz SUDOŁ,28 AUG 1978,POL,1,Gdansk (POL),31 AUG 2013,1104,5-kilometres-race-walk,race-walks,male,senior
-16,19:22,,Vasiliy MIZINOV,29 DEC 1997,ANA,1,Simnas (LTU),10 JUN 2018,1104,5-kilometres-race-walk,race-walks,male,senior
-19,19:23,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Sunshine Coast (AUS),26 AUG 2018,1103,5-kilometres-race-walk,race-walks,male,senior
-20,19:24,,Zdeno BABÍK,09 JAN 1984,SVK,6,Hildesheim (GER),14 SEP 2003,1101,5-kilometres-race-walk,race-walks,male,senior
-20,19:24,,Alessio WRUSS,1990,ITA,1,Remanzacco (ITA),04 SEP 2011,1101,5-kilometres-race-walk,race-walks,male,senior
-20,19:24,,Marc TUR,30 NOV 1994,ESP,1,Toledo (ESP),06 NOV 2021,1101,5-kilometres-race-walk,race-walks,male,senior
-23,19:25,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Hildesheim (GER),11 JUN 1989,1100,5-kilometres-race-walk,race-walks,male,senior
-24,19:29,,Andi DRAKE,06 FEB 1965,GBR,,Søfteland (NOR),27 MAY 1990,1094,5-kilometres-race-walk,race-walks,male,senior
-24,19:29,,David HURTADO,21 APR 1999,ECU,1,"Hauppauge, NY (USA)",22 OCT 2017,1094,5-kilometres-race-walk,race-walks,male,senior
-24,19:29,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Lazdijai (LTU),21 SEP 2019,1094,5-kilometres-race-walk,race-walks,male,senior
-27,19:30,,Andrey MAKAROV,02 JAN 1971,BLR,7,Hildesheim (GER),14 SEP 2003,1093,5-kilometres-race-walk,race-walks,male,senior
-28,19:31,,Alexandros PAPAMICHAIL,18 SEP 1988,GRE,2,Simnas (LTU),10 JUN 2018,1091,5-kilometres-race-walk,race-walks,male,senior
-29,19:33,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Toledo (ESP),06 NOV 2021,1088,5-kilometres-race-walk,race-walks,male,senior
-29,19:33,,Kyle SWAN,28 MAR 1999,AUS,1,"Stromlo Forest Park, Canberra (AUS)",09 JUN 2024,1088,5-kilometres-race-walk,race-walks,male,senior
-31,19:35,,Jaakko MÄÄTTÄNEN,03 SEP 1999,FIN,1,Espoo (FIN),18 MAY 2024,1086,5-kilometres-race-walk,race-walks,male,senior
-32,19:36,,Nassir HASNAOUI,,MAR,1,Rabat (MAR),17 FEB 1991,1084,5-kilometres-race-walk,race-walks,male,senior
-33,19:36,,Ivan LOSEV,26 JAN 1986,UKR,3,Simnas (LTU),10 JUN 2018,1084,5-kilometres-race-walk,race-walks,male,senior
-33,19:36,,Kiril SHUTOV,24 SEP 1997,RUS,4,Voronovo (RUS),24 AUG 2019,1084,5-kilometres-race-walk,race-walks,male,senior
-33,19:36,,Tim FRASER,22 FEB 2000,AUS,1,"Lennox Gardens, Canberra (AUS)",07 MAY 2022,1084,5-kilometres-race-walk,race-walks,male,senior
-36,19:37,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,1,Toledo (ESP),19 NOV 2016,1083,5-kilometres-race-walk,race-walks,male,senior
-37,19:39,,Rafał SIKORA,17 FEB 1987,POL,2,Biala Podlaska (POL),31 AUG 2013,1080,5-kilometres-race-walk,race-walks,male,senior
-37,19:39,,Rafał SIKORA,17 FEB 1987,POL,2,Gdansk (POL),31 AUG 2013,1080,5-kilometres-race-walk,race-walks,male,senior
-37,19:39,,Salih KORKMAZ,01 JAN 1997,TUR,1,Konya (TUR),27 APR 2019,1080,5-kilometres-race-walk,race-walks,male,senior
-40,19:40,,Dušan MAJDAN,08 SEP 1987,SVK,3,Nitra (SVK),04 OCT 2013,1078,5-kilometres-race-walk,race-walks,male,senior
-41,19:41,,Alberto AMEZCUA,10 MAY 1992,ESP,1,Guadix (ESP),28 DEC 2019,1077,5-kilometres-race-walk,race-walks,male,senior
-42,19:42,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Toledo (ESP),19 NOV 2016,1076,5-kilometres-race-walk,race-walks,male,senior
-42,19:42,,Karl JUNGHANNß,06 APR 1996,GER,4,Simnas (LTU),10 JUN 2018,1076,5-kilometres-race-walk,race-walks,male,senior
-42,19:42,,Jerry JOKINEN,18 MAR 2002,FIN,2,Espoo (FIN),18 MAY 2024,1076,5-kilometres-race-walk,race-walks,male,senior
-45,19:43,,Miroslav ÚRADNÍK,24 MAR 1996,SVK,1,Hlohovec (SVK),02 JUN 2019,1074,5-kilometres-race-walk,race-walks,male,senior
-45,19:43,,José Manuel PÉREZ,10 SEP 1999,ESP,3,Toledo (ESP),06 NOV 2021,1074,5-kilometres-race-walk,race-walks,male,senior
-45,19:43,,Huajia PU,31 MAY 2007,CHN,1,Gu'an (CHN),01 JUN 2025,1074,5-kilometres-race-walk,race-walks,male,senior
-48,19:44,,Rafał AUGUSTYN,14 MAY 1984,POL,1,Bratkowice (POL),12 SEP 2009,1073,5-kilometres-race-walk,race-walks,male,senior
-48,19:44,,Anton KUČMÍN,07 JUN 1984,SVK,1,Hlohovec (SVK),01 JUN 2014,1073,5-kilometres-race-walk,race-walks,male,senior
-48,19:44,,Anton KUČMÍN,07 JUN 1984,SVK,1,Nitra (SVK),25 SEP 2014,1073,5-kilometres-race-walk,race-walks,male,senior
-51,19:46,,Yevgeniy MISYULYA,13 MAR 1964,BLR,8,Hildesheim (GER),14 SEP 2003,1070,5-kilometres-race-walk,race-walks,male,senior
-51,19:46,,Sándor RÁCZ,14 SEP 1986,HUN,4,Nitra (SVK),04 OCT 2013,1070,5-kilometres-race-walk,race-walks,male,senior
-51,19:46,,Iván LÓPEZ,29 MAR 1997,ESP,4,Toledo (ESP),06 NOV 2021,1070,5-kilometres-race-walk,race-walks,male,senior
-54,19:48,,Łukasz NOWAK,18 DEC 1988,POL,1,Pila (POL),06 OCT 2012,1067,5-kilometres-race-walk,race-walks,male,senior
-55,19:50,,Luis Manuel CORCHETE,14 MAY 1984,ESP,5,Toledo (ESP),06 NOV 2021,1064,5-kilometres-race-walk,race-walks,male,senior
+10,19:04,,Tim FRASER,22 FEB 2000,AUS,1,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1130,5-kilometres-race-walk,race-walks,male,senior
+12,19:09,,Tim SEAMAN,14 MAY 1972,USA,3,Hildesheim (GER),14 SEP 2003,1123,5-kilometres-race-walk,race-walks,male,senior
+12,19:09,,Isaac BEACROFT,18 JUL 2007,AUS,2,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1123,5-kilometres-race-walk,race-walks,male,senior
+14,19:13,,Rhydian COWLEY,04 JAN 1991,AUS,3,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1117,5-kilometres-race-walk,race-walks,male,senior
+15,19:14,,Salih KORKMAZ,01 JAN 1997,TUR,1,Van (TUR),03 SEP 2022,1116,5-kilometres-race-walk,race-walks,male,senior
+16,19:18,,Jiří MALYSA,14 AUG 1966,CZE,4,Hildesheim (GER),14 SEP 2003,1110,5-kilometres-race-walk,race-walks,male,senior
+17,19:20,,Miloš HOLUŠA,02 MAY 1965,CZE,5,Hildesheim (GER),14 SEP 2003,1107,5-kilometres-race-walk,race-walks,male,senior
+18,19:22,,Grzegorz SUDOŁ,28 AUG 1978,POL,1,Biala Podlaska (POL),31 AUG 2013,1104,5-kilometres-race-walk,race-walks,male,senior
+18,19:22,,Grzegorz SUDOŁ,28 AUG 1978,POL,1,Gdansk (POL),31 AUG 2013,1104,5-kilometres-race-walk,race-walks,male,senior
+18,19:22,,Vasiliy MIZINOV,29 DEC 1997,ANA,1,Simnas (LTU),10 JUN 2018,1104,5-kilometres-race-walk,race-walks,male,senior
+21,19:23,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Sunshine Coast (AUS),26 AUG 2018,1103,5-kilometres-race-walk,race-walks,male,senior
+22,19:24,,Zdeno BABÍK,09 JAN 1984,SVK,6,Hildesheim (GER),14 SEP 2003,1101,5-kilometres-race-walk,race-walks,male,senior
+22,19:24,,Alessio WRUSS,1990,ITA,1,Remanzacco (ITA),04 SEP 2011,1101,5-kilometres-race-walk,race-walks,male,senior
+22,19:24,,Marc TUR,30 NOV 1994,ESP,1,Toledo (ESP),06 NOV 2021,1101,5-kilometres-race-walk,race-walks,male,senior
+25,19:25,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Hildesheim (GER),11 JUN 1989,1100,5-kilometres-race-walk,race-walks,male,senior
+26,19:29,,Andi DRAKE,06 FEB 1965,GBR,,Søfteland (NOR),27 MAY 1990,1094,5-kilometres-race-walk,race-walks,male,senior
+26,19:29,,David HURTADO,21 APR 1999,ECU,1,"Hauppauge, NY (USA)",22 OCT 2017,1094,5-kilometres-race-walk,race-walks,male,senior
+26,19:29,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Lazdijai (LTU),21 SEP 2019,1094,5-kilometres-race-walk,race-walks,male,senior
+29,19:30,,Andrey MAKAROV,02 JAN 1971,BLR,7,Hildesheim (GER),14 SEP 2003,1093,5-kilometres-race-walk,race-walks,male,senior
+30,19:31,,Alexandros PAPAMICHAIL,18 SEP 1988,GRE,2,Simnas (LTU),10 JUN 2018,1091,5-kilometres-race-walk,race-walks,male,senior
+31,19:33,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Toledo (ESP),06 NOV 2021,1088,5-kilometres-race-walk,race-walks,male,senior
+31,19:33,,Kyle SWAN,28 MAR 1999,AUS,1,"Stromlo Forest Park, Canberra (AUS)",09 JUN 2024,1088,5-kilometres-race-walk,race-walks,male,senior
+31,19:33,,Will THOMPSON,18 NOV 2002,AUS,4,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1088,5-kilometres-race-walk,race-walks,male,senior
+34,19:35,,Jaakko MÄÄTTÄNEN,03 SEP 1999,FIN,1,Espoo (FIN),18 MAY 2024,1086,5-kilometres-race-walk,race-walks,male,senior
+35,19:36,,Nassir HASNAOUI,,MAR,1,Rabat (MAR),17 FEB 1991,1084,5-kilometres-race-walk,race-walks,male,senior
+36,19:36,,Ivan LOSEV,26 JAN 1986,UKR,3,Simnas (LTU),10 JUN 2018,1084,5-kilometres-race-walk,race-walks,male,senior
+36,19:36,,Kiril SHUTOV,24 SEP 1997,RUS,4,Voronovo (RUS),24 AUG 2019,1084,5-kilometres-race-walk,race-walks,male,senior
+36,19:36,,Tim FRASER,22 FEB 2000,AUS,1,"Lennox Gardens, Canberra (AUS)",07 MAY 2022,1084,5-kilometres-race-walk,race-walks,male,senior
+36,19:36,,Corey DICKSON,19 JUL 2002,AUS,5,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1084,5-kilometres-race-walk,race-walks,male,senior
+40,19:37,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,1,Toledo (ESP),19 NOV 2016,1083,5-kilometres-race-walk,race-walks,male,senior
+41,19:39,,Rafał SIKORA,17 FEB 1987,POL,2,Biala Podlaska (POL),31 AUG 2013,1080,5-kilometres-race-walk,race-walks,male,senior
+41,19:39,,Rafał SIKORA,17 FEB 1987,POL,2,Gdansk (POL),31 AUG 2013,1080,5-kilometres-race-walk,race-walks,male,senior
+41,19:39,,Salih KORKMAZ,01 JAN 1997,TUR,1,Konya (TUR),27 APR 2019,1080,5-kilometres-race-walk,race-walks,male,senior
+44,19:40,,Dušan MAJDAN,08 SEP 1987,SVK,3,Nitra (SVK),04 OCT 2013,1078,5-kilometres-race-walk,race-walks,male,senior
+45,19:41,,Alberto AMEZCUA,10 MAY 1992,ESP,1,Guadix (ESP),28 DEC 2019,1077,5-kilometres-race-walk,race-walks,male,senior
+46,19:42,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Toledo (ESP),19 NOV 2016,1076,5-kilometres-race-walk,race-walks,male,senior
+46,19:42,,Karl JUNGHANNß,06 APR 1996,GER,4,Simnas (LTU),10 JUN 2018,1076,5-kilometres-race-walk,race-walks,male,senior
+46,19:42,,Jerry JOKINEN,18 MAR 2002,FIN,2,Espoo (FIN),18 MAY 2024,1076,5-kilometres-race-walk,race-walks,male,senior
+49,19:43,,Miroslav ÚRADNÍK,24 MAR 1996,SVK,1,Hlohovec (SVK),02 JUN 2019,1074,5-kilometres-race-walk,race-walks,male,senior
+49,19:43,,José Manuel PÉREZ,10 SEP 1999,ESP,3,Toledo (ESP),06 NOV 2021,1074,5-kilometres-race-walk,race-walks,male,senior
+49,19:43,,Huajia PU,31 MAY 2007,CHN,1,Gu'an (CHN),01 JUN 2025,1074,5-kilometres-race-walk,race-walks,male,senior
+52,19:44,,Rafał AUGUSTYN,14 MAY 1984,POL,1,Bratkowice (POL),12 SEP 2009,1073,5-kilometres-race-walk,race-walks,male,senior
+52,19:44,,Anton KUČMÍN,07 JUN 1984,SVK,1,Hlohovec (SVK),01 JUN 2014,1073,5-kilometres-race-walk,race-walks,male,senior
+52,19:44,,Anton KUČMÍN,07 JUN 1984,SVK,1,Nitra (SVK),25 SEP 2014,1073,5-kilometres-race-walk,race-walks,male,senior
+55,19:46,,Yevgeniy MISYULYA,13 MAR 1964,BLR,8,Hildesheim (GER),14 SEP 2003,1070,5-kilometres-race-walk,race-walks,male,senior
+55,19:46,,Sándor RÁCZ,14 SEP 1986,HUN,4,Nitra (SVK),04 OCT 2013,1070,5-kilometres-race-walk,race-walks,male,senior
+55,19:46,,Iván LÓPEZ,29 MAR 1997,ESP,4,Toledo (ESP),06 NOV 2021,1070,5-kilometres-race-walk,race-walks,male,senior
+58,19:48,,Łukasz NOWAK,18 DEC 1988,POL,1,Pila (POL),06 OCT 2012,1067,5-kilometres-race-walk,race-walks,male,senior
+59,19:50,,Luis Manuel CORCHETE,14 MAY 1984,ESP,5,Toledo (ESP),06 NOV 2021,1064,5-kilometres-race-walk,race-walks,male,senior

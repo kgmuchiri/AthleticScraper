@@ -5,341 +5,378 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4,2:03.92,,United States U18,,USA,2,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
 5,2:03.93,,United States U18,,USA,1f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
 6,2:04.32,,United States U18,,USA,1f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-7,2:05.15,,United States U18,,USA,1,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-8,2:05.59,,Jamaica U18,,JAM,1h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-9,2:05.62,,Americas U18,,INT,1,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
-10,2:05.72,,Canada U18,,CAN,3,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
-11,2:05.74,,United States U18,,USA,1f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-12,2:06.13,,Romania U18,,ROU,1,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-13,2:06.19,,Africa U18,,INT,2,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
-14,2:06.26,,Nigeria U18,,NGR,4,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
-15,2:06.45,,Italy U18,,ITA,2,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-16,2:06.54,,United States U18,,USA,1h2,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-17,2:06.58,,Australia U18,,AUS,2f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-18,2:06.60,,Brazil U18,,BRA,3f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-19,2:06.77,,Jamaica U18,,JAM,2f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-20,2:07.05,,Jamaica U18,,JAM,2f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
-21,2:07.13,,United States U18,,USA,1h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-22,2:07.16,,Czech Republic U18,,CZE,3,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-23,2:07.18,,Great Britain & NI U18,,GBR,1f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-24,2:07.22,,United States U18,,USA,1h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-25,2:07.24,,Italy U18,,ITA,1h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-26,2:07.30,,Romania U18,,ROU,2h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-27,2:07.35,,Italy U18,,ITA,2f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-28,2:07.40,,British Virgin Islands U18,,IVB,2,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-29,2:07.45,,Jamaica U18,,JAM,2,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
-30,2:07.46,,Italy U18,,ITA,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-31,2:07.51,,United States U18,,USA,1h2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-32,2:07.59,,Europe U18,,INT,3,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
-33,2:07.61,,Japan U18,,JPN,3,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-34,2:07.62,,Russia U18,,RUS,5,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
-35,2:07.66,,Great Britain & NI U18,,GBR,1h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-36,2:07.71,,United States U18,,USA,1f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-37,2:08.04,,Jamaica U18,,JAM,1h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-38,2:08.25,,Russia U18,,RUS,1h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-38,2:08.25,,Australia U18,,AUS,2h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-40,2:08.33,,Ukraine U18,,UKR,1,Yalta (UKR),20 MAY 2007,,medley-relay,relays,female,u18
-41,2:08.38,,United States U18,,USA,1h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-42,2:08.39,,Japan U18,,JPN,1h2,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-43,2:08.44,,Nigeria U18,,NGR,2h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-44,2:08.48,,France U18,,FRA,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
-45,2:08.49,,Poland U18,,POL,1h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-46,2:08.52,,Canada U18,,CAN,1h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-47,2:08.53,,Spain U18,,ESP,1,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-48,2:08.55,,Czech Republic U18,,CZE,4,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-49,2:08.57,,Poland U18,,POL,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
-50,2:08.59,,Canada U18,,CAN,5,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-51,2:08.64,,Germany U18,,GER,2h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-52,2:08.66,,Russia U18,,RUS,1h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-52,2:08.66,,Ukraine U18,,UKR,3h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-54,2:08.68,,Poland U18,,POL,3h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-55,2:08.80,,British Virgin Islands U18,,IVB,2h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-55,2:08.80,,Spain U18,,ESP,3f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-57,2:08.82,,Czech Republic U18,,CZE,1h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-57,2:08.82,,Hungary U18,,HUN,4h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-59,2:08.89,,Spain U18,,ESP,1h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-60,2:08.97,,Canada U18,,CAN,2h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-61,2:08.99,,Italy U18,,ITA,3,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
-62,2:09.03,,Canada U18,,CAN,4f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
-63,2:09.05,,Poland U18,,POL,4f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-64,2:09.06,,Estonia U18,,EST,4,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-65,2:09.08,,Australia U18,,AUS,2h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-65,2:09.08,,Canada U18,,CAN,3f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-67,2:09.12,,Czech Republic U18,,CZE,3h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-68,2:09.13,,Brazil U18,,BRA,1h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-69,2:09.15,,Switzerland U18,,SUI,1h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-70,2:09.16,,Greece U18,,GRE,2,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-71,2:09.19,,Poland U18,,POL,2f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-72,2:09.22,,Hungary U18,,HUN,2f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-73,2:09.24,,Canada U18,,CAN,1h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-74,2:09.25,,Romania U18,,ROU,3f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-75,2:09.27,,Canada U18,,CAN,1h1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-76,2:09.28,,Norway U18,,NOR,3h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-77,2:09.32,,Hungary U18,,HUN,6,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-77,2:09.32,,Finland U18,,FIN,2h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-79,2:09.33,,Bahamas U18,,BAH,4f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-79,2:09.33,,Italy U18,,ITA,2h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-81,2:09.36,,United States U18,,USA,1h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-82,2:09.39,,United States U18,,USA,1h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-83,2:09.41,,Czech Republic U18,,CZE,2,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-84,2:09.42,,Russia U18,,RUS,5f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-85,2:09.43,,Greece U18,,GRE,2h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-86,2:09.61,,Hungary U18,,HUN,1,Hradec Králové (CZE),08 JUN 2013,,medley-relay,relays,female,u18
-86,2:09.61,,Belarus U18,,BLR,4,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
-88,2:09.68,,Hungary U18,,HUN,2h1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-89,2:09.70,,Romania U18,,ROU,3,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
-90,2:09.72,,Japan U18,,JPN,2h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-91,2:09.73,,France U18,,FRA,1h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-92,2:09.76,,Norway U18,,NOR,5,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-93,2:09.79,,Jamaica U18,,JAM,5f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-94,2:09.80,,Norway U18,,NOR,3h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-95,2:09.84,,Trinidad and Tobago,,TTO,2h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-96,2:09.87,,Germany U18,,GER,2h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-97,2:09.90,,PR of China U18,,CHN,2h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-98,2:09.96,,Australia U18,,AUS,4f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-99,2:09.99,,Romania U18,,ROU,3,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-100,2:10.01,,Poland U18,,POL,6f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-101,2:10.04,,Poland U18,,POL,2h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-101,2:10.04,,Estonia U18,,EST,4h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-103,2:10.07,,Germany U18,,GER,6,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-104,2:10.08,,Canada U18,,CAN,7f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-105,2:10.12,,Bahamas U18,,BAH,1h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-106,2:10.13,,Canada U18,,CAN,1h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-107,2:10.17,,Romania U18,,ROU,6,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
-107,2:10.17,,Italy U18,,ITA,2h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-109,2:10.18,,India U18,,IND,5f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-109,2:10.18,,Germany U18,,GER,3h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-111,2:10.19,,United States U18,,USA,1h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
-112,2:10.20,,Great Britain & NI U18,,GBR,1h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-113,2:10.27,,Japan U18,,JPN,8f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
-114,2:10.32,,Switzerland U18,,SUI,3,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-115,2:10.33,,Romania U18,,ROU,2h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-116,2:10.35,,Poland U18,,POL,7,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
-117,2:10.38,,Italy U18,,ITA,1h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-117,2:10.38,,Italy U18,,ITA,4,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-117,2:10.38,,Spain U18,,ESP,1h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-120,2:10.39,,Czech Republic U18,,CZE,1,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
-121,2:10.41,,Czech Republic U18,,CZE,2h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-122,2:10.42,,Romania U18,,ROU,3h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-123,2:10.45,,Switzerland U18,,SUI,1h2,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-124,2:10.46,,Hungary U18,,HUN,1,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
-125,2:10.47,,Poland U18,,POL,1h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
-126,2:10.48,,Romania U18,,ROU,2h2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-126,2:10.48,,South Africa U18,,RSA,3h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-128,2:10.53,,India U18,,IND,2h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-129,2:10.54,,Ukraine U18,,UKR,1h3,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-129,2:10.54,,Japan U18,,JPN,4h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-131,2:10.55,,Czech Republic U18,,CZE,2,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
-132,2:10.58,,Barbados U18,,BAR,3h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-133,2:10.62,,Hungary U18,,HUN,2,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
-134,2:10.64,,Italy U18,,ITA,7,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
-134,2:10.64,,Slovenia U18,,SLO,5,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
-136,2:10.65,,Sunshine Youth Sports Club,,CHN,1,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
-137,2:10.66,,Japan U18,,JPN,6f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-138,2:10.72,,Jamaica U18,,JAM,2h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-138,2:10.72,,Poland U18,,POL,4f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-140,2:10.74,,Spain U18,,ESP,1h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-140,2:10.74,,Spain U18,,ESP,7,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-142,2:10.75,,Norway U18,,NOR,3h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-143,2:10.76,,South Africa U18,,RSA,8,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
-144,2:10.79,,Jamaica U18,,JAM,3h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-144,2:10.79,,Brazil U18,,BRA,4h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-146,2:10.80,,Hungary U18,,HUN,2,"Štadión PFK, Piešťany (SVK)",05 JUL 2024,,medley-relay,relays,female,u18
-147,2:10.83,,Italy U18,,ITA,3h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-148,2:10.85,,Hungary U18,,HUN,3h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-148,2:10.85,,Czech Republic U18,,CZE,1,Budapest (HUN),04 JUL 2014,,medley-relay,relays,female,u18
-148,2:10.85,,Portugal U18,,POR,4,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-151,2:10.93,,Romania U18,,ROU,7f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-152,2:10.94,,Romania U18,,ROU,1h1,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-153,2:10.97,,Slovenia U18,,SLO,5f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-154,2:11.02,,Portugal U18,,POR,1h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-155,2:11.04,,Ukraine U18,,UKR,5,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-155,2:11.04,,Poland U18,,POL,1h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-157,2:11.05,,Jamaica U18,,JAM,1h4,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-158,2:11.07,,Belarus U18,,BLR,1h3,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-159,2:11.10,,Bahamas U18,,BAH,4h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-160,2:11.11,,Japan U18,,JPN,3h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-161,2:11.13,,Ukraine U18,,UKR,3f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-161,2:11.13,,Ukraine U18,,UKR,4,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
-163,2:11.20,,Brazil U18,,BRA,4h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-163,2:11.20,,Italy U18,,ITA,2h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-165,2:11.21,,Poland U18,,POL,3h1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-165,2:11.21,,Norway U18,,NOR,5,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-165,2:11.21,,India U18,,IND,1,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
-168,2:11.22,,Poland U18,,POL,1h2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-168,2:11.22,,Switzerland U18,,SUI,2h3,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-168,2:11.22,,Spain U18,,ESP,2h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-168,2:11.22,,Estonia U18,,EST,4h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-172,2:11.24,,Slovenia U18,,SLO,3,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
-172,2:11.24,,Ireland U18,,IRL,5h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-174,2:11.25,,Italy U18,,ITA,2h2,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-175,2:11.26,,Kazakhstan U18,,KAZ,4h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-175,2:11.26,,Ukraine U18,,UKR,6,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-177,2:11.27,,Italy U18,,ITA,1,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-178,2:11.28,,Czechia U18,,CZE,3h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-179,2:11.29,,Romania U18,,ROU,3h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-180,2:11.30,,Poland U18,,POL,2,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-181,2:11.34,,Japan U18,,JPN,5f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
-182,2:11.36,,Slovenia U18,,SLO,3h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-183,2:11.37,,Barbados U18,,BAR,6f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-184,2:11.40,,Finland U18,,FIN,3h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-185,2:11.41,,Belarus U18,,BLR,5,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
-185,2:11.41,,Czech Republic U18,,CZE,1,Trnava (SVK),13 JUL 2019,,medley-relay,relays,female,u18
-187,2:11.43,,Finland U18,,FIN,6f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-188,2:11.50,,Canada U18,,CAN,6,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
-189,2:11.51,,Hungary U18,,HUN,2h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-189,2:11.51,,Estonia U18,,EST,4h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-191,2:11.53,,Croatia U18,,CRO,2h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-192,2:11.59,,Hungary U18,,HUN,3,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-193,2:11.66,,New Zealand U18,,NZL,7,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
-194,2:11.67,,Italy U18,,ITA,3h2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-195,2:11.68,,Italy U18,,ITA,3h3,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-196,2:11.70,,Japan U18,,JPN,2h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-197,2:11.72,,Japan U18,,JPN,4f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-197,2:11.72,,Czech Republic U18,,CZE,4,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-199,2:11.77,,France U18,,FRA,5h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-199,2:11.77,,Slovak Republic U18,,SVK,4,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
-201,2:11.79,,Ukraine U18,,UKR,3h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-201,2:11.79,,Ireland U18,,IRL,4h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-203,2:11.84,,Belarus U18,,BLR,2h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-204,2:11.95,,Slovak Republic U18,,SVK,3h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-205,2:11.97,,Ukraine U18,,UKR,3h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-205,2:11.97,,Croatia U18,,CRO,8,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
-207,2:11.99,,Hungary U18,,HUN,4h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-208,2:12.00,,Spain U18,,ESP,5h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-209,2:12.03,,Türkiye U18,,TUR,5h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-210,2:12.05,,Hungary U18,,HUN,5h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-211,2:12.08,,Czech Republic U18,,CZE,1h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-212,2:12.10,,Norway U18,,NOR,2h2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-213,2:12.13,,Brazil U18,,BRA,5f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-213,2:12.13,,Slovenia U18,,SLO,5f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-215,2:12.17,,Serbia U18,,SRB,5h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-216,2:12.18,,India U18,,IND,1,Al-Kuwait (KUW),16 OCT 2022,,medley-relay,relays,female,u18
-217,2:12.19,,Ukraine U18,,UKR,1h1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-217,2:12.19,,France U18,,FRA,7,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
-219,2:12.21,,Sverdlovsk Region U18,,RUS,1,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
-220,2:12.28,,Canada U18,,CAN,2h3,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-221,2:12.29,,Ukraine U18,,UKR,2h2,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-222,2:12.31,,Romania U18,,ROU,2h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-222,2:12.31,,Poland U18,,POL,3,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
-224,2:12.33,,Hungary U18,,HUN,6,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-224,2:12.33,,Poland U18,,POL,4h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-226,2:12.38,,Brazil U18,,BRA,6h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-227,2:12.39,,Morocco U18,,MAR,3h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-227,2:12.39,,Kazakhstan U18,,KAZ,2,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
-229,2:12.41,,Italy U18,,ITA,1h3,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
-230,2:12.43,,Finland U18,,FIN,4h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-231,2:12.45,,Japan U18,,JPN,7f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
-232,2:12.52,,Spain U18,,ESP,3h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-233,2:12.56,,Slovenia U18,,SLO,4h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-234,2:12.62,,Greece U18,,GRE,3h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-235,2:12.66,,Bahamas U18,,BAH,6f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
-236,2:12.68,,New Zealand U18,,NZL,3h3,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-236,2:12.68,,Serbia U18,,SRB,4h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-238,2:12.69,,Bahamas U18,,BAH,4h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-239,2:12.70,,Austria U18,,AUT,7,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-240,2:12.71,,Japan U18,,JPN,5h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-241,2:12.72,,Switzerland U18,,SUI,2h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-241,2:12.72,,Croatia U18,,CRO,6h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-243,2:12.76,,Japan U18,,JPN,2h1,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-243,2:12.76,,"Hong Kong, China U18",,HKG,3,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
-245,2:12.83,,Ukraine U18,,UKR,1h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
-246,2:12.84,,Slovak Republic U18,,SVK,2,Budapest (HUN),04 JUL 2014,,medley-relay,relays,female,u18
-247,2:12.85,,Morocco U18,,MAR,8f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
-248,2:12.87,,Romania U18,,ROU,7f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
-249,2:12.89,,Canada U18,,CAN,4h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-250,2:12.90,,Hunan Changsha Pilots Club,,CHN,2,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
-251,2:12.93,,France U18,,FRA,5,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-252,2:12.99,,Agram Zagreb U18,,CRO,,Čakovec (CRO),20 JUL 2008,,medley-relay,relays,female,u18
-253,2:13.00,,New Zealand U18,,NZL,5h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-253,2:13.00,,Slovenia U18,,SLO,2h1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-255,2:13.04,,Italy U18,,ITA,4h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-255,2:13.04,,Bahamas U18,,BAH,5h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-257,2:13.06,,Czech Republic U18,,CZE,1h2,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
-258,2:13.10,,Romania U18,,ROU,6,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-258,2:13.10,,Turkey U18,,TUR,5h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-260,2:13.11,,Ukraine U18,,UKR,5h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-260,2:13.11,,Portugal U18,,POR,5h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-262,2:13.13,,Hungary U18,,HUN,1,Miskolc (HUN),16 JUN 2017,,medley-relay,relays,female,u18
-263,2:13.17,,Slovenia U18,,SLO,6h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
-263,2:13.17,,Switzerland U18,,SUI,5h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-265,2:13.18,,Czech Republic U18,,CZE,1,Trnava (SVK),06 JUN 2015,,medley-relay,relays,female,u18
-266,2:13.19,,Poland U18,,POL,2h2,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
-267,2:13.21,,Poland U18,,POL,3h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
-268,2:13.22,,Naša atletika Bratislava,,SVK,2f1,"Štadión SNP, Banská Bystrica (SVK)",15 JUN 2025,,medley-relay,relays,female,u18
-269,2:13.24,,Greece U18,,GRE,5h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-270,2:13.26,,Austria U18,,AUT,3h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-271,2:13.27,,Slovak Republic U18,,SVK,2,Hradec Králové (CZE),08 JUN 2013,,medley-relay,relays,female,u18
-271,2:13.27,,Novosibirsk Region U18,,RUS,2,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
-271,2:13.27,,Slovak Republic U18,,SVK,3,"Štadión PFK, Piešťany (SVK)",05 JUL 2024,,medley-relay,relays,female,u18
-274,2:13.36,,Enka Spor Istanbul U18,,TUR,1,"Denizli Geleneksel Spor Kompleksi, Denizli (TUR)",19 JUN 2022,,medley-relay,relays,female,u18
-275,2:13.39,,Poland U18,,POL,3h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-276,2:13.43,,Hungary U18,,HUN,4h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-277,2:13.44,,South Africa U18,,RSA,3h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-278,2:13.45,,Lódzkie U18,,POL,1,"Akademicki Związek Sportowy, Łódź (POL)",12 JUN 2021,,medley-relay,relays,female,u18
-278,2:13.45,,Spain U18,,ESP,7,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-280,2:13.47,,Slovak Republic U18,,SVK,4h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-281,2:13.51,,Romania U18,,ROU,7h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-282,2:13.54,,Slovenia U18,,SLO,2,Miskolc (HUN),16 JUN 2017,,medley-relay,relays,female,u18
-283,2:13.55,,Finland U18,,FIN,8h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-284,2:13.56,,India U18,,IND,4h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-285,2:13.57,,Switzerland U18,,SUI,8,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
-285,2:13.57,,PR of China U18,,CHN,4,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
-287,2:13.59,,"MLADOST I, Zagreb",,CRO,1f2,"Stadion SRC Mladost, Čakovec (CRO)",16 JUN 2024,,medley-relay,relays,female,u18
-288,2:13.60,,Slovak Republic U18,,SVK,5h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-289,2:13.63,,Bahamas U18,,BAH,5h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-290,2:13.64,,Czech Republic U18,,CZE,3,Miskolc (HUN),16 JUN 2017,,medley-relay,relays,female,u18
-290,2:13.64,,Ireland U18,,IRL,4h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-292,2:13.66,,Hungary U18,,HUN,2h3,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
-293,2:13.68,,Serbia and Montenegro U18,,SCG,4h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
-294,2:13.69,,Hungary U18,,HUN,8f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
-295,2:13.71,,Slovak Republic U18,,SVK,2,Trnava (SVK),06 JUN 2015,,medley-relay,relays,female,u18
-296,2:13.75,,Sweden U18,,SWE,4h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-297,2:13.81,,Brazil U18,,BRA,2h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
-298,2:13.85,,Botswana U18,,BOT,6h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-299,2:13.88,,Kirovsk Region U18,,RUS,3,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
-300,2:13.90,,Enka Spor Istanbul U18,,TUR,1,Mersin (TUR),27 AUG 2021,,medley-relay,relays,female,u18
-301,2:13.96,,Slovenia U18,,SLO,2h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
-301,2:13.96,,Oceania U18,,INT,4,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
-303,2:13.99,,France U18,,FRA,3h1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-304,2:14.06,,Finland U18,,FIN,5h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-304,2:14.06,,Denmark U18,,DEN,6h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-306,2:14.09,,Slovenia U18,,SLO,6h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-306,2:14.09,,Lódzkie U18,,POL,1f1,"Akademicki Związek Sportowy, Łódź (POL)",03 OCT 2020,,medley-relay,relays,female,u18
-308,2:14.10,,Switzerland U18,,SUI,4h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-309,2:14.12,,Romania U18,,ROU,1h1,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
-310,2:14.13,,Lódzkie U18,,POL,1,"Stadion 650-lecia, Słupsk (POL)",13 MAY 2023,,medley-relay,relays,female,u18
-311,2:14.14,,Hubei Province Wuhan City Sports School Youth Sports Club,,CHN,3,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
-312,2:14.17,,Czech Republic U18,,CZE,3h2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
-313,2:14.18,,Turkey U18,,TUR,5h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-313,2:14.18,,Slovenia U18,,SLO,4,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
-315,2:14.20,,Austria U18,,AUT,6h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
-316,2:14.21,,Hungary U18,,HUN,3,Budapest (HUN),04 JUL 2014,,medley-relay,relays,female,u18
-317,2:14.24,,Slovenia U18,,SLO,3,Trnava (SVK),06 JUN 2015,,medley-relay,relays,female,u18
-318,2:14.25,,"Hongao Youth Sports Club in Wuhu City , Anhui Province",,CHN,4,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
-319,2:14.26,,Luxembourg U18,,LUX,6h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
-320,2:14.31,,Volgogradskaya Region U18,,RUS,4,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
-321,2:14.37,,"AGRAM I , Zagreb",,CRO,1f2,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",04 JUN 2023,,medley-relay,relays,female,u18
-322,2:14.38,,Thailand U18,,THA,2,Al-Kuwait (KUW),16 OCT 2022,,medley-relay,relays,female,u18
-323,2:14.40,,Belarus U18,,BLR,4h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-324,2:14.43,,Turkey U18,,TUR,3h2,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
-325,2:14.44,,Czech Republic U18,,CZE,4h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-326,2:14.46,,Czech Republic U18,,CZE,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",29 JUN 2022,,medley-relay,relays,female,u18
-327,2:14.52,,Croatia U18,,CRO,3h1,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
-328,2:14.53,,Kazakhstan U18,,KAZ,5h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
-328,2:14.53,,Tunisia U18,,TUN,,Algiers (ALG),21 MAY 2010,,medley-relay,relays,female,u18
-330,2:14.54,,Ukraine U18,,UKR,3h2,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
-330,2:14.54,,Austria U18,,AUT,8,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
-332,2:14.57,,Mexico U18,,MEX,3h2,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-332,2:14.57,,Sparta U18,,DEN,1,Hvidovre (DEN),22 AUG 2015,,medley-relay,relays,female,u18
-334,2:14.61,,Italy U18,,ITA,4h2,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
-334,2:14.61,,"AGRAM I , Zagreb",,CRO,2f2,"Stadion SRC Mladost, Čakovec (CRO)",16 JUN 2024,,medley-relay,relays,female,u18
-336,2:14.70,,Hungary U18,,HUN,2,Trnava (SVK),13 JUL 2019,,medley-relay,relays,female,u18
-337,2:14.71,,Hungary U18,,HUN,3h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
-338,2:14.73,,Serbia U18,,SRB,5h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
-339,2:14.76,,France U18,,FRA,2h1,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
-340,2:14.79,,Austria U18,,AUT,5h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-340,2:14.79,,Śląskie U18,,POL,2,"Stadion 650-lecia, Słupsk (POL)",13 MAY 2023,,medley-relay,relays,female,u18
-342,2:14.85,,Croatia U18,,CRO,6h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
-343,2:14.87,,Dolnośląskie U18,,POL,2,"Akademicki Związek Sportowy, Łódź (POL)",12 JUN 2021,,medley-relay,relays,female,u18
-344,2:14.88,,British Virgin Islands U18,,IVB,4h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+7,2:04.57,,Italy U18,,ITA,1,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+8,2:05.15,,United States U18,,USA,1,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+9,2:05.23,,Italy U18,,ITA,1f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+10,2:05.54,,Poland U18,,POL,2f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+11,2:05.59,,Jamaica U18,,JAM,1h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+12,2:05.62,,Americas U18,,INT,1,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
+13,2:05.72,,Canada U18,,CAN,3,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
+14,2:05.74,,United States U18,,USA,1f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+15,2:05.93,,Switzerland U18,,SUI,2,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+16,2:06.13,,Romania U18,,ROU,1,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+17,2:06.19,,Africa U18,,INT,2,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
+18,2:06.26,,Nigeria U18,,NGR,4,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
+19,2:06.30,,Poland U18,,POL,3,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+20,2:06.45,,Italy U18,,ITA,2,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+21,2:06.54,,United States U18,,USA,1h2,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+22,2:06.58,,Australia U18,,AUS,2f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+23,2:06.60,,Brazil U18,,BRA,3f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+24,2:06.77,,Jamaica U18,,JAM,2f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+25,2:07.05,,Jamaica U18,,JAM,2f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
+26,2:07.06,,Ireland U18,,IRL,4,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+27,2:07.13,,United States U18,,USA,1h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+28,2:07.16,,Czech Republic U18,,CZE,3,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+29,2:07.18,,Great Britain & NI U18,,GBR,1f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+30,2:07.22,,United States U18,,USA,1h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+31,2:07.24,,Italy U18,,ITA,1h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+32,2:07.28,,Germany U18,,GER,4f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+33,2:07.30,,Romania U18,,ROU,2h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+33,2:07.30,,France U18,,FRA,5,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+35,2:07.35,,Italy U18,,ITA,2f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+36,2:07.39,,Poland U18,,POL,1h3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+37,2:07.40,,British Virgin Islands U18,,IVB,2,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+38,2:07.45,,Jamaica U18,,JAM,2,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
+39,2:07.46,,Italy U18,,ITA,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+40,2:07.51,,United States U18,,USA,1h2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+41,2:07.59,,Europe U18,,INT,3,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
+42,2:07.61,,Japan U18,,JPN,3,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+43,2:07.62,,Russia U18,,RUS,5,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
+44,2:07.66,,Great Britain & NI U18,,GBR,1h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+45,2:07.71,,United States U18,,USA,1f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+46,2:07.72,,Switzerland U18,,SUI,5f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+47,2:08.04,,Jamaica U18,,JAM,1h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+48,2:08.08,,Ukraine U18,,UKR,6f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+49,2:08.14,,Norway U18,,NOR,7f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+50,2:08.25,,Russia U18,,RUS,1h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+50,2:08.25,,Australia U18,,AUS,2h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+52,2:08.33,,Ukraine U18,,UKR,1,Yalta (UKR),20 MAY 2007,,medley-relay,relays,female,u18
+53,2:08.35,,Switzerland U18,,SUI,2h3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+54,2:08.37,,Hungary U18,,HUN,8f1,Banská Bystrica (SVK),21 JUL 2024,,medley-relay,relays,female,u18
+55,2:08.38,,United States U18,,USA,1h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+56,2:08.39,,Japan U18,,JPN,1h2,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+57,2:08.44,,Nigeria U18,,NGR,2h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+58,2:08.48,,France U18,,FRA,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
+59,2:08.49,,Poland U18,,POL,1h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+60,2:08.50,,Czechia U18,,CZE,6,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+61,2:08.52,,Canada U18,,CAN,1h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+62,2:08.53,,Spain U18,,ESP,1,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+63,2:08.55,,Czech Republic U18,,CZE,4,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+64,2:08.57,,Poland U18,,POL,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
+65,2:08.59,,Canada U18,,CAN,5,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+66,2:08.64,,Germany U18,,GER,2h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+67,2:08.66,,Russia U18,,RUS,1h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+67,2:08.66,,Ukraine U18,,UKR,3h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+69,2:08.68,,Poland U18,,POL,3h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+70,2:08.80,,British Virgin Islands U18,,IVB,2h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+70,2:08.80,,Spain U18,,ESP,3f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+72,2:08.82,,Czech Republic U18,,CZE,1h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+72,2:08.82,,Hungary U18,,HUN,4h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+74,2:08.89,,Spain U18,,ESP,1h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+75,2:08.97,,Canada U18,,CAN,2h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+76,2:08.99,,Italy U18,,ITA,3,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
+77,2:09.03,,Canada U18,,CAN,4f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
+78,2:09.05,,Poland U18,,POL,4f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+79,2:09.06,,Estonia U18,,EST,4,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+80,2:09.08,,Australia U18,,AUS,2h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+80,2:09.08,,Canada U18,,CAN,3f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+80,2:09.08,,Poland U18,,POL,2,"Sports Stadium CESA VUT, Brno (CZE)",29 JUN 2025,,medley-relay,relays,female,u18
+83,2:09.12,,Czech Republic U18,,CZE,3h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+84,2:09.13,,Brazil U18,,BRA,1h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+85,2:09.15,,Switzerland U18,,SUI,1h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+86,2:09.16,,Greece U18,,GRE,2,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+87,2:09.19,,Poland U18,,POL,2f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+88,2:09.20,,Ireland U18,,IRL,1h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+89,2:09.22,,Hungary U18,,HUN,2f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+90,2:09.24,,Canada U18,,CAN,1h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+91,2:09.25,,Romania U18,,ROU,3f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+92,2:09.27,,Canada U18,,CAN,1h1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+93,2:09.28,,Norway U18,,NOR,3h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+94,2:09.32,,Hungary U18,,HUN,6,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+94,2:09.32,,Finland U18,,FIN,2h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+96,2:09.33,,Bahamas U18,,BAH,4f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+96,2:09.33,,Italy U18,,ITA,2h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+98,2:09.36,,United States U18,,USA,1h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+99,2:09.39,,United States U18,,USA,1h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+100,2:09.41,,Czech Republic U18,,CZE,2,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+101,2:09.42,,Russia U18,,RUS,5f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+102,2:09.43,,Greece U18,,GRE,2h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+103,2:09.61,,Hungary U18,,HUN,1,Hradec Králové (CZE),08 JUN 2013,,medley-relay,relays,female,u18
+103,2:09.61,,Belarus U18,,BLR,4,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
+105,2:09.68,,Hungary U18,,HUN,2h1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+106,2:09.70,,Romania U18,,ROU,3,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
+107,2:09.72,,Japan U18,,JPN,2h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+108,2:09.73,,France U18,,FRA,1h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+109,2:09.76,,Norway U18,,NOR,5,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+110,2:09.79,,Jamaica U18,,JAM,5f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+111,2:09.80,,Norway U18,,NOR,3h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+112,2:09.84,,Trinidad and Tobago,,TTO,2h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+113,2:09.87,,Germany U18,,GER,2h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+114,2:09.90,,PR of China U18,,CHN,2h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+115,2:09.96,,Australia U18,,AUS,4f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+116,2:09.99,,Romania U18,,ROU,3,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+117,2:10.01,,Poland U18,,POL,6f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+118,2:10.04,,Poland U18,,POL,2h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+118,2:10.04,,Estonia U18,,EST,4h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+118,2:10.04,,Portugal U18,,POR,2h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+121,2:10.07,,Germany U18,,GER,6,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+122,2:10.08,,Canada U18,,CAN,7f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+123,2:10.12,,Bahamas U18,,BAH,1h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+124,2:10.13,,Canada U18,,CAN,1h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+125,2:10.16,,Italy U18,,ITA,1h1,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+126,2:10.17,,Romania U18,,ROU,6,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
+126,2:10.17,,Italy U18,,ITA,2h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+128,2:10.18,,India U18,,IND,5f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+128,2:10.18,,Germany U18,,GER,3h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+130,2:10.19,,United States U18,,USA,1h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
+131,2:10.20,,Great Britain & NI U18,,GBR,1h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+132,2:10.23,,Portugal U18,,POR,7,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+133,2:10.27,,Japan U18,,JPN,8f1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,,medley-relay,relays,female,u18
+134,2:10.28,,Czechia U18,,CZE,3h3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+135,2:10.32,,Switzerland U18,,SUI,3,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+136,2:10.33,,Romania U18,,ROU,2h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+137,2:10.35,,Poland U18,,POL,7,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
+138,2:10.38,,Italy U18,,ITA,1h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+138,2:10.38,,Italy U18,,ITA,4,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+138,2:10.38,,Spain U18,,ESP,1h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+141,2:10.39,,Czech Republic U18,,CZE,1,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
+142,2:10.41,,Czech Republic U18,,CZE,2h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+143,2:10.42,,Romania U18,,ROU,3h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+144,2:10.45,,Switzerland U18,,SUI,1h2,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+145,2:10.46,,Hungary U18,,HUN,1,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
+146,2:10.47,,Poland U18,,POL,1h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
+147,2:10.48,,Romania U18,,ROU,2h2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+147,2:10.48,,South Africa U18,,RSA,3h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+149,2:10.50,,France U18,,FRA,3h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+150,2:10.53,,India U18,,IND,2h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+151,2:10.54,,Ukraine U18,,UKR,1h3,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+151,2:10.54,,Japan U18,,JPN,4h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+153,2:10.55,,Czech Republic U18,,CZE,2,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
+154,2:10.58,,Barbados U18,,BAR,3h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+155,2:10.62,,Hungary U18,,HUN,2,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
+156,2:10.64,,Italy U18,,ITA,7,Donetsk (UKR),14 JUL 2013,,medley-relay,relays,female,u18
+156,2:10.64,,Slovenia U18,,SLO,5,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,medley-relay,relays,female,u18
+158,2:10.65,,Sunshine Youth Sports Club,,CHN,1,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
+159,2:10.66,,Japan U18,,JPN,6f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+160,2:10.68,,Czech Republic U18,,CZE,1,"Štadión PFK, Piešťany (SVK)",05 JUL 2024,,medley-relay,relays,female,u18
+161,2:10.72,,Jamaica U18,,JAM,2h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+161,2:10.72,,Poland U18,,POL,4f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+163,2:10.74,,Spain U18,,ESP,1h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+163,2:10.74,,Spain U18,,ESP,7,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+165,2:10.75,,Norway U18,,NOR,3h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+166,2:10.76,,South Africa U18,,RSA,8,Lille (FRA),10 JUL 2011,,medley-relay,relays,female,u18
+167,2:10.79,,Jamaica U18,,JAM,3h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+167,2:10.79,,Brazil U18,,BRA,4h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+169,2:10.80,,Hungary U18,,HUN,2,"Štadión PFK, Piešťany (SVK)",05 JUL 2024,,medley-relay,relays,female,u18
+170,2:10.83,,Italy U18,,ITA,3h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+171,2:10.85,,Hungary U18,,HUN,3h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+171,2:10.85,,Czech Republic U18,,CZE,1,Budapest (HUN),04 JUL 2014,,medley-relay,relays,female,u18
+171,2:10.85,,Portugal U18,,POR,4,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+174,2:10.93,,Romania U18,,ROU,7f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+175,2:10.94,,Romania U18,,ROU,1h1,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+176,2:10.97,,Slovenia U18,,SLO,5f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+177,2:11.02,,Portugal U18,,POR,1h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+178,2:11.04,,Ukraine U18,,UKR,5,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+178,2:11.04,,Poland U18,,POL,1h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+180,2:11.05,,Jamaica U18,,JAM,1h4,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+181,2:11.07,,Belarus U18,,BLR,1h3,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+182,2:11.10,,Bahamas U18,,BAH,4h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+183,2:11.11,,Japan U18,,JPN,3h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+184,2:11.13,,Ukraine U18,,UKR,3f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+184,2:11.13,,Ukraine U18,,UKR,4,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
+186,2:11.20,,Brazil U18,,BRA,4h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+186,2:11.20,,Italy U18,,ITA,2h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+188,2:11.21,,Poland U18,,POL,3h1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+188,2:11.21,,Norway U18,,NOR,5,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+188,2:11.21,,India U18,,IND,1,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
+191,2:11.22,,Poland U18,,POL,1h2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+191,2:11.22,,Switzerland U18,,SUI,2h3,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+191,2:11.22,,Spain U18,,ESP,2h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+191,2:11.22,,Estonia U18,,EST,4h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+195,2:11.24,,Slovenia U18,,SLO,3,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
+195,2:11.24,,Ireland U18,,IRL,5h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+197,2:11.25,,Italy U18,,ITA,2h2,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+198,2:11.26,,Kazakhstan U18,,KAZ,4h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+198,2:11.26,,Ukraine U18,,UKR,6,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+200,2:11.27,,Italy U18,,ITA,1,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+201,2:11.28,,Czechia U18,,CZE,3h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+202,2:11.29,,Romania U18,,ROU,3h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+203,2:11.30,,Poland U18,,POL,2,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+204,2:11.34,,Japan U18,,JPN,5f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
+205,2:11.36,,Slovenia U18,,SLO,3h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+206,2:11.37,,Barbados U18,,BAR,6f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+207,2:11.40,,Finland U18,,FIN,3h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+208,2:11.41,,Belarus U18,,BLR,5,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
+208,2:11.41,,Czech Republic U18,,CZE,1,Trnava (SVK),13 JUL 2019,,medley-relay,relays,female,u18
+210,2:11.43,,Finland U18,,FIN,6f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+210,2:11.43,,Croatia U18,,CRO,4h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+212,2:11.50,,Canada U18,,CAN,6,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
+213,2:11.51,,Hungary U18,,HUN,2h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+213,2:11.51,,Estonia U18,,EST,4h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+215,2:11.53,,Croatia U18,,CRO,2h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+216,2:11.59,,Hungary U18,,HUN,3,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+217,2:11.66,,New Zealand U18,,NZL,7,Debrecen (HUN),15 JUL 2001,,medley-relay,relays,female,u18
+218,2:11.67,,Italy U18,,ITA,3h2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+219,2:11.68,,Italy U18,,ITA,3h3,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+220,2:11.70,,Japan U18,,JPN,2h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+221,2:11.72,,Japan U18,,JPN,4f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+221,2:11.72,,Czech Republic U18,,CZE,4,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+223,2:11.77,,France U18,,FRA,5h3,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+223,2:11.77,,Slovak Republic U18,,SVK,4,Brno (CZE),11 JUN 2016,,medley-relay,relays,female,u18
+225,2:11.79,,Ukraine U18,,UKR,3h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+225,2:11.79,,Ireland U18,,IRL,4h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+227,2:11.80,,Serbia U18,,SRB,4h3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+228,2:11.84,,Belarus U18,,BLR,2h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+229,2:11.87,,Germany U18,,GER,5h3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+230,2:11.91,,Latvia U18,,LAT,2h1,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+231,2:11.95,,Slovak Republic U18,,SVK,3h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+232,2:11.97,,Ukraine U18,,UKR,3h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+232,2:11.97,,Croatia U18,,CRO,8,"Atletski stadion Poljane, Maribor (SLO)",29 JUL 2023,,medley-relay,relays,female,u18
+234,2:11.99,,Hungary U18,,HUN,4h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+235,2:12.00,,Spain U18,,ESP,5h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+235,2:12.00,,Ukraine U18,,UKR,3h1,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+235,2:12.00,,Finland U18,,FIN,5h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+238,2:12.03,,Türkiye U18,,TUR,5h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+239,2:12.05,,Hungary U18,,HUN,5h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+240,2:12.08,,Czech Republic U18,,CZE,1h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+241,2:12.10,,Norway U18,,NOR,2h2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+242,2:12.13,,Brazil U18,,BRA,5f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+242,2:12.13,,Slovenia U18,,SLO,5f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+244,2:12.17,,Serbia U18,,SRB,5h1,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+245,2:12.18,,India U18,,IND,1,Al-Kuwait (KUW),16 OCT 2022,,medley-relay,relays,female,u18
+246,2:12.19,,Ukraine U18,,UKR,1h1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+246,2:12.19,,France U18,,FRA,7,Baku (AZE),27 JUL 2019,,medley-relay,relays,female,u18
+248,2:12.21,,Sverdlovsk Region U18,,RUS,1,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
+249,2:12.28,,Canada U18,,CAN,2h3,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+250,2:12.29,,Ukraine U18,,UKR,2h2,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+251,2:12.31,,Romania U18,,ROU,2h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+251,2:12.31,,Poland U18,,POL,3,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
+253,2:12.33,,Hungary U18,,HUN,6,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+253,2:12.33,,Poland U18,,POL,4h3,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+255,2:12.38,,Brazil U18,,BRA,6h3,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+256,2:12.39,,Morocco U18,,MAR,3h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+256,2:12.39,,Kazakhstan U18,,KAZ,2,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
+258,2:12.41,,Italy U18,,ITA,1h3,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
+259,2:12.43,,Finland U18,,FIN,4h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+260,2:12.45,,Japan U18,,JPN,7f1,Ostrava (CZE),15 JUL 2007,,medley-relay,relays,female,u18
+261,2:12.48,,Latvia U18,,LAT,8,"Athletic track of National Arena Philip II, Skopje (MKD)",26 JUL 2025,,medley-relay,relays,female,u18
+262,2:12.52,,Spain U18,,ESP,3h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+263,2:12.54,,Slovak Republic U18,,SVK,4h1,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+264,2:12.56,,Slovenia U18,,SLO,4h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+265,2:12.62,,Greece U18,,GRE,3h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+266,2:12.66,,Bahamas U18,,BAH,6f1,Sherbrooke (CAN),13 JUL 2003,,medley-relay,relays,female,u18
+267,2:12.68,,New Zealand U18,,NZL,3h3,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+267,2:12.68,,Serbia U18,,SRB,4h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+269,2:12.69,,Bahamas U18,,BAH,4h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+270,2:12.70,,Austria U18,,AUT,7,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+271,2:12.71,,Japan U18,,JPN,5h1,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+272,2:12.72,,Switzerland U18,,SUI,2h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+272,2:12.72,,Croatia U18,,CRO,6h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+274,2:12.76,,Japan U18,,JPN,2h1,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+274,2:12.76,,"Hong Kong, China U18",,HKG,3,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
+276,2:12.77,,Slovenia U18,,SLO,6h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+277,2:12.83,,Ukraine U18,,UKR,1h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
+278,2:12.84,,Slovak Republic U18,,SVK,2,Budapest (HUN),04 JUL 2014,,medley-relay,relays,female,u18
+279,2:12.85,,Morocco U18,,MAR,8f1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,medley-relay,relays,female,u18
+280,2:12.87,,Romania U18,,ROU,7f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,medley-relay,relays,female,u18
+281,2:12.89,,Canada U18,,CAN,4h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+282,2:12.90,,Hunan Changsha Pilots Club,,CHN,2,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
+283,2:12.93,,France U18,,FRA,5,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+284,2:12.99,,Agram Zagreb U18,,CRO,,Čakovec (CRO),20 JUL 2008,,medley-relay,relays,female,u18
+285,2:13.00,,New Zealand U18,,NZL,5h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+285,2:13.00,,Slovenia U18,,SLO,2h1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+287,2:13.04,,Italy U18,,ITA,4h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+287,2:13.04,,Bahamas U18,,BAH,5h1,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+289,2:13.06,,Czech Republic U18,,CZE,1h2,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
+290,2:13.10,,Romania U18,,ROU,6,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+290,2:13.10,,Turkey U18,,TUR,5h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+292,2:13.11,,Ukraine U18,,UKR,5h1,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+292,2:13.11,,Portugal U18,,POR,5h1,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+294,2:13.13,,Hungary U18,,HUN,1,Miskolc (HUN),16 JUN 2017,,medley-relay,relays,female,u18
+295,2:13.17,,Slovenia U18,,SLO,6h2,Lille (FRA),09 JUL 2011,,medley-relay,relays,female,u18
+295,2:13.17,,Switzerland U18,,SUI,5h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+297,2:13.18,,Czech Republic U18,,CZE,1,Trnava (SVK),06 JUN 2015,,medley-relay,relays,female,u18
+298,2:13.19,,Poland U18,,POL,2h2,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
+299,2:13.21,,Poland U18,,POL,3h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18
+300,2:13.22,,Naša atletika Bratislava,,SVK,2f1,"Štadión SNP, Banská Bystrica (SVK)",15 JUN 2025,,medley-relay,relays,female,u18
+301,2:13.24,,Greece U18,,GRE,5h3,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+302,2:13.26,,Austria U18,,AUT,3h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+302,2:13.26,,Hungary U18,,HUN,3,"Sports Stadium CESA VUT, Brno (CZE)",29 JUN 2025,,medley-relay,relays,female,u18
+304,2:13.27,,Slovak Republic U18,,SVK,2,Hradec Králové (CZE),08 JUN 2013,,medley-relay,relays,female,u18
+304,2:13.27,,Novosibirsk Region U18,,RUS,2,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
+304,2:13.27,,Slovak Republic U18,,SVK,3,"Štadión PFK, Piešťany (SVK)",05 JUL 2024,,medley-relay,relays,female,u18
+307,2:13.36,,Enka Spor Istanbul U18,,TUR,1,"Denizli Geleneksel Spor Kompleksi, Denizli (TUR)",19 JUN 2022,,medley-relay,relays,female,u18
+308,2:13.39,,Poland U18,,POL,3h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+309,2:13.43,,Hungary U18,,HUN,4h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+310,2:13.44,,South Africa U18,,RSA,3h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+311,2:13.45,,Lódzkie U18,,POL,1,"Akademicki Związek Sportowy, Łódź (POL)",12 JUN 2021,,medley-relay,relays,female,u18
+311,2:13.45,,Spain U18,,ESP,7,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+313,2:13.47,,Slovak Republic U18,,SVK,4h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+314,2:13.51,,Romania U18,,ROU,7h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+315,2:13.54,,Slovenia U18,,SLO,2,Miskolc (HUN),16 JUN 2017,,medley-relay,relays,female,u18
+316,2:13.55,,Finland U18,,FIN,8h3,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+317,2:13.56,,India U18,,IND,4h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+318,2:13.57,,Switzerland U18,,SUI,8,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,medley-relay,relays,female,u18
+318,2:13.57,,PR of China U18,,CHN,4,Tashkent (UZB),30 APR 2023,,medley-relay,relays,female,u18
+320,2:13.59,,"MLADOST I, Zagreb",,CRO,1f2,"Stadion SRC Mladost, Čakovec (CRO)",16 JUN 2024,,medley-relay,relays,female,u18
+321,2:13.60,,Slovak Republic U18,,SVK,5h1,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+322,2:13.63,,Bahamas U18,,BAH,5h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+323,2:13.64,,Czech Republic U18,,CZE,3,Miskolc (HUN),16 JUN 2017,,medley-relay,relays,female,u18
+323,2:13.64,,Ireland U18,,IRL,4h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+325,2:13.66,,Hungary U18,,HUN,2h3,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
+326,2:13.68,,Serbia and Montenegro U18,,SCG,4h3,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,medley-relay,relays,female,u18
+327,2:13.69,,Hungary U18,,HUN,8f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,medley-relay,relays,female,u18
+328,2:13.71,,Slovak Republic U18,,SVK,2,Trnava (SVK),06 JUN 2015,,medley-relay,relays,female,u18
+329,2:13.75,,Sweden U18,,SWE,4h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+330,2:13.81,,Brazil U18,,BRA,2h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
+331,2:13.85,,Botswana U18,,BOT,6h1,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+332,2:13.88,,Kirovsk Region U18,,RUS,3,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
+333,2:13.90,,Enka Spor Istanbul U18,,TUR,1,Mersin (TUR),27 AUG 2021,,medley-relay,relays,female,u18
+334,2:13.92,,Slovak Republic U18,,SVK,4,"Sports Stadium CESA VUT, Brno (CZE)",29 JUN 2025,,medley-relay,relays,female,u18
+335,2:13.96,,Slovenia U18,,SLO,2h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
+335,2:13.96,,Oceania U18,,INT,4,Singapore (SGP),23 AUG 2010,,medley-relay,relays,female,u18
+337,2:13.99,,France U18,,FRA,3h1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+338,2:14.06,,Finland U18,,FIN,5h2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+338,2:14.06,,Denmark U18,,DEN,6h1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+340,2:14.09,,Slovenia U18,,SLO,6h3,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+340,2:14.09,,Lódzkie U18,,POL,1f1,"Akademicki Związek Sportowy, Łódź (POL)",03 OCT 2020,,medley-relay,relays,female,u18
+342,2:14.10,,Switzerland U18,,SUI,4h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+343,2:14.12,,Romania U18,,ROU,1h1,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
+344,2:14.13,,Lódzkie U18,,POL,1,"Stadion 650-lecia, Słupsk (POL)",13 MAY 2023,,medley-relay,relays,female,u18
+345,2:14.14,,Hubei Province Wuhan City Sports School Youth Sports Club,,CHN,3,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
+346,2:14.17,,Czech Republic U18,,CZE,3h2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,medley-relay,relays,female,u18
+347,2:14.18,,Turkey U18,,TUR,5h2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+347,2:14.18,,Slovenia U18,,SLO,4,"Mestni stadion, Ptuj (SLO)",11 JUN 2023,,medley-relay,relays,female,u18
+349,2:14.20,,Austria U18,,AUT,6h2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,medley-relay,relays,female,u18
+350,2:14.21,,Hungary U18,,HUN,3,Budapest (HUN),04 JUL 2014,,medley-relay,relays,female,u18
+351,2:14.23,,Estonia U18,,EST,6h3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+352,2:14.24,,Slovenia U18,,SLO,3,Trnava (SVK),06 JUN 2015,,medley-relay,relays,female,u18
+353,2:14.25,,"Hongao Youth Sports Club in Wuhu City , Anhui Province",,CHN,4,"Shanxi Sports Center Stadium, Taiyuan (CHN)",16 AUG 2019,,medley-relay,relays,female,u18
+354,2:14.26,,Luxembourg U18,,LUX,6h2,Banská Bystrica (SVK),20 JUL 2024,,medley-relay,relays,female,u18
+355,2:14.31,,Volgogradskaya Region U18,,RUS,4,Chelyabinsk (RUS),23 JUN 2013,,medley-relay,relays,female,u18
+356,2:14.37,,"AGRAM I , Zagreb",,CRO,1f2,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",04 JUN 2023,,medley-relay,relays,female,u18
+357,2:14.38,,Thailand U18,,THA,2,Al-Kuwait (KUW),16 OCT 2022,,medley-relay,relays,female,u18
+358,2:14.40,,Belarus U18,,BLR,4h1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+359,2:14.43,,Turkey U18,,TUR,3h2,Baku (AZE),26 JUL 2019,,medley-relay,relays,female,u18
+360,2:14.44,,Czech Republic U18,,CZE,4h2,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+361,2:14.46,,Czech Republic U18,,CZE,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",29 JUN 2022,,medley-relay,relays,female,u18
+362,2:14.47,,Romania U18,,ROU,7h2,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+363,2:14.52,,Croatia U18,,CRO,3h1,Debrecen (HUN),14 JUL 2001,,medley-relay,relays,female,u18
+364,2:14.53,,Kazakhstan U18,,KAZ,5h3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,medley-relay,relays,female,u18
+364,2:14.53,,Tunisia U18,,TUN,,Algiers (ALG),21 MAY 2010,,medley-relay,relays,female,u18
+366,2:14.54,,Ukraine U18,,UKR,3h2,Donetsk (UKR),13 JUL 2013,,medley-relay,relays,female,u18
+366,2:14.54,,Austria U18,,AUT,8,"Štadión SNP, Banská Bystrica (SVK)",30 JUL 2022,,medley-relay,relays,female,u18
+368,2:14.57,,Mexico U18,,MEX,3h2,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+368,2:14.57,,Sparta U18,,DEN,1,Hvidovre (DEN),22 AUG 2015,,medley-relay,relays,female,u18
+370,2:14.61,,Italy U18,,ITA,4h2,Sherbrooke (CAN),12 JUL 2003,,medley-relay,relays,female,u18
+370,2:14.61,,"AGRAM I , Zagreb",,CRO,2f2,"Stadion SRC Mladost, Čakovec (CRO)",16 JUN 2024,,medley-relay,relays,female,u18
+372,2:14.70,,Hungary U18,,HUN,2,Trnava (SVK),13 JUL 2019,,medley-relay,relays,female,u18
+373,2:14.71,,Hungary U18,,HUN,3h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,medley-relay,relays,female,u18
+374,2:14.73,,Serbia U18,,SRB,5h3,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,medley-relay,relays,female,u18
+375,2:14.74,,Luxembourg U18,,LUX,5h1,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,medley-relay,relays,female,u18
+376,2:14.76,,France U18,,FRA,2h1,"Štadión SNP, Banská Bystrica (SVK)",29 JUL 2022,,medley-relay,relays,female,u18
+377,2:14.79,,Austria U18,,AUT,5h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+377,2:14.79,,Śląskie U18,,POL,2,"Stadion 650-lecia, Słupsk (POL)",13 MAY 2023,,medley-relay,relays,female,u18
+379,2:14.85,,Croatia U18,,CRO,6h3,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,medley-relay,relays,female,u18
+380,2:14.87,,Dolnośląskie U18,,POL,2,"Akademicki Związek Sportowy, Łódź (POL)",12 JUN 2021,,medley-relay,relays,female,u18
+381,2:14.88,,British Virgin Islands U18,,IVB,4h2,Ostrava (CZE),14 JUL 2007,,medley-relay,relays,female,u18

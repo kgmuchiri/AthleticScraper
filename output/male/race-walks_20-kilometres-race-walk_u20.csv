@@ -112,15 +112,16 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 111,1:22:35,,Zelin CAI,11 APR 1991,CHN,1f2,Beijing (CHN),20 SEP 2010,1136,20-kilometres-race-walk,race-walks,male,u20
 112,1:22:36,,Xingde XU,12 JUN 1984,CHN,6,Chaoyang (CHN),26 MAY 2002,1135,20-kilometres-race-walk,race-walks,male,u20
 113,1:22:37,,Tomohiro NODA,24 JAN 1996,JPN,4,Takahata (JPN),26 OCT 2014,1135,20-kilometres-race-walk,race-walks,male,u20
-114,1:22:41,,Gaobo LI,23 JUL 1989,CHN,1,Yenking (CHN),04 SEP 2004,1133,20-kilometres-race-walk,race-walks,male,u20
-115,1:22:43,,Takumi SAITO,23 MAR 1993,JPN,25,"Olympic Stadium, London (GBR)",04 AUG 2012,1133,20-kilometres-race-walk,race-walks,male,u20
-115,1:22:43,,Koki IKEDA,03 MAY 1998,JPN,11,Nomi (JPN),19 MAR 2017,1133,20-kilometres-race-walk,race-walks,male,u20
-117,1:22:46,,Jianguo ZHAO,19 JAN 1988,CHN,3,Nanning (CHN),27 FEB 2005,1132,20-kilometres-race-walk,race-walks,male,u20
-118,1:22:48,,Guanyu SU,24 JUN 1994,CHN,1,Xintai (CHN),15 JUN 2012,1131,20-kilometres-race-walk,race-walks,male,u20
-118,1:22:48,,Misgana WAKUMA,05 JUL 2004,ETH,4,"Cote d'Or National Sports Complex, St Pierre (MRI)",12 JUN 2022,1131,20-kilometres-race-walk,race-walks,male,u20
-120,1:22:52,,Isaac BEACROFT,18 JUL 2007,AUS,6,"WMD, Adelaide (AUS)",16 FEB 2025,1130,20-kilometres-race-walk,race-walks,male,u20
-121,1:22:56,,Ning LU,12 FEB 1999,CHN,5,Taicang (CHN),07 MAY 2018,1128,20-kilometres-race-walk,race-walks,male,u20
-121,1:22:56,,Jinglong YANG,25 JUN 2006,CHN,13,Hefei (CHN),30 MAR 2025,1128,20-kilometres-race-walk,race-walks,male,u20
-123,1:22:58,,Shucai XING,04 AUG 1984,CHN,11,Yangzhou (CHN),12 APR 2003,1127,20-kilometres-race-walk,race-walks,male,u20
-124,1:22:59,,Yushi NAKAJIMA,29 JAN 2005,JPN,5,"Takahata Race Walk Course, Takahata (JPN)",27 OCT 2024,1127,20-kilometres-race-walk,race-walks,male,u20
-125,1:23:00,,Xu LIU,11 DEC 1994,CHN,2,Taicang (CHN),01 MAR 2013,1127,20-kilometres-race-walk,race-walks,male,u20
+113,1:22:37,,Isaac BEACROFT,18 JUL 2007,AUS,10,"Lohrheidestadion, Wattenscheid, Bochum (GER)",27 JUL 2025,1135,20-kilometres-race-walk,race-walks,male,u20
+115,1:22:41,,Gaobo LI,23 JUL 1989,CHN,1,Yenking (CHN),04 SEP 2004,1133,20-kilometres-race-walk,race-walks,male,u20
+116,1:22:43,,Takumi SAITO,23 MAR 1993,JPN,25,"Olympic Stadium, London (GBR)",04 AUG 2012,1133,20-kilometres-race-walk,race-walks,male,u20
+116,1:22:43,,Koki IKEDA,03 MAY 1998,JPN,11,Nomi (JPN),19 MAR 2017,1133,20-kilometres-race-walk,race-walks,male,u20
+118,1:22:46,,Jianguo ZHAO,19 JAN 1988,CHN,3,Nanning (CHN),27 FEB 2005,1132,20-kilometres-race-walk,race-walks,male,u20
+119,1:22:48,,Guanyu SU,24 JUN 1994,CHN,1,Xintai (CHN),15 JUN 2012,1131,20-kilometres-race-walk,race-walks,male,u20
+119,1:22:48,,Misgana WAKUMA,05 JUL 2004,ETH,4,"Cote d'Or National Sports Complex, St Pierre (MRI)",12 JUN 2022,1131,20-kilometres-race-walk,race-walks,male,u20
+121,1:22:52,,Isaac BEACROFT,18 JUL 2007,AUS,6,"WMD, Adelaide (AUS)",16 FEB 2025,1130,20-kilometres-race-walk,race-walks,male,u20
+122,1:22:56,,Ning LU,12 FEB 1999,CHN,5,Taicang (CHN),07 MAY 2018,1128,20-kilometres-race-walk,race-walks,male,u20
+122,1:22:56,,Jinglong YANG,25 JUN 2006,CHN,13,Hefei (CHN),30 MAR 2025,1128,20-kilometres-race-walk,race-walks,male,u20
+124,1:22:58,,Shucai XING,04 AUG 1984,CHN,11,Yangzhou (CHN),12 APR 2003,1127,20-kilometres-race-walk,race-walks,male,u20
+125,1:22:59,,Yushi NAKAJIMA,29 JAN 2005,JPN,5,"Takahata Race Walk Course, Takahata (JPN)",27 OCT 2024,1127,20-kilometres-race-walk,race-walks,male,u20
+126,1:23:00,,Xu LIU,11 DEC 1994,CHN,2,Taicang (CHN),01 MAR 2013,1127,20-kilometres-race-walk,race-walks,male,u20

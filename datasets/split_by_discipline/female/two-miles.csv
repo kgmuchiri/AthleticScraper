@@ -12,12 +12,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 11,9:10.47,,Meseret DEFAR,1983-11-19,ETH,1,"Carson, CA (USA)",2007-05-20,1199.0,two-miles,middlelong,female,senior,two-miles,track,550.47,USA,23.0,2007
 12,9:10.50,,Meseret DEFAR,1983-11-19,ETH,1,"Boston, MA (USA) (i)",2008-01-26,1224.0,two-miles,middlelong,female,senior,two-miles,track,550.5,USA,24.0,2008
 13,9:11.49,,Mercy CHERONO,1991-05-07,KEN,1,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1196.0,two-miles,middlelong,female,senior,two-miles,track,551.49,GBR,23.0,2014
-14,9:12.23,,Tirunesh DIBABA,1985-10-01,ETH,1,"National Indoor Arena, Birmingham (GBR) (i)",2010-02-20,1219.0,two-miles,middlelong,female,senior,two-miles,track,552.23,GBR,24.0,2010
+14,9:12.23,,Tirunesh DIBABA,1985-06-01,ETH,1,"National Indoor Arena, Birmingham (GBR) (i)",2010-02-20,1219.0,two-miles,middlelong,female,senior,two-miles,track,552.23,GBR,24.0,2010
 15,9:12.35,,Vivian Jepkemei CHERUIYOT,1983-09-11,KEN,2,"National Indoor Arena, Birmingham (GBR) (i)",2010-02-20,1218.0,two-miles,middlelong,female,senior,two-miles,track,552.35,GBR,26.0,2010
 16,9:12.59,,Viola Jelagat KIBIWOT,1983-12-22,KEN,2,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1193.0,two-miles,middlelong,female,senior,two-miles,track,552.59,GBR,30.0,2014
 17,9:12.68,,Sentayehu EJIGU,1985-06-28,ETH,3,"National Indoor Arena, Birmingham (GBR) (i)",2010-02-20,1217.0,two-miles,middlelong,female,senior,two-miles,track,552.68,GBR,24.0,2010
 18,9:12.90,,Irene JELAGAT,1988-12-10,KEN,3,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1192.0,two-miles,middlelong,female,senior,two-miles,track,552.9,GBR,25.0,2014
-19,9:13.17,,Tirunesh DIBABA,1985-10-01,ETH,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2013-02-02,1216.0,two-miles,middlelong,female,senior,two-miles,track,553.17,USA,27.0,2013
+19,9:13.17,,Tirunesh DIBABA,1985-06-01,ETH,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2013-02-02,1216.0,two-miles,middlelong,female,senior,two-miles,track,553.17,USA,27.0,2013
 20,9:13.27,,Mercy CHERONO,1991-05-07,KEN,1,"Hayward Field, Eugene, OR (USA)",2014-05-31,1190.0,two-miles,middlelong,female,senior,two-miles,track,553.27,USA,23.0,2014
 21,9:13.48,,Viola Jelagat KIBIWOT,1983-12-22,KEN,2,"Hayward Field, Eugene, OR (USA)",2014-05-31,1190.0,two-miles,middlelong,female,senior,two-miles,track,553.48,USA,30.0,2014
 22,9:13.85,,Mimi BELETE,1988-06-09,BRN,3,"Hayward Field, Eugene, OR (USA)",2014-05-31,1189.0,two-miles,middlelong,female,senior,two-miles,track,553.85,USA,25.0,2014
@@ -51,7 +51,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 50,9:21.04,,Sally KIPYEGO,1985-12-19,KEN,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2014-02-08,1190.0,two-miles,middlelong,female,senior,two-miles,track,561.04,USA,28.0,2014
 51,9:21.35,,Amy RUDOLPH,1973-09-18,USA,2,Cork City (IRL),1998-06-27,1165.0,two-miles,middlelong,female,senior,two-miles,track,561.35,IRL,24.0,1998
 52,9:21.59,,Hiwot AYALEW,1990-03-06,ETH,2,"National Indoor Arena, Birmingham (GBR) (i)",2014-02-15,1188.0,two-miles,middlelong,female,senior,two-miles,track,561.59,GBR,23.0,2014
-53,9:21.60,,Tirunesh DIBABA,1985-10-01,ETH,1,"Boston, MA (USA) (i)",2012-02-04,1188.0,two-miles,middlelong,female,senior,two-miles,track,561.6,USA,26.0,2012
+53,9:21.60,,Tirunesh DIBABA,1985-06-01,ETH,1,"Boston, MA (USA) (i)",2012-02-04,1188.0,two-miles,middlelong,female,senior,two-miles,track,561.6,USA,26.0,2012
 54,9:21.98,,Amy-Eloise MARKOVC,1995-08-05,GBR,5,"Hayward Field, Eugene, OR (USA)",2021-08-20,1163.0,two-miles,middlelong,female,senior,two-miles,track,561.98,USA,26.0,2021
 55,9:22.10,,Sally KIPYEGO,1985-12-19,KEN,5,"Hayward Field, Eugene, OR (USA)",2014-05-31,1162.0,two-miles,middlelong,female,senior,two-miles,track,562.1,USA,28.0,2014
 56,9:22.44,,Elise CRANNY,1996-05-09,USA,6,"Hayward Field, Eugene, OR (USA)",2021-08-20,1161.0,two-miles,middlelong,female,senior,two-miles,track,562.44,USA,25.0,2021

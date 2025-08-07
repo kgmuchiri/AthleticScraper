@@ -2,47 +2,50 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1,1:17:25.6h,,Bernardo SEGURA,1970-02-11,MEX,1,Fana (NOR),1994-05-07,1247,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4645.6,NOR,24,1994
 2,1:18:03.3h,,Lingtang BO,1970-08-12,CHN,1,Beijing (CHN),1994-04-07,1233,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4683.3,CHN,23,1994
 3,1:18:35.2h,,Stefan JOHANSSON,1967-04-11,SWE,1,Fana (NOR),1992-05-15,1222,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4715.2,NOR,25,1992
-4,1:18:40.0h,,Ernesto CANTO,1959-10-18,MEX,1,Fana (NOR),1984-05-05,1220,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4720.0,NOR,24,1984
-5,1:19:18.3h,,Ronald WEIGEL,1959-08-08,GDR,1,Bergen (NOR),1990-05-26,1206,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4758.3,NOR,30,1990
-6,1:19:22.5h,,Aleksey PERSHIN,1962-09-23,URS,1,Fana (NOR),1988-05-07,1204,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4762.5,NOR,25,1988
-7,1:19:24.1h,,Walter ARENA,1964-05-30,ITA,2,Bergen (NOR),1990-05-26,1204,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4764.1,NOR,26,1990
-8,1:19:42.0h,,Yohann DINIZ,1978-01-01,FRA,1,Bogny-sur-Meuse (FRA),2014-05-25,1197,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4782.0,FRA,36,2014
-9,1:19:48.1h,,Nathan DEAKES,1977-08-17,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-04,1195,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4788.1,AUS,24,2001
-10,1:19:52.0h,,Robert KORZENIOWSKI,1968-07-30,POL,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-04,1194,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4792.0,AUS,33,2001
-11,1:19:52.1h,,Caio BONFIM,1991-03-19,BRA,1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1194,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4792.1,BRA,33,2024
-12,1:19:54.0h,,Pavol BLAŽEK,1958-07-09,TCH,3,Bergen (NOR),1990-05-26,1193,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4794.0,NOR,31,1990
-13,1:20:06.8h,,Daniel BAUTISTA,1952-08-04,MEX,1,Montréal (CAN),1979-10-17,1188,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4806.8,CAN,27,1979
-14,1:20:11.72,,Gaobo LI,1989-07-23,CHN,1,Wuhan (CHN),2007-11-02,1187,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4811.72,CHN,18,2007
-15,1:20:12.00,,Nick A'HERN,1969-01-06,AUS,1,Fana (NOR),1993-05-08,1187,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4812.0,NOR,24,1993
-16,1:20:13.68,,Caio BONFIM,1991-03-19,BRA,1,Bragança Paulista (BRA),2021-04-25,1186,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4813.68,BRA,30,2021
-17,1:20:18.0h,,Nick A'HERN,1969-01-06,AUS,4,Bergen (NOR),1990-05-26,1184,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4818.0,NOR,21,1990
-18,1:20:22.52,,Gurmeet SINGH,1985-07-01,IND,1,Bhubaneshwar (IND),2012-02-03,1183,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4822.52,IND,26,2012
-19,1:20:23.8h,,Andrés CHOCHO,1983-11-04,ECU,1,Buenos Aires (ARG),2011-06-05,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4823.8,ARG,27,2011
-20,1:20:24.00,,Mingcai LI,1971-08-22,CHN,1,Jinan (CHN),1992-03-15,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4824.0,CHN,20,1992
-20,1:20:24.00,,Zewen LI,1973-12-05,CHN,1,Nanjing (CHN),1995-10-24,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4824.0,CHN,21,1995
-20,1:20:24.0h,,Max Batista GONCALVES DOS SANTOS,1994-10-09,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4824.0,BRA,29,2024
-23,1:20:31.00,,Shaoguo CHEN,1972-01-20,CHN,2,Jinan (CHN),1992-03-15,1180,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4831.0,CHN,20,1992
-24,1:20:35.00,,Xinyuan MAO,1971-07-02,CHN,3,Jinan (CHN),1992-03-15,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4835.0,CHN,20,1992
-25,1:20:36.0h,,Ernesto CANTO,1959-10-18,MEX,5,Bergen (NOR),1990-05-26,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4836.0,NOR,30,1990
-26,1:20:36.6h,,Gustavo Adolfo RESTREPO,1982-07-27,COL,2,Buenos Aires (ARG),2011-06-05,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4836.6,ARG,28,2011
-27,1:20:36.7h,,Erling ANDERSEN,1960-09-22,NOR,2,Fana (NOR),1984-05-05,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4836.7,NOR,23,1984
-28,1:20:37.8h,,Valdas KAZLAUSKAS,1958-02-23,URS,1,Moskva (URS),1983-09-16,1177,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4837.8,URS,25,1983
-29,1:20:40.00,,Yinhang WANG,1977-02-15,CHN,2,Nanjing (CHN),1995-10-24,1176,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4840.0,CHN,18,1995
-30,1:20:41.00,,Yevgeniy MISYULYA,1964-03-13,URS,1,Fana (NOR),1986-04-26,1176,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4841.0,NOR,22,1986
-31,1:20:47.00,,Daniel BAUTISTA,1952-08-04,MEX,1,Formia (ITA),1980-04-13,1174,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4847.0,ITA,27,1980
-31,1:20:47.0h,,Roman MRÁZEK,1962-01-21,TCH,6,Bergen (NOR),1990-05-26,1174,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4847.0,NOR,28,1990
-33,1:20:47.2h,,Yerko ARAYA,1986-02-14,CHI,3,Buenos Aires (ARG),2011-06-05,1174,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4847.2,ARG,25,2011
-34,1:20:49.13,,Matheus CORREA,1999-08-22,BRA,2,Bragança Paulista (BRA),2021-04-25,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4849.13,BRA,21,2021
-35,1:20:50.00,,Niantang TIAN,1972-03-01,CHN,5,Jinan (CHN),1992-03-15,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4850.0,CHN,20,1992
-35,1:20:50.00,,Yongsheng ZHOU,1972-10-15,CHN,4,Jinan (CHN),1992-03-15,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4850.0,CHN,19,1992
-37,1:20:51.00,,David SMITH,1955-07-24,AUS,1,Melbourne (AUS),1987-02-11,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4851.0,AUS,31,1987
-38,1:20:51.4h,,Matheus CORREA,1999-08-22,BRA,3,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1172,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4851.4,BRA,24,2024
-39,1:20:53.6h,,Luis Fernando LÓPEZ,1979-06-03,COL,1,Lima (PER),2009-06-21,1172,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4853.6,PER,30,2009
-40,1:20:54.00,,Ronald WEIGEL,1959-08-08,GDR,1,Berlin (GER),1983-03-27,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4854.0,GER,23,1983
-41,1:20:54.9h,,Jefferson PÉREZ,1974-07-01,ECU,1,Cali (COL),2008-07-05,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4854.9,COL,34,2008
-42,1:20:55.00,,Mingcai LI,1971-08-22,CHN,1,Fuxin (CHN),1994-09-17,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4855.0,CHN,23,1994
-43,1:20:56.5h,,Aigars FADEJEVS,1975-12-27,LAT,1,Södertälje (SWE),1996-05-25,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4856.5,SWE,20,1996
-44,1:20:57.00,,Erling ANDERSEN,1960-09-22,NOR,1,Trois-Rivieres (CAN),1980-09-24,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4857.0,CAN,20,1980
-45,1:20:58.00,,Pavol BLAŽEK,1958-07-09,TCH,1,Balassagyarmat (HUN),1990-09-22,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4858.0,HUN,32,1990
-46,1:20:58.5h,,Caio BONFIM,1991-03-19,BRA,4,Buenos Aires (ARG),2011-06-05,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4858.5,ARG,20,2011
-47,1:20:58.6h,,Domingo COLÍN,1952-08-04,MEX,1,Fana (NOR),1979-05-26,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4858.6,NOR,26,1979
+4,1:18:37.9h,,Caio BONFIM,1991-03-19,BRA,1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2025-07-31,1221,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4717.9,BRA,34,2025
+5,1:18:40.0h,,Ernesto CANTO,1959-10-18,MEX,1,Fana (NOR),1984-05-05,1220,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4720.0,NOR,24,1984
+6,1:19:18.3h,,Ronald WEIGEL,1959-08-08,GDR,1,Bergen (NOR),1990-05-26,1206,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4758.3,NOR,30,1990
+7,1:19:22.5h,,Aleksey PERSHIN,1962-09-23,URS,1,Fana (NOR),1988-05-07,1204,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4762.5,NOR,25,1988
+8,1:19:24.1h,,Walter ARENA,1964-05-30,ITA,2,Bergen (NOR),1990-05-26,1204,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4764.1,NOR,26,1990
+9,1:19:42.0h,,Yohann DINIZ,1978-01-01,FRA,1,Bogny-sur-Meuse (FRA),2014-05-25,1197,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4782.0,FRA,36,2014
+10,1:19:48.1h,,Nathan DEAKES,1977-08-17,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-04,1195,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4788.1,AUS,24,2001
+11,1:19:52.0h,,Robert KORZENIOWSKI,1968-07-30,POL,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-04,1194,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4792.0,AUS,33,2001
+12,1:19:52.1h,,Caio BONFIM,1991-03-19,BRA,1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1194,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4792.1,BRA,33,2024
+13,1:19:54.0h,,Pavol BLAŽEK,1958-07-09,TCH,3,Bergen (NOR),1990-05-26,1193,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4794.0,NOR,31,1990
+14,1:19:54.7h,,Matheus CORREA,1999-08-22,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2025-07-31,1193,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4794.7,BRA,25,2025
+15,1:20:06.8h,,Daniel BAUTISTA,1952-08-04,MEX,1,Montréal (CAN),1979-10-17,1188,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4806.8,CAN,27,1979
+16,1:20:11.72,,Gaobo LI,1989-07-23,CHN,1,Wuhan (CHN),2007-11-02,1187,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4811.72,CHN,18,2007
+17,1:20:12.00,,Nick A'HERN,1969-01-06,AUS,1,Fana (NOR),1993-05-08,1187,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4812.0,NOR,24,1993
+18,1:20:13.68,,Caio BONFIM,1991-03-19,BRA,1,Bragança Paulista (BRA),2021-04-25,1186,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4813.68,BRA,30,2021
+19,1:20:18.0h,,Nick A'HERN,1969-01-06,AUS,4,Bergen (NOR),1990-05-26,1184,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4818.0,NOR,21,1990
+20,1:20:22.52,,Gurmeet SINGH,1985-07-01,IND,1,Bhubaneshwar (IND),2012-02-03,1183,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4822.52,IND,26,2012
+21,1:20:23.8h,,Andrés CHOCHO,1983-11-04,ECU,1,Buenos Aires (ARG),2011-06-05,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4823.8,ARG,27,2011
+22,1:20:24.00,,Mingcai LI,1971-08-22,CHN,1,Jinan (CHN),1992-03-15,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4824.0,CHN,20,1992
+22,1:20:24.00,,Zewen LI,1973-12-05,CHN,1,Nanjing (CHN),1995-10-24,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4824.0,CHN,21,1995
+22,1:20:24.0h,,Max Batista GONCALVES DOS SANTOS,1994-10-09,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1182,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4824.0,BRA,29,2024
+25,1:20:31.00,,Shaoguo CHEN,1972-01-20,CHN,2,Jinan (CHN),1992-03-15,1180,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4831.0,CHN,20,1992
+26,1:20:35.00,,Xinyuan MAO,1971-07-02,CHN,3,Jinan (CHN),1992-03-15,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4835.0,CHN,20,1992
+27,1:20:35.1h,,Max Batista GONCALVES DOS SANTOS,1994-10-09,BRA,3,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2025-07-31,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4835.1,BRA,30,2025
+28,1:20:36.0h,,Ernesto CANTO,1959-10-18,MEX,5,Bergen (NOR),1990-05-26,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4836.0,NOR,30,1990
+29,1:20:36.6h,,Gustavo Adolfo RESTREPO,1982-07-27,COL,2,Buenos Aires (ARG),2011-06-05,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4836.6,ARG,28,2011
+30,1:20:36.7h,,Erling ANDERSEN,1960-09-22,NOR,2,Fana (NOR),1984-05-05,1178,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4836.7,NOR,23,1984
+31,1:20:37.8h,,Valdas KAZLAUSKAS,1958-02-23,URS,1,Moskva (URS),1983-09-16,1177,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4837.8,URS,25,1983
+32,1:20:40.00,,Yinhang WANG,1977-02-15,CHN,2,Nanjing (CHN),1995-10-24,1176,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4840.0,CHN,18,1995
+33,1:20:41.00,,Yevgeniy MISYULYA,1964-03-13,URS,1,Fana (NOR),1986-04-26,1176,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4841.0,NOR,22,1986
+34,1:20:47.00,,Daniel BAUTISTA,1952-08-04,MEX,1,Formia (ITA),1980-04-13,1174,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4847.0,ITA,27,1980
+34,1:20:47.0h,,Roman MRÁZEK,1962-01-21,TCH,6,Bergen (NOR),1990-05-26,1174,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4847.0,NOR,28,1990
+36,1:20:47.2h,,Yerko ARAYA,1986-02-14,CHI,3,Buenos Aires (ARG),2011-06-05,1174,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4847.2,ARG,25,2011
+37,1:20:49.13,,Matheus CORREA,1999-08-22,BRA,2,Bragança Paulista (BRA),2021-04-25,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4849.13,BRA,21,2021
+38,1:20:50.00,,Yongsheng ZHOU,1972-10-15,CHN,4,Jinan (CHN),1992-03-15,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4850.0,CHN,19,1992
+38,1:20:50.00,,Niantang TIAN,1972-03-01,CHN,5,Jinan (CHN),1992-03-15,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4850.0,CHN,20,1992
+40,1:20:51.00,,David SMITH,1955-07-24,AUS,1,Melbourne (AUS),1987-02-11,1173,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4851.0,AUS,31,1987
+41,1:20:51.4h,,Matheus CORREA,1999-08-22,BRA,3,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1172,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4851.4,BRA,24,2024
+42,1:20:53.6h,,Luis Fernando LÓPEZ,1979-06-03,COL,1,Lima (PER),2009-06-21,1172,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4853.6,PER,30,2009
+43,1:20:54.00,,Ronald WEIGEL,1959-08-08,GDR,1,Berlin (GER),1983-03-27,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4854.0,GER,23,1983
+44,1:20:54.9h,,Jefferson PÉREZ,1974-07-01,ECU,1,Cali (COL),2008-07-05,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4854.9,COL,34,2008
+45,1:20:55.00,,Mingcai LI,1971-08-22,CHN,1,Fuxin (CHN),1994-09-17,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4855.0,CHN,23,1994
+46,1:20:56.5h,,Aigars FADEJEVS,1975-12-27,LAT,1,Södertälje (SWE),1996-05-25,1171,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4856.5,SWE,20,1996
+47,1:20:57.00,,Erling ANDERSEN,1960-09-22,NOR,1,Trois-Rivieres (CAN),1980-09-24,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4857.0,CAN,20,1980
+48,1:20:58.00,,Pavol BLAŽEK,1958-07-09,TCH,1,Balassagyarmat (HUN),1990-09-22,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4858.0,HUN,32,1990
+49,1:20:58.5h,,Caio BONFIM,1991-03-19,BRA,4,Buenos Aires (ARG),2011-06-05,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4858.5,ARG,20,2011
+50,1:20:58.6h,,Domingo COLÍN,1952-08-04,MEX,1,Fana (NOR),1979-05-26,1170,20000-metres-race-walk,race-walks,male,senior,20000-metres-race-walk,track,4858.6,NOR,26,1979

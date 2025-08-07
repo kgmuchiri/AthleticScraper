@@ -23,8 +23,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 22,1:05:28,,Hellen Jemaiyo KIMUTAI,1977-12-28,KEN,1.0,Paris (FRA),2000-10-22,1145,20-kilometres,road-running,female,senior,20-kilometres,track,3928.0,FRA,22.0,2000
 23,1:05:30,,Mirriam WANGARI,1979-02-22,KEN,1.0,Paris (FRA),2009-10-11,1145,20-kilometres,road-running,female,senior,20-kilometres,track,3930.0,FRA,30.0,2009
 24,1:05:32,,Kayoko FUKUSHI,1982-03-25,JPN,6.0,Debrecen (HUN),2006-10-08,1144,20-kilometres,road-running,female,senior,20-kilometres,track,3932.0,HUN,24.0,2006
-25,1:05:36,,Cynthia JEROTICH,1989-12-18,KEN,1.0,Paris (FRA),2012-10-14,1142,20-kilometres,road-running,female,senior,20-kilometres,track,3936.0,FRA,22.0,2012
 25,1:05:36,,Yurika NAKAMURA,1986-04-01,JPN,7.0,Debrecen (HUN),2006-10-08,1142,20-kilometres,road-running,female,senior,20-kilometres,track,3936.0,HUN,20.0,2006
+25,1:05:36,,Cynthia JEROTICH,1989-12-18,KEN,1.0,Paris (FRA),2012-10-14,1142,20-kilometres,road-running,female,senior,20-kilometres,track,3936.0,FRA,22.0,2012
 27,1:05:38,,Megumi FUJIWARA,1969-06-19,JPN,2.0,Miyazaki (JPN),1993-01-06,1142,20-kilometres,road-running,female,senior,20-kilometres,track,3938.0,JPN,23.0,1993
 28,1:05:42,,Nataliya BERKUT,1975-05-30,UKR,8.0,Debrecen (HUN),2006-10-08,1140,20-kilometres,road-running,female,senior,20-kilometres,track,3942.0,HUN,31.0,2006
 28,1:05:42,,Elvan ABEYLEGESSE,1982-09-11,TUR,2.0,Paris (FRA),2012-10-14,1140,20-kilometres,road-running,female,senior,20-kilometres,track,3942.0,FRA,30.0,2012
@@ -36,8 +36,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 35,1:05:53,,Colleen DE REUCK,1964-04-13,USA,2.0,"New Haven, CT (USA)",2003-09-01,1136,20-kilometres,road-running,female,senior,20-kilometres,track,3953.0,USA,39.0,2003
 36,1:05:55,,Bikile AMBESU,2004-09-26,ETH,2.0,Paris (FRA),2024-10-13,1135,20-kilometres,road-running,female,senior,20-kilometres,track,3955.0,FRA,20.0,2024
 37,1:05:58,,Edith CHELIMO,1986-07-16,KEN,1.0,Cassis (FRA),2017-10-29,1134,20-kilometres,road-running,female,senior,20-kilometres,track,3958.0,FRA,31.0,2017
-38,1:06:02,,Gebeyanesh AYELE,1995-05-01,ETH,1.0,Paris (FRA),2017-10-08,1133,20-kilometres,road-running,female,senior,20-kilometres,track,3962.0,FRA,22.0,2017
 38,1:06:02,,Nancy Chepngetich KIMAIYO,,KEN,1.0,Paris (FRA),2015-10-11,1133,20-kilometres,road-running,female,senior,20-kilometres,track,3962.0,FRA,,2015
+38,1:06:02,,Gebeyanesh AYELE,1995-05-01,ETH,1.0,Paris (FRA),2017-10-08,1133,20-kilometres,road-running,female,senior,20-kilometres,track,3962.0,FRA,22.0,2017
 40,1:06:03,,Emily SISSON,1991-10-12,USA,2.0,"New Haven, CT (USA)",2016-09-05,1132,20-kilometres,road-running,female,senior,20-kilometres,track,3963.0,USA,24.0,2016
 41,1:06:06,,Stine LARSEN,1975-11-05,NOR,2.0,Alphen aan den Rijn (NED),2000-03-12,1131,20-kilometres,road-running,female,senior,20-kilometres,track,3966.0,NED,24.0,2000
 42,1:06:07,,Sarah CHEPCHIRCHIR,1984-07-27,KEN,1.0,Paris (FRA),2011-10-09,1131,20-kilometres,road-running,female,senior,20-kilometres,track,3967.0,FRA,27.0,2011
@@ -50,8 +50,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 47,1:06:15,,Teyba ERKESSO,1982-10-30,ETH,10.0,Debrecen (HUN),2006-10-08,1128,20-kilometres,road-running,female,senior,20-kilometres,track,3975.0,HUN,23.0,2006
 50,1:06:16,,Mirriam WANGARI,1979-02-22,KEN,2.0,Paris (FRA),2011-10-09,1128,20-kilometres,road-running,female,senior,20-kilometres,track,3976.0,FRA,32.0,2011
 50,1:06:16,,Susan JEPTOOO,1987-03-07,KEN,2.0,Paris (FRA),2017-10-08,1128,20-kilometres,road-running,female,senior,20-kilometres,track,3976.0,FRA,30.0,2017
-52,1:06:20,,Erika KEMP,1995-01-26,USA,1.0,"New Haven, CT (USA)",2021-09-06,1126,20-kilometres,road-running,female,senior,20-kilometres,track,3980.0,USA,26.0,2021
 52,1:06:20,,Anikó KÁLOVICS,1977-05-13,HUN,11.0,Debrecen (HUN),2006-10-08,1126,20-kilometres,road-running,female,senior,20-kilometres,track,3980.0,HUN,29.0,2006
+52,1:06:20,,Erika KEMP,1995-01-26,USA,1.0,"New Haven, CT (USA)",2021-09-06,1126,20-kilometres,road-running,female,senior,20-kilometres,track,3980.0,USA,26.0,2021
 54,1:06:21,,Hellen KIMAIYO-KIPKOSKEI,1968-09-08,KEN,1.0,Paris (FRA),1998-10-18,1126,20-kilometres,road-running,female,senior,20-kilometres,track,3981.0,FRA,30.0,1998
 54,1:06:21,,Pauline WANGUI,1984-07-17,KEN,1.0,Alphen aan den Rijn (NED),2010-03-07,1126,20-kilometres,road-running,female,senior,20-kilometres,track,3981.0,NED,25.0,2010
 56,1:06:24,,Rose CHELIMO,1989-07-12,KEN,3.0,Paris (FRA),2011-10-09,1125,20-kilometres,road-running,female,senior,20-kilometres,track,3984.0,FRA,22.0,2011
@@ -76,8 +76,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 75,1:06:34,,Jane Auro EKIMAT,1974-06-12,KEN,3.0,Paris (FRA),2003-10-19,1121,20-kilometres,road-running,female,senior,20-kilometres,track,3994.0,FRA,29.0,2003
 76,1:06:35,,Beatrice CHERONO,1994-08-12,KEN,4.0,Paris (FRA),2016-10-09,1121,20-kilometres,road-running,female,senior,20-kilometres,track,3995.0,FRA,22.0,2016
 76,1:06:35,,Jordan HASAY,1991-09-21,USA,1.0,"New Haven, CT (USA)",2017-09-04,1121,20-kilometres,road-running,female,senior,20-kilometres,track,3995.0,USA,25.0,2017
-78,1:06:36,,Mekdes WOLDU,1992-10-20,FRA,2.0,Paris (FRA),2023-10-08,1120,20-kilometres,road-running,female,senior,20-kilometres,track,3996.0,FRA,30.0,2023
 78,1:06:36,,Berhane ADERE,1973-11-23,ETH,1.0,Paris (FRA),1999-10-17,1120,20-kilometres,road-running,female,senior,20-kilometres,track,3996.0,FRA,25.0,1999
+78,1:06:36,,Mekdes WOLDU,1992-10-20,FRA,2.0,Paris (FRA),2023-10-08,1120,20-kilometres,road-running,female,senior,20-kilometres,track,3996.0,FRA,30.0,2023
 80,1:06:37,,Hellen KIMAIYO-KIPKOSKEI,1968-09-08,KEN,1.0,Paris (FRA),1993-10-17,1120,20-kilometres,road-running,female,senior,20-kilometres,track,3997.0,FRA,25.0,1993
 81,1:06:39,,Pauline WANGUI,1984-07-17,KEN,1.0,Alphen aan den Rijn (NED),2009-03-08,1119,20-kilometres,road-running,female,senior,20-kilometres,track,3999.0,NED,24.0,2009
 81,1:06:39,,Ednah KURGAT,1991-06-15,USA,2.0,"New Haven, CT (USA)",2023-09-04,1119,20-kilometres,road-running,female,senior,20-kilometres,track,3999.0,USA,32.0,2023

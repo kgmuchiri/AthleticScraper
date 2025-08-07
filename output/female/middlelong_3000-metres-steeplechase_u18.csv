@@ -130,7 +130,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 129,10:03.84,,Tigest Getent MEKONEN,07 JUL 1997,ETH,3,Turku (FIN),16 JUN 2013,1086,3000-metres-steeplechase,middlelong,female,u18
 130,10:04.01,,Tigest Getent MEKONEN,07 JUL 1997,ETH,1,Kessel-Lo (BEL),08 JUN 2013,1085,3000-metres-steeplechase,middlelong,female,u18
 131,10:04.4h,,Meseret YESHANEH,12 MAY 2005,ETH,12,Hawassa (ETH),31 MAR 2022,1085,3000-metres-steeplechase,middlelong,female,u18
-132,10:04.57,,Karolína JAROŠOVÁ,20 MAR 2006,CZE,1f1,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,1084,3000-metres-steeplechase,middlelong,female,u18
+132,10:04.57,,Karolína JAROŠOVÁ,20 MAR 2006,CZE,1,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,1084,3000-metres-steeplechase,middlelong,female,u18
 133,10:04.65,,Wosane ASEFA,03 JAN 2007,ETH,7,"Stade Omnisport de JAPOMA, Douala (CMR)",26 JUN 2024,1084,3000-metres-steeplechase,middlelong,female,u18
 134,10:04.73,,Halima HASSEN BERISO,10 NOV 1992,ETH,4,Addis Abeba (ETH),02 MAY 2009,1084,3000-metres-steeplechase,middlelong,female,u18
 135,10:04.75,,Poļina JEĻIZAROVA,01 MAY 1989,LAT,3,Kaunas (LTU),01 JUL 2006,1084,3000-metres-steeplechase,middlelong,female,u18
@@ -200,56 +200,57 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 199,10:14.59,,Tsehainesh TSALE,29 JAN 1993,ETH,8,Addis Abeba (ETH),02 MAY 2009,1060,3000-metres-steeplechase,middlelong,female,u18
 200,10:14.75,,Yabsera BETAW,27 DEC 1996,ETH,1,Addis Abeba (ETH),03 JUN 2012,1060,3000-metres-steeplechase,middlelong,female,u18
 201,10:14.80,,Cătălina OPREA,11 APR 1986,ROU,3,Bucureşti (ROU),10 AUG 2003,1060,3000-metres-steeplechase,middlelong,female,u18
-202,10:15.22,,Alisa VAINIO,16 NOV 1997,FIN,4,Jämsä (FIN),28 JUN 2014,1059,3000-metres-steeplechase,middlelong,female,u18
-203,10:15.26,,Mel LAWRENCE,29 AUG 1989,USA,1,"Indianapolis, IN (USA)",23 JUN 2006,1059,3000-metres-steeplechase,middlelong,female,u18
-204,10:15.32,,Grace FETHERSTONHAUGH,13 OCT 2000,CAN,1,Winnipeg (CAN),01 AUG 2017,1058,3000-metres-steeplechase,middlelong,female,u18
-205,10:15.6h,,Balemlay SHUMET,,ETH,16,Hawassa (ETH),31 MAR 2022,1058,3000-metres-steeplechase,middlelong,female,u18
-206,10:15.61,,Triza CHEROTICH,19 JAN 2004,KEN,8,"Nyayo National Stadium, Nairobi (KEN)",29 MAY 2021,1058,3000-metres-steeplechase,middlelong,female,u18
-207,10:15.71,,Ran SUN,10 MAY 1991,CHN,3,Suzhou (CHN),28 JUN 2008,1058,3000-metres-steeplechase,middlelong,female,u18
-208,10:15.73,,Sofia THØGERSEN,06 JUL 2005,DEN,4,Karlsruhe (GER),21 MAY 2022,1058,3000-metres-steeplechase,middlelong,female,u18
-209,10:15.77,,Melissa ROLLISON,13 APR 1983,AUS,1,Melbourne (AUS),18 MAR 1999,1057,3000-metres-steeplechase,middlelong,female,u18
-210,10:15.8h,,Karoline Bjerkeli GRØVDAL,14 JUN 1990,NOR,1,Straumsnes (NOR),03 JUN 2006,1057,3000-metres-steeplechase,middlelong,female,u18
-211,10:15.9h,,Ethlemahu SINTAYEHU,23 FEB 2001,ETH,2,Addis Abeba (ETH),18 MAY 2017,1057,3000-metres-steeplechase,middlelong,female,u18
-212,10:16.07,,Emily PIDGEON,01 JUN 1989,GBR,5,Watford (GBR),11 JUN 2005,1057,3000-metres-steeplechase,middlelong,female,u18
-213,10:16.2h,,Jacqueline CHERUTO,30 JUN 1991,KEN,1,Nairobi (KEN),17 MAY 2007,1056,3000-metres-steeplechase,middlelong,female,u18
-213,10:16.2h,,Meswat ASMARE,23 FEB 2001,ETH,2,Addis Abeba (ETH),31 JAN 2018,1056,3000-metres-steeplechase,middlelong,female,u18
-215,10:16.28,,Weynshet ANSA,09 APR 1996,ETH,1,Addis Abeba (ETH),16 MAR 2013,1056,3000-metres-steeplechase,middlelong,female,u18
-216,10:16.31,,Gréta VARGA,19 DEC 2003,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",12 SEP 2020,1056,3000-metres-steeplechase,middlelong,female,u18
-217,10:16.6h,,Ruth WAITHERA,1990,KEN,7,Nairobi (KEN),18 JUN 2005,1055,3000-metres-steeplechase,middlelong,female,u18
-218,10:16.62,,Ronja FUNCK,10 OCT 2004,GER,5,"Kadrioru staadion, Tallinn (EST)",17 JUL 2021,1055,3000-metres-steeplechase,middlelong,female,u18
-219,10:16.7h,,Triza CHEROTICH,19 JAN 2004,KEN,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",05 MAR 2020,1055,3000-metres-steeplechase,middlelong,female,u18
-220,10:16.99,,Yanni ZHAO,09 JAN 1991,CHN,5,Changsha (CHN),28 OCT 2006,1055,3000-metres-steeplechase,middlelong,female,u18
-221,10:17.23,,Triza CHEROTICH,19 JAN 2004,KEN,6,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1054,3000-metres-steeplechase,middlelong,female,u18
-222,10:17.27,,Karoline Bjerkeli GRØVDAL,14 JUN 1990,NOR,1,Banská Bystrica (SVK),17 JUN 2006,1054,3000-metres-steeplechase,middlelong,female,u18
-223,10:17.3h,,Ruth WAITHERA,1990,KEN,5,Nairobi (KEN),25 JUN 2005,1054,3000-metres-steeplechase,middlelong,female,u18
-223,10:17.3h,,Tabitha CHELAGAT,02 APR 1989,KEN,3,Nairobi (KEN),01 JUL 2006,1054,3000-metres-steeplechase,middlelong,female,u18
-223,10:17.3h,,Tabitha CHELAGAT,02 APR 1989,KEN,3,Kasarani (KEN),01 JUL 2006,1054,3000-metres-steeplechase,middlelong,female,u18
-223,10:17.30,,Trihas GEBRE,29 APR 1990,ETH,3,Ouagadougou (BUR),12 AUG 2007,1054,3000-metres-steeplechase,middlelong,female,u18
-227,10:17.35,,Wanhua TIAN,24 FEB 1999,CHN,3,Zhengzhou (CHN),14 MAY 2016,1054,3000-metres-steeplechase,middlelong,female,u18
-228,10:17.46,,Wanhua TIAN,24 FEB 1999,CHN,4,Tianjin (CHN),14 SEP 2016,1053,3000-metres-steeplechase,middlelong,female,u18
-229,10:17.5h,,Stella RUTTO,16 DEC 1999,KEN,2,Nyeri (KEN),12 JUN 2015,1053,3000-metres-steeplechase,middlelong,female,u18
-230,10:17.52,,Emebet KEBEDE,10 JAN 2004,ETH,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1053,3000-metres-steeplechase,middlelong,female,u18
-231,10:17.58,,Huan WANG,1991,CHN,2,Luohe (CHN),13 SEP 2008,1053,3000-metres-steeplechase,middlelong,female,u18
-232,10:17.63,,Hong WANG,03 JAN 1989,CHN,6,Changsha (CHN),28 OCT 2006,1053,3000-metres-steeplechase,middlelong,female,u18
-233,10:17.70,,Judy CHEPKOECH,01 AUG 2006,KEN,7,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1053,3000-metres-steeplechase,middlelong,female,u18
-234,10:17.79,,Jing WANG,18 SEP 1995,CHN,9,Hefei (CHN),10 SEP 2011,1053,3000-metres-steeplechase,middlelong,female,u18
-235,10:17.8h,,Dorcas NZEMBI,22 DEC 1997,KEN,4,Nairobi (KEN),16 MAY 2013,1053,3000-metres-steeplechase,middlelong,female,u18
-236,10:17.84,,Mel LAWRENCE,29 AUG 1989,USA,10,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1053,3000-metres-steeplechase,middlelong,female,u18
-237,10:17.86,,Nancy CHEPKWURUI,14 JUN 2007,UGA,11,"Nyayo National Stadium, Nairobi (KEN)",20 APR 2024,1052,3000-metres-steeplechase,middlelong,female,u18
-238,10:17.9h,,Sembo ALMAYEW,24 JAN 2005,ETH,4,Addis Abeba (ETH),16 JAN 2021,1052,3000-metres-steeplechase,middlelong,female,u18
-239,10:18.1h,,Veronica Jepkosgei NGOSOSEI,1993,KEN,4,Nairobi (KEN),17 JUN 2010,1052,3000-metres-steeplechase,middlelong,female,u18
-240,10:18.20,,Lili Anna TÓTH,17 SEP 1998,HUN,3,Debrecen (HUN),05 SEP 2015,1052,3000-metres-steeplechase,middlelong,female,u18
-241,10:18.3h,,Celliphine Chepteek CHESPOL,23 MAR 1999,KEN,3,Nyeri (KEN),12 JUN 2015,1051,3000-metres-steeplechase,middlelong,female,u18
-242,10:18.46,,Yekaterina SOKOLOVA,1988,BLR,1,Minsk (BLR),24 JUN 2005,1051,3000-metres-steeplechase,middlelong,female,u18
-243,10:18.6h,,Fancy CHERONO,02 AUG 2001,KEN,1,Nairobi (KEN),14 JUN 2017,1051,3000-metres-steeplechase,middlelong,female,u18
-244,10:18.7h,,Betty Chepkemoi KIBET,03 APR 2000,KEN,3,Nairobi (KEN),17 FEB 2015,1051,3000-metres-steeplechase,middlelong,female,u18
-245,10:19.0h,,Veronica Jepkosgei NGOSOSEI,1993,KEN,5h2,Nairobi (KEN),24 JUN 2010,1050,3000-metres-steeplechase,middlelong,female,u18
-246,10:19.1h,,Jepkemei TANUI,1994,KEN,6h1,Nairobi (KEN),14 JUL 2011,1050,3000-metres-steeplechase,middlelong,female,u18
-247,10:19.24,,Ancuţa BOBOCEL,03 OCT 1987,ROU,1,Bucureşti (ROU),30 MAY 2004,1049,3000-metres-steeplechase,middlelong,female,u18
-248,10:19.62,,Qiongqiong MA,25 AUG 1989,CHN,1,Jinzhou (CHN),31 AUG 2006,1048,3000-metres-steeplechase,middlelong,female,u18
-249,10:19.82,,Loice CHEKWEMOI,12 DEC 2006,UGA,1,"Mandela National Stadium, Kampala (UGA)",24 JUN 2022,1048,3000-metres-steeplechase,middlelong,female,u18
-250,10:19.84,,Alemtsehay MEKURIA,16 OCT 2005,ETH,6,Assela (ETH),26 MAY 2018,1048,3000-metres-steeplechase,middlelong,female,u18
-251,10:19.85,,Alisa VAINIO,16 NOV 1997,FIN,5,Lahti (FIN),14 JUN 2014,1048,3000-metres-steeplechase,middlelong,female,u18
-252,10:19.92,,Huan WANG,1991,CHN,2h2,Beijing (CHN),23 MAY 2008,1048,3000-metres-steeplechase,middlelong,female,u18
-253,10:19.93,,Peruth CHEMUTAI,10 JUL 1999,UGA,2,Kampala (UGA),18 JUL 2015,1048,3000-metres-steeplechase,middlelong,female,u18
-254,10:20.0h,,Lydia Cheptarus CHERUIYOT,27 JAN 2000,KEN,2,Nairobi (KEN),14 JUN 2017,1047,3000-metres-steeplechase,middlelong,female,u18
+202,10:14.91,,Fanny SZALKAI,08 OCT 2008,SWE,1,"Sollentunavallen, Sollentuna (SWE)",12 JUL 2025,1059,3000-metres-steeplechase,middlelong,female,u18
+203,10:15.22,,Alisa VAINIO,16 NOV 1997,FIN,4,Jämsä (FIN),28 JUN 2014,1059,3000-metres-steeplechase,middlelong,female,u18
+204,10:15.26,,Mel LAWRENCE,29 AUG 1989,USA,1,"Indianapolis, IN (USA)",23 JUN 2006,1059,3000-metres-steeplechase,middlelong,female,u18
+205,10:15.32,,Grace FETHERSTONHAUGH,13 OCT 2000,CAN,1,Winnipeg (CAN),01 AUG 2017,1058,3000-metres-steeplechase,middlelong,female,u18
+206,10:15.6h,,Balemlay SHUMET,,ETH,16,Hawassa (ETH),31 MAR 2022,1058,3000-metres-steeplechase,middlelong,female,u18
+207,10:15.61,,Triza CHEROTICH,19 JAN 2004,KEN,8,"Nyayo National Stadium, Nairobi (KEN)",29 MAY 2021,1058,3000-metres-steeplechase,middlelong,female,u18
+208,10:15.71,,Ran SUN,10 MAY 1991,CHN,3,Suzhou (CHN),28 JUN 2008,1058,3000-metres-steeplechase,middlelong,female,u18
+209,10:15.73,,Sofia THØGERSEN,06 JUL 2005,DEN,4,Karlsruhe (GER),21 MAY 2022,1058,3000-metres-steeplechase,middlelong,female,u18
+210,10:15.77,,Melissa ROLLISON,13 APR 1983,AUS,1,Melbourne (AUS),18 MAR 1999,1057,3000-metres-steeplechase,middlelong,female,u18
+211,10:15.8h,,Karoline Bjerkeli GRØVDAL,14 JUN 1990,NOR,1,Straumsnes (NOR),03 JUN 2006,1057,3000-metres-steeplechase,middlelong,female,u18
+212,10:15.9h,,Ethlemahu SINTAYEHU,23 FEB 2001,ETH,2,Addis Abeba (ETH),18 MAY 2017,1057,3000-metres-steeplechase,middlelong,female,u18
+213,10:16.07,,Emily PIDGEON,01 JUN 1989,GBR,5,Watford (GBR),11 JUN 2005,1057,3000-metres-steeplechase,middlelong,female,u18
+214,10:16.2h,,Jacqueline CHERUTO,30 JUN 1991,KEN,1,Nairobi (KEN),17 MAY 2007,1056,3000-metres-steeplechase,middlelong,female,u18
+214,10:16.2h,,Meswat ASMARE,23 FEB 2001,ETH,2,Addis Abeba (ETH),31 JAN 2018,1056,3000-metres-steeplechase,middlelong,female,u18
+216,10:16.28,,Weynshet ANSA,09 APR 1996,ETH,1,Addis Abeba (ETH),16 MAR 2013,1056,3000-metres-steeplechase,middlelong,female,u18
+217,10:16.31,,Gréta VARGA,19 DEC 2003,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",12 SEP 2020,1056,3000-metres-steeplechase,middlelong,female,u18
+218,10:16.6h,,Ruth WAITHERA,1990,KEN,7,Nairobi (KEN),18 JUN 2005,1055,3000-metres-steeplechase,middlelong,female,u18
+219,10:16.62,,Ronja FUNCK,10 OCT 2004,GER,5,"Kadrioru staadion, Tallinn (EST)",17 JUL 2021,1055,3000-metres-steeplechase,middlelong,female,u18
+220,10:16.7h,,Triza CHEROTICH,19 JAN 2004,KEN,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",05 MAR 2020,1055,3000-metres-steeplechase,middlelong,female,u18
+221,10:16.99,,Yanni ZHAO,09 JAN 1991,CHN,5,Changsha (CHN),28 OCT 2006,1055,3000-metres-steeplechase,middlelong,female,u18
+222,10:17.23,,Triza CHEROTICH,19 JAN 2004,KEN,6,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1054,3000-metres-steeplechase,middlelong,female,u18
+223,10:17.27,,Karoline Bjerkeli GRØVDAL,14 JUN 1990,NOR,1,Banská Bystrica (SVK),17 JUN 2006,1054,3000-metres-steeplechase,middlelong,female,u18
+224,10:17.3h,,Ruth WAITHERA,1990,KEN,5,Nairobi (KEN),25 JUN 2005,1054,3000-metres-steeplechase,middlelong,female,u18
+224,10:17.3h,,Tabitha CHELAGAT,02 APR 1989,KEN,3,Nairobi (KEN),01 JUL 2006,1054,3000-metres-steeplechase,middlelong,female,u18
+224,10:17.3h,,Tabitha CHELAGAT,02 APR 1989,KEN,3,Kasarani (KEN),01 JUL 2006,1054,3000-metres-steeplechase,middlelong,female,u18
+224,10:17.30,,Trihas GEBRE,29 APR 1990,ETH,3,Ouagadougou (BUR),12 AUG 2007,1054,3000-metres-steeplechase,middlelong,female,u18
+228,10:17.35,,Wanhua TIAN,24 FEB 1999,CHN,3,Zhengzhou (CHN),14 MAY 2016,1054,3000-metres-steeplechase,middlelong,female,u18
+229,10:17.46,,Wanhua TIAN,24 FEB 1999,CHN,4,Tianjin (CHN),14 SEP 2016,1053,3000-metres-steeplechase,middlelong,female,u18
+230,10:17.5h,,Stella RUTTO,16 DEC 1999,KEN,2,Nyeri (KEN),12 JUN 2015,1053,3000-metres-steeplechase,middlelong,female,u18
+231,10:17.52,,Emebet KEBEDE,10 JAN 2004,ETH,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1053,3000-metres-steeplechase,middlelong,female,u18
+232,10:17.58,,Huan WANG,1991,CHN,2,Luohe (CHN),13 SEP 2008,1053,3000-metres-steeplechase,middlelong,female,u18
+233,10:17.63,,Hong WANG,03 JAN 1989,CHN,6,Changsha (CHN),28 OCT 2006,1053,3000-metres-steeplechase,middlelong,female,u18
+234,10:17.70,,Judy CHEPKOECH,01 AUG 2006,KEN,7,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1053,3000-metres-steeplechase,middlelong,female,u18
+235,10:17.79,,Jing WANG,18 SEP 1995,CHN,9,Hefei (CHN),10 SEP 2011,1053,3000-metres-steeplechase,middlelong,female,u18
+236,10:17.8h,,Dorcas NZEMBI,22 DEC 1997,KEN,4,Nairobi (KEN),16 MAY 2013,1053,3000-metres-steeplechase,middlelong,female,u18
+237,10:17.84,,Mel LAWRENCE,29 AUG 1989,USA,10,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1053,3000-metres-steeplechase,middlelong,female,u18
+238,10:17.86,,Nancy CHEPKWURUI,14 JUN 2007,UGA,11,"Nyayo National Stadium, Nairobi (KEN)",20 APR 2024,1052,3000-metres-steeplechase,middlelong,female,u18
+239,10:17.9h,,Sembo ALMAYEW,24 JAN 2005,ETH,4,Addis Abeba (ETH),16 JAN 2021,1052,3000-metres-steeplechase,middlelong,female,u18
+240,10:18.1h,,Veronica Jepkosgei NGOSOSEI,1993,KEN,4,Nairobi (KEN),17 JUN 2010,1052,3000-metres-steeplechase,middlelong,female,u18
+241,10:18.20,,Lili Anna TÓTH,17 SEP 1998,HUN,3,Debrecen (HUN),05 SEP 2015,1052,3000-metres-steeplechase,middlelong,female,u18
+242,10:18.3h,,Celliphine Chepteek CHESPOL,23 MAR 1999,KEN,3,Nyeri (KEN),12 JUN 2015,1051,3000-metres-steeplechase,middlelong,female,u18
+243,10:18.46,,Yekaterina SOKOLOVA,1988,BLR,1,Minsk (BLR),24 JUN 2005,1051,3000-metres-steeplechase,middlelong,female,u18
+244,10:18.6h,,Fancy CHERONO,02 AUG 2001,KEN,1,Nairobi (KEN),14 JUN 2017,1051,3000-metres-steeplechase,middlelong,female,u18
+245,10:18.7h,,Betty Chepkemoi KIBET,03 APR 2000,KEN,3,Nairobi (KEN),17 FEB 2015,1051,3000-metres-steeplechase,middlelong,female,u18
+246,10:19.0h,,Veronica Jepkosgei NGOSOSEI,1993,KEN,5h2,Nairobi (KEN),24 JUN 2010,1050,3000-metres-steeplechase,middlelong,female,u18
+247,10:19.1h,,Jepkemei TANUI,1994,KEN,6h1,Nairobi (KEN),14 JUL 2011,1050,3000-metres-steeplechase,middlelong,female,u18
+248,10:19.24,,Ancuţa BOBOCEL,03 OCT 1987,ROU,1,Bucureşti (ROU),30 MAY 2004,1049,3000-metres-steeplechase,middlelong,female,u18
+249,10:19.62,,Qiongqiong MA,25 AUG 1989,CHN,1,Jinzhou (CHN),31 AUG 2006,1048,3000-metres-steeplechase,middlelong,female,u18
+250,10:19.82,,Loice CHEKWEMOI,12 DEC 2006,UGA,1,"Mandela National Stadium, Kampala (UGA)",24 JUN 2022,1048,3000-metres-steeplechase,middlelong,female,u18
+251,10:19.84,,Alemtsehay MEKURIA,16 OCT 2005,ETH,6,Assela (ETH),26 MAY 2018,1048,3000-metres-steeplechase,middlelong,female,u18
+252,10:19.85,,Alisa VAINIO,16 NOV 1997,FIN,5,Lahti (FIN),14 JUN 2014,1048,3000-metres-steeplechase,middlelong,female,u18
+253,10:19.92,,Huan WANG,1991,CHN,2h2,Beijing (CHN),23 MAY 2008,1048,3000-metres-steeplechase,middlelong,female,u18
+254,10:19.93,,Peruth CHEMUTAI,10 JUL 1999,UGA,2,Kampala (UGA),18 JUL 2015,1048,3000-metres-steeplechase,middlelong,female,u18
+255,10:20.0h,,Lydia Cheptarus CHERUIYOT,27 JAN 2000,KEN,2,Nairobi (KEN),14 JUN 2017,1047,3000-metres-steeplechase,middlelong,female,u18

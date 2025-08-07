@@ -33,8 +33,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 32,4:52.40,,José Manuel ABASCAL,1958-03-17,ESP,1.0,Santander (ESP),1986-09-07,1210,2000-metres,middlelong,male,senior,2000-metres,track,292.4,ESP,28.0,1986
 33,4:52.44,,Jim SPIVEY,1960-03-07,USA,1.0,Lausanne (SUI),1987-09-15,1210,2000-metres,middlelong,male,senior,2000-metres,track,292.44,SUI,27.0,1987
 34,4:52.53,,Moses KIPTANUI,1970-10-01,KEN,1.0,"Olympiastadion, Berlin (GER)",1992-08-21,1209,2000-metres,middlelong,male,senior,2000-metres,track,292.53,GER,21.0,1992
-35,4:52.82,,Luke KIPKOSGEI,1975-11-27,KEN,2.0,Bratislava (SVK),1998-06-09,1206,2000-metres,middlelong,male,senior,2000-metres,track,292.82,SVK,22.0,1998
 35,4:52.82,,Peter ELLIOTT,1962-10-09,GBR,2.0,Lausanne (SUI),1987-09-15,1206,2000-metres,middlelong,male,senior,2000-metres,track,292.82,SUI,24.0,1987
+35,4:52.82,,Luke KIPKOSGEI,1975-11-27,KEN,2.0,Bratislava (SVK),1998-06-09,1206,2000-metres,middlelong,male,senior,2000-metres,track,292.82,SVK,22.0,1998
 37,4:52.86,,Haile GEBRSELASSIE,1973-04-18,ETH,1.0,Birmingham (GBR) (i),1998-02-15,1249,2000-metres,middlelong,male,senior,2000-metres,track,292.86,GBR,24.0,1998
 38,4:52.88,,Ismail SGHYR,1972-03-16,MAR,2.0,Nice (FRA),1995-07-12,1205,2000-metres,middlelong,male,senior,2000-metres,track,292.88,FRA,23.0,1995
 39,4:52.90,,Sergio SÁNCHEZ,1982-10-01,ESP,1.0,Oviedo (ESP) (i),2010-01-23,1249,2000-metres,middlelong,male,senior,2000-metres,track,292.9,ESP,27.0,2010
@@ -87,8 +87,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 86,4:55.79,,Tom NYARIKI,1971-09-27,KEN,3.0,Rieti (ITA),1997-09-03,1176,2000-metres,middlelong,male,senior,2000-metres,track,295.79,ITA,25.0,1997
 87,4:55.82,,Steve SCOTT,1956-05-05,USA,3.0,Rieti (ITA),1985-09-04,1175,2000-metres,middlelong,male,senior,2000-metres,track,295.82,ITA,29.0,1985
 88,4:55.92,,Enock KOECH,1981-04-04,KEN,3.0,"Olympiastadion, Berlin (GER)",2001-08-31,1174,2000-metres,middlelong,male,senior,2000-metres,track,295.92,GER,20.0,2001
-89,4:56.08,,Alberto GARCÍA,1971-02-22,ESP,4.0,Rieti (ITA),1997-09-03,1173,2000-metres,middlelong,male,senior,2000-metres,track,296.08,ITA,26.0,1997
 89,4:56.08,,Azzeddine SEDIKI,1970-05-21,MAR,3.0,"Stadio Olimpico, Roma (ITA)",1995-06-08,1173,2000-metres,middlelong,male,senior,2000-metres,track,296.08,ITA,25.0,1995
+89,4:56.08,,Alberto GARCÍA,1971-02-22,ESP,4.0,Rieti (ITA),1997-09-03,1173,2000-metres,middlelong,male,senior,2000-metres,track,296.08,ITA,26.0,1997
 91,4:56.09,,Laban ROTICH,1969-01-20,KEN,1.0,Birmingham (GBR) (i),1999-02-14,1215,2000-metres,middlelong,male,senior,2000-metres,track,296.09000000000003,GBR,30.0,1999
 92,4:56.10,,Christophe IMPENS,1969-12-09,BEL,7.0,Nice (FRA),1996-07-10,1172,2000-metres,middlelong,male,senior,2000-metres,track,296.1,FRA,26.0,1996
 93,4:56.13,,Elzan BIBIĆ,1999-01-08,SRB,4.0,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1172,2000-metres,middlelong,male,senior,2000-metres,track,296.13,CRO,25.0,2024
@@ -104,8 +104,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 103,4:56.43,,Ali SAIDI-SIEF,1978-03-15,ALG,1.0,Viareggio (ITA),1999-08-13,1169,2000-metres,middlelong,male,senior,2000-metres,track,296.43,ITA,21.0,1999
 104,4:56.5h,,Johan FOURIE,1959-12-02,RSA,1.0,Stellenbosch (RSA),1984-04-23,1168,2000-metres,middlelong,male,senior,2000-metres,track,296.5,RSA,24.0,1984
 105,4:56.51,,Pierre DÉLÈZE,1958-08-25,SUI,1.0,Bern (SUI),1983-08-03,1168,2000-metres,middlelong,male,senior,2000-metres,track,296.51,SUI,24.0,1983
-106,4:56.56,,Mehdi BAALA,1978-08-17,FRA,1.0,Villeneuve d'Ascq (FRA),2007-06-08,1168,2000-metres,middlelong,male,senior,2000-metres,track,296.56,FRA,28.0,2007
 106,4:56.56,,Gert-Jan LIEFERS,1978-09-26,NED,4.0,"Olympiastadion, Berlin (GER)",2001-08-31,1168,2000-metres,middlelong,male,senior,2000-metres,track,296.56,GER,22.0,2001
+106,4:56.56,,Mehdi BAALA,1978-08-17,FRA,1.0,Villeneuve d'Ascq (FRA),2007-06-08,1168,2000-metres,middlelong,male,senior,2000-metres,track,296.56,FRA,28.0,2007
 108,4:56.62,,Shadrack KORIR,1978-12-14,KEN,5.0,"Olympiastadion, Berlin (GER)",2001-08-31,1167,2000-metres,middlelong,male,senior,2000-metres,track,296.62,GER,22.0,2001
 109,4:56.70,,Pascal THIÉBAUT,1959-06-06,FRA,2.0,Paris (FRA),1987-07-16,1166,2000-metres,middlelong,male,senior,2000-metres,track,296.7,FRA,28.0,1987
 110,4:56.75,,John MAYOCK,1970-10-26,GBR,4.0,Stockholm (SWE),1999-07-30,1166,2000-metres,middlelong,male,senior,2000-metres,track,296.75,SWE,28.0,1999
@@ -120,9 +120,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 119,4:56.99,,David TORRENCE,1985-11-26,USA,3.0,"New York, NY (USA) (i)",2014-02-15,1206,2000-metres,middlelong,male,senior,2000-metres,track,296.99,USA,28.0,2014
 120,4:57.00,,Samuel ZELEKE,1999-03-09,ETH,1.0,"Arena Stade Couvert, Liévin (FRA) (i)",2022-02-17,1205,2000-metres,middlelong,male,senior,2000-metres,track,297.0,FRA,22.0,2022
 121,4:57.01,,Marcus O'SULLIVAN,1961-12-22,IRL,2.0,Paris (FRA),1995-07-03,1163,2000-metres,middlelong,male,senior,2000-metres,track,297.01,FRA,33.0,1995
+122,4:57.09,,John MAYOCK,1970-10-26,GBR,2.0,Liévin (FRA) (i),2001-02-25,1205,2000-metres,middlelong,male,senior,2000-metres,track,297.09000000000003,FRA,30.0,2001
 122,4:57.09,,Marcin LEWANDOWSKI,1987-06-13,POL,2.0,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2020-08-19,1162,2000-metres,middlelong,male,senior,2000-metres,track,297.09000000000003,POL,33.0,2020
 122,4:57.09,,Adam FOGG,1999-01-27,GBR,8.0,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1162,2000-metres,middlelong,male,senior,2000-metres,track,297.09000000000003,CRO,25.0,2024
-122,4:57.09,,John MAYOCK,1970-10-26,GBR,2.0,Liévin (FRA) (i),2001-02-25,1205,2000-metres,middlelong,male,senior,2000-metres,track,297.09000000000003,FRA,30.0,2001
 125,4:57.1h,,Willy POLLEUNIS,1947-12-27,BEL,1.0,Leuven (BEL),1978-09-21,1162,2000-metres,middlelong,male,senior,2000-metres,track,297.1,BEL,30.0,1978
 126,4:57.12,,Tom NYARIKI,1971-09-27,KEN,3.0,Bratislava (SVK),1998-06-09,1162,2000-metres,middlelong,male,senior,2000-metres,track,297.12,SVK,26.0,1998
 127,4:57.14,,Steve HOLMAN,1970-03-02,USA,5.0,Milano (ITA),1998-06-05,1162,2000-metres,middlelong,male,senior,2000-metres,track,297.14,ITA,28.0,1998
@@ -141,8 +141,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 140,4:57.39,,Saïd CHÉBILI,1973-05-06,FRA,5.0,Villeneuve d'Ascq (FRA),1997-06-29,1159,2000-metres,middlelong,male,senior,2000-metres,track,297.39,FRA,24.0,1997
 140,4:57.39,,Nick MCCORMICK,1981-09-11,GBR,2.0,Melbourne (AUS),2006-03-09,1159,2000-metres,middlelong,male,senior,2000-metres,track,297.39,AUS,24.0,2006
 142,4:57.44,,Driss MAAZOUZI,1969-10-15,FRA,1.0,Villeneuve d'Ascq (FRA),2001-06-17,1159,2000-metres,middlelong,male,senior,2000-metres,track,297.44,FRA,31.0,2001
-143,4:57.52,,Ismail SGHYR,1972-03-16,MAR,1.0,Mérignac (FRA),1995-06-30,1158,2000-metres,middlelong,male,senior,2000-metres,track,297.52,FRA,23.0,1995
 143,4:57.52,,Miloud ABAOUB,1977-04-23,ALG,6.0,Villeneuve d'Ascq (FRA),1997-06-29,1158,2000-metres,middlelong,male,senior,2000-metres,track,297.52,FRA,20.0,1997
+143,4:57.52,,Ismail SGHYR,1972-03-16,MAR,1.0,Mérignac (FRA),1995-06-30,1158,2000-metres,middlelong,male,senior,2000-metres,track,297.52,FRA,23.0,1995
 145,4:57.53,,José Luis CARREIRA,1962-03-30,ESP,2.0,Santander (ESP),1986-09-07,1158,2000-metres,middlelong,male,senior,2000-metres,track,297.53,ESP,24.0,1986
 146,4:57.56,,Evan JAGER,1989-03-08,USA,5.0,"New York, NY (USA) (i)",2014-02-15,1200,2000-metres,middlelong,male,senior,2000-metres,track,297.56,USA,24.0,2014
 147,4:57.58,,Bouabdellah TAHRI,1978-12-20,FRA,1.0,Forbach (FRA),2002-06-02,1157,2000-metres,middlelong,male,senior,2000-metres,track,297.58,FRA,23.0,2002
@@ -175,8 +175,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 174,4:58.08,,Marcus O'SULLIVAN,1961-12-22,IRL,3.0,London (GBR),1988-08-28,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.08,GBR,26.0,1988
 175,4:58.1h,,Willy POLLEUNIS,1947-12-27,BEL,1.0,St-Maur (FRA),1978-09-27,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.1,FRA,30.0,1978
 175,4:58.1h,,Francis GONZALEZ,1952-02-06,FRA,1.0,Rennes (FRA),1979-06-22,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.1,FRA,27.0,1979
-177,4:58.15,,Azzeddine SEDIKI,1970-05-21,MAR,4.0,Nice (FRA),1995-07-12,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.15,FRA,25.0,1995
 177,4:58.15,,Vénuste NIYONGABO,1973-12-09,BDI,1.0,Noisy-le-Grand (FRA),1993-07-03,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.15,FRA,19.0,1993
+177,4:58.15,,Azzeddine SEDIKI,1970-05-21,MAR,4.0,Nice (FRA),1995-07-12,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.15,FRA,25.0,1995
 179,4:58.17,,Miloud ABAOUB,1977-04-23,ALG,1.0,Hechtel (BEL),1999-08-07,1152,2000-metres,middlelong,male,senior,2000-metres,track,298.17,BEL,22.0,1999
 180,4:58.18,,Rachid EL BASIR,1968-10-04,MAR,3.0,Paris (FRA),1995-07-03,1151,2000-metres,middlelong,male,senior,2000-metres,track,298.18,FRA,26.0,1995
 180,4:58.18,,Soresa FIDA,1993-05-27,ETH,4.0,Reims (FRA),2011-07-05,1151,2000-metres,middlelong,male,senior,2000-metres,track,298.18,FRA,18.0,2011
@@ -191,14 +191,14 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 189,4:58.38,,Ismael Kipngetich KOMBICH,1985-01-16,KEN,6.0,Reims (FRA),2011-07-05,1149,2000-metres,middlelong,male,senior,2000-metres,track,298.38,FRA,26.0,2011
 191,4:58.4h,,Michel JAZY,1936-06-13,FRA,1.0,Chambéry (FRA),1966-09-24,1149,2000-metres,middlelong,male,senior,2000-metres,track,298.4,FRA,30.0,1966
 192,4:58.42,,Thomas WESSINGHAGE,1952-02-22,FRG,2.0,Oslo (NOR),1982-07-07,1149,2000-metres,middlelong,male,senior,2000-metres,track,298.42,NOR,30.0,1982
-193,4:58.51,,Peter KOECH,1958-02-18,KEN,4.0,Paris (FRA),1987-07-16,1148,2000-metres,middlelong,male,senior,2000-metres,track,298.51,FRA,29.0,1987
 193,4:58.51,,Cyrille LAVENTURE,1964-03-29,FRA,1.0,Chartres (FRA),1990-09-08,1148,2000-metres,middlelong,male,senior,2000-metres,track,298.51,FRA,26.0,1990
+193,4:58.51,,Peter KOECH,1958-02-18,KEN,4.0,Paris (FRA),1987-07-16,1148,2000-metres,middlelong,male,senior,2000-metres,track,298.51,FRA,29.0,1987
 195,4:58.56,,Adil KAOUCH,1979-01-01,MAR,1.0,Budapest (HUN) (i),1999-02-05,1189,2000-metres,middlelong,male,senior,2000-metres,track,298.56,HUN,20.0,1999
 195,4:58.56,,Rémy GEOFFROY,1963-03-22,FRA,5.0,Paris (FRA),1987-07-16,1148,2000-metres,middlelong,male,senior,2000-metres,track,298.56,FRA,24.0,1987
 197,4:58.57,,John MAYOCK,1970-10-26,GBR,7.0,"Olympiastadion, Berlin (GER)",1999-09-07,1148,2000-metres,middlelong,male,senior,2000-metres,track,298.57,GER,28.0,1999
 198,4:58.59,,Stephen KIPKORIR,1970-10-24,KEN,2.0,Hechtel (BEL),1999-08-07,1147,2000-metres,middlelong,male,senior,2000-metres,track,298.59000000000003,BEL,28.0,1999
-199,4:58.6h,,Steve SCOTT,1956-05-05,USA,1.0,"Louisville, KY (USA) (i)",1981-02-07,1189,2000-metres,middlelong,male,senior,2000-metres,track,298.6,USA,24.0,1981
 199,4:58.60,,Samir BENFARES,1968-06-06,FRA,5.0,Nice (FRA),1995-07-12,1147,2000-metres,middlelong,male,senior,2000-metres,track,298.6,FRA,27.0,1995
+199,4:58.6h,,Steve SCOTT,1956-05-05,USA,1.0,"Louisville, KY (USA) (i)",1981-02-07,1189,2000-metres,middlelong,male,senior,2000-metres,track,298.6,USA,24.0,1981
 201,4:58.65,,Stefano MEI,1963-02-03,ITA,1.0,Viareggio (ITA),1984-08-15,1147,2000-metres,middlelong,male,senior,2000-metres,track,298.65,ITA,21.0,1984
 202,4:58.68,,Rüdiger STENZEL,1968-04-16,GER,8.0,"Olympiastadion, Berlin (GER)",1999-09-07,1146,2000-metres,middlelong,male,senior,2000-metres,track,298.68,GER,31.0,1999
 203,4:58.71,,John WALKER,1952-01-12,NZL,1.0,Nice (FRA),1982-08-14,1146,2000-metres,middlelong,male,senior,2000-metres,track,298.71,FRA,30.0,1982
@@ -248,13 +248,13 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 247,4:59.50,,Samir BENFARES,1968-06-06,FRA,5.0,Paris (FRA),1995-07-03,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.5,FRA,27.0,1995
 248,4:59.52,,Geofrey BARUSEI,1994-01-01,KEN,2.0,Reims (FRA),2013-06-28,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.52,FRA,19.0,2013
 248,4:59.52,,Timothy KIPTANUI,1980-01-05,KEN,6.0,Naimette-Xhovémont (BEL),2003-09-02,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.52,BEL,23.0,2003
-250,4:59.54,,Markus RYFFEL,1955-02-05,SUI,2.0,Schaan (LIE),1978-09-17,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.54,LIE,23.0,1978
 250,4:59.54,,Markus RYFFEL,1955-02-05,SUI,3.0,Langenthal (SUI),1984-07-27,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.54,SUI,29.0,1984
+250,4:59.54,,Markus RYFFEL,1955-02-05,SUI,2.0,Schaan (LIE),1978-09-17,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.54,LIE,23.0,1978
 252,4:59.55,,Peter RONO,1967-07-31,KEN,2.0,Liévin (FRA) (i),1996-02-18,1179,2000-metres,middlelong,male,senior,2000-metres,track,299.55,FRA,28.0,1996
-253,4:59.56,,Thomas WESSINGHAGE,1952-02-22,FRG,1.0,Letter (FRG),1983-09-08,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,FRG,31.0,1983
-253,4:59.56,,Robert NEMETH,1958-06-05,AUT,1.0,Klagenfurt (AUT),1984-08-06,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,AUT,26.0,1984
-253,4:59.56,,Mogens GULDBERG,1963-08-02,DEN,7.0,Lausanne (SUI),1987-09-15,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,SUI,24.0,1987
 253,4:59.56,,Nathan BRANNEN,1982-09-08,CAN,1.0,Toronto (CAN),2013-07-09,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,CAN,30.0,2013
+253,4:59.56,,Robert NEMETH,1958-06-05,AUT,1.0,Klagenfurt (AUT),1984-08-06,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,AUT,26.0,1984
+253,4:59.56,,Thomas WESSINGHAGE,1952-02-22,FRG,1.0,Letter (FRG),1983-09-08,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,FRG,31.0,1983
+253,4:59.56,,Mogens GULDBERG,1963-08-02,DEN,7.0,Lausanne (SUI),1987-09-15,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.56,SUI,24.0,1987
 257,4:59.57,,Nick ROSE,1951-12-30,GBR,2.0,London (GBR),1978-06-03,1138,2000-metres,middlelong,male,senior,2000-metres,track,299.57,GBR,26.0,1978
 258,4:59.59,,Alexandre GONZALEZ,1951-03-16,FRA,2.0,Bordeaux (FRA),1982-06-05,1137,2000-metres,middlelong,male,senior,2000-metres,track,299.59000000000003,FRA,31.0,1982
 259,4:59.6h,,Jürgen STRAUB,1953-11-03,GDR,1.0,Potsdam (GDR),1980-07-05,1137,2000-metres,middlelong,male,senior,2000-metres,track,299.6,GDR,26.0,1980
@@ -263,9 +263,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 262,4:59.75,,Pierre DÉLÈZE,1958-08-25,SUI,3.0,Bordeaux (FRA),1982-06-05,1136,2000-metres,middlelong,male,senior,2000-metres,track,299.75,FRA,23.0,1982
 263,4:59.77,,Abdi BILE,1962-12-28,SOM,1.0,Fürth (GER),1987-06-14,1136,2000-metres,middlelong,male,senior,2000-metres,track,299.77,GER,24.0,1987
 264,4:59.78,,Doug PADILLA,1956-10-04,USA,2.0,"Inglewood, CA (USA) (i)",1987-02-20,1177,2000-metres,middlelong,male,senior,2000-metres,track,299.78,USA,30.0,1987
-265,4:59.80,,Noureddine BÉHAR,1966-04-08,MAR,6.0,Paris (FRA),1995-07-03,1135,2000-metres,middlelong,male,senior,2000-metres,track,299.8,FRA,29.0,1995
-265,4:59.80,,Driss MAAZOUZI,1969-10-15,MAR,5.0,"Stadio Olimpico, Roma (ITA)",1995-06-08,1135,2000-metres,middlelong,male,senior,2000-metres,track,299.8,ITA,25.0,1995
 265,4:59.8h,,Emiel PUTTEMANS,1947-10-08,BEL,1.0,Landen (BEL),1973-08-12,1135,2000-metres,middlelong,male,senior,2000-metres,track,299.8,BEL,25.0,1973
+265,4:59.80,,Driss MAAZOUZI,1969-10-15,MAR,5.0,"Stadio Olimpico, Roma (ITA)",1995-06-08,1135,2000-metres,middlelong,male,senior,2000-metres,track,299.8,ITA,25.0,1995
+265,4:59.80,,Noureddine BÉHAR,1966-04-08,MAR,6.0,Paris (FRA),1995-07-03,1135,2000-metres,middlelong,male,senior,2000-metres,track,299.8,FRA,29.0,1995
 268,4:59.83,,Eric DUBUS,1966-02-28,FRA,6.0,"Stadio Olimpico, Roma (ITA)",1995-06-08,1135,2000-metres,middlelong,male,senior,2000-metres,track,299.83,ITA,29.0,1995
 269,4:59.84,,Bouabdellah TAHRI,1978-12-20,FRA,1.0,Liévin (FRA) (i),2006-03-03,1176,2000-metres,middlelong,male,senior,2000-metres,track,299.84000000000003,FRA,27.0,2006
 270,4:59.88,,Dieter BAUMANN,1965-02-09,FRG,2.0,Fürth (GER),1987-06-14,1134,2000-metres,middlelong,male,senior,2000-metres,track,299.88,GER,22.0,1987
@@ -275,8 +275,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 273,4:59.91,,Mohamed AMYN,1976-03-25,MAR,3.0,Budapest (HUN) (i),1999-02-05,1175,2000-metres,middlelong,male,senior,2000-metres,track,299.90999999999997,HUN,22.0,1999
 275,4:59.92,,Sydney MAREE,1956-09-09,USA,1.0,Lausanne (SUI),1989-09-15,1134,2000-metres,middlelong,male,senior,2000-metres,track,299.92,SUI,33.0,1989
 275,4:59.92,,Sydney MAREE,1956-09-09,USA,8.0,Lausanne (SUI),1987-09-15,1134,2000-metres,middlelong,male,senior,2000-metres,track,299.92,SUI,31.0,1987
-277,4:59.93,,Daniel KOMEN,1976-05-17,KEN,4.0,Birmingham (GBR) (i),1999-02-14,1175,2000-metres,middlelong,male,senior,2000-metres,track,299.93,GBR,22.0,1999
 277,4:59.93,,Maximilian THORWIRTH,1995-01-09,GER,5.0,"Arena Stade Couvert, Liévin (FRA) (i)",2022-02-17,1175,2000-metres,middlelong,male,senior,2000-metres,track,299.93,FRA,27.0,2022
+277,4:59.93,,Daniel KOMEN,1976-05-17,KEN,4.0,Birmingham (GBR) (i),1999-02-14,1175,2000-metres,middlelong,male,senior,2000-metres,track,299.93,GBR,22.0,1999
 279,4:59.97,,Jamal HITRANE,1989-09-01,MAR,3.0,Reims (FRA),2013-06-28,1134,2000-metres,middlelong,male,senior,2000-metres,track,299.97,FRA,23.0,2013
 280,4:59.98,,Thomas WESSINGHAGE,1952-02-22,FRG,4.0,Bordeaux (FRA),1982-06-05,1133,2000-metres,middlelong,male,senior,2000-metres,track,299.98,FRA,30.0,1982
 280,4:59.98,,Ali SAIDI-SIEF,1978-03-15,ALG,4.0,Budapest (HUN) (i),1999-02-05,1175,2000-metres,middlelong,male,senior,2000-metres,track,299.98,HUN,20.0,1999

@@ -5,223 +5,224 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4,8.34,0.0,Randy WILLIAMS,23 AUG 1953,USA,1q1,"Olympiastadion, München (GER)",08 SEP 1972,1212,long-jump,jumps,male,u20
 4,8.34,,Mattia FURLANI,07 FEB 2005,ITA,1,"Palaindoor Ancona, Ancona (ITA) (i)",17 FEB 2024,1212,long-jump,jumps,male,u20
 4,8.34,-1.0,Mattia FURLANI,07 FEB 2005,ITA,3,"Stade de France, Paris (FRA)",06 AUG 2024,1218,long-jump,jumps,male,u20
-7,8.33,+2.0,Maykel MASSÓ,08 MAY 1999,CUB,1,"Moratalaz, Madrid (ESP)",14 JUL 2017,1210,long-jump,jumps,male,u20
-8,8.31,+0.8,Yuhao SHI,26 SEP 1998,CHN,1,Beijing (CHN),25 JUN 2017,1205,long-jump,jumps,male,u20
-9,8.30,+1.3,Yuhao SHI,26 SEP 1998,CHN,1,Ordos (CHN),27 JUN 2016,1203,long-jump,jumps,male,u20
-9,8.30,+1.8,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Patra (GRE),18 JUN 2017,1203,long-jump,jumps,male,u20
-11,8.28,+0.8,Luis Alberto BUENO,22 MAY 1969,CUB,1,La Habana (CUB),16 JUL 1988,1199,long-jump,jumps,male,u20
-11,8.28,+1.8,Maykel MASSÓ,08 MAY 1999,CUB,1,La Habana (CUB),28 MAY 2016,1199,long-jump,jumps,male,u20
-11,8.28,+0.8,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,2,"Moratalaz, Madrid (ESP)",14 JUL 2017,1199,long-jump,jumps,male,u20
-11,8.28,+1.6,Lester LESCAY,15 OCT 2001,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",23 FEB 2020,1199,long-jump,jumps,male,u20
-15,8.27,+1.7,Eusebio CÁCERES,10 SEP 1991,ESP,1q2,"Estadio Olímpico, Barcelona (ESP)",30 JUL 2010,1197,long-jump,jumps,male,u20
-16,8.26,+0.8,Maykel MASSÓ,08 MAY 1999,CUB,5,"Olympic Stadium, London (GBR)",05 AUG 2017,1194,long-jump,jumps,male,u20
-17,8.25,+1.9,Luis Alberto BUENO,22 MAY 1969,CUB,1,La Habana (CUB),28 SEP 1986,1192,long-jump,jumps,male,u20
-17,8.25,+0.9,Jianan WANG,27 AUG 1996,CHN,3,"Shanghai Stadium, Shanghai (CHN)",17 MAY 2015,1192,long-jump,jumps,male,u20
-19,8.24,0.0,Randy WILLIAMS,23 AUG 1953,USA,1,"Olympiastadion, München (GER)",09 SEP 1972,1190,long-jump,jumps,male,u20
-19,8.24,+0.2,Eric METCALF,23 JAN 1968,USA,1,"Indianapolis, IN (USA)",06 JUN 1986,1190,long-jump,jumps,male,u20
-19,8.24,+1.8,Vladimir OCHKAN,13 JAN 1968,URS,1,Leningrad (URS),21 JUN 1987,1190,long-jump,jumps,male,u20
-19,8.24,-0.7,Mattia FURLANI,07 FEB 2005,ITA,1,"FBK Stadium, Hengelo (NED)",04 JUN 2023,1194,long-jump,jumps,male,u20
-23,8.23,-0.3,Yuhao SHI,26 SEP 1998,CHN,6,"Olympic Stadium, London (GBR)",05 AUG 2017,1189,long-jump,jumps,male,u20
-23,8.23,-0.2,Mattia FURLANI,07 FEB 2005,ITA,1f1,"Givat Ram Stadium, Jerusalem (ISR)",08 AUG 2023,1189,long-jump,jumps,male,u20
-25,8.22,,Larry DOUBLEY,16 MAR 1958,USA,1,"Champaign, IL (USA)",03 JUN 1977,1186,long-jump,jumps,male,u20
-25,8.22,,Viktor KUZNYETSOV,14 JUL 1986,UKR,1,Brovary (UKR) (i),22 JAN 2005,1186,long-jump,jumps,male,u20
-25,8.22,+1.6,Bozhidar SARÂBOYUKOV,06 AUG 2004,BUL,2f1,"Givat Ram Stadium, Jerusalem (ISR)",08 AUG 2023,1186,long-jump,jumps,male,u20
-25,8.22,,Mattia FURLANI,07 FEB 2005,ITA,2,"Glasgow Arena, Glasgow (GBR) (i)",02 MAR 2024,1186,long-jump,jumps,male,u20
-29,8.21,+2.0,Vance JOHNSON,13 MAR 1963,USA,1,"Provo, UT (USA)",04 JUN 1982,1184,long-jump,jumps,male,u20
-29,8.21,+0.2,Lester LESCAY,15 OCT 2001,CUB,1,"Estadio Panamericano, La Habana (CUB)",07 MAR 2020,1184,long-jump,jumps,male,u20
-31,8.20,+1.4,James STALLWORTH,29 APR 1971,USA,1q1,"Deveti Septemvri Stadium, Plovdiv (BUL)",09 AUG 1990,1181,long-jump,jumps,male,u20
-31,8.20,0.0,SREESHANKAR,27 MAR 1999,IND,1,Bhubaneshwar (IND),27 SEP 2018,1181,long-jump,jumps,male,u20
-33,8.19,+1.5,Luvo MANYONGA,08 JAN 1991,RSA,1,Bottrop (GER),09 JUL 2010,1179,long-jump,jumps,male,u20
-33,8.19,+2.0,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Kalamata (GRE),28 MAY 2016,1179,long-jump,jumps,male,u20
-33,8.19,+1.9,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,1,St-Martin (FRA),13 MAY 2017,1179,long-jump,jumps,male,u20
-36,8.18,,LaMonte KING,18 DEC 1959,USA,2,"Modesto, CA (USA)",20 MAY 1978,1177,long-jump,jumps,male,u20
-36,8.18,,Petr LAMPART,31 MAR 1983,CZE,1,Brno (CZE),15 SEP 2002,1177,long-jump,jumps,male,u20
-36,8.18,+1.3,Marquise GOODWIN,19 NOV 1990,USA,4f2,"Eugene, OR (USA)",27 JUN 2009,1177,long-jump,jumps,male,u20
-36,8.18,0.0,Jianan WANG,27 AUG 1996,CHN,3,"National Stadium, Beijing (CHN)",25 AUG 2015,1177,long-jump,jumps,male,u20
-36,8.18,+1.3,Yuhao SHI,26 SEP 1998,CHN,,Hong Kong (HKG),14 MAY 2017,1177,long-jump,jumps,male,u20
-41,8.17,+1.4,Vladimir OCHKAN,13 JAN 1968,URS,1,"Alexander Stadium, Birmingham (GBR)",07 AUG 1987,1175,long-jump,jumps,male,u20
-41,8.17,+0.5,Xiaoyi ZHANG,25 MAY 1989,CHN,1,Chongqing (CHN),23 APR 2006,1175,long-jump,jumps,male,u20
-41,8.17,-0.8,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,,Monterrey (MEX),16 JUN 2017,1179,long-jump,jumps,male,u20
-41,8.17,-1.0,Mattia FURLANI,07 FEB 2005,ITA,2q2,"Stadio Olimpico, Roma (ITA)",07 JUN 2024,1181,long-jump,jumps,male,u20
-41,8.17,0.0,Chengliang LI,05 APR 2006,CHN,1,Xi'an (CHN),08 JUN 2024,1175,long-jump,jumps,male,u20
-46,8.16,+1.1,Dion BENTLEY,26 AUG 1971,USA,1,"Santa Fe, NM (USA)",23 JUN 1989,1173,long-jump,jumps,male,u20
-46,8.16,0.0,James STALLWORTH,29 APR 1971,USA,1,"Fresno, CA (USA)",30 JUN 1990,1173,long-jump,jumps,male,u20
-46,8.16,0.0,Cheng WANG,04 NOV 1980,CHN,1,Chengdu (CHN),18 APR 1998,1173,long-jump,jumps,male,u20
-46,8.16,-0.8,Aleksandr MENKOV,07 DEC 1990,RUS,1,Kemerovo (RUS),06 JUN 2009,1177,long-jump,jumps,male,u20
-46,8.16,+1.7,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Kalamata (GRE),27 MAY 2017,1173,long-jump,jumps,male,u20
-51,8.15,+1.2,Leroy BURRELL,21 FEB 1967,USA,1,"Westwood, CA (USA)",19 APR 1986,1170,long-jump,jumps,male,u20
-51,8.15,-0.3,Yuhao SHI,26 SEP 1998,CHN,1q,Ordos (CHN),03 JUN 2017,1171,long-jump,jumps,male,u20
-51,8.15,+0.4,Maykel MASSÓ,08 MAY 1999,CUB,2q1,"Olympic Stadium, London (GBR)",04 AUG 2017,1170,long-jump,jumps,male,u20
-51,8.15,+1.9,Alejandro PARADA,05 JUL 2004,CUB,1,"Estadio Panamericano, La Habana (CUB)",12 MAR 2023,1170,long-jump,jumps,male,u20
-51,8.15,+0.6,Roko FARKAŠ,11 FEB 2005,CRO,1q1,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,1170,long-jump,jumps,male,u20
-56,8.14,+1.5,Sheddric FIELDS,13 APR 1973,USA,1,Cwmbran (GBR),14 JUL 1991,1168,long-jump,jumps,male,u20
-56,8.14,+0.3,Petar DACHEV,15 JUN 1979,BUL,1,"Parc des Sports, Annecy (FRA)",30 JUL 1998,1168,long-jump,jumps,male,u20
-56,8.14,0.0,Greg RUTHERFORD,17 NOV 1986,GBR,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",22 JUL 2005,1168,long-jump,jumps,male,u20
-59,8.13,,Carl LEWIS,01 JUL 1961,USA,3,San Juan (PUR),07 JUL 1979,1166,long-jump,jumps,male,u20
-59,8.13,+1.1,Robert EMMIYAN,16 FEB 1965,URS,1,Baku (AZE),14 SEP 1984,1166,long-jump,jumps,male,u20
-59,8.13,0.0,Ja'Mari WARD,21 MAR 1998,USA,1,"Columbia, SC (USA)",12 MAY 2017,1166,long-jump,jumps,male,u20
-59,8.13,+0.5,Yuhao SHI,26 SEP 1998,CHN,1,Ordos (CHN),04 JUN 2017,1166,long-jump,jumps,male,u20
-63,8.12,+0.3,David GIRALT,28 JUN 1959,CUB,1,Berlin (GER),15 JUN 1977,1164,long-jump,jumps,male,u20
-63,8.12,+0.4,James STALLWORTH,29 APR 1971,USA,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1164,long-jump,jumps,male,u20
-63,8.12,,Kareem STREETE-THOMPSON,30 MAR 1973,CAY,1,"College Station, TX (USA)",01 MAY 1992,1164,long-jump,jumps,male,u20
-63,8.12,+1.4,Ahmed Fayez AL DOSARI,03 JUL 1985,KSA,1,Qatif (KSA),27 MAR 2002,1164,long-jump,jumps,male,u20
-63,8.12,+0.6,Ignisious GAISAH,20 JUL 1983,GHA,1,Hilversum (NED),08 SEP 2002,1164,long-jump,jumps,male,u20
-63,8.12,,Viktor KUZNYETSOV,14 JUL 1986,UKR,1,Brovary (UKR) (i),20 DEC 2003,1164,long-jump,jumps,male,u20
-63,8.12,+1.1,Chris NOFFKE,06 JAN 1988,AUS,2,Nuoro (ITA),11 JUL 2007,1164,long-jump,jumps,male,u20
-63,8.12,0.0,Maykel MASSÓ,08 MAY 1999,CUB,1,La Habana (CUB),09 MAY 2015,1164,long-jump,jumps,male,u20
-63,8.12,+0.4,Jianan WANG,27 AUG 1996,CHN,1q1,"National Stadium, Beijing (CHN)",24 AUG 2015,1164,long-jump,jumps,male,u20
-63,8.12,0.0,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,1,La Habana (CUB),27 MAY 2017,1164,long-jump,jumps,male,u20
-63,8.12,0.0,Maikel Yorges VIDAL,06 JAN 2000,CUB,1,La Habana (CUB),08 JUN 2018,1164,long-jump,jumps,male,u20
-63,8.12,+1.7,Koki FUJIHARA,31 MAY 2002,JPN,1,Okinawa (JPN),05 AUG 2019,1164,long-jump,jumps,male,u20
-63,8.12,+0.4,Erwan KONATE,18 APR 2003,FRA,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1164,long-jump,jumps,male,u20
-76,8.11,+1.3,Jerry HERNDON,12 MAR 1955,USA,3,"Modesto, CA (USA)",25 MAY 1974,1162,long-jump,jumps,male,u20
-76,8.11,,David GIRALT,28 JUN 1959,CUB,1,Praha (TCH),21 JUN 1977,1162,long-jump,jumps,male,u20
-76,8.11,,Carl LEWIS,01 JUL 1961,USA,,"Austin, TX (USA)",06 JUN 1980,1162,long-jump,jumps,male,u20
-76,8.11,-0.1,Abdulrahman AL NUBI,17 OCT 1979,QAT,2,"Parc des Sports, Annecy (FRA)",30 JUL 1998,1162,long-jump,jumps,male,u20
-76,8.11,+0.9,Andrew HOWE,12 MAY 1985,ITA,1,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1162,long-jump,jumps,male,u20
-76,8.11,+1.6,Ching-Hsuan LIN,14 MAY 1992,TPE,1,Taichung (TPE),10 MAY 2011,1162,long-jump,jumps,male,u20
-76,8.11,+1.0,Tomasz JASZCZUK,09 MAR 1992,POL,2,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1162,long-jump,jumps,male,u20
-76,8.11,-0.9,Peifeng ZHONG,03 MAR 1997,CHN,2,Ordos (CHN),27 JUN 2016,1167,long-jump,jumps,male,u20
-84,8.10,,David GIRALT,28 JUN 1959,CUB,2,Zürich (SUI),24 AUG 1977,1160,long-jump,jumps,male,u20
-84,8.10,0.0,Hitoshi SHIMO,04 APR 1972,JPN,1,Tokyo (JPN),14 JUN 1991,1160,long-jump,jumps,male,u20
-84,8.10,+0.2,Sergey MORGUNOV,09 FEB 1993,RUS,,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1160,long-jump,jumps,male,u20
-84,8.10,-0.1,Jianan WANG,27 AUG 1996,CHN,2,Beijing (CHN),24 APR 2014,1160,long-jump,jumps,male,u20
-84,8.10,+1.7,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Katerini (GRE),09 JUL 2017,1160,long-jump,jumps,male,u20
-84,8.10,+1.3,Alejandro PARADA,05 JUL 2004,CUB,2,"Centre sportif Bout-du-Monde, Genève (SUI)",10 JUN 2023,1160,long-jump,jumps,male,u20
-90,8.09,+1.8,Antonio CORGOS,10 MAR 1960,ESP,1,Bruxelles (BEL),17 JUN 1979,1157,long-jump,jumps,male,u20
-90,8.09,0.0,Carl LEWIS,01 JUL 1961,USA,1,"Austin, TX (USA)",04 APR 1980,1157,long-jump,jumps,male,u20
-90,8.09,,Dion BENTLEY,26 AUG 1971,USA,1,"University Park, PA (USA) (i)",18 FEB 1989,1157,long-jump,jumps,male,u20
-90,8.09,+0.8,Masaki MORINAGA,27 MAR 1972,JPN,1,Hiratsuka (JPN),22 SEP 1991,1157,long-jump,jumps,male,u20
-90,8.09,+0.7,Godfrey Khotso MOKOENA,06 MAR 1985,RSA,2,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1157,long-jump,jumps,male,u20
-90,8.09,+1.3,Xiaoyi ZHANG,25 MAY 1989,CHN,2,Suzhou (CHN),09 JUN 2007,1157,long-jump,jumps,male,u20
-90,8.09,+0.4,Yongfeng WENG,18 JAN 1989,CHN,1,Suzhou (CHN),28 JUN 2008,1157,long-jump,jumps,male,u20
-90,8.09,+0.4,Sergey MORGUNOV,09 FEB 1993,RUS,1,"Estadio Olímpico, Barcelona (ESP)",11 JUL 2012,1157,long-jump,jumps,male,u20
-90,8.09,0.0,Jianan WANG,27 AUG 1996,CHN,1,Beijing (CHN),21 MAY 2014,1157,long-jump,jumps,male,u20
-90,8.09,+0.5,Jianan WANG,27 AUG 1996,CHN,2,Beijing (CHN),08 MAY 2015,1157,long-jump,jumps,male,u20
-90,8.09,0.0,Jianan WANG,27 AUG 1996,CHN,5,"National Stadium, Beijing (CHN)",20 MAY 2015,1157,long-jump,jumps,male,u20
-90,8.09,+2.0,Hibiki TSUHA,21 JAN 1998,JPN,1,Fukui (JPN),09 SEP 2017,1157,long-jump,jumps,male,u20
-90,8.09,+1.2,Yuki HASHIOKA,23 JAN 1999,JPN,1,Yamaguchi (JPN),23 JUN 2018,1157,long-jump,jumps,male,u20
-103,8.08,,Jerry HERNDON,12 MAR 1955,USA,1,"Austin, TX (USA)",07 JUN 1974,1155,long-jump,jumps,male,u20
-103,8.08,,LaMonte KING,18 DEC 1959,USA,1,"Fresno, CA (USA)",13 MAY 1978,1155,long-jump,jumps,male,u20
-103,8.08,,Carl LEWIS,01 JUL 1961,USA,1,"Naperville, IL (USA)",09 JUN 1979,1155,long-jump,jumps,male,u20
-103,8.08,,Carl LEWIS,01 JUL 1961,USA,2,San José (USA),12 APR 1980,1155,long-jump,jumps,male,u20
-103,8.08,+1.2,Sergey MORGUNOV,09 FEB 1993,RUS,1q,Cheboksary (RUS),19 JUN 2012,1155,long-jump,jumps,male,u20
-103,8.08,+1.7,Suk-hyun KIM,1995,KOR,1,Ansan (KOR),04 MAY 2013,1155,long-jump,jumps,male,u20
-103,8.08,+1.5,Jianan WANG,27 AUG 1996,CHN,1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1155,long-jump,jumps,male,u20
-103,8.08,-0.1,Lester LESCAY,15 OCT 2001,CUB,1,"Estadio Panamericano, La Habana (CUB)",14 FEB 2020,1155,long-jump,jumps,male,u20
-103,8.08,+0.4,Erwan KONATE,18 APR 2003,FRA,1,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,1155,long-jump,jumps,male,u20
-103,8.08,+1.8,Asande MTHEMBU,04 JUN 2004,RSA,1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,1155,long-jump,jumps,male,u20
-103,8.08,+1.1,Alejandro PARADA,05 JUL 2004,CUB,2,"Stadion Wankdorf, Bern (SUI)",04 AUG 2023,1155,long-jump,jumps,male,u20
-103,8.08,,Mattia FURLANI,07 FEB 2005,ITA,1,"Sätrahallen, Stockholm (SWE) (i)",03 FEB 2024,1155,long-jump,jumps,male,u20
-103,8.08,-0.1,Mattia FURLANI,07 FEB 2005,ITA,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",09 JUL 2024,1155,long-jump,jumps,male,u20
-116,8.07,+1.5,Andrew HOWE,12 MAY 1985,ITA,1,Roma (ITA),25 JUN 2004,1153,long-jump,jumps,male,u20
-116,8.07,+1.6,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,1153,long-jump,jumps,male,u20
-116,8.07,0.0,Lester LESCAY,15 OCT 2001,CUB,2,La Habana (CUB),08 JUN 2018,1153,long-jump,jumps,male,u20
-116,8.07,+0.6,Mattia FURLANI,07 FEB 2005,ITA,1q2,"Givat Ram Stadium, Jerusalem (ISR)",07 AUG 2023,1153,long-jump,jumps,male,u20
-120,8.06,+0.2,Ron BEER,29 AUG 1965,GDR,3,Berlin (GER),09 JUN 1984,1151,long-jump,jumps,male,u20
-120,8.06,,Charles SMITH,24 MAY 1966,USA,1,"Las Vegas, NV (USA)",09 JUN 1984,1151,long-jump,jumps,male,u20
-120,8.06,+2.0,Iván PEDROSO,17 DEC 1972,CUB,1,"Orlando, FL (USA)",20 JUL 1990,1151,long-jump,jumps,male,u20
-120,8.06,+0.4,Baoting HUANG,27 MAY 1974,CHN,1,Beijing (CHN),03 MAY 1993,1151,long-jump,jumps,male,u20
-120,8.06,0.0,Joan Lino MARTÍNEZ,17 JAN 1978,CUB,1,La Habana (CUB),20 JUL 1997,1151,long-jump,jumps,male,u20
-120,8.06,+0.7,Petar DACHEV,15 JUN 1979,BUL,3,"Népstadion, Budapest (HUN)",19 AUG 1998,1151,long-jump,jumps,male,u20
-120,8.06,0.0,Yuhao SHI,26 SEP 1998,CHN,5q1,"Olympic Stadium, London (GBR)",04 AUG 2017,1151,long-jump,jumps,male,u20
-120,8.06,+0.9,Johnny BRACKINS,29 JUL 2003,USA,1,"Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)",14 MAY 2022,1151,long-jump,jumps,male,u20
-120,8.06,+0.2,Alejandro PARADA,05 JUL 2004,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",07 JUL 2022,1151,long-jump,jumps,male,u20
-120,8.06,+0.8,Temoso MASIKANE,26 APR 2006,RSA,1,"Levy Mwanawasa Stadion, Ndola (ZAM)",30 APR 2023,1151,long-jump,jumps,male,u20
-120,8.06,-0.2,Chengliang LI,05 APR 2006,CHN,1,"Kuishan Sports Center, Rizhao (CHN)",28 JUN 2024,1152,long-jump,jumps,male,u20
-120,8.06,+1.0,Temoso MASIKANE,26 APR 2006,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",24 MAY 2025,1151,long-jump,jumps,male,u20
-132,8.05,,LaMonte KING,18 DEC 1959,USA,2,"Eugene, OR (USA)",02 JUN 1978,1149,long-jump,jumps,male,u20
-132,8.05,,Antonio CORGOS,10 MAR 1960,ESP,1,Bydgoszcz (POL),11 JUN 1978,1149,long-jump,jumps,male,u20
-132,8.05,,Dion BENTLEY,26 AUG 1971,USA,1,"Gainesville, FL (USA) (i)",14 JAN 1990,1149,long-jump,jumps,male,u20
-132,8.05,+1.7,Kareem STREETE-THOMPSON,30 MAR 1973,CAY,2,"Orlando, FL (USA)",20 JUL 1990,1149,long-jump,jumps,male,u20
-132,8.05,-0.6,Dion BENTLEY,26 AUG 1971,USA,2,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1152,long-jump,jumps,male,u20
-132,8.05,+0.9,Luis Felipe MÉLIZ,11 AUG 1979,CUB,2,La Habana (CUB),20 FEB 1998,1149,long-jump,jumps,male,u20
-132,8.05,+1.9,Yann DOMENECH,17 MAR 1979,FRA,1,Albi (FRA),30 MAY 1998,1149,long-jump,jumps,male,u20
-132,8.05,+1.3,Godfrey Khotso MOKOENA,06 MAR 1985,RSA,1,"Parow, Cape Town (RSA)",17 DEC 2004,1149,long-jump,jumps,male,u20
-132,8.05,0.0,Yongfeng WENG,18 JAN 1989,CHN,1,Jakarta (INA),13 JUN 2008,1149,long-jump,jumps,male,u20
-132,8.05,+1.1,Luvo MANYONGA,08 JAN 1991,RSA,1,Germiston (RSA),10 APR 2010,1149,long-jump,jumps,male,u20
-132,8.05,+1.3,Sukhasvasti Na Ayudhaya SUPANARA,11 JUN 1992,THA,2,Kobe (JPN),10 JUL 2011,1149,long-jump,jumps,male,u20
-132,8.05,+0.5,Maykel MASSÓ,08 MAY 1999,CUB,1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,1149,long-jump,jumps,male,u20
-132,8.05,+1.4,Yuki HASHIOKA,23 JAN 1999,JPN,1,Osaka (JPN),24 JUN 2017,1149,long-jump,jumps,male,u20
-132,8.05,0.0,Yuki HASHIOKA,23 JAN 1999,JPN,4,Jakarta (INA),26 AUG 2018,1149,long-jump,jumps,male,u20
-132,8.05,-0.8,Wayne PINNOCK,24 OCT 2000,JAM,1,Kingston (JAM),27 MAR 2019,1153,long-jump,jumps,male,u20
-132,8.05,+1.4,Remi MOURIE,23 APR 2008,FRA,2,"Stade Municipal, Pezenas (FRA)",14 JUN 2025,1149,long-jump,jumps,male,u20
-148,8.04,,Carl LEWIS,01 JUL 1961,USA,3,Moskva (URS),25 JUL 1979,1146,long-jump,jumps,male,u20
-148,8.04,+1.5,Juan ORTIZ,23 AUG 1964,CUB,1,La Habana (CUB),23 JUL 1983,1146,long-jump,jumps,male,u20
-148,8.04,+1.7,Joey WELLS,22 DEC 1965,BAH,2,La Habana (CUB),23 JUL 1983,1146,long-jump,jumps,male,u20
-148,8.04,+1.6,Volker MAI,03 MAY 1966,GDR,3,Dresden (GER),03 AUG 1985,1146,long-jump,jumps,male,u20
-148,8.04,+1.4,James STALLWORTH,29 APR 1971,USA,1,"Norwalk, CA (USA)",03 JUN 1989,1146,long-jump,jumps,male,u20
-148,8.04,+1.4,Andrew HOWE,12 MAY 1985,ITA,1,Rieti (ITA),12 JUN 2004,1146,long-jump,jumps,male,u20
-148,8.04,+1.4,Sukhasvasti Na Ayudhaya SUPANARA,11 JUN 1992,THA,3,Bengaluru (IND),05 JUN 2010,1146,long-jump,jumps,male,u20
-148,8.04,+1.0,Luvo MANYONGA,08 JAN 1991,RSA,4,Lappeenranta (FIN),15 JUL 2010,1146,long-jump,jumps,male,u20
-148,8.04,-0.2,Sergey MORGUNOV,09 FEB 1993,RUS,2,"Boudewijnstadion, Bruxelles (BEL)",07 SEP 2012,1147,long-jump,jumps,male,u20
-148,8.04,-0.2,Jianan WANG,27 AUG 1996,CHN,1,Kunshan (CHN),22 SEP 2012,1147,long-jump,jumps,male,u20
-148,8.04,+1.7,Travonn WHITE,03 JUN 1995,USA,1,"Eugene, OR (USA)",05 JUL 2014,1146,long-jump,jumps,male,u20
-148,8.04,+0.1,Yuki HASHIOKA,23 JAN 1999,JPN,1,Yokohama (JPN),26 MAY 2017,1146,long-jump,jumps,male,u20
-148,8.04,+1.6,Gabriel Luiz BOZA,07 MAR 2003,BRA,1,Bragança Paulista (BRA),04 SEP 2021,1146,long-jump,jumps,male,u20
-148,8.04,+1.8,Mattia FURLANI,07 FEB 2005,ITA,1f1,"Givat Ram Stadium, Jerusalem (ISR)",05 JUL 2022,1146,long-jump,jumps,male,u20
-148,8.04,+0.6,Mattia FURLANI,07 FEB 2005,ITA,1,"Stadio delle Palme, Palermo (ITA)",11 JUN 2023,1146,long-jump,jumps,male,u20
-148,8.04,0.0,Jorge A. ODELÍN,16 MAY 2007,CUB,2,"Estadio Panamericano, La Habana (CUB)",14 JUN 2025,1146,long-jump,jumps,male,u20
-164,8.03,+0.7,Sergey RODIN,28 MAY 1963,URS,4,Kiev (URS),21 AUG 1982,1144,long-jump,jumps,male,u20
-164,8.03,,Won-jin KIM,01 DEC 1968,KOR,1,Seoul (KOR),12 JUN 1987,1144,long-jump,jumps,male,u20
-164,8.03,+2.0,Cheng WANG,04 NOV 1980,CHN,q,Shanghai (CHN),22 OCT 1997,1144,long-jump,jumps,male,u20
-164,8.03,,Jonathan MOORE,31 MAY 1984,GBR,3,Loughborough (GBR),18 MAY 2002,1144,long-jump,jumps,male,u20
-164,8.03,,Xiaoyi ZHANG,25 MAY 1989,CHN,1,Shanghai (CHN) (i),16 MAR 2007,1144,long-jump,jumps,male,u20
-164,8.03,+0.4,Luvo MANYONGA,08 JAN 1991,RSA,4,Espoo (FIN),30 JUN 2010,1144,long-jump,jumps,male,u20
-164,8.03,,Reece PONTIOUS,,USA,1,"Mason, OH (USA)",18 MAY 2012,1144,long-jump,jumps,male,u20
-164,8.03,,Max HEß,13 JUL 1996,GER,1,Chemnitz (GER) (i),17 JAN 2015,1144,long-jump,jumps,male,u20
-164,8.03,+0.9,Yuki HASHIOKA,23 JAN 1999,JPN,1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,1144,long-jump,jumps,male,u20
-164,8.03,0.0,Yuki HASHIOKA,23 JAN 1999,JPN,1q,Jakarta (INA),25 AUG 2018,1144,long-jump,jumps,male,u20
-164,8.03,+1.3,Lester LESCAY,15 OCT 2001,CUB,1,Camagüey (CUB),30 JUN 2019,1144,long-jump,jumps,male,u20
-164,8.03,+0.9,Johnny BRACKINS,29 JUL 2003,USA,1,"Hayward Field, Eugene, OR (USA)",24 JUN 2022,1144,long-jump,jumps,male,u20
-164,8.03,+1.3,Heng SHU,22 MAY 2004,CHN,1,Yecheon (KOR),07 JUN 2023,1144,long-jump,jumps,male,u20
-164,8.03,-0.5,Petr MEINDLSCHMID,15 JAN 2006,CZE,7,"Stadio Olimpico, Roma (ITA)",08 JUN 2024,1147,long-jump,jumps,male,u20
-178,8.02,,Randy WILLIAMS,23 AUG 1953,USA,2,"Eugene, OR (USA)",08 JUL 1972,1142,long-jump,jumps,male,u20
-178,8.02,+0.6,Marek CHLUDZIŃSKI,25 APR 1957,POL,2,Bydgoszcz (POL),26 JUN 1976,1142,long-jump,jumps,male,u20
-178,8.02,,Robert EMMIYAN,16 FEB 1965,URS,1,Riga (LAT),14 JUL 1984,1142,long-jump,jumps,male,u20
-178,8.02,+1.8,Cheng WANG,04 NOV 1980,CHN,2,Zhuhai (CHN),20 MAR 1999,1142,long-jump,jumps,male,u20
-178,8.02,0.0,Peng CAI,28 MAR 1983,CHN,1,Xinxiang (CHN),24 MAY 1999,1142,long-jump,jumps,male,u20
-178,8.02,,Christian TAYLOR,18 JUN 1990,USA,1f1,"Fayetteville, AR (USA) (i)",13 FEB 2009,1142,long-jump,jumps,male,u20
-178,8.02,,Eusebio CÁCERES,10 SEP 1991,ESP,3,"Velódromo Luis Puig, Valencia (ESP) (i)",13 FEB 2010,1142,long-jump,jumps,male,u20
-178,8.02,0.0,Sergey MORGUNOV,09 FEB 1993,RUS,1,Rovereto (ITA),04 SEP 2012,1142,long-jump,jumps,male,u20
-178,8.02,,Xinglong GAO,12 MAR 1994,CHN,1,Nanjing (CHN) (i),06 MAR 2013,1142,long-jump,jumps,male,u20
-178,8.02,+1.0,Higor ALVES,23 FEB 1994,BRA,1,São Paulo (BRA),29 JUN 2013,1142,long-jump,jumps,male,u20
-178,8.02,,Jianan WANG,27 AUG 1996,CHN,2,Nanjing (CHN) (i),08 MAR 2014,1142,long-jump,jumps,male,u20
-178,8.02,,KeAndre BATES,24 MAY 1996,USA,3,"Fayetteville, AR (USA) (i)",13 MAR 2015,1142,long-jump,jumps,male,u20
-178,8.02,+1.6,Jakub ANDRZEJCZAK,13 JUN 1998,POL,2,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,1142,long-jump,jumps,male,u20
-191,8.01,,Frank WARTENBERG,29 MAY 1955,GDR,1,Berlin (GER) (i),23 FEB 1974,1140,long-jump,jumps,male,u20
-191,8.01,+1.2,Waldemar GOLANKO,15 JUL 1961,POL,1,Bielefeld (GER),16 JUN 1979,1140,long-jump,jumps,male,u20
-191,8.01,,Carl LEWIS,01 JUL 1961,USA,1,Stockholm (SWE),08 JUL 1980,1140,long-jump,jumps,male,u20
-191,8.01,+0.3,Robert EMMIYAN,16 FEB 1965,URS,2,Moskva (URS),22 JUN 1983,1140,long-jump,jumps,male,u20
-191,8.01,+0.8,Luis Alberto BUENO,22 MAY 1969,CUB,3,Santiago de Cuba (CUB),28 FEB 1987,1140,long-jump,jumps,male,u20
-191,8.01,+2.0,Bogdan ŢĂRUŞ,01 AUG 1975,ROU,2,"Estadio Universitario, Lisboa (POR)",21 JUL 1994,1140,long-jump,jumps,male,u20
-191,8.01,0.0,Cheng WANG,04 NOV 1980,CHN,3,Shijiazhuang (CHN),26 APR 1998,1140,long-jump,jumps,male,u20
-191,8.01,,Marcin STARZAK,20 OCT 1985,POL,1,Brzeszcze (POL) (i),10 JAN 2004,1140,long-jump,jumps,male,u20
-191,8.01,+1.0,Andrew HOWE,12 MAY 1985,ITA,1,Rieti (ITA),22 MAY 2004,1140,long-jump,jumps,male,u20
-191,8.01,-0.4,Sergey MORGUNOV,09 FEB 1993,RUS,1q2,"Estadio Olímpico, Barcelona (ESP)",10 JUL 2012,1142,long-jump,jumps,male,u20
-191,8.01,+0.5,Darcy ROPER,31 MAR 1998,AUS,2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,1140,long-jump,jumps,male,u20
-191,8.01,,Peifeng ZHONG,03 MAR 1997,CHN,4,Nanjing (CHN) (i),03 MAR 2016,1140,long-jump,jumps,male,u20
-191,8.01,+0.2,Yuhao SHI,26 SEP 1998,CHN,2,Taiyuan (CHN),09 MAY 2017,1140,long-jump,jumps,male,u20
-191,8.01,0.0,Maikel Yorges VIDAL,06 JAN 2000,CUB,1,Camagüey (CUB),27 JUN 2018,1140,long-jump,jumps,male,u20
-191,8.01,+1.8,Matthew BOLING,20 JUN 2000,USA,1,"Austin, TX (USA)",29 MAR 2019,1140,long-jump,jumps,male,u20
-191,8.01,+1.4,Alejandro PARADA,05 JUL 2004,CUB,2,Santiago de Chile (CHI),31 OCT 2023,1140,long-jump,jumps,male,u20
-191,8.01,-2.8,Petr MEINDLSCHMID,15 JAN 2006,CZE,5q2,"Stadio Olimpico, Roma (ITA)",07 JUN 2024,1156,long-jump,jumps,male,u20
-191,8.01,+0.1,Mattia FURLANI,07 FEB 2005,ITA,2q1,"Stade de France, Paris (FRA)",04 AUG 2024,1140,long-jump,jumps,male,u20
-209,8.00,,David GIRALT,28 JUN 1959,CUB,1,Warszawa (POL),28 MAY 1977,1138,long-jump,jumps,male,u20
-209,8.00,,Jesús OLIVÁN,05 JUL 1968,ESP,2,Madrid (ESP) (i),01 FEB 1986,1138,long-jump,jumps,male,u20
-209,8.00,+1.9,Sergey NOVOZHILOV,21 APR 1969,URS,1,Bryansk (URS),07 JUL 1988,1138,long-jump,jumps,male,u20
-209,8.00,+0.8,Daniel JAHIĆ,01 JUL 1979,YUG,1,Istanbul (TUR),12 JUL 1998,1138,long-jump,jumps,male,u20
-209,8.00,+0.1,Petar DACHEV,15 JUN 1979,BUL,1,Rhodes (GRE),09 SEP 1998,1138,long-jump,jumps,male,u20
-209,8.00,+1.4,Deandre FREE,15 JAN 1981,USA,1,"Kansas City, MO (USA)",29 APR 2000,1138,long-jump,jumps,male,u20
-209,8.00,+1.6,Allen SIMMS,26 JUL 1982,USA,1,"Richmond, VA (USA)",20 APR 2001,1138,long-jump,jumps,male,u20
-209,8.00,+0.3,Robert CROWTHER,02 AUG 1987,AUS,1,"Chaoyang Sport Center, Beijing (CHN)",16 AUG 2006,1138,long-jump,jumps,male,u20
-209,8.00,-0.4,Eusebio CÁCERES,10 SEP 1991,ESP,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",20 JUN 2009,1140,long-jump,jumps,male,u20
-209,8.00,+1.4,Mpho MAPHUTHA,21 JAN 1993,RSA,1,Germiston (RSA),03 APR 2011,1138,long-jump,jumps,male,u20
-209,8.00,-1.8,Maykel MASSÓ,08 MAY 1999,CUB,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,1148,long-jump,jumps,male,u20
-209,8.00,+1.0,Maykel MASSÓ,08 MAY 1999,CUB,3,Padova (ITA),16 JUL 2017,1138,long-jump,jumps,male,u20
-209,8.00,,Heng SHU,22 MAY 2004,CHN,4,"Tuanbo Sports Center, Tianjin (CHN) (i)",15 MAR 2023,1138,long-jump,jumps,male,u20
-209,8.00,+1.7,Mattia FURLANI,07 FEB 2005,ITA,,"Centro Sportivo Fontanassa, Savona (ITA)",24 MAY 2023,1138,long-jump,jumps,male,u20
-209,8.00,+0.2,Heng SHU,22 MAY 2004,CHN,1q1,"Shuangliu Sports Centre, Chengdu (CHN)",05 AUG 2023,1138,long-jump,jumps,male,u20
-209,8.00,+1.2,Chengliang LI,05 APR 2006,CHN,1,"Shanxi Athletics Administrative Center, Xi'an (CHN)",27 APR 2024,1138,long-jump,jumps,male,u20
-209,8.00,+0.9,Petr MEINDLSCHMID,15 JAN 2006,CZE,3,"Municipal Theatre Of Piraeus, Piraeus (GRE)",23 JUN 2024,1138,long-jump,jumps,male,u20
-209,8.00,+1.7,Maidis GORRILLOT,2009,FRA,3,"Stade Municipal, Pezenas (FRA)",14 JUN 2025,1138,long-jump,jumps,male,u20
+4,8.34,+0.2,Jorge A. ODELÍN,16 MAY 2007,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",29 JUN 2025,1212,long-jump,jumps,male,u20
+8,8.33,+2.0,Maykel MASSÓ,08 MAY 1999,CUB,1,"Moratalaz, Madrid (ESP)",14 JUL 2017,1210,long-jump,jumps,male,u20
+9,8.31,+0.8,Yuhao SHI,26 SEP 1998,CHN,1,Beijing (CHN),25 JUN 2017,1205,long-jump,jumps,male,u20
+10,8.30,+1.3,Yuhao SHI,26 SEP 1998,CHN,1,Ordos (CHN),27 JUN 2016,1203,long-jump,jumps,male,u20
+10,8.30,+1.8,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Patra (GRE),18 JUN 2017,1203,long-jump,jumps,male,u20
+12,8.28,+0.8,Luis Alberto BUENO,22 MAY 1969,CUB,1,La Habana (CUB),16 JUL 1988,1199,long-jump,jumps,male,u20
+12,8.28,+1.8,Maykel MASSÓ,08 MAY 1999,CUB,1,La Habana (CUB),28 MAY 2016,1199,long-jump,jumps,male,u20
+12,8.28,+0.8,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,2,"Moratalaz, Madrid (ESP)",14 JUL 2017,1199,long-jump,jumps,male,u20
+12,8.28,+1.6,Lester LESCAY,15 OCT 2001,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",23 FEB 2020,1199,long-jump,jumps,male,u20
+16,8.27,+1.7,Eusebio CÁCERES,10 SEP 1991,ESP,1q2,"Estadio Olímpico, Barcelona (ESP)",30 JUL 2010,1197,long-jump,jumps,male,u20
+17,8.26,+0.8,Maykel MASSÓ,08 MAY 1999,CUB,5,"Olympic Stadium, London (GBR)",05 AUG 2017,1194,long-jump,jumps,male,u20
+18,8.25,+1.9,Luis Alberto BUENO,22 MAY 1969,CUB,1,La Habana (CUB),28 SEP 1986,1192,long-jump,jumps,male,u20
+18,8.25,+0.9,Jianan WANG,27 AUG 1996,CHN,3,"Shanghai Stadium, Shanghai (CHN)",17 MAY 2015,1192,long-jump,jumps,male,u20
+20,8.24,0.0,Randy WILLIAMS,23 AUG 1953,USA,1,"Olympiastadion, München (GER)",09 SEP 1972,1190,long-jump,jumps,male,u20
+20,8.24,+0.2,Eric METCALF,23 JAN 1968,USA,1,"Indianapolis, IN (USA)",06 JUN 1986,1190,long-jump,jumps,male,u20
+20,8.24,+1.8,Vladimir OCHKAN,13 JAN 1968,URS,1,Leningrad (URS),21 JUN 1987,1190,long-jump,jumps,male,u20
+20,8.24,-0.7,Mattia FURLANI,07 FEB 2005,ITA,1,"FBK Stadium, Hengelo (NED)",04 JUN 2023,1194,long-jump,jumps,male,u20
+24,8.23,-0.3,Yuhao SHI,26 SEP 1998,CHN,6,"Olympic Stadium, London (GBR)",05 AUG 2017,1189,long-jump,jumps,male,u20
+24,8.23,-0.2,Mattia FURLANI,07 FEB 2005,ITA,1,"Givat Ram Stadium, Jerusalem (ISR)",08 AUG 2023,1189,long-jump,jumps,male,u20
+26,8.22,,Larry DOUBLEY,16 MAR 1958,USA,1,"Champaign, IL (USA)",03 JUN 1977,1186,long-jump,jumps,male,u20
+26,8.22,,Viktor KUZNYETSOV,14 JUL 1986,UKR,1,Brovary (UKR) (i),22 JAN 2005,1186,long-jump,jumps,male,u20
+26,8.22,+1.6,Bozhidar SARÂBOYUKOV,06 AUG 2004,BUL,2,"Givat Ram Stadium, Jerusalem (ISR)",08 AUG 2023,1186,long-jump,jumps,male,u20
+26,8.22,,Mattia FURLANI,07 FEB 2005,ITA,2,"Glasgow Arena, Glasgow (GBR) (i)",02 MAR 2024,1186,long-jump,jumps,male,u20
+30,8.21,+2.0,Vance JOHNSON,13 MAR 1963,USA,1,"Provo, UT (USA)",04 JUN 1982,1184,long-jump,jumps,male,u20
+30,8.21,+0.2,Lester LESCAY,15 OCT 2001,CUB,1,"Estadio Panamericano, La Habana (CUB)",07 MAR 2020,1184,long-jump,jumps,male,u20
+32,8.20,+1.4,James STALLWORTH,29 APR 1971,USA,1q1,"Deveti Septemvri Stadium, Plovdiv (BUL)",09 AUG 1990,1181,long-jump,jumps,male,u20
+32,8.20,0.0,SREESHANKAR,27 MAR 1999,IND,1,Bhubaneshwar (IND),27 SEP 2018,1181,long-jump,jumps,male,u20
+34,8.19,+1.5,Luvo MANYONGA,08 JAN 1991,RSA,1,Bottrop (GER),09 JUL 2010,1179,long-jump,jumps,male,u20
+34,8.19,+2.0,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Kalamata (GRE),28 MAY 2016,1179,long-jump,jumps,male,u20
+34,8.19,+1.9,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,1,St-Martin (FRA),13 MAY 2017,1179,long-jump,jumps,male,u20
+37,8.18,,LaMonte KING,18 DEC 1959,USA,2,"Modesto, CA (USA)",20 MAY 1978,1177,long-jump,jumps,male,u20
+37,8.18,,Petr LAMPART,31 MAR 1983,CZE,1,Brno (CZE),15 SEP 2002,1177,long-jump,jumps,male,u20
+37,8.18,+1.3,Marquise GOODWIN,19 NOV 1990,USA,4f2,"Eugene, OR (USA)",27 JUN 2009,1177,long-jump,jumps,male,u20
+37,8.18,0.0,Jianan WANG,27 AUG 1996,CHN,3,"National Stadium, Beijing (CHN)",25 AUG 2015,1177,long-jump,jumps,male,u20
+37,8.18,+1.3,Yuhao SHI,26 SEP 1998,CHN,,Hong Kong (HKG),14 MAY 2017,1177,long-jump,jumps,male,u20
+42,8.17,+1.4,Vladimir OCHKAN,13 JAN 1968,URS,1,"Alexander Stadium, Birmingham (GBR)",07 AUG 1987,1175,long-jump,jumps,male,u20
+42,8.17,+0.5,Xiaoyi ZHANG,25 MAY 1989,CHN,1,Chongqing (CHN),23 APR 2006,1175,long-jump,jumps,male,u20
+42,8.17,-0.8,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,,Monterrey (MEX),16 JUN 2017,1179,long-jump,jumps,male,u20
+42,8.17,-1.0,Mattia FURLANI,07 FEB 2005,ITA,2q2,"Stadio Olimpico, Roma (ITA)",07 JUN 2024,1181,long-jump,jumps,male,u20
+42,8.17,0.0,Chengliang LI,05 APR 2006,CHN,1,Xi'an (CHN),08 JUN 2024,1175,long-jump,jumps,male,u20
+47,8.16,+1.1,Dion BENTLEY,26 AUG 1971,USA,1,"Santa Fe, NM (USA)",23 JUN 1989,1173,long-jump,jumps,male,u20
+47,8.16,0.0,James STALLWORTH,29 APR 1971,USA,1,"Fresno, CA (USA)",30 JUN 1990,1173,long-jump,jumps,male,u20
+47,8.16,0.0,Cheng WANG,04 NOV 1980,CHN,1,Chengdu (CHN),18 APR 1998,1173,long-jump,jumps,male,u20
+47,8.16,-0.8,Aleksandr MENKOV,07 DEC 1990,RUS,1,Kemerovo (RUS),06 JUN 2009,1177,long-jump,jumps,male,u20
+47,8.16,+1.7,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Kalamata (GRE),27 MAY 2017,1173,long-jump,jumps,male,u20
+52,8.15,+1.2,Leroy BURRELL,21 FEB 1967,USA,1,"Westwood, CA (USA)",19 APR 1986,1170,long-jump,jumps,male,u20
+52,8.15,-0.3,Yuhao SHI,26 SEP 1998,CHN,1q,Ordos (CHN),03 JUN 2017,1171,long-jump,jumps,male,u20
+52,8.15,+0.4,Maykel MASSÓ,08 MAY 1999,CUB,2q1,"Olympic Stadium, London (GBR)",04 AUG 2017,1170,long-jump,jumps,male,u20
+52,8.15,+1.9,Alejandro PARADA,05 JUL 2004,CUB,1,"Estadio Panamericano, La Habana (CUB)",12 MAR 2023,1170,long-jump,jumps,male,u20
+52,8.15,+0.6,Roko FARKAŠ,11 FEB 2005,CRO,1q1,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,1170,long-jump,jumps,male,u20
+57,8.14,+1.5,Sheddric FIELDS,13 APR 1973,USA,1,Cwmbran (GBR),14 JUL 1991,1168,long-jump,jumps,male,u20
+57,8.14,+0.3,Petar DACHEV,15 JUN 1979,BUL,1,"Parc des Sports, Annecy (FRA)",30 JUL 1998,1168,long-jump,jumps,male,u20
+57,8.14,0.0,Greg RUTHERFORD,17 NOV 1986,GBR,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",22 JUL 2005,1168,long-jump,jumps,male,u20
+60,8.13,,Carl LEWIS,01 JUL 1961,USA,3,San Juan (PUR),07 JUL 1979,1166,long-jump,jumps,male,u20
+60,8.13,+1.1,Robert EMMIYAN,16 FEB 1965,URS,1,Baku (AZE),14 SEP 1984,1166,long-jump,jumps,male,u20
+60,8.13,0.0,Ja'Mari WARD,21 MAR 1998,USA,1,"Columbia, SC (USA)",12 MAY 2017,1166,long-jump,jumps,male,u20
+60,8.13,+0.5,Yuhao SHI,26 SEP 1998,CHN,1,Ordos (CHN),04 JUN 2017,1166,long-jump,jumps,male,u20
+64,8.12,+0.3,David GIRALT,28 JUN 1959,CUB,1,Berlin (GER),15 JUN 1977,1164,long-jump,jumps,male,u20
+64,8.12,+0.4,James STALLWORTH,29 APR 1971,USA,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1164,long-jump,jumps,male,u20
+64,8.12,,Kareem STREETE-THOMPSON,30 MAR 1973,CAY,1,"College Station, TX (USA)",01 MAY 1992,1164,long-jump,jumps,male,u20
+64,8.12,+1.4,Ahmed Fayez AL DOSARI,03 JUL 1985,KSA,1,Qatif (KSA),27 MAR 2002,1164,long-jump,jumps,male,u20
+64,8.12,+0.6,Ignisious GAISAH,20 JUL 1983,GHA,1,Hilversum (NED),08 SEP 2002,1164,long-jump,jumps,male,u20
+64,8.12,,Viktor KUZNYETSOV,14 JUL 1986,UKR,1,Brovary (UKR) (i),20 DEC 2003,1164,long-jump,jumps,male,u20
+64,8.12,+1.1,Chris NOFFKE,06 JAN 1988,AUS,2,Nuoro (ITA),11 JUL 2007,1164,long-jump,jumps,male,u20
+64,8.12,0.0,Maykel MASSÓ,08 MAY 1999,CUB,1,La Habana (CUB),09 MAY 2015,1164,long-jump,jumps,male,u20
+64,8.12,+0.4,Jianan WANG,27 AUG 1996,CHN,1q1,"National Stadium, Beijing (CHN)",24 AUG 2015,1164,long-jump,jumps,male,u20
+64,8.12,0.0,Juan Miguel ECHEVARRÍA,11 AUG 1998,CUB,1,La Habana (CUB),27 MAY 2017,1164,long-jump,jumps,male,u20
+64,8.12,0.0,Maikel Yorges VIDAL,06 JAN 2000,CUB,1,La Habana (CUB),08 JUN 2018,1164,long-jump,jumps,male,u20
+64,8.12,+1.7,Koki FUJIHARA,31 MAY 2002,JPN,1,Okinawa (JPN),05 AUG 2019,1164,long-jump,jumps,male,u20
+64,8.12,+0.4,Erwan KONATE,18 APR 2003,FRA,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1164,long-jump,jumps,male,u20
+77,8.11,+1.3,Jerry HERNDON,12 MAR 1955,USA,3,"Modesto, CA (USA)",25 MAY 1974,1162,long-jump,jumps,male,u20
+77,8.11,,David GIRALT,28 JUN 1959,CUB,1,Praha (TCH),21 JUN 1977,1162,long-jump,jumps,male,u20
+77,8.11,,Carl LEWIS,01 JUL 1961,USA,,"Austin, TX (USA)",06 JUN 1980,1162,long-jump,jumps,male,u20
+77,8.11,-0.1,Abdulrahman AL NUBI,17 OCT 1979,QAT,2,"Parc des Sports, Annecy (FRA)",30 JUL 1998,1162,long-jump,jumps,male,u20
+77,8.11,+0.9,Andrew HOWE,12 MAY 1985,ITA,1,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1162,long-jump,jumps,male,u20
+77,8.11,+1.6,Ching-Hsuan LIN,14 MAY 1992,TPE,1,Taichung (TPE),10 MAY 2011,1162,long-jump,jumps,male,u20
+77,8.11,+1.0,Tomasz JASZCZUK,09 MAR 1992,POL,2,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1162,long-jump,jumps,male,u20
+77,8.11,-0.9,Peifeng ZHONG,03 MAR 1997,CHN,2,Ordos (CHN),27 JUN 2016,1167,long-jump,jumps,male,u20
+85,8.10,,David GIRALT,28 JUN 1959,CUB,2,Zürich (SUI),24 AUG 1977,1160,long-jump,jumps,male,u20
+85,8.10,0.0,Hitoshi SHIMO,04 APR 1972,JPN,1,Tokyo (JPN),14 JUN 1991,1160,long-jump,jumps,male,u20
+85,8.10,+0.2,Sergey MORGUNOV,09 FEB 1993,RUS,,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1160,long-jump,jumps,male,u20
+85,8.10,-0.1,Jianan WANG,27 AUG 1996,CHN,2,Beijing (CHN),24 APR 2014,1160,long-jump,jumps,male,u20
+85,8.10,+1.7,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,Katerini (GRE),09 JUL 2017,1160,long-jump,jumps,male,u20
+85,8.10,+1.3,Alejandro PARADA,05 JUL 2004,CUB,2,"Centre sportif Bout-du-Monde, Genève (SUI)",10 JUN 2023,1160,long-jump,jumps,male,u20
+91,8.09,+1.8,Antonio CORGOS,10 MAR 1960,ESP,1,Bruxelles (BEL),17 JUN 1979,1157,long-jump,jumps,male,u20
+91,8.09,0.0,Carl LEWIS,01 JUL 1961,USA,1,"Austin, TX (USA)",04 APR 1980,1157,long-jump,jumps,male,u20
+91,8.09,,Dion BENTLEY,26 AUG 1971,USA,1,"University Park, PA (USA) (i)",18 FEB 1989,1157,long-jump,jumps,male,u20
+91,8.09,+0.8,Masaki MORINAGA,27 MAR 1972,JPN,1,Hiratsuka (JPN),22 SEP 1991,1157,long-jump,jumps,male,u20
+91,8.09,+0.7,Godfrey Khotso MOKOENA,06 MAR 1985,RSA,2,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1157,long-jump,jumps,male,u20
+91,8.09,+1.3,Xiaoyi ZHANG,25 MAY 1989,CHN,2,Suzhou (CHN),09 JUN 2007,1157,long-jump,jumps,male,u20
+91,8.09,+0.4,Yongfeng WENG,18 JAN 1989,CHN,1,Suzhou (CHN),28 JUN 2008,1157,long-jump,jumps,male,u20
+91,8.09,+0.4,Sergey MORGUNOV,09 FEB 1993,RUS,1,"Estadio Olímpico, Barcelona (ESP)",11 JUL 2012,1157,long-jump,jumps,male,u20
+91,8.09,0.0,Jianan WANG,27 AUG 1996,CHN,1,Beijing (CHN),21 MAY 2014,1157,long-jump,jumps,male,u20
+91,8.09,+0.5,Jianan WANG,27 AUG 1996,CHN,2,Beijing (CHN),08 MAY 2015,1157,long-jump,jumps,male,u20
+91,8.09,0.0,Jianan WANG,27 AUG 1996,CHN,5,"National Stadium, Beijing (CHN)",20 MAY 2015,1157,long-jump,jumps,male,u20
+91,8.09,+2.0,Hibiki TSUHA,21 JAN 1998,JPN,1,Fukui (JPN),09 SEP 2017,1157,long-jump,jumps,male,u20
+91,8.09,+1.2,Yuki HASHIOKA,23 JAN 1999,JPN,1,Yamaguchi (JPN),23 JUN 2018,1157,long-jump,jumps,male,u20
+104,8.08,,Jerry HERNDON,12 MAR 1955,USA,1,"Austin, TX (USA)",07 JUN 1974,1155,long-jump,jumps,male,u20
+104,8.08,,LaMonte KING,18 DEC 1959,USA,1,"Fresno, CA (USA)",13 MAY 1978,1155,long-jump,jumps,male,u20
+104,8.08,,Carl LEWIS,01 JUL 1961,USA,1,"Naperville, IL (USA)",09 JUN 1979,1155,long-jump,jumps,male,u20
+104,8.08,,Carl LEWIS,01 JUL 1961,USA,2,San José (USA),12 APR 1980,1155,long-jump,jumps,male,u20
+104,8.08,+1.2,Sergey MORGUNOV,09 FEB 1993,RUS,1q,Cheboksary (RUS),19 JUN 2012,1155,long-jump,jumps,male,u20
+104,8.08,+1.7,Suk-hyun KIM,1995,KOR,1,Ansan (KOR),04 MAY 2013,1155,long-jump,jumps,male,u20
+104,8.08,+1.5,Jianan WANG,27 AUG 1996,CHN,1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1155,long-jump,jumps,male,u20
+104,8.08,-0.1,Lester LESCAY,15 OCT 2001,CUB,1,"Estadio Panamericano, La Habana (CUB)",14 FEB 2020,1155,long-jump,jumps,male,u20
+104,8.08,+0.4,Erwan KONATE,18 APR 2003,FRA,1,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,1155,long-jump,jumps,male,u20
+104,8.08,+1.8,Asande MTHEMBU,04 JUN 2004,RSA,1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,1155,long-jump,jumps,male,u20
+104,8.08,+1.1,Alejandro PARADA,05 JUL 2004,CUB,2,"Stadion Wankdorf, Bern (SUI)",04 AUG 2023,1155,long-jump,jumps,male,u20
+104,8.08,,Mattia FURLANI,07 FEB 2005,ITA,1,"Sätrahallen, Stockholm (SWE) (i)",03 FEB 2024,1155,long-jump,jumps,male,u20
+104,8.08,-0.1,Mattia FURLANI,07 FEB 2005,ITA,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",09 JUL 2024,1155,long-jump,jumps,male,u20
+117,8.07,+1.5,Andrew HOWE,12 MAY 1985,ITA,1,Roma (ITA),25 JUN 2004,1153,long-jump,jumps,male,u20
+117,8.07,+1.6,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,1153,long-jump,jumps,male,u20
+117,8.07,0.0,Lester LESCAY,15 OCT 2001,CUB,2,La Habana (CUB),08 JUN 2018,1153,long-jump,jumps,male,u20
+117,8.07,+0.6,Mattia FURLANI,07 FEB 2005,ITA,1q2,"Givat Ram Stadium, Jerusalem (ISR)",07 AUG 2023,1153,long-jump,jumps,male,u20
+121,8.06,+0.2,Ron BEER,29 AUG 1965,GDR,3,Berlin (GER),09 JUN 1984,1151,long-jump,jumps,male,u20
+121,8.06,,Charles SMITH,24 MAY 1966,USA,1,"Las Vegas, NV (USA)",09 JUN 1984,1151,long-jump,jumps,male,u20
+121,8.06,+2.0,Iván PEDROSO,17 DEC 1972,CUB,1,"Orlando, FL (USA)",20 JUL 1990,1151,long-jump,jumps,male,u20
+121,8.06,+0.4,Baoting HUANG,27 MAY 1974,CHN,1,Beijing (CHN),03 MAY 1993,1151,long-jump,jumps,male,u20
+121,8.06,0.0,Joan Lino MARTÍNEZ,17 JAN 1978,CUB,1,La Habana (CUB),20 JUL 1997,1151,long-jump,jumps,male,u20
+121,8.06,+0.7,Petar DACHEV,15 JUN 1979,BUL,3,"Népstadion, Budapest (HUN)",19 AUG 1998,1151,long-jump,jumps,male,u20
+121,8.06,0.0,Yuhao SHI,26 SEP 1998,CHN,5q1,"Olympic Stadium, London (GBR)",04 AUG 2017,1151,long-jump,jumps,male,u20
+121,8.06,+0.9,Johnny BRACKINS,29 JUL 2003,USA,1,"Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)",14 MAY 2022,1151,long-jump,jumps,male,u20
+121,8.06,+0.2,Alejandro PARADA,05 JUL 2004,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",07 JUL 2022,1151,long-jump,jumps,male,u20
+121,8.06,+0.8,Temoso MASIKANE,26 APR 2006,RSA,1,"Levy Mwanawasa Stadion, Ndola (ZAM)",30 APR 2023,1151,long-jump,jumps,male,u20
+121,8.06,-0.2,Chengliang LI,05 APR 2006,CHN,1,"Kuishan Sports Center, Rizhao (CHN)",28 JUN 2024,1152,long-jump,jumps,male,u20
+121,8.06,+1.0,Temoso MASIKANE,26 APR 2006,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",24 MAY 2025,1151,long-jump,jumps,male,u20
+133,8.05,,LaMonte KING,18 DEC 1959,USA,2,"Eugene, OR (USA)",02 JUN 1978,1149,long-jump,jumps,male,u20
+133,8.05,,Antonio CORGOS,10 MAR 1960,ESP,1,Bydgoszcz (POL),11 JUN 1978,1149,long-jump,jumps,male,u20
+133,8.05,,Dion BENTLEY,26 AUG 1971,USA,1,"Gainesville, FL (USA) (i)",14 JAN 1990,1149,long-jump,jumps,male,u20
+133,8.05,+1.7,Kareem STREETE-THOMPSON,30 MAR 1973,CAY,2,"Orlando, FL (USA)",20 JUL 1990,1149,long-jump,jumps,male,u20
+133,8.05,-0.6,Dion BENTLEY,26 AUG 1971,USA,2,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1152,long-jump,jumps,male,u20
+133,8.05,+0.9,Luis Felipe MÉLIZ,11 AUG 1979,CUB,2,La Habana (CUB),20 FEB 1998,1149,long-jump,jumps,male,u20
+133,8.05,+1.9,Yann DOMENECH,17 MAR 1979,FRA,1,Albi (FRA),30 MAY 1998,1149,long-jump,jumps,male,u20
+133,8.05,+1.3,Godfrey Khotso MOKOENA,06 MAR 1985,RSA,1,"Parow, Cape Town (RSA)",17 DEC 2004,1149,long-jump,jumps,male,u20
+133,8.05,0.0,Yongfeng WENG,18 JAN 1989,CHN,1,Jakarta (INA),13 JUN 2008,1149,long-jump,jumps,male,u20
+133,8.05,+1.1,Luvo MANYONGA,08 JAN 1991,RSA,1,Germiston (RSA),10 APR 2010,1149,long-jump,jumps,male,u20
+133,8.05,+1.3,Sukhasvasti Na Ayudhaya SUPANARA,11 JUN 1992,THA,2,Kobe (JPN),10 JUL 2011,1149,long-jump,jumps,male,u20
+133,8.05,+0.5,Maykel MASSÓ,08 MAY 1999,CUB,1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,1149,long-jump,jumps,male,u20
+133,8.05,+1.4,Yuki HASHIOKA,23 JAN 1999,JPN,1,Osaka (JPN),24 JUN 2017,1149,long-jump,jumps,male,u20
+133,8.05,0.0,Yuki HASHIOKA,23 JAN 1999,JPN,4,Jakarta (INA),26 AUG 2018,1149,long-jump,jumps,male,u20
+133,8.05,-0.8,Wayne PINNOCK,24 OCT 2000,JAM,1,Kingston (JAM),27 MAR 2019,1153,long-jump,jumps,male,u20
+133,8.05,+1.4,Remi MOURIE,23 APR 2008,FRA,2,"Stade Municipal, Pezenas (FRA)",14 JUN 2025,1149,long-jump,jumps,male,u20
+149,8.04,,Carl LEWIS,01 JUL 1961,USA,3,Moskva (URS),25 JUL 1979,1146,long-jump,jumps,male,u20
+149,8.04,+1.5,Juan ORTIZ,23 AUG 1964,CUB,1,La Habana (CUB),23 JUL 1983,1146,long-jump,jumps,male,u20
+149,8.04,+1.7,Joey WELLS,22 DEC 1965,BAH,2,La Habana (CUB),23 JUL 1983,1146,long-jump,jumps,male,u20
+149,8.04,+1.6,Volker MAI,03 MAY 1966,GDR,3,Dresden (GER),03 AUG 1985,1146,long-jump,jumps,male,u20
+149,8.04,+1.4,James STALLWORTH,29 APR 1971,USA,1,"Norwalk, CA (USA)",03 JUN 1989,1146,long-jump,jumps,male,u20
+149,8.04,+1.4,Andrew HOWE,12 MAY 1985,ITA,1,Rieti (ITA),12 JUN 2004,1146,long-jump,jumps,male,u20
+149,8.04,+1.4,Sukhasvasti Na Ayudhaya SUPANARA,11 JUN 1992,THA,3,Bengaluru (IND),05 JUN 2010,1146,long-jump,jumps,male,u20
+149,8.04,+1.0,Luvo MANYONGA,08 JAN 1991,RSA,4,Lappeenranta (FIN),15 JUL 2010,1146,long-jump,jumps,male,u20
+149,8.04,-0.2,Sergey MORGUNOV,09 FEB 1993,RUS,2,"Boudewijnstadion, Bruxelles (BEL)",07 SEP 2012,1147,long-jump,jumps,male,u20
+149,8.04,-0.2,Jianan WANG,27 AUG 1996,CHN,1,Kunshan (CHN),22 SEP 2012,1147,long-jump,jumps,male,u20
+149,8.04,+1.7,Travonn WHITE,03 JUN 1995,USA,1,"Eugene, OR (USA)",05 JUL 2014,1146,long-jump,jumps,male,u20
+149,8.04,+0.1,Yuki HASHIOKA,23 JAN 1999,JPN,1,Yokohama (JPN),26 MAY 2017,1146,long-jump,jumps,male,u20
+149,8.04,+1.6,Gabriel Luiz BOZA,07 MAR 2003,BRA,1,Bragança Paulista (BRA),04 SEP 2021,1146,long-jump,jumps,male,u20
+149,8.04,+1.8,Mattia FURLANI,07 FEB 2005,ITA,1f1,"Givat Ram Stadium, Jerusalem (ISR)",05 JUL 2022,1146,long-jump,jumps,male,u20
+149,8.04,+0.6,Mattia FURLANI,07 FEB 2005,ITA,1,"Stadio delle Palme, Palermo (ITA)",11 JUN 2023,1146,long-jump,jumps,male,u20
+149,8.04,0.0,Jorge A. ODELÍN,16 MAY 2007,CUB,2,"Estadio Panamericano, La Habana (CUB)",14 JUN 2025,1146,long-jump,jumps,male,u20
+165,8.03,+0.7,Sergey RODIN,28 MAY 1963,URS,4,Kiev (URS),21 AUG 1982,1144,long-jump,jumps,male,u20
+165,8.03,,Won-jin KIM,01 DEC 1968,KOR,1,Seoul (KOR),12 JUN 1987,1144,long-jump,jumps,male,u20
+165,8.03,+2.0,Cheng WANG,04 NOV 1980,CHN,q,Shanghai (CHN),22 OCT 1997,1144,long-jump,jumps,male,u20
+165,8.03,,Jonathan MOORE,31 MAY 1984,GBR,3,Loughborough (GBR),18 MAY 2002,1144,long-jump,jumps,male,u20
+165,8.03,,Xiaoyi ZHANG,25 MAY 1989,CHN,1,Shanghai (CHN) (i),16 MAR 2007,1144,long-jump,jumps,male,u20
+165,8.03,+0.4,Luvo MANYONGA,08 JAN 1991,RSA,4,Espoo (FIN),30 JUN 2010,1144,long-jump,jumps,male,u20
+165,8.03,,Reece PONTIOUS,,USA,1,"Mason, OH (USA)",18 MAY 2012,1144,long-jump,jumps,male,u20
+165,8.03,,Max HEß,13 JUL 1996,GER,1,Chemnitz (GER) (i),17 JAN 2015,1144,long-jump,jumps,male,u20
+165,8.03,+0.9,Yuki HASHIOKA,23 JAN 1999,JPN,1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,1144,long-jump,jumps,male,u20
+165,8.03,0.0,Yuki HASHIOKA,23 JAN 1999,JPN,1q,Jakarta (INA),25 AUG 2018,1144,long-jump,jumps,male,u20
+165,8.03,+1.3,Lester LESCAY,15 OCT 2001,CUB,1,Camagüey (CUB),30 JUN 2019,1144,long-jump,jumps,male,u20
+165,8.03,+0.9,Johnny BRACKINS,29 JUL 2003,USA,1,"Hayward Field, Eugene, OR (USA)",24 JUN 2022,1144,long-jump,jumps,male,u20
+165,8.03,+1.3,Heng SHU,22 MAY 2004,CHN,1,Yecheon (KOR),07 JUN 2023,1144,long-jump,jumps,male,u20
+165,8.03,-0.5,Petr MEINDLSCHMID,15 JAN 2006,CZE,7,"Stadio Olimpico, Roma (ITA)",08 JUN 2024,1147,long-jump,jumps,male,u20
+179,8.02,,Randy WILLIAMS,23 AUG 1953,USA,2,"Eugene, OR (USA)",08 JUL 1972,1142,long-jump,jumps,male,u20
+179,8.02,+0.6,Marek CHLUDZIŃSKI,25 APR 1957,POL,2,Bydgoszcz (POL),26 JUN 1976,1142,long-jump,jumps,male,u20
+179,8.02,,Robert EMMIYAN,16 FEB 1965,URS,1,Riga (LAT),14 JUL 1984,1142,long-jump,jumps,male,u20
+179,8.02,+1.8,Cheng WANG,04 NOV 1980,CHN,2,Zhuhai (CHN),20 MAR 1999,1142,long-jump,jumps,male,u20
+179,8.02,0.0,Peng CAI,28 MAR 1983,CHN,1,Xinxiang (CHN),24 MAY 1999,1142,long-jump,jumps,male,u20
+179,8.02,,Christian TAYLOR,18 JUN 1990,USA,1f1,"Fayetteville, AR (USA) (i)",13 FEB 2009,1142,long-jump,jumps,male,u20
+179,8.02,,Eusebio CÁCERES,10 SEP 1991,ESP,3,"Velódromo Luis Puig, Valencia (ESP) (i)",13 FEB 2010,1142,long-jump,jumps,male,u20
+179,8.02,0.0,Sergey MORGUNOV,09 FEB 1993,RUS,1,Rovereto (ITA),04 SEP 2012,1142,long-jump,jumps,male,u20
+179,8.02,,Xinglong GAO,12 MAR 1994,CHN,1,Nanjing (CHN) (i),06 MAR 2013,1142,long-jump,jumps,male,u20
+179,8.02,+1.0,Higor ALVES,23 FEB 1994,BRA,1,São Paulo (BRA),29 JUN 2013,1142,long-jump,jumps,male,u20
+179,8.02,,Jianan WANG,27 AUG 1996,CHN,2,Nanjing (CHN) (i),08 MAR 2014,1142,long-jump,jumps,male,u20
+179,8.02,,KeAndre BATES,24 MAY 1996,USA,3,"Fayetteville, AR (USA) (i)",13 MAR 2015,1142,long-jump,jumps,male,u20
+179,8.02,+1.6,Jakub ANDRZEJCZAK,13 JUN 1998,POL,2,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,1142,long-jump,jumps,male,u20
+192,8.01,,Frank WARTENBERG,29 MAY 1955,GDR,1,Berlin (GER) (i),23 FEB 1974,1140,long-jump,jumps,male,u20
+192,8.01,+1.2,Waldemar GOLANKO,15 JUL 1961,POL,1,Bielefeld (GER),16 JUN 1979,1140,long-jump,jumps,male,u20
+192,8.01,,Carl LEWIS,01 JUL 1961,USA,1,Stockholm (SWE),08 JUL 1980,1140,long-jump,jumps,male,u20
+192,8.01,+0.3,Robert EMMIYAN,16 FEB 1965,URS,2,Moskva (URS),22 JUN 1983,1140,long-jump,jumps,male,u20
+192,8.01,+0.8,Luis Alberto BUENO,22 MAY 1969,CUB,3,Santiago de Cuba (CUB),28 FEB 1987,1140,long-jump,jumps,male,u20
+192,8.01,+2.0,Bogdan ŢĂRUŞ,01 AUG 1975,ROU,2,"Estadio Universitario, Lisboa (POR)",21 JUL 1994,1140,long-jump,jumps,male,u20
+192,8.01,0.0,Cheng WANG,04 NOV 1980,CHN,3,Shijiazhuang (CHN),26 APR 1998,1140,long-jump,jumps,male,u20
+192,8.01,,Marcin STARZAK,20 OCT 1985,POL,1,Brzeszcze (POL) (i),10 JAN 2004,1140,long-jump,jumps,male,u20
+192,8.01,+1.0,Andrew HOWE,12 MAY 1985,ITA,1,Rieti (ITA),22 MAY 2004,1140,long-jump,jumps,male,u20
+192,8.01,-0.4,Sergey MORGUNOV,09 FEB 1993,RUS,1q2,"Estadio Olímpico, Barcelona (ESP)",10 JUL 2012,1142,long-jump,jumps,male,u20
+192,8.01,+0.5,Darcy ROPER,31 MAR 1998,AUS,2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,1140,long-jump,jumps,male,u20
+192,8.01,,Peifeng ZHONG,03 MAR 1997,CHN,4,Nanjing (CHN) (i),03 MAR 2016,1140,long-jump,jumps,male,u20
+192,8.01,+0.2,Yuhao SHI,26 SEP 1998,CHN,2,Taiyuan (CHN),09 MAY 2017,1140,long-jump,jumps,male,u20
+192,8.01,0.0,Maikel Yorges VIDAL,06 JAN 2000,CUB,1,Camagüey (CUB),27 JUN 2018,1140,long-jump,jumps,male,u20
+192,8.01,+1.8,Matthew BOLING,20 JUN 2000,USA,1,"Austin, TX (USA)",29 MAR 2019,1140,long-jump,jumps,male,u20
+192,8.01,+1.4,Alejandro PARADA,05 JUL 2004,CUB,2,Santiago de Chile (CHI),31 OCT 2023,1140,long-jump,jumps,male,u20
+192,8.01,-2.8,Petr MEINDLSCHMID,15 JAN 2006,CZE,5q2,"Stadio Olimpico, Roma (ITA)",07 JUN 2024,1156,long-jump,jumps,male,u20
+192,8.01,+0.1,Mattia FURLANI,07 FEB 2005,ITA,2q1,"Stade de France, Paris (FRA)",04 AUG 2024,1140,long-jump,jumps,male,u20
+210,8.00,,David GIRALT,28 JUN 1959,CUB,1,Warszawa (POL),28 MAY 1977,1138,long-jump,jumps,male,u20
+210,8.00,,Jesús OLIVÁN,05 JUL 1968,ESP,2,Madrid (ESP) (i),01 FEB 1986,1138,long-jump,jumps,male,u20
+210,8.00,+1.9,Sergey NOVOZHILOV,21 APR 1969,URS,1,Bryansk (URS),07 JUL 1988,1138,long-jump,jumps,male,u20
+210,8.00,+0.8,Daniel JAHIĆ,01 JUL 1979,YUG,1,Istanbul (TUR),12 JUL 1998,1138,long-jump,jumps,male,u20
+210,8.00,+0.1,Petar DACHEV,15 JUN 1979,BUL,1,Rhodes (GRE),09 SEP 1998,1138,long-jump,jumps,male,u20
+210,8.00,+1.4,Deandre FREE,15 JAN 1981,USA,1,"Kansas City, MO (USA)",29 APR 2000,1138,long-jump,jumps,male,u20
+210,8.00,+1.6,Allen SIMMS,26 JUL 1982,USA,1,"Richmond, VA (USA)",20 APR 2001,1138,long-jump,jumps,male,u20
+210,8.00,+0.3,Robert CROWTHER,02 AUG 1987,AUS,1,"Chaoyang Sport Center, Beijing (CHN)",16 AUG 2006,1138,long-jump,jumps,male,u20
+210,8.00,-0.4,Eusebio CÁCERES,10 SEP 1991,ESP,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",20 JUN 2009,1140,long-jump,jumps,male,u20
+210,8.00,+1.4,Mpho MAPHUTHA,21 JAN 1993,RSA,1,Germiston (RSA),03 APR 2011,1138,long-jump,jumps,male,u20
+210,8.00,-1.8,Maykel MASSÓ,08 MAY 1999,CUB,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,1148,long-jump,jumps,male,u20
+210,8.00,+1.0,Maykel MASSÓ,08 MAY 1999,CUB,3,Padova (ITA),16 JUL 2017,1138,long-jump,jumps,male,u20
+210,8.00,,Heng SHU,22 MAY 2004,CHN,4,"Tuanbo Sports Center, Tianjin (CHN) (i)",15 MAR 2023,1138,long-jump,jumps,male,u20
+210,8.00,+1.7,Mattia FURLANI,07 FEB 2005,ITA,,"Centro Sportivo Fontanassa, Savona (ITA)",24 MAY 2023,1138,long-jump,jumps,male,u20
+210,8.00,+0.2,Heng SHU,22 MAY 2004,CHN,1q1,"Shuangliu Sports Centre, Chengdu (CHN)",05 AUG 2023,1138,long-jump,jumps,male,u20
+210,8.00,+1.2,Chengliang LI,05 APR 2006,CHN,1,"Shanxi Athletics Administrative Center, Xi'an (CHN)",27 APR 2024,1138,long-jump,jumps,male,u20
+210,8.00,+0.9,Petr MEINDLSCHMID,15 JAN 2006,CZE,3,"Municipal Theatre Of Piraeus, Piraeus (GRE)",23 JUN 2024,1138,long-jump,jumps,male,u20
+210,8.00,+1.7,Maidis GORRILLOT,2009,FRA,3,"Stade Municipal, Pezenas (FRA)",14 JUN 2025,1138,long-jump,jumps,male,u20

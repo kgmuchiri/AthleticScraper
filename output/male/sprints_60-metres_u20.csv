@@ -1,15 +1,15 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,6.51,,Mark LEWIS-FRANCIS,04 SEP 1982,GBR,3,"Atlantic Pavillion, Lisboa (POR) (i)",11 MAR 2001,1204,60-metres,sprints,male,u20
-1,6.51,,Okon Israel SUNDAY,11 NOV 2006,NGR,1h5,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",28 FEB 2025,1204,60-metres,sprints,male,u20
+1,6.51,,Israel OKON,11 NOV 2006,NGR,1h5,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",28 FEB 2025,1204,60-metres,sprints,male,u20
 3,6.52,,D'Angelo CHERRY,01 AUG 1990,USA,2,"Boston, MA (USA) (i)",01 MAR 2009,1198,60-metres,sprints,male,u20
-3,6.52,,Okon Israel SUNDAY,11 NOV 2006,NGR,1sf2,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",14 FEB 2025,1198,60-metres,sprints,male,u20
-3,6.52,,Okon Israel SUNDAY,11 NOV 2006,NGR,3,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",15 MAR 2025,1198,60-metres,sprints,male,u20
+3,6.52,,Israel OKON,11 NOV 2006,NGR,1sf2,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",14 FEB 2025,1198,60-metres,sprints,male,u20
+3,6.52,,Israel OKON,11 NOV 2006,NGR,3,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",15 MAR 2025,1198,60-metres,sprints,male,u20
 6,6.53,,Sven MATTHES,23 AUG 1969,GDR,1er,Wien (AUT) (i),13 FEB 1988,1192,60-metres,sprints,male,u20
 7,6.54,,Jordan ANTHONY,29 JUN 2004,USA,2h2,"Convention Center, Albuquerque, NM (USA) (i)",10 MAR 2023,1187,60-metres,sprints,male,u20
 7,6.54,,Ajani DWYER,18 MAY 2006,USA,1h1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",23 FEB 2025,1187,60-metres,sprints,male,u20
-7,6.54,,Okon Israel SUNDAY,11 NOV 2006,NGR,1h1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",14 MAR 2025,1187,60-metres,sprints,male,u20
+7,6.54,,Israel OKON,11 NOV 2006,NGR,1h1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",14 MAR 2025,1187,60-metres,sprints,male,u20
 10,6.55,,Jordan ANTHONY,29 JUN 2004,USA,2,"Convention Center, Albuquerque, NM (USA) (i)",11 MAR 2023,1181,60-metres,sprints,male,u20
-10,6.55,,Okon Israel SUNDAY,11 NOV 2006,NGR,2,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",01 MAR 2025,1181,60-metres,sprints,male,u20
+10,6.55,,Israel OKON,11 NOV 2006,NGR,2,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",01 MAR 2025,1181,60-metres,sprints,male,u20
 12,6.56,,Leonard SCOTT,19 JAN 1980,USA,1,"Johnson City, TN (USA) (i)",30 JAN 1999,1175,60-metres,sprints,male,u20
 12,6.56,,Mark LEWIS-FRANCIS,04 SEP 1982,GBR,2sf1,"Atlantic Pavillion, Lisboa (POR) (i)",11 MAR 2001,1175,60-metres,sprints,male,u20
 14,6.57,,Casey COMBEST,15 SEP 1980,USA,1,"Columbus, OH (USA) (i)",14 MAR 1999,1170,60-metres,sprints,male,u20
@@ -63,7 +63,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 53,6.61,,Jonte BAKER,,USA,2,"Robert W. Plaster Center, Pittsburg, KS (USA) (i)",10 MAR 2018,1147,60-metres,sprints,male,u20
 53,6.61,,Nyckoles HARBOR,05 JUL 2005,USA,2sf3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",09 FEB 2024,1147,60-metres,sprints,male,u20
 53,6.61,,Marek ZAKRZEWSKI,18 DEC 2005,POL,1f1,"KGHM Sleza Arena, Wrocław (POL) (i)",10 FEB 2024,1147,60-metres,sprints,male,u20
-53,6.61,,Okon Israel SUNDAY,11 NOV 2006,NGR,1sf1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",24 JAN 2025,1147,60-metres,sprints,male,u20
+53,6.61,,Israel OKON,11 NOV 2006,NGR,1sf1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",24 JAN 2025,1147,60-metres,sprints,male,u20
 53,6.61,,Ajani DWYER,18 MAY 2006,USA,6,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",23 FEB 2025,1147,60-metres,sprints,male,u20
 53,6.61,,Kyler BROWN,,USA,1,"The Track at New Balance, Boston, MA (USA) (i)",16 MAR 2025,1147,60-metres,sprints,male,u20
 68,6.62,,Deworski ODOM,11 APR 1977,USA,1,"Syracuse, NY (USA) (i)",12 MAR 1995,1141,60-metres,sprints,male,u20
@@ -91,7 +91,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 68,6.62,,Naoki NISHIOKA,19 JUL 2006,JPN,1h3,"Osaka Castle Hall, Osaka (JPN) (i)",02 FEB 2025,1141,60-metres,sprints,male,u20
 68,6.62,,Joshua CALEB,14 JUL 2006,NGR,1,"The Podium, Spokane, WA (USA) (i)",08 FEB 2025,1141,60-metres,sprints,male,u20
 68,6.62,,Joshua CALEB,14 JUL 2006,NGR,2h7,"The Podium, Spokane, WA (USA) (i)",08 FEB 2025,1141,60-metres,sprints,male,u20
-68,6.62,,Okon Israel SUNDAY,11 NOV 2006,NGR,1h8,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",14 FEB 2025,1141,60-metres,sprints,male,u20
+68,6.62,,Israel OKON,11 NOV 2006,NGR,1h8,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",14 FEB 2025,1141,60-metres,sprints,male,u20
 68,6.62,,Brayden WILLIAMS,02 APR 2007,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",16 MAR 2025,1141,60-metres,sprints,male,u20
 68,6.62,,Brayden WILLIAMS,02 APR 2007,USA,1sf1,"Armory Track&Field Center, New York, NY (USA) (i)",16 MAR 2025,1141,60-metres,sprints,male,u20
 68,6.62,,Cole CRAMER,,USA,2,"The Track at New Balance, Boston, MA (USA) (i)",16 MAR 2025,1141,60-metres,sprints,male,u20
@@ -120,7 +120,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 98,6.63,+1.6,Jason LEWIS,07 OCT 2005,JAM,1f1,"National Stadium, Kingston (JAM)",27 JAN 2024,1136,60-metres,sprints,male,u20
 98,6.63,,Youchao HUANG,23 FEB 2005,CHN,1,"Tuanbo Sports Center, Tianjin (CHN) (i)",29 MAR 2024,1136,60-metres,sprints,male,u20
 98,6.63,,Keli ZENG,28 SEP 2006,CHN,2,"Tuanbo Sports Center, Tianjin (CHN) (i)",29 MAR 2024,1136,60-metres,sprints,male,u20
-98,6.63,,Okon Israel SUNDAY,11 NOV 2006,NGR,3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",24 JAN 2025,1136,60-metres,sprints,male,u20
+98,6.63,,Israel OKON,11 NOV 2006,NGR,3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",24 JAN 2025,1136,60-metres,sprints,male,u20
 98,6.63,,Joshua CALEB,14 JUL 2006,NGR,1h3,"Sparks Convention Center Halls, Reno, NV (USA) (i)",25 JAN 2025,1136,60-metres,sprints,male,u20
 98,6.63,,Ajani DWYER,18 MAY 2006,USA,1h4,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",14 FEB 2025,1136,60-metres,sprints,male,u20
 125,6.64,,Leonard SCOTT,19 JAN 1980,USA,1,"Bloomington, IN (USA) (i)",23 JAN 1999,1130,60-metres,sprints,male,u20
@@ -202,7 +202,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 160,6.65,-2.1,Javorne DUNKLEY,13 APR 2005,JAM,1f2,"National Stadium, Kingston (JAM)",10 FEB 2024,1137,60-metres,sprints,male,u20
 160,6.65,,Antwan Jr. HUGHES,2006,USA,1sf1,"Reggie Lewis Center, Boston, MA (USA) (i)",09 MAR 2024,1125,60-metres,sprints,male,u20
 160,6.65,,Caine STANLEY,,USA,1sf3,"Reggie Lewis Center, Boston, MA (USA) (i)",09 MAR 2024,1125,60-metres,sprints,male,u20
-160,6.65,,Okon Israel SUNDAY,11 NOV 2006,NGR,1h4,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",24 JAN 2025,1125,60-metres,sprints,male,u20
+160,6.65,,Israel OKON,11 NOV 2006,NGR,1h4,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",24 JAN 2025,1125,60-metres,sprints,male,u20
 160,6.65,,Ajani DWYER,18 MAY 2006,USA,1h3,"Fall Creek Pavilion, Indianapolis, IN (USA) (i)",28 FEB 2025,1125,60-metres,sprints,male,u20
 160,6.65,,Jorge HERNÁNDEZ,15 FEB 2006,ESP,1,"Pista Cubierta Carlos Gil Perez, Salamanca (ESP) (i)",09 MAR 2025,1125,60-metres,sprints,male,u20
 160,6.65,,Ryan DIERENFIELD,,USA,3,"The Track at New Balance, Boston, MA (USA) (i)",16 MAR 2025,1125,60-metres,sprints,male,u20
